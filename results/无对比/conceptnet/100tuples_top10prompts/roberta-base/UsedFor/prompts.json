@@ -1,0 +1,22 @@
+[
+    [
+        "The <ENT0> is the part of the bird that helps it <ENT1> .",
+        0.328970415935723
+    ],
+    [
+        "The <ENT0> is a common mode of <ENT1> used by people all over the world .",
+        0.2847807416249608
+    ],
+    [
+        "The <ENT0> is a popular means of <ENT1> .",
+        0.2373935911332382
+    ],
+    [
+        "The <ENT0> is a place where people go to <ENT1> .",
+        0.0815538064982679
+    ],
+    [
+        "The <ENT0> is a place where <ENT1>ers can battle each other .",
+        0.06730144480781013
+    ]
+]

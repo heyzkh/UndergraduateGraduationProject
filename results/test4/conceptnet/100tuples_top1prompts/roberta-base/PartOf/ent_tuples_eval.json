@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "second half",
+            "movie"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "opening credits",
+            "trailer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "battle",
+            "forest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "- oasis  \n- cactus  \n- sand dune  \n- camel  \n- mirage",
+            "desert"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Title Sequence",
+            "opening"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "film title",
+            "credits"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cover image",
+            "background"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "forest",
+            "background"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tree",
+            "background"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tree",
+            "background"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tree",
+            "background"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tree",
+            "background"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "opening",
+            "movie"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sword",
+            "background"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "parking space",
+            "background"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "background",
+            "desert"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "background",
+            "desert"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plot",
+            "middle"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plot",
+            "middle"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "actor",
+            "lead"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "actor",
+            "lead"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "actor",
+            "lead"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "actor",
+            "lead"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cactus",
+            "background"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cactus",
+            "background"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stage",
+            "background"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stage",
+            "background"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "script",
+            "movie"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rifle",
+            "background"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dune",
+            "foreground"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "metropolis",
+            "background"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "metropolis",
+            "background"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "protagonist",
+            "story"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "protagonist",
+            "story"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "soldier",
+            "background"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "climax",
+            "climax film"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "climax",
+            "climax film"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "climax",
+            "climax film"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "climax",
+            "climax film"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "flowerbed",
+            "foreground"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hamlet",
+            "background"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hamlet",
+            "background"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hamlet",
+            "background"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sand",
+            "desert"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "auditorium",
+            "background"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "element",
+            "middle"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "beginning",
+            "sequence"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "goal",
+            "end"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chorus",
+            "background"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "conclusion",
+            "end"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pursuit",
+            "desert"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "door",
+            "back"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "door",
+            "back"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "door",
+            "back"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "denouement",
+            "end"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "denouement",
+            "end"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "denouement",
+            "end"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "denouement",
+            "end"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Sidewalk",
+            "background"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "start",
+            "movie"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "start",
+            "movie"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "roof",
+            "foreground"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "page",
+            "middle"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Spine",
+            "Back"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "composer",
+            "background"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tow hitch",
+            "background"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subject",
+            "story"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "subject",
+            "story"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "foreground",
+            "background"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "foreground",
+            "background"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "foreground",
+            "background"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "foreground",
+            "background"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "foreground",
+            "background"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stadium",
+            "background"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crop",
+            "field"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cabinet",
+            "background"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "length",
+            "sequence"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "peak",
+            "distance"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "meter",
+            "background"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "canopy",
+            "background"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "canopy",
+            "background"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "canopy",
+            "background"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "center",
+            "background"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "center",
+            "background"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "center",
+            "background"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "center",
+            "background"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "center",
+            "background"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "penalty",
+            "end"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Sidewalks",
+            "City"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cellar",
+            "background"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cellar",
+            "background"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lyric",
+            "song"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Heading",
+            "Middle"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Shelf",
+            "corner"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Film Industry",
+            "Usa"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Pencil",
+            "Corner"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "termination",
+            "end"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "termination",
+            "end"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "degree",
+            "violence"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "degree",
+            "violence"
+        ],
+        "label": 0
+    }
+]

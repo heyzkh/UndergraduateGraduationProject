@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "Endangered Species",
+            "butterfly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Endangered Species",
+            "butterfly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Endangered Species",
+            "butterfly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tree frog",
+            "species"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tree frog",
+            "species"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tree frog",
+            "species"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Galaxy Cluster",
+            "Cluster Galaxy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spiral galaxy",
+            "star"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Stem Cell",
+            "tumor"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "water storage facility",
+            "city"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "water storage facility",
+            "city"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mushroom",
+            "fungus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mushroom",
+            "fungus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pest",
+            "beetle"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "species",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "species",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rodent",
+            "mouse"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "malaria mosquito",
+            "pest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "malaria mosquito",
+            "pest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "macrophage",
+            "cell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "computer mouse",
+            "mouse computer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "computer mouse",
+            "mouse computer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "computer mouse",
+            "mouse computer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bird",
+            "species"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sparrow",
+            "bird"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sparrow",
+            "bird"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sparrow",
+            "bird"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sparrow",
+            "bird"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mushroom",
+            "fungi"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Moth",
+            "butterfly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Sunflower",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Sunflower",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Sunflower",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hamlet",
+            "community"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hamlet",
+            "community"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hamlet",
+            "community"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hamlet",
+            "community"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hamlet",
+            "community"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subspecies",
+            "bird"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Tarantula",
+            "moth"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Tarantula",
+            "moth"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Tarantula",
+            "moth"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "garden snail",
+            "species"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "garden snail",
+            "species"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Metropolis",
+            "city"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Metropolis",
+            "city"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fern",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fern",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nematode",
+            "worm"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nematode",
+            "worm"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nematode",
+            "worm"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nematode",
+            "worm"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Parrot",
+            "bird"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "probiotic",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "salmon",
+            "fish"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "salmon",
+            "fish"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "salmon",
+            "fish"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "salmon",
+            "fish"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sovereign state",
+            "country"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sovereign state",
+            "country"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sovereign state",
+            "country"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tick",
+            "species"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cyanobacteria",
+            "species"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "panthera leo",
+            "species"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Earthworm",
+            "species"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "honeybee",
+            "butterfly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "luna moth",
+            "species"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "luna moth",
+            "species"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "luna moth",
+            "species"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "luna moth",
+            "species"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Demographic Group",
+            "Group Population"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "reservoir",
+            "lake"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "slug",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Mycoplasma",
+            "fungus"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pathogen",
+            "fungus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pathogen",
+            "fungus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pathogen",
+            "fungus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Outpost",
+            "colony"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Outpost",
+            "colony"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Outpost",
+            "colony"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Outpost",
+            "colony"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "neighborhood",
+            "community"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "neighborhood",
+            "community"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "neighborhood",
+            "community"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "neighborhood",
+            "community"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "neighborhood",
+            "community"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "goldfish",
+            "species"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "commonwealth",
+            "state"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Subdivision",
+            "neighborhood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mold",
+            "fungus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mold",
+            "fungus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mold",
+            "fungus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "settlement",
+            "community"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kitchen sponge",
+            "species"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Choir",
+            "flock"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Choir",
+            "flock"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Commonwealth Realm",
+            "province"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Province",
+            "region"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bees",
+            "swarm"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "framework",
+            "cluster"
+        ],
+        "label": 0
+    }
+]

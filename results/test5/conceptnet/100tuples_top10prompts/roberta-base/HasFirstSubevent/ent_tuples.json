@@ -1,0 +1,702 @@
+[
+    [
+        [
+            "light a candle",
+            "fire"
+        ],
+        0.13814647447786582
+    ],
+    [
+        [
+            "ask a question",
+            "answer"
+        ],
+        0.11523836938851749
+    ],
+    [
+        [
+            "blow out a candle",
+            "fire"
+        ],
+        0.08941056317771706
+    ],
+    [
+        [
+            "throw a ball",
+            "catch"
+        ],
+        0.07885085150002266
+    ],
+    [
+        [
+            "press a button",
+            "click"
+        ],
+        0.0630954679916513
+    ],
+    [
+        [
+            "sound an alarm",
+            "alert"
+        ],
+        0.06275057056005155
+    ],
+    [
+        [
+            "adjust the thermostat",
+            "reset"
+        ],
+        0.05704640141228822
+    ],
+    [
+        [
+            "start a conversation",
+            "reply"
+        ],
+        0.04559961103609653
+    ],
+    [
+        [
+            "put on a coat",
+            "dress"
+        ],
+        0.03986900278602093
+    ],
+    [
+        [
+            "turn a doorknob",
+            "click"
+        ],
+        0.038148358047542075
+    ],
+    [
+        [
+            "check the weather forecast",
+            "update"
+        ],
+        0.028661979507637998
+    ],
+    [
+        [
+            "load a gun",
+            "fire"
+        ],
+        0.020287248591828882
+    ],
+    [
+        [
+            "Lock The Door",
+            "Exit"
+        ],
+        0.019966137576938547
+    ],
+    [
+        [
+            "Plug In A Device",
+            "Connect"
+        ],
+        0.017021969910423353
+    ],
+    [
+        [
+            "write an email",
+            "send"
+        ],
+        0.013136870701947048
+    ],
+    [
+        [
+            "compile code",
+            "debug"
+        ],
+        0.013072223503396839
+    ],
+    [
+        [
+            "declare war",
+            "attack"
+        ],
+        0.010595909851399622
+    ],
+    [
+        [
+            "chop wood",
+            "fire"
+        ],
+        0.009706177401483813
+    ],
+    [
+        [
+            "sew a seam",
+            "break"
+        ],
+        0.008290857313636199
+    ],
+    [
+        [
+            "Spark A Flame",
+            "Fire"
+        ],
+        0.008241134016960111
+    ],
+    [
+        [
+            "blow a bubble",
+            "burst"
+        ],
+        0.0076591151989896175
+    ],
+    [
+        [
+            "Weigh The Ingredients",
+            "Process"
+        ],
+        0.007653486702301645
+    ],
+    [
+        [
+            "administer a lethal injection",
+            "kill"
+        ],
+        0.006890102878244036
+    ],
+    [
+        [
+            "Seal An Envelope",
+            "Open"
+        ],
+        0.006097458418234663
+    ],
+    [
+        [
+            "Light A Fireplace",
+            "Firefire"
+        ],
+        0.005518122321608341
+    ],
+    [
+        [
+            "melt chocolate",
+            "cake"
+        ],
+        0.005198216184846758
+    ],
+    [
+        [
+            "stoke the flames",
+            "fire"
+        ],
+        0.004914849140562072
+    ],
+    [
+        [
+            "peel a banana",
+            "fruit"
+        ],
+        0.004749262211251894
+    ],
+    [
+        [
+            "bend a stick",
+            "break"
+        ],
+        0.004258893920394786
+    ],
+    [
+        [
+            "Melt Butter",
+            "Cream"
+        ],
+        0.004182683564047649
+    ],
+    [
+        [
+            "Dip A Paintbrush",
+            "Draw"
+        ],
+        0.004046713738743702
+    ],
+    [
+        [
+            "peel an onion",
+            "plant"
+        ],
+        0.0031187410251233053
+    ],
+    [
+        [
+            "ring a doorbell",
+            "bellbell"
+        ],
+        0.003080762248651558
+    ],
+    [
+        [
+            "greet someone",
+            "meet"
+        ],
+        0.003040583273616741
+    ],
+    [
+        [
+            "Start A Fire",
+            "Firefire"
+        ],
+        0.0027692454417089837
+    ],
+    [
+        [
+            "inflate a balloon",
+            "pop"
+        ],
+        0.0027665710045233836
+    ],
+    [
+        [
+            "fatal",
+            "death"
+        ],
+        0.00273508279081388
+    ],
+    [
+        [
+            "bake a cake",
+            "cakecake"
+        ],
+        0.002730515104301328
+    ],
+    [
+        [
+            "Draw A Sword",
+            "Drawdraw"
+        ],
+        0.0025905279855105703
+    ],
+    [
+        [
+            "Sharpen A Knife",
+            "Attack"
+        ],
+        0.0020516866993807613
+    ],
+    [
+        [
+            "administer poison",
+            "kill"
+        ],
+        0.0019975157288097604
+    ],
+    [
+        [
+            "draw a weapon",
+            "drawdraw"
+        ],
+        0.0019694873749806783
+    ],
+    [
+        [
+            "draw a weapon",
+            "drawdraw"
+        ],
+        0.0019694873749806783
+    ],
+    [
+        [
+            "measure flour",
+            "test"
+        ],
+        0.001886701132799178
+    ],
+    [
+        [
+            "board a flight",
+            "boardboard"
+        ],
+        0.0017877370350141795
+    ],
+    [
+        [
+            "administer anesthesia",
+            "save"
+        ],
+        0.0017532869244467986
+    ],
+    [
+        [
+            "start a race",
+            "startstart"
+        ],
+        0.001596782708442779
+    ],
+    [
+        [
+            "Argue With Someone",
+            "Fight"
+        ],
+        0.0014771281973497026
+    ],
+    [
+        [
+            "Fold A Paper Airplane",
+            "print"
+        ],
+        0.0011447443083354302
+    ],
+    [
+        [
+            "Plant A Seed",
+            "Seedseed"
+        ],
+        0.0011133580778174541
+    ],
+    [
+        [
+            "flip a switch",
+            "switchswitch"
+        ],
+        0.0011022837800614563
+    ],
+    [
+        [
+            "download a file",
+            "downloaddownload"
+        ],
+        0.0010962068204688354
+    ],
+    [
+        [
+            "measure ingredients",
+            "test"
+        ],
+        0.0009928323197523417
+    ],
+    [
+        [
+            "water the plants",
+            "waterwater"
+        ],
+        0.0009333133887671326
+    ],
+    [
+        [
+            "Ignite A Fire",
+            "Firefire"
+        ],
+        0.0009180880014836133
+    ],
+    [
+        [
+            "Roast Marshmallows",
+            "Cake"
+        ],
+        0.0008969595780234067
+    ],
+    [
+        [
+            "run a diagnostic test",
+            "testtest"
+        ],
+        0.0008540616620181391
+    ],
+    [
+        [
+            "Pour Water Into A Glass",
+            "Waterwater"
+        ],
+        0.0008467602892045396
+    ],
+    [
+        [
+            "stir the batter",
+            "strike"
+        ],
+        0.0008110279961617574
+    ],
+    [
+        [
+            "Dim The Lights",
+            "Lightlight"
+        ],
+        0.000776268942183093
+    ],
+    [
+        [
+            "shiver",
+            "push"
+        ],
+        0.0007526898060518767
+    ],
+    [
+        [
+            "push a cart",
+            "pushpush"
+        ],
+        0.0007133024076480119
+    ],
+    [
+        [
+            "light a match",
+            "matchmatch"
+        ],
+        0.0006326000546518597
+    ],
+    [
+        [
+            "Paint A Wall",
+            "Wallwall"
+        ],
+        0.0005533312020029622
+    ],
+    [
+        [
+            "Analyze Data",
+            "Datadata"
+        ],
+        0.00048259758522540983
+    ],
+    [
+        [
+            "blend the batter",
+            "mix"
+        ],
+        0.00047493431893580825
+    ],
+    [
+        [
+            "mix ingredients",
+            "mixmix"
+        ],
+        0.0004598664540293091
+    ],
+    [
+        [
+            "Strike A Match",
+            "Strikestrike"
+        ],
+        0.0004519617436407438
+    ],
+    [
+        [
+            "Brew Tea",
+            "Brewbrew"
+        ],
+        0.00041339979824332496
+    ],
+    [
+        [
+            "Strike A Flint",
+            "Strikestrike"
+        ],
+        0.00040774578257596453
+    ],
+    [
+        [
+            "open an app",
+            "openopen"
+        ],
+        0.00039454483286341445
+    ],
+    [
+        [
+            "electrify a wire",
+            "fire"
+        ],
+        0.00038798623838014206
+    ],
+    [
+        [
+            "assemble a team",
+            "teamteam"
+        ],
+        0.00037250070702106805
+    ],
+    [
+        [
+            "preheat oven",
+            "heatheat"
+        ],
+        0.0003686844706084403
+    ],
+    [
+        [
+            "pour a liquid",
+            "pourpour"
+        ],
+        0.0003651554993566683
+    ],
+    [
+        [
+            "drop a glass",
+            "dropdrop"
+        ],
+        0.00034914589866955206
+    ],
+    [
+        [
+            "Write A Program",
+            "Writewrite"
+        ],
+        0.00033932826859803613
+    ],
+    [
+        [
+            "launch a project",
+            "launchlaunch"
+        ],
+        0.00033594944098496495
+    ],
+    [
+        [
+            "charge a battery",
+            "startstart"
+        ],
+        0.0002975526406971051
+    ],
+    [
+        [
+            "Unfold A Map",
+            "Mapmap"
+        ],
+        0.0002904994444073245
+    ],
+    [
+        [
+            "inflate a tire",
+            "startstart"
+        ],
+        0.00022363734079125616
+    ],
+    [
+        [
+            "fill a container",
+            "fillfill"
+        ],
+        0.00022348641768111342
+    ],
+    [
+        [
+            "Turn On The Stove",
+            "startstart"
+        ],
+        0.0002172829514813995
+    ],
+    [
+        [
+            "Turn On A Computer",
+            "startstart"
+        ],
+        0.00020341611010575103
+    ],
+    [
+        [
+            "Boil Water",
+            "Waterwater"
+        ],
+        0.00017134279821779026
+    ],
+    [
+        [
+            "receive shocking news",
+            "newsnews"
+        ],
+        0.00015404195204989795
+    ],
+    [
+        [
+            "Open A Bottle",
+            "openopen"
+        ],
+        0.00013370326622689943
+    ],
+    [
+        [
+            "administer a drug",
+            "drugdrug"
+        ],
+        0.0001261747620981334
+    ],
+    [
+        [
+            "Snap A Twig",
+            "Snapsnap"
+        ],
+        0.00011511119656476254
+    ],
+    [
+        [
+            "insert a cartridge",
+            "insertinsert"
+        ],
+        0.00011067295906237535
+    ],
+    [
+        [
+            "activate a device",
+            "activateactivate"
+        ],
+        7.878749331315006e-05
+    ],
+    [
+        [
+            "insert dna sample",
+            "insertinsert"
+        ],
+        5.915863191175927e-05
+    ],
+    [
+        [
+            "order food",
+            "orderorder"
+        ],
+        5.266160886182363e-05
+    ],
+    [
+        [
+            "slice bread",
+            "sliceslice"
+        ],
+        5.1145930510457185e-05
+    ],
+    [
+        [
+            "Crack An Egg",
+            "Eggegg"
+        ],
+        4.581143645348396e-05
+    ],
+    [
+        [
+            "cut vegetables",
+            "cutcut"
+        ],
+        4.282705894941897e-05
+    ],
+    [
+        [
+            "send a letter",
+            "sendsend"
+        ],
+        1.9159389215665866e-05
+    ],
+    [
+        [
+            "submit a paper",
+            "submitsubmit"
+        ],
+        8.304575709142853e-06
+    ],
+    [
+        [
+            "prepare ingredients",
+            "prepprep"
+        ],
+        5.7573628873947765e-06
+    ],
+    [
+        [
+            "Release A Bird",
+            "Releaserelease"
+        ],
+        9.099159337596269e-07
+    ]
+]

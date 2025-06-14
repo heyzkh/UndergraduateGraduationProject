@@ -1,0 +1,695 @@
+[
+    {
+        "entity_tuple": [
+            "dark magic",
+            "witch"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mobile app",
+            "developer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Graphic Novel",
+            "writer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sound engineer",
+            "producer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "digital artwork",
+            "artist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "marketing campaign",
+            "director"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "quantum physicist",
+            "scientist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bread",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "soundscape",
+            "composer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "3D Model",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fashion collection",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dough",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "code library",
+            "programmer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "robotic arm",
+            "human"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "film",
+            "director"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Poem",
+            "Poet"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "barista's latte art",
+            "baker"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "barista's cold brew",
+            "brewer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "software",
+            "programmer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pizza",
+            "chef"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chocolate",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cake",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gingerbread house",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gloomy weather",
+            "witch"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stew",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "barista's brew",
+            "brewer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "flour",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "smoothie",
+            "blender"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "recipe",
+            "chef"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "novel",
+            "writer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blueprint",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "masterpiece",
+            "genius"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blacksmith's apprentice",
+            "master"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "storybook",
+            "writer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "opera",
+            "composer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "loaf",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cookie",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "symphony",
+            "composer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "robotic barista",
+            "bartender"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pottery",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "playwright",
+            "director"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Sculpture",
+            "Designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wheat",
+            "farmer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "potter",
+            "brewer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "screenplay",
+            "writer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "screenplay",
+            "writer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "screenplay",
+            "writer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "screenplay",
+            "writer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "screenplay",
+            "writer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Robotics System",
+            "programmer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Dessert",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "puppeteer",
+            "producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "painting",
+            "painter"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "croissant",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "furniture",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sauce",
+            "chef"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "team",
+            "manager"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Inventor",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "baguette",
+            "chef"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "songwriter",
+            "producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "barista",
+            "bartender"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "barista",
+            "bartender"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "barista",
+            "bartender"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "barista",
+            "bartender"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "barista",
+            "bartender"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "maestro",
+            "master"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "malware",
+            "hacker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "algorithm",
+            "programmer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "orchestra",
+            "conductor"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Blender",
+            "producer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "universe",
+            "creator"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "screenwriter",
+            "producer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "barista's toolkit",
+            "developer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "animation",
+            "producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "automaton",
+            "robot"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "baker",
+            "Bakery"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "camera",
+            "photographer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "composer",
+            "producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "butcher",
+            "chef"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stewpot",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sonata",
+            "composer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ethnomusicologist",
+            "scientist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "conductor",
+            "director"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pastry",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "artisan",
+            "producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "melancholic poet",
+            "writer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vaccine",
+            "scientist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lyricist",
+            "composer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "circus",
+            "producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blacksmith",
+            "smithsmith"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blacksmith",
+            "smithsmith"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Chef",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "barista''s signature drink",
+            "bartender"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "microscope",
+            "scientist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "architect",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "comedian",
+            "producer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "barista''s espresso",
+            "brewer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "barista''s cappuccino",
+            "bartender"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Astronomer",
+            "producer"
+        ],
+        "label": 0
+    }
+]

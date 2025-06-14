@@ -1,0 +1,42 @@
+[
+    [
+        "The <ENT1> is where i put my <ENT0> .",
+        0.14930295141514235
+    ],
+    [
+        "The <ENT1> is the best place to store your <ENT0> when you're traveling .",
+        0.13868286273940264
+    ],
+    [
+        "A <ENT0> is typically found on a <ENT1> .",
+        0.09876211987058302
+    ],
+    [
+        "<ENT0> is an ingredient in <ENT1>s .",
+        0.09491532797251963
+    ],
+    [
+        "The <ENT1> is the perfect place to get <ENT0> .",
+        0.0941462336978268
+    ],
+    [
+        "There may be <ENT0> in the <ENT1> .",
+        0.0921454331922511
+    ],
+    [
+        "The <ENT1> is where the <ENT0> is located .",
+        0.08723203911698242
+    ],
+    [
+        "The <ENT1> is where you would typically find <ENT0> .",
+        0.08718524002741886
+    ],
+    [
+        "A <ENT1> is a great location to keep a <ENT0> in case you need it .",
+        0.08558976356005128
+    ],
+    [
+        "The <ENT0> is located in the <ENT1> .",
+        0.07203802840782209
+    ]
+]

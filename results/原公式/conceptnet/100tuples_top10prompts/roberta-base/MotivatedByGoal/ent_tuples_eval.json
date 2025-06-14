@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "go away",
+            "leave"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "training for a marathon",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "training for a triathlon",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "writing a novel",
+            "write"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "play",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "make food",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "writing a research paper",
+            "publish"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "make money",
+            "profit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spreading false rumors",
+            "gain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "starting a business",
+            "profit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "reading a bedtime story",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "getting a haircut",
+            "shave"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Competing In A Chess Tournament",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "attending a workshop",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "giving a motivational speech",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sketching a portrait",
+            "draw"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "learning a new language",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "practicing mindfulness",
+            "focus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Competing In A Tournament",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Preparing For A Job Interview",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "writing a love letter",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "joining a weight loss support group",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Hosting A Cocktail Party",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "political campaign",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "food poisoning",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Organizing A Blood Drive",
+            "donate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "planning a romantic evening",
+            "date"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "eat",
+            "survive"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shopping spree",
+            "buy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Preparing For A Music Competition",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pursuing higher education",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "walk",
+            "exercise"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "walk",
+            "move"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "terrorist attack",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "exercise routine",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "organizing a community clean-up",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Organizing A Charity Auction",
+            "donate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Preparing For A Sabbatical",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "organizing a wine tasting event",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "organizing a recycling drive",
+            "recycle"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "charity fundraiser",
+            "donate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sleep",
+            "dream"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "competing in a spelling bee",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "starting a family",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "community service project",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Launching A Phishing Campaign",
+            "spam"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "self-defense training",
+            "defend"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sleep",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Job Resignation",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "organizing a bake sale",
+            "sell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Weight Loss",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Promoting A New Product",
+            "sell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "organizing a clothing drive",
+            "donate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mentoring a colleague",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Prison Break",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Organizing A Potluck Dinner",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "saving money",
+            "save"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "art exhibition",
+            "sell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Organizing A Fitness Challenge",
+            "exercise"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Organizing A Peer Support Group",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "marketing campaign",
+            "sell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Organizing A Public Speaking Club",
+            "talk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "starting a garden",
+            "grow"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Organizing A Book Club",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "quitting smoking",
+            "smoke"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "protest",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Attempting A Dangerous Stunt",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Organizing A Neighborhood Watch Program",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "negotiating a lease agreement",
+            "rent"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Organizing A Surprise Party",
+            "celebrate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Training For A Promotion",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Practicing Public Speaking",
+            "talk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Organizing A Reading Challenge",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Organizing A Debate",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "corporate espionage",
+            "profit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "organizing a poetry reading",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "swim",
+            "exercise"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Organizing A Talent Show",
+            "Show Win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Athletic Training",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "meditation retreat",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crafting a handmade sweater",
+            "wear"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fundraising event",
+            "donate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "team-building workshop",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dieting",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hydration practice",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fishing competition",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cooking class",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "studying",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wilderness survival course",
+            "survive"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "assassination",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "arson",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "robbery",
+            "steal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bullying",
+            "change"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "investment",
+            "save"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "volunteering",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "birdwatching",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "burglary",
+            "steal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Proposing",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "campaigning",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "researching",
+            "read"
+        ],
+        "label": 1
+    }
+]

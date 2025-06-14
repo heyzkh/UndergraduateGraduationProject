@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "image",
+            "larger image"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Data Stream",
+            "Dataset"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "postcard",
+            "Photo Gallery"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "data stream",
+            "function"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "data stream",
+            "table"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "code",
+            "file"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "code",
+            "project"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "code",
+            "package"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "code",
+            "library"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "code",
+            "console"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "map",
+            "game"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "list",
+            "table"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "list",
+            "index"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "image",
+            "gallery"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "map",
+            "project"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "list",
+            "file"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "list",
+            "document"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "list",
+            "database"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "map",
+            "text"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "data tree",
+            "dataset"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "site",
+            "municipality"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "data tree",
+            "table"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Gamepage",
+            "Web Page"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "document",
+            "file"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "map",
+            "website"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "game",
+            "website"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "text",
+            "file"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Gamepage",
+            "Web Browser"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "text",
+            "document"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "map",
+            "database"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "document",
+            "database"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "text",
+            "article"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "video",
+            "story"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "postcard",
+            "photo album"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "site",
+            "community"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "postbox",
+            "mail service"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Postbox",
+            "Mail System"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "site",
+            "Amazon"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "postcard",
+            "Photo Archive"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "game",
+            "series"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Postmark",
+            "Facebook Page"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "video",
+            "post"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "article",
+            "wikipedia"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "postcode",
+            "postmaster"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "game",
+            "world"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "video",
+            "gallery"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "postcard",
+            "Photo Collection"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "image",
+            "website"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "text",
+            "statement"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "site",
+            "city"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "video",
+            "website"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Postbox",
+            "Mail Server"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gamepad",
+            "keyboard"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "game",
+            "community"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "document",
+            "directory"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "image",
+            "project"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "image",
+            "file"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "postcode",
+            "Postbox"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "postcode",
+            "postbar"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gamepad",
+            "console"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "field",
+            "forest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "article",
+            "blog"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gamepad",
+            "computer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "site",
+            "project"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "article",
+            "website"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gamepad",
+            "controller"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "postid",
+            "public domain"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "post",
+            "blog"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gamepad",
+            "system"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Postmark",
+            "Facebook Community"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "post",
+            "series"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "article",
+            "series"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "field",
+            "circle"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "codebase",
+            "css"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "field",
+            "park"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "postid",
+            "public database"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "codebase",
+            "cpy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "post",
+            "discussion"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "post",
+            "project"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "postscript",
+            "blogpost"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Postmark",
+            "Facebook Group"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Gamepage",
+            "Webpage"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "postscript",
+            "postpost"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "listid",
+            "index"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "listid",
+            "string"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Postbox",
+            "Mailbox"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gamefile",
+            "console"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gamepage",
+            "webstore"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gamefile",
+            "directory"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Gamefile",
+            "folder"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "postmark",
+            "Facebook Section"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Postid",
+            "Public Thread"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gamebook",
+            "collection"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "codefile",
+            "function"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "codefile",
+            "string"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "codefile",
+            "dictionary"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "codefile",
+            "class"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "codefile",
+            "struct"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "postid",
+            "public directory"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "postid",
+            "publicdomain"
+        ],
+        "label": 0
+    }
+]

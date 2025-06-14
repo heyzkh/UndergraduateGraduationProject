@@ -1,0 +1,695 @@
+[
+    [
+        [
+            "wearing tight shoes",
+            "walking"
+        ],
+        0.12789583573858632
+    ],
+    [
+        [
+            "low blood sugar",
+            "high"
+        ],
+        0.09295861881884611
+    ],
+    [
+        [
+            "watching a comedy show",
+            "laughing"
+        ],
+        0.07483916717067422
+    ],
+    [
+        [
+            "exposure to allergens",
+            "allergic"
+        ],
+        0.056034118894546486
+    ],
+    [
+        [
+            "Lack Of Sleep",
+            "sleeping"
+        ],
+        0.05029691481980655
+    ],
+    [
+        [
+            "food poisoning",
+            "vomiting"
+        ],
+        0.039414966528806966
+    ],
+    [
+        [
+            "high humidity",
+            "cold"
+        ],
+        0.039205457324276556
+    ],
+    [
+        [
+            "low oil level",
+            "high"
+        ],
+        0.034165724449187085
+    ],
+    [
+        [
+            "cold weather",
+            "warm"
+        ],
+        0.03187385319020534
+    ],
+    [
+        [
+            "lack of focus",
+            "upset"
+        ],
+        0.02668438114081158
+    ],
+    [
+        [
+            "getting sick",
+            "vomiting"
+        ],
+        0.02652434079822797
+    ],
+    [
+        [
+            "poor nutrition",
+            "overweight"
+        ],
+        0.024878310405770935
+    ],
+    [
+        [
+            "skipping meals",
+            "eating"
+        ],
+        0.02262892854392212
+    ],
+    [
+        [
+            "weak immune system",
+            "aggressive"
+        ],
+        0.02255187631277138
+    ],
+    [
+        [
+            "hot weather",
+            "cold"
+        ],
+        0.02139489517514935
+    ],
+    [
+        [
+            "excessive caffeine intake",
+            "high"
+        ],
+        0.018246777072627837
+    ],
+    [
+        [
+            "excessive screen time",
+            "upset"
+        ],
+        0.014266825085572034
+    ],
+    [
+        [
+            "strong wind",
+            "cold"
+        ],
+        0.013235051842254122
+    ],
+    [
+        [
+            "access to firearms",
+            "violent"
+        ],
+        0.011423062361406474
+    ],
+    [
+        [
+            "alcohol consumption",
+            "drinking"
+        ],
+        0.011421913152964185
+    ],
+    [
+        [
+            "Loss Of A Loved One",
+            "grieving"
+        ],
+        0.011179788670938417
+    ],
+    [
+        [
+            "poor lighting",
+            "blind"
+        ],
+        0.011121484958703387
+    ],
+    [
+        [
+            "excessive sugar intake",
+            "overweight"
+        ],
+        0.010926772370969106
+    ],
+    [
+        [
+            "emotional distress",
+            "physical"
+        ],
+        0.010867961427649743
+    ],
+    [
+        [
+            "excessive salt intake",
+            "overweight"
+        ],
+        0.010568171412779055
+    ],
+    [
+        [
+            "Excessive Exercise",
+            "Overweight"
+        ],
+        0.0103493643638196
+    ],
+    [
+        [
+            "poor posture",
+            "upset"
+        ],
+        0.0094252196488852
+    ],
+    [
+        [
+            "excessive perfume use",
+            "high"
+        ],
+        0.00843657211375006
+    ],
+    [
+        [
+            "lack of social interaction",
+            "depression"
+        ],
+        0.006511413525773421
+    ],
+    [
+        [
+            "repetitive strain injury",
+            "pain"
+        ],
+        0.006320837656705697
+    ],
+    [
+        [
+            "poor time management",
+            "problems"
+        ],
+        0.006074751277465758
+    ],
+    [
+        [
+            "Chronic Pain",
+            "physical"
+        ],
+        0.005566141376137685
+    ],
+    [
+        [
+            "Spicy Food",
+            "cold"
+        ],
+        0.0054775979456364015
+    ],
+    [
+        [
+            "Excessive Napping",
+            "sleeping"
+        ],
+        0.0054183530827532685
+    ],
+    [
+        [
+            "Excessive Use Of Hair Dye",
+            "acne"
+        ],
+        0.0053536013519295475
+    ],
+    [
+        [
+            "shared experiences",
+            "similar"
+        ],
+        0.00529788879253469
+    ],
+    [
+        [
+            "bright lighting",
+            "cold"
+        ],
+        0.0051990349307163945
+    ],
+    [
+        [
+            "Excessive Drinking",
+            "alcohol"
+        ],
+        0.0051374774176693875
+    ],
+    [
+        [
+            "adrenaline rush",
+            "high"
+        ],
+        0.0048977141374615335
+    ],
+    [
+        [
+            "mental health crisis",
+            "suicidal"
+        ],
+        0.004422502833426532
+    ],
+    [
+        [
+            "drinking",
+            "alcohol"
+        ],
+        0.0042094139891787445
+    ],
+    [
+        [
+            "software malfunction",
+            "problems"
+        ],
+        0.003939749002947738
+    ],
+    [
+        [
+            "excessive workload",
+            "fatigue"
+        ],
+        0.0037242145637763433
+    ],
+    [
+        [
+            "Hormonal Imbalances",
+            "upset"
+        ],
+        0.003704152197103077
+    ],
+    [
+        [
+            "forest fires",
+            "cold"
+        ],
+        0.0035654852112082867
+    ],
+    [
+        [
+            "Hormonal Changes",
+            "upset"
+        ],
+        0.0035129954876229326
+    ],
+    [
+        [
+            "conflict of interest",
+            "conflicts"
+        ],
+        0.002988683863087274
+    ],
+    [
+        [
+            "Unfair Treatment",
+            "upset"
+        ],
+        0.0028940035285279276
+    ],
+    [
+        [
+            "Gang Violence",
+            "violent"
+        ],
+        0.002884513848770233
+    ],
+    [
+        [
+            "traffic congestion",
+            "driving"
+        ],
+        0.002867713560647265
+    ],
+    [
+        [
+            "excessive heat",
+            "cold"
+        ],
+        0.002822161437251997
+    ],
+    [
+        [
+            "prolonged inactivity",
+            "depression"
+        ],
+        0.0027736769786730585
+    ],
+    [
+        [
+            "emotional turmoil",
+            "physical"
+        ],
+        0.0026513559561859045
+    ],
+    [
+        [
+            "emotional neglect",
+            "physical"
+        ],
+        0.0025832539922993683
+    ],
+    [
+        [
+            "miscommunication",
+            "upset"
+        ],
+        0.0024785586396225386
+    ],
+    [
+        [
+            "drunk",
+            "alcohol"
+        ],
+        0.0023228456747848873
+    ],
+    [
+        [
+            "Excessive Noise",
+            "upset"
+        ],
+        0.0021929761831185196
+    ],
+    [
+        [
+            "loud music",
+            "upset"
+        ],
+        0.0021652894272876587
+    ],
+    [
+        [
+            "tobacco use",
+            "smoking"
+        ],
+        0.0020109014789925278
+    ],
+    [
+        [
+            "Relocation To A New City",
+            "homeless"
+        ],
+        0.0019064928586622308
+    ],
+    [
+        [
+            "Peer Pressure",
+            "upset"
+        ],
+        0.0018330015926617778
+    ],
+    [
+        [
+            "childhood trauma",
+            "physical"
+        ],
+        0.0018050307509771145
+    ],
+    [
+        [
+            "anger management issues",
+            "upset"
+        ],
+        0.0017702282530576527
+    ],
+    [
+        [
+            "motion sickness",
+            "sleeping"
+        ],
+        0.0017349469836905936
+    ],
+    [
+        [
+            "excessive gadget use",
+            "problems"
+        ],
+        0.0017193559536087457
+    ],
+    [
+        [
+            "social isolation",
+            "depression"
+        ],
+        0.0016513761317467446
+    ],
+    [
+        [
+            "distracted driving",
+            "upset"
+        ],
+        0.0016298867788101877
+    ],
+    [
+        [
+            "cultural differences",
+            "different"
+        ],
+        0.0014211582133848545
+    ],
+    [
+        [
+            "Sun Exposure",
+            "cold"
+        ],
+        0.0014207890401998643
+    ],
+    [
+        [
+            "stress",
+            "upset"
+        ],
+        0.001322311673327274
+    ],
+    [
+        [
+            "overwork",
+            "stress"
+        ],
+        0.0012878331129789504
+    ],
+    [
+        [
+            "Unexpected Criticism",
+            "angry"
+        ],
+        0.0012264460705578956
+    ],
+    [
+        [
+            "Icy Road Conditions",
+            "driving"
+        ],
+        0.0010240195362100648
+    ],
+    [
+        [
+            "Combat Exposure",
+            "cold"
+        ],
+        0.0010170590082577721
+    ],
+    [
+        [
+            "prolonged sitting",
+            "uncomfortable"
+        ],
+        0.0010107251905058232
+    ],
+    [
+        [
+            "pregnant",
+            "pregnancy"
+        ],
+        0.0009902803515790723
+    ],
+    [
+        [
+            "eating",
+            "diarrhea"
+        ],
+        0.0009373455597065195
+    ],
+    [
+        [
+            "Sedentary Lifestyle",
+            "overweight"
+        ],
+        0.000915014547747498
+    ],
+    [
+        [
+            "financial instability",
+            "problems"
+        ],
+        0.000908358584716279
+    ],
+    [
+        [
+            "prolonged reading in dim light",
+            "blind"
+        ],
+        0.0008440015042778133
+    ],
+    [
+        [
+            "Excessive Screen Glare",
+            "blind"
+        ],
+        0.0007537463046004856
+    ],
+    [
+        [
+            "hypothermia",
+            "breathing"
+        ],
+        0.0007451974849984837
+    ],
+    [
+        [
+            "Unresolved Conflict",
+            "angry"
+        ],
+        0.0006788149308972685
+    ],
+    [
+        [
+            "Prolonged Immobility",
+            "cold"
+        ],
+        0.0005440595062580209
+    ],
+    [
+        [
+            "pregnant",
+            "depression"
+        ],
+        0.0005272652743432823
+    ],
+    [
+        [
+            "Loneliness",
+            "depression"
+        ],
+        0.0005254534441495182
+    ],
+    [
+        [
+            "muscle strain",
+            "physical"
+        ],
+        0.000438746606657578
+    ],
+    [
+        [
+            "Prolonged Eye Contact",
+            "uncomfortable"
+        ],
+        0.00039593654408964785
+    ],
+    [
+        [
+            "fatigue",
+            "sleeping"
+        ],
+        0.0003636683208984974
+    ],
+    [
+        [
+            "Boredom",
+            "angry"
+        ],
+        0.0003544739753368191
+    ],
+    [
+        [
+            "Unexpected News",
+            "upset"
+        ],
+        0.0003527426735843353
+    ],
+    [
+        [
+            "tickling",
+            "upset"
+        ],
+        0.00026952682694207154
+    ],
+    [
+        [
+            "overcrowding",
+            "upset"
+        ],
+        0.00017739131843632093
+    ],
+    [
+        [
+            "Insecurity",
+            "angry"
+        ],
+        0.00015882100000523926
+    ],
+    [
+        [
+            "anxiety",
+            "upset"
+        ],
+        0.00015846856508443382
+    ],
+    [
+        [
+            "improper footwear",
+            "walking"
+        ],
+        0.0001508992494225653
+    ],
+    [
+        [
+            "neck strain",
+            "back"
+        ],
+        0.00013129046443014847
+    ],
+    [
+        [
+            "nightmares",
+            "sleeping"
+        ],
+        6.0146458683602835e-05
+    ],
+    [
+        [
+            "Dehydration",
+            "upset"
+        ],
+        5.207621131249902e-05
+    ]
+]

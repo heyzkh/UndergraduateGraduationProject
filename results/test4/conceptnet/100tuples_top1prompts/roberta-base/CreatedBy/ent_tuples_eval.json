@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "chemical synthesis",
+            "chemist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "divine will",
+            "creator"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "user-generated content",
+            "creator"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "artwork",
+            "artist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "artwork",
+            "artist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "artwork",
+            "artist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "artwork",
+            "artist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "artwork",
+            "artist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "artwork",
+            "artist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Solar Panel",
+            "owner"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "divine decree",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "audio mixing console",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "medical researcher",
+            "doctor"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "medical researcher",
+            "doctor"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "medical researcher",
+            "doctor"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "medical researcher",
+            "doctor"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "witchcraft",
+            "Witchwitch"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pharmaceutical scientist",
+            "doctor"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Antoine Lavoisier",
+            "cook"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "universe",
+            "creator"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pharmaceutical compound",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Construction Worker",
+            "Workerworker"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Construction Worker",
+            "Workerworker"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "algorithm",
+            "creator"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "algorithm",
+            "creator"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "al-qaeda",
+            "terrorist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chef",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chef",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chef",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chef",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chef",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chef",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chef",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chef",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "faucet",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "quartz",
+            "smith"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Culinary Inventor",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "painting",
+            "artist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "painting",
+            "artist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "painting",
+            "artist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "smith's artwork",
+            "smithsmith"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "craftsman",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "craftsman",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "craftsman",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "craftsman",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "craftsman",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "craftsman",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pharmaceutical researcher",
+            "doctor"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pharmaceutical researcher",
+            "doctor"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "artisan",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "artisan",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Husband",
+            "Husbandhusband"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "self-taught artist",
+            "artistartist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "textile",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "textile",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "founding father",
+            "fatherfather"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "microarchitecture",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "microchip designer",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Novelist",
+            "Writer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Novelist",
+            "Writer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Novelist",
+            "Writer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Novelist",
+            "Writer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Novelist",
+            "Writer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Novelist",
+            "Writer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Novelist",
+            "Writer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Novelist",
+            "Writer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "digital artist",
+            "artistartist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "digitalartwork",
+            "artist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "son",
+            "father"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "apprentice",
+            "master"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "apprentice",
+            "master"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "founder",
+            "Creator"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spellweaver",
+            "writer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "terrorist",
+            "terroristterrorist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Chemist",
+            "Chemistchemist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "filmmaker",
+            "director"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "filmmaker",
+            "director"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "filmmaker",
+            "director"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Imaginora",
+            "Creator"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "labor union",
+            "Unionunion"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "artist",
+            "artistartist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "artist",
+            "artistartist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "artist",
+            "artistartist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "artist",
+            "artistartist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "artist",
+            "artistartist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "artist",
+            "artistartist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "artist",
+            "artistartist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Painter",
+            "artist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "system",
+            "systemsystem"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "system",
+            "systemsystem"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Employer",
+            "writer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "artisancanvas",
+            "artist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "designer",
+            "designdesign"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "designer",
+            "designdesign"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "designer",
+            "designdesign"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "designer",
+            "designdesign"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "designer",
+            "designdesign"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "designer",
+            "designdesign"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "designer",
+            "designdesign"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mining_robot",
+            "miningmining"
+        ],
+        "label": 0
+    }
+]

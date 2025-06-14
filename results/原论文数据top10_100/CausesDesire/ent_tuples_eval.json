@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "meat",
+            "eat meat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "speed",
+            "go faster"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "speed",
+            "go fast"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mail",
+            "receive mail"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "app",
+            "use app"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fat",
+            "look fat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "taste",
+            "eat pure"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "noise",
+            "sound loud"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "meat",
+            "eat raw"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "competition",
+            "compete hard"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "size",
+            "look big"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "internet",
+            "use net"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cat Taste",
+            "taste cat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "net",
+            "use net"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cheese",
+            "eat raw"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "beauty",
+            "look faire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fashion",
+            "wear fur"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "milk",
+            "eat raw"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "space",
+            "go far"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "motivation",
+            "go far"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "code",
+            "make use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cheating",
+            "cheat hard"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clothing",
+            "wear fur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "example",
+            "become faire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gambling",
+            "gamble hard"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vehicle",
+            "ride car"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "example",
+            "become rare"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "waiting",
+            "wait longer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "question",
+            "think hard"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "book",
+            "become rare"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "intelligence",
+            "think hard"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "design",
+            "look faire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sexual orientation",
+            "date"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "book",
+            "become pure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Facebook",
+            "make app"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "weight",
+            "weigh less"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "book",
+            "become faire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "risk",
+            "go rare"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shoes",
+            "wear th"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "product",
+            "purchase rare"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "attitude",
+            "behave less"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tattoo",
+            "look faire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sexual preference",
+            "date"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "store",
+            "purchase th"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "social networking",
+            "join"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "store",
+            "shop online"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mail",
+            "receive th"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "drug use",
+            "abuse"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "radio",
+            "hear th"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gambling",
+            "gamble"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Good Cause",
+            "donate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Sexual Harassment",
+            "retaliate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "love",
+            "give"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "physical health",
+            "exercise"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "behavior",
+            "behave rare"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "real estate",
+            "rent"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "high school",
+            "mature"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "email",
+            "open th"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "money",
+            "give"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dark skin",
+            "glow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stock",
+            "trade long"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "service",
+            "give"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "social network",
+            "join"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "negative mood",
+            "vent"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "competition",
+            "compete"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "human curiosity",
+            "explore"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "social networking",
+            "interact"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sexual stimulation",
+            "orgasm"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Natural Selection",
+            "reproduce"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cancer",
+            "die"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Dark Light",
+            "glow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bad mood",
+            "vent"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "video",
+            "see"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Big Fish",
+            "swim"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Secret Search",
+            "find"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cat litter",
+            "clean"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "physical appearance",
+            "pose"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fantasy",
+            "dream"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "treatment",
+            "give"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "physical activity",
+            "walk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Big Data",
+            "measure"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "speed",
+            "fast"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sleep",
+            "dream"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "race",
+            "give"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sexual sensation",
+            "orgasm"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Human Language",
+            "talk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "death",
+            "die"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "porn",
+            "lust"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "social stigma",
+            "conform"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hair",
+            "shave"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "negative vibe",
+            "vent"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "film",
+            "see"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drugs",
+            "take"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Dark Water",
+            "drown"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "writing",
+            "write"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "disease",
+            "die"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "media",
+            "see"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Human Language",
+            "understand"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "physical attraction",
+            "kiss"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "music",
+            "sing"
+        ],
+        "label": 1
+    }
+]

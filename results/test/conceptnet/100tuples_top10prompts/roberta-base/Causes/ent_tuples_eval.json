@@ -1,0 +1,695 @@
+[
+    {
+        "entity_tuple": [
+            "wearing underwear",
+            "sweating"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wearing underwear",
+            "sex"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "eating meat",
+            "fat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "eating meat",
+            "vomiting"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "eating meat",
+            "diarrhea"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "using javascript",
+            "crash"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drunk",
+            "physical violence"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "getting sick",
+            "vomiting"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "taking video",
+            "shooting"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "using javascript",
+            "crashing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "making videos",
+            "shooting"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "using javascript",
+            "errors"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "using javascript",
+            "problems"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "using javascript",
+            "crashes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "making video",
+            "shooting"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "taking video",
+            "shaking"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "taking video",
+            "laughing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drinking",
+            "drunk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "taking steps",
+            "anxiety"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "making videos",
+            "filming"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "taking steps",
+            "problems"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "making videos",
+            "laughing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wearing white",
+            "black"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "drinking",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drinking",
+            "sleeping"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "making videos",
+            "online"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "drinking",
+            "high"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wearing white",
+            "red"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "together",
+            "bonding"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drunk",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wearing white",
+            "uncomfortable"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "drinking",
+            "alcohol"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drunk",
+            "high"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "getting treatment",
+            "cancer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "getting treatment",
+            "depression"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "together",
+            "close"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sleeping",
+            "waking"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "smoking",
+            "physical pain"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "smoking",
+            "high"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "walking",
+            "running"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sleeping",
+            "upset"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "together",
+            "sex"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "together",
+            "friends"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "alone",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cold",
+            "warm"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "alone",
+            "sleeping"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cold",
+            "freezing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "drunk",
+            "alcohol"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "getting treatment",
+            "pain"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "together",
+            "similar"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pregnant",
+            "breastfeeding"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sleeping",
+            "awake"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "online",
+            "texting"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "online",
+            "socializing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cold",
+            "hot"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "running",
+            "racing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "alone",
+            "lonely"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "smoking",
+            "smoke"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sleep",
+            "waking"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cold",
+            "cool"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "single",
+            "dating"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "eating",
+            "hungry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "high",
+            "low"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "single",
+            "alone"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "online",
+            "chatting"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pregnant",
+            "sex"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dating",
+            "friends"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "single",
+            "friends"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "single",
+            "lonely"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "near",
+            "close touch"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "walking",
+            "cold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "walking",
+            "standing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dating",
+            "sex"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "near",
+            "close"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dating",
+            "cheating"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pregnant",
+            "pregnancy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "walking",
+            "moving"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sleep",
+            "awake"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "eating",
+            "diarrhea"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "driving",
+            "Car Trouble"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "working",
+            "physical pain"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "traveling",
+            "headwind"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "driving",
+            "texting"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "running",
+            "fast"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "driving",
+            "running"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "near",
+            "angry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "working",
+            "physical tension"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "high",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dating",
+            "problems"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sleep",
+            "insomnia"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pregnant",
+            "depression"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "online",
+            "problems"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "traveling",
+            "headway"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "driving",
+            "carpool"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "traveling",
+            "headings"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "working",
+            "alone"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Getting Treatment",
+            "ptsd"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "working",
+            "physicality"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "working",
+            "problems"
+        ],
+        "label": 0
+    }
+]

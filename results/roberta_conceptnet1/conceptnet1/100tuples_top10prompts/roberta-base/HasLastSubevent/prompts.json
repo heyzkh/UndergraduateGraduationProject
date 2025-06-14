@@ -1,0 +1,22 @@
+[
+    [
+        "<ENT0> is an event that concludes with subevent <ENT1> .",
+        0.3224081736692913
+    ],
+    [
+        "The event <ENT0> includes the subevent <ENT1> .",
+        0.19491987238784625
+    ],
+    [
+        "The event <ENT0> concludes with the subevent <ENT1> .",
+        0.1668652565201509
+    ],
+    [
+        "The event <ENT0> has a concluding subevent <ENT1> .",
+        0.16373219142847148
+    ],
+    [
+        "The event <ENT0> has a concluding subevent, <ENT1> .",
+        0.1520745059942401
+    ]
+]

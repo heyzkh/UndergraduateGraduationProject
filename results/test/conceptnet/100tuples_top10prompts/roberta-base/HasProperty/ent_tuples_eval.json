@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "Hield",
+            "High Yield"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hield",
+            "High Yielding"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cowl",
+            "light weight"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cough",
+            "Quite Unpleasant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pix",
+            "pretty cool"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pix",
+            "pretty nice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "prawn",
+            "relatively small"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "prawn",
+            "relatively large"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bald",
+            "light yellow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "css",
+            "highly functional"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pix",
+            "pretty simple"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fowl",
+            "quite small"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fern",
+            "green"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Crib",
+            "highly functional"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Crib",
+            "well rounded"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "prawn",
+            "green"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cowl",
+            "light"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cowl",
+            "white"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pkg",
+            "large"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cough",
+            "common"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cpt",
+            "well treated"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cough",
+            "harmless"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cpt",
+            "well rounded"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "prawn",
+            "tasty"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Crib",
+            "well used"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fern",
+            "rare"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pong",
+            "extremely powerful"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fowl",
+            "rare"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "curd",
+            "relatively thick"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Crib",
+            "highly portable"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cowl",
+            "lightweight"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fowl",
+            "white"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "css",
+            "pretty simple"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cpt",
+            "well used"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fowl",
+            "sweet"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cough",
+            "cold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fowl",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "css",
+            "highly useful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "curd",
+            "relatively thin"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hield",
+            "High Quality"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fung",
+            "strong"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pix",
+            "good"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cough",
+            "mild"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Crown",
+            "rare"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "curd",
+            "relatively soft"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Hield",
+            "High Value"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Podium",
+            "solid"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "css",
+            "pretty nice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hood",
+            "black"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Crib",
+            "highly used"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crowd",
+            "large"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "binder",
+            "similar"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hield",
+            "High Level"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crown",
+            "white"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pood",
+            "quite sweet"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fung",
+            "good"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cald",
+            "rare"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pong",
+            "extremely useful"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cald",
+            "light"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crowd",
+            "huge"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crowd",
+            "big"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cpt",
+            "stable"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bald",
+            "common"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fidget",
+            "cheap"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pong",
+            "powerful"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bald",
+            "beautiful"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Curl",
+            "long"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fib",
+            "long"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ept",
+            "common"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fib",
+            "common"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pct",
+            "stable"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cowl",
+            "lighted"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "curd",
+            "soft"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pong",
+            "extremely good"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "buc",
+            "powerful"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pood",
+            "sweet"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hull",
+            "solid"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "png",
+            "good"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "curd",
+            "sweet"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hull",
+            "lightweight"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pood",
+            "beautiful"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fuc",
+            "extremely useful"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pood",
+            "white"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pood",
+            "rare"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fidget",
+            "light"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pct",
+            "low"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Epub",
+            "cheap"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fern",
+            "feral"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ppt",
+            "large"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ppt",
+            "strong"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pgr",
+            "extremely useful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Epub",
+            "strong"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "brit",
+            "white"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "brit",
+            "cheap"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bald",
+            "lighted"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "eprint",
+            "reusable"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pgr",
+            "good"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "epdf",
+            "transparent"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "epdf",
+            "similar"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "egpu",
+            "strong"
+        ],
+        "label": 0
+    }
+]

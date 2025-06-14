@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "absolute certainty",
+            "confidence"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "economic downturn",
+            "market"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "moral fortitude",
+            "strength"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "financial shortfall",
+            "budget"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "emotional outburst",
+            "stress"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Market Surplus",
+            "Price"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cultural Celebration",
+            "Culture"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blind rage",
+            "panic"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "unsuccessful attempt",
+            "fail"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Declarative Assertion",
+            "Statement"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "business entity",
+            "company"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "expletive utterance",
+            "sorry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Awkward Embarrassment",
+            "Sorry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "defeat",
+            "loss"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "emotional depletion",
+            "stress"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "celebrity status",
+            "famous"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "genuine emotion",
+            "feel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Assembled Product",
+            "Assembly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "urban enclave",
+            "city"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "unbounded curiosity",
+            "maybe"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Computational Flaw",
+            "Error"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sticky residue",
+            "oil"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kitty",
+            "cat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Manufacturing Plant",
+            "Production"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Box Office Failure",
+            "Success"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coordinating conjunctions",
+            "quad"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rapid vibration",
+            "sound"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Luminous Sphere",
+            "Space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Festive Gathering",
+            "Party"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "alternative option",
+            "default"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Feline Companion",
+            "Cat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "web protocol",
+            "http"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "expletive intensifier",
+            "sound"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Respiratory Organ",
+            "Brain"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gravitational pull",
+            "pullpull"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "deceptive maneuver",
+            "cheat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "arithmetic operation",
+            "function"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Apology Gesture",
+            "Sorry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "public recognition",
+            "respect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "zealous devotees",
+            "like"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Controlled Foreign Corporation",
+            "Company"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "young cow",
+            "cowcow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Water Conduit",
+            "Waterwater"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Radiant Light",
+            "Lightlight"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "initial setting",
+            "default"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fabricated artifact hoax",
+            "evidence"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Enthusiastic Admirer",
+            "Fan"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "high-speed train",
+            "speedspeed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "adversary",
+            "threat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sparkle dust",
+            "dustdust"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "soothing melody",
+            "sound"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shrewd individual",
+            "man"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "woodwind instrument",
+            "music"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Artistic Collective",
+            "Artart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Dairy Product",
+            "Food"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "toss",
+            "throw"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Swallow",
+            "Water"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "deceptive scheme",
+            "cheat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "adhesive substance",
+            "material"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Food And Agriculture Organization",
+            "Foodfood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Gratitude Expression",
+            "Thanks"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Chewing Substance",
+            "Food"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "printmaking technique",
+            "method"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "intestinal tract",
+            "intestinalintestinal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wind deity",
+            "windwind"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Joyful Activity",
+            "Happy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Whimsical Notion",
+            "Perhaps"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Counterfeit Craft",
+            "Fake"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Functional Application",
+            "functionfunction"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "emotional distress",
+            "stressstress"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "unpleasant odor",
+            "odorodor"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fabrication",
+            "design"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "automaker",
+            "driver"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fanbase",
+            "Community"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "guardian",
+            "agent"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Renown",
+            "Since"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "supportive assistance",
+            "supportsupport"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Clear Fact",
+            "Factfact"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "supportive aid",
+            "supportsupport"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Industrial Production",
+            "Productionproduction"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "secret faction",
+            "secretsecret"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "procurer",
+            "agent"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hui ritual",
+            "susu"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Electrical Safety Device",
+            "Safetysafety"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Computed Value",
+            "valuevalue"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "operational method",
+            "methodmethod"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "supportive service",
+            "supportsupport"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "deceptive practice",
+            "practicepractice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "linguistic expression",
+            "expressionexpression"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Document Template",
+            "Templatetemplate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Admirer Group",
+            "Groupgroup"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "production",
+            "productionproduction"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fan Community",
+            "Communitycommunity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fixed state",
+            "statestate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "trifling task",
+            "tasktask"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "decorative border",
+            "borderborder"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "legal submission",
+            "legallegal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "unchanging condition",
+            "conditioncondition"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cargo transfer",
+            "Transfertransfer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "misinformation campaign",
+            "campaigncampaign"
+        ],
+        "label": 0
+    }
+]

@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "jump rope",
+            "rope jump"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sleeping bag",
+            "sleep sleeping"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "baseball bat",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "board game",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "martial arts uniform",
+            "dress"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sleeping mask",
+            "sleep sleeping"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Fishing Net",
+            "fish fishing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fishing line",
+            "fish fishing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fishing rod",
+            "fish fishing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "coffee mug",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rope ladder",
+            "climb"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Music Player",
+            "Play Music"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "yarn spinner",
+            "spin yarn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fishing reel",
+            "fish fishing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wine glass",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sewing machine",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hula hoop",
+            "dance"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "alarm clock",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "steering wheel",
+            "travel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "yoga mat",
+            "exercise"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Fishing Hook",
+            "Hook Fishing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shopping cart",
+            "transport"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "random number generator",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "walking stick",
+            "Walk Walking"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fishing lure",
+            "bait"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "prayer beads",
+            "worship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kite string",
+            "travel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "walking cane",
+            "Walk Walking"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Ballet Barre",
+            "dance"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "prayer rug",
+            "worship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wine rack",
+            "drink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hammock",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "door stopper",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "meditation cushion",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tambourine",
+            "transport"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "harp stand",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "meditation bench",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "meditation bench",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "prayer mat",
+            "worship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "harp tuner",
+            "music"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Beehive Tool",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "frisbee",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kite",
+            "fly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "incense burner",
+            "fire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "violin",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tap shoes",
+            "dance"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "car",
+            "transport"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kite",
+            "flying"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bicycle",
+            "transport"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "skateboard",
+            "transport"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bus",
+            "transport"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "guitar",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "incense stick",
+            "worship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "backpack",
+            "travel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "speedometer",
+            "travel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hiking Pole",
+            "hike"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drum",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "meditation stool",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "incense holder",
+            "worship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Prayer Wheel",
+            "worship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blanket",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dog bowl",
+            "fetch"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cargo net",
+            "transport"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Harp Case",
+            "play"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bee suit",
+            "dress"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "meditation shawl",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dance shoes",
+            "dancing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "harp",
+            "music"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Passport",
+            "travel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "airplane",
+            "travel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pillow",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "incense cone",
+            "worship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Lottery Machine",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "telephone",
+            "communication"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bee repellent",
+            "protection"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Yoga Strap",
+            "exercise"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "basketball",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spatula",
+            "grip"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Wedding Proposal",
+            "communication"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Altar",
+            "worship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "yoga bolster",
+            "exercise"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lantern",
+            "light"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Bible",
+            "study"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Notebook",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "suitcase",
+            "transport"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "meditation bowl",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pedometer",
+            "walk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bee smoker",
+            "burn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bee veil",
+            "dress"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "meditation rope",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Yoga Block",
+            "exercise"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "microphone",
+            "communication"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dice",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "speaker",
+            "speech"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coin",
+            "exchange"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "meditation gong",
+            "worship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "keychain",
+            "access"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bible",
+            "reading"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "meditation bell",
+            "worship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "evidence",
+            "work"
+        ],
+        "label": 0
+    }
+]

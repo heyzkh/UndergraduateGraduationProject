@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "single cat",
+            "cat food"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "family",
+            "Live Together"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "parent",
+            "get together"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "humanist",
+            "free world"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Young Adult",
+            "release"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "human",
+            "control"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "human",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "person",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "human",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "individual",
+            "control"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "man",
+            "control"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "individual",
+            "change"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "single american",
+            "change"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "animal",
+            "get together"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "young girl",
+            "school"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "person",
+            "control"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "person",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "humanist",
+            "free freedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "man",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "young boy",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "woman",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "single cat",
+            "catfood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "body",
+            "get together"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "young women",
+            "power"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "individual",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "young male",
+            "release"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "person",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "animal",
+            "get food"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "body",
+            "get better"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "human",
+            "end"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "woman",
+            "control"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "female",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "woman",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "man",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "individual",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "single male",
+            "female"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "family",
+            "live life"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Single Girl",
+            "perfect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "human",
+            "life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "male",
+            "female"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "man",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "male",
+            "sex"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "individual",
+            "end"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "piper",
+            "pixie"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "American",
+            "change"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "American Women",
+            "marriage"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "female",
+            "sex"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "animal",
+            "food"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "woman",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cat",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "woman",
+            "sex"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "child",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "child",
+            "school"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "piper",
+            "pry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "child",
+            "mother"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "man",
+            "sex"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "female male",
+            "rape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "piper",
+            "pix"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cat",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "animal",
+            "fern"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "body",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "piper",
+            "feed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "girl",
+            "perfect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "animal",
+            "life"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "younger",
+            "better education"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "body",
+            "rest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mother",
+            "children"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "American",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "parent",
+            "children"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mother",
+            "child"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "parent",
+            "win"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "nad",
+            "rest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pore",
+            "fern"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "body",
+            "sex"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pep",
+            "release"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "nad",
+            "fern"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "humanist",
+            "humanization"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "family",
+            "grow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "humanist",
+            "humanity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "nate",
+            "cate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "piper",
+            "peter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "humanist",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pau",
+            "release"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bert",
+            "berg"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ppl",
+            "png"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "younger",
+            "better life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "American",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bert",
+            "bib"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bib",
+            "cib"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bert",
+            "bern"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "birl",
+            "buster"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bert",
+            "bld"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "birl",
+            "biz"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "birl",
+            "btw"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "younger",
+            "change"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pep",
+            "ppl"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bert",
+            "brit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "younger",
+            "cool"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bust",
+            "fust"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "nate",
+            "nation"
+        ],
+        "label": 0
+    }
+]

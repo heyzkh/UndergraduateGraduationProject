@@ -1,0 +1,38 @@
+[
+    [
+        "The <ENT0> can be <ENT1> .",
+        0.1737881968619295
+    ],
+    [
+        "The <ENT0> can be <ENT1> in order to assess their effectiveness and compliance .",
+        0.13591879427240264
+    ],
+    [
+        "This is a test to see if the <ENT0> can be <ENT1> .",
+        0.1340573774951882
+    ],
+    [
+        "<ENT0> can be <ENT1> to see if they are effective .",
+        0.11124536734704236
+    ],
+    [
+        "<ENT0> can be <ENT1> in a variety of colors .",
+        0.10075989393420354
+    ],
+    [
+        "The <ENT0> can be <ENT1> to the color that you want .",
+        0.09680446605897737
+    ],
+    [
+        "Both parties can ensure that <ENT0> are <ENT1> by taking them themselves .",
+        0.09452767287678697
+    ],
+    [
+        "<ENT0> can be <ENT1> to ensure that they are fair and meet the needs of both parties .",
+        0.08334031967661354
+    ],
+    [
+        "To ensure that both parties are satisfied, <ENT0> can be <ENT1> .",
+        0.06955791147685589
+    ]
+]

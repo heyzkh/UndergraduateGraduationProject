@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "follow directions",
+            "follow instructions"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "search",
+            "type search"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "trust strangers",
+            "trust others"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "quote",
+            "type quote"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "block",
+            "set block"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "achieve",
+            "set goals"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "go anywhere",
+            "travel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "root",
+            "set root"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "list",
+            "type list"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "achieve",
+            "set goal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "avoid stress",
+            "avoid anxiety"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "start programming",
+            "compile"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "start saving",
+            "save"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "become better",
+            "improve"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "text",
+            "type text"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "view",
+            "open window"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "start smoking",
+            "smoke"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "start dancing",
+            "dance"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Avoid Trouble",
+            "avoid problems"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "donate",
+            "contact paypal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "check",
+            "type check"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "become rich",
+            "earn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vape",
+            "smoke marijuana"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "go solo",
+            "travel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "quit",
+            "start smoking"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "show emotion",
+            "cry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "participate",
+            "register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "help",
+            "ask"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "show gratitude",
+            "acknowledge"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "take charge",
+            "resign"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sound",
+            "hear sound"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "console",
+            "enable console"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "vote",
+            "register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stay young",
+            "mature"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "talk",
+            "ask"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "contact police",
+            "report"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "join",
+            "register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stay young",
+            "marry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "know",
+            "ask"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "show results",
+            "test"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "view",
+            "open windows"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "become great",
+            "master"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "max",
+            "set max"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "play",
+            "register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "avoid smoking",
+            "quit smoking"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "take risks",
+            "consider"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "enter",
+            "register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "receive",
+            "send mail"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "play",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "speak",
+            "ask"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "help",
+            "call"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "join",
+            "sign"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "play",
+            "practice"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "contribute",
+            "go online"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "talk",
+            "call"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "play",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "save money",
+            "invest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "play",
+            "win"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "contribute",
+            "contact paypal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "join",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "enter",
+            "sign"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "participate",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "text",
+            "send text"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hate",
+            "love hate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "vote",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "help",
+            "volunteer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "help",
+            "try"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "enter",
+            "click"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "join",
+            "click"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "talk",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "participate",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "work",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "talk",
+            "agree"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "speak",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "work",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "succeed",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vote",
+            "choose"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "vote",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "talk",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vote",
+            "click"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "help",
+            "write"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "succeed",
+            "try"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "speak",
+            "say"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "know",
+            "try"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "respond",
+            "go back"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "enter",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "comment",
+            "click"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "enter",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "participate",
+            "join"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "respond",
+            "ask"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "video",
+            "watch video"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "work",
+            "apply"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "preview",
+            "open windows"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "speak",
+            "listen"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "learn",
+            "practice"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "live",
+            "die"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "win",
+            "try"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "know",
+            "see"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "receive",
+            "send message"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stay",
+            "leave"
+        ],
+        "label": 0
+    }
+]

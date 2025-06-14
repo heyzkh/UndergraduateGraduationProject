@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "ball of yarn",
+            "infinity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "a clenched fist",
+            "power"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cherry blossom",
+            "spring"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "A Wilted Rose",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "star and crescent",
+            "unity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "black cat",
+            "racism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Star Of David",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "black widow",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "black rose",
+            "racism"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "black crow",
+            "racism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "white lotus",
+            "racism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crescent",
+            "unity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rainbow",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Olive Branch",
+            "life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "black butterfly",
+            "racism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kimono",
+            "Japan"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "swastika",
+            "oppression"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "trident",
+            "unity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "halo",
+            "infinity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Great Wall",
+            "freedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "panda",
+            "China"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pomegranate",
+            "fruit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chalice",
+            "death"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cross",
+            "unity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lion",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "eagle",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "butterfly",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Wheel Of Dharma",
+            "karma"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "olive tree",
+            "life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Broken Sword",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mountain",
+            "mountains"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dragon",
+            "dragons"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "moon",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bamboo",
+            "life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "paper crane",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sword",
+            "power"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vulture",
+            "diversity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shivering",
+            "cold"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cypress tree",
+            "trees"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "peacock",
+            "racism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Lamb",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "broken mirror",
+            "evil"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dove",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shadow",
+            "darkness"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wilted flower",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pearl",
+            "life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "willow",
+            "life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "flute",
+            "music"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "skyscraper",
+            "building"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wave",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fox",
+            "freedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lightning",
+            "power"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Compassion",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ripples",
+            "life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "goat",
+            "humanity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bloodstain",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Samurai",
+            "Japan"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "skull",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "book",
+            "freedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "heart",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mirror",
+            "life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "phoenix",
+            "rebirth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "meow",
+            "death"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Scales",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bear",
+            "humanity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crane",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Whiskers",
+            "racism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "firefly",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "firefly",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mask",
+            "identity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dagger",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rose",
+            "life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sunrise",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "anode",
+            "life"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thorn",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spiderweb",
+            "spiders"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "quill",
+            "life"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "teardrop",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Persepolis",
+            "Greece"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bat",
+            "life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "snake",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "river",
+            "humanity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Lotus",
+            "life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mud",
+            "life"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thorned rose",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "claw",
+            "power"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bayonet",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "möbius strip",
+            "sex"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Shofar",
+            "Allah"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "raven",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pawprints",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "venom",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hourglass",
+            "freedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mind",
+            "life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "menorah",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "storm",
+            "life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shogun",
+            "power"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "scroll",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "purr",
+            "death"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Feathers",
+            "hair"
+        ],
+        "label": 0
+    }
+]

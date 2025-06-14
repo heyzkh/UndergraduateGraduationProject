@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "Teddy Bear",
+            "teeth"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cats",
+            "claws"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Swiss Cheese",
+            "variations"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cars",
+            "wheels"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crows",
+            "feathers"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Rainbow Fish",
+            "teeth"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dogs",
+            "ears"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rhinoceros",
+            "horns"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kangaroo",
+            "teeth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "humans",
+            "eyes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "humans",
+            "teeth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crocodile",
+            "teeth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cattle",
+            "calves"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chameleon",
+            "teeth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "giraffe",
+            "horns"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Zebra",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sphinx",
+            "teeth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mermaid",
+            "wings"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fruit",
+            "roots"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "beaver",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chimera",
+            "teeth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "penguin",
+            "teeth"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "peacock",
+            "feathers"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ostrich",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sheep",
+            "horns"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lobster",
+            "teeth"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pineapple",
+            "fruit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "parrot",
+            "wings"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rabbit",
+            "teeth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shark",
+            "teeth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "elephant",
+            "teeth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Algorithm",
+            "parameters"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sommelier",
+            "teeth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "goat",
+            "horns"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cat",
+            "claws"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Airplane",
+            "wings"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "language",
+            "rules"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "truck",
+            "wheels"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Poem",
+            "lines"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "eagle",
+            "wings"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "werewolf",
+            "teeth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "teacher",
+            "children"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "law",
+            "consequences"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "decision",
+            "consequences"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bull",
+            "horns"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "taxi",
+            "drivers"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "opera",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dolphin",
+            "teeth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dinosaur",
+            "teeth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Metaphor",
+            "words"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "newspaper",
+            "readers"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Owl",
+            "wings"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Donut",
+            "eggs"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Rainbow",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "game",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "butterfly",
+            "wings"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Hydra",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Comet",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "squirrel",
+            "teeth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crab",
+            "teeth"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bicycle",
+            "wheels"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dragon",
+            "wings"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fox",
+            "teeth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Smartphone",
+            "features"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Compass",
+            "points"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Diploma",
+            "problems"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "building",
+            "problems"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "computer",
+            "problems"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Necklace",
+            "strings"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Chef",
+            "teeth"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Rectangle",
+            "problems"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Novelist",
+            "problems"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Star",
+            "problems"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Proverb",
+            "words"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "parent",
+            "children"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "country",
+            "problems"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "puzzle",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Notebook",
+            "notes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "camera",
+            "problems"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Programmer",
+            "problems"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "student",
+            "problems"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coin",
+            "problems"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "contract",
+            "problems"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spider",
+            "wings"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "scientist",
+            "problems"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "artist",
+            "eyes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dictionary",
+            "names"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "robin",
+            "eggs"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "friend",
+            "problems"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "book",
+            "problems"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bat",
+            "wings"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "map",
+            "options"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Regulator",
+            "rules"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Painter",
+            "problems"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "comb",
+            "problems"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "table",
+            "problems"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pear",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "menu",
+            "options"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "developer",
+            "options"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "button",
+            "names"
+        ],
+        "label": 0
+    }
+]

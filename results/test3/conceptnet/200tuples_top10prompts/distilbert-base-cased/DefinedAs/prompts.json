@@ -1,0 +1,42 @@
+[
+    [
+        "The <ENT0> is the <ENT1> to the room .",
+        0.15087685785613994
+    ],
+    [
+        "Instead of \"<ENT0>\" you could say \"<ENT1>\" .",
+        0.14734974949130059
+    ],
+    [
+        "The <ENT1> to a room is the <ENT0> that leads into it .",
+        0.13764149392515324
+    ],
+    [
+        "The <ENT1> to the room is the <ENT0> .",
+        0.11367331890559863
+    ],
+    [
+        "The term \"<ENT1>\" refers to the overall <ENT0> of an individual .",
+        0.09919087322487682
+    ],
+    [
+        "An <ENT1> is a <ENT0> or gates that gives access to a building or enclosed space .",
+        0.09428928603051949
+    ],
+    [
+        "The word \"<ENT1>\" can be used to describe the act of entering a place, or the <ENT0>way through which one enters .",
+        0.07389847536225233
+    ],
+    [
+        "<ENT0> is the study of <ENT1> .",
+        0.06761760426393967
+    ],
+    [
+        "<ENT1> is a more specific way to describe <ENT0> .",
+        0.05933520677902931
+    ],
+    [
+        "<ENT1> is better at explaining what <ENT0> is .",
+        0.05612713416119013
+    ]
+]

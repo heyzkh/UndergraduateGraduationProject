@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "sleeping bag",
+            "sleep sleeping"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fishing net",
+            "Fish Fishing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "safety deposit box",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "alarm clock",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "life jacket",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "jump rope",
+            "climb"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Walking Shoes",
+            "walk walking"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ball",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ice axe",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "desk lamp",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "walking poles",
+            "travel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Wagon Cart",
+            "transport"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "swim fins",
+            "swimming"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "watering can",
+            "dry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "starter kit",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "book",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shield",
+            "fight"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Life Support System",
+            "function life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pillow",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chair",
+            "sit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "walking stick",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tent",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Bicycle",
+            "travel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tree",
+            "climb"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "car",
+            "transport"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bow",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sword",
+            "fight"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tree",
+            "grow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plant",
+            "grow"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blanket",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bookmark",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "frisbee",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bus",
+            "travel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cup",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fly rod",
+            "control"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fly trap",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "heater",
+            "cool"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "keyboard",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ladder",
+            "climb"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "computer",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hammer",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "net",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mirror",
+            "see"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "horse",
+            "ride"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rope",
+            "climb"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "skateboard",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "magnifying glass",
+            "see"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "joystick",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lifeboat",
+            "swim"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Wagon",
+            "transport"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "backpack",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shield",
+            "defense"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "doll",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lantern",
+            "light"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "harness",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hairbrush",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stool",
+            "sit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Spear",
+            "fight"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Trolley",
+            "transport"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "airplane",
+            "fly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "jacket",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sleep mask",
+            "sleeping"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "key",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "suitcase",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "flypaper",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stapler",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "remote",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "trophy",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "seedling tray",
+            "feed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hammock",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compass",
+            "travel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "scarf",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "telephone",
+            "communicate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dumbbell",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wheelbarrow",
+            "transport"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tunnel",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clipboard",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "telescope",
+            "see"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "treadmill",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "medal",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "parachute",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "notebook",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hammock Stand",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "passport",
+            "travel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "car",
+            "drive"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "calculator",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spatula",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Trampoline",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tightrope",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "microphone",
+            "sound"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "carabiner",
+            "safety"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "yo-yo",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crampons",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "meditation",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coin",
+            "trade"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "currency",
+            "trade"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "binoculars",
+            "see"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "glasses",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "earplugs",
+            "sound"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "flyswatter",
+            "escape"
+        ],
+        "label": 0
+    }
+]

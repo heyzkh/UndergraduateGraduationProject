@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "early bloomer",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "quality assurance engineer",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "precision-guided munition",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "task scheduler",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "game developer",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "inspector",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "satellite",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sniper",
+            "scout"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sniper",
+            "scout"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sniper",
+            "scout"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sniper",
+            "scout"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sniper",
+            "scout"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "radar system",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "autonomous system",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "surveillance system",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "surveillance system",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "intrusion prevention system",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "eagle-eyed observer",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hacker",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "eagle",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "eagle",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "delayed event",
+            "occur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "navigation app",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "automated testing tool",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "owl",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "early riser",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "early riser",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "explorer",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "explorer",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "explorer",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "scout",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "scout drone",
+            "fly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "efficient worker",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "detective",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "detective",
+            "use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vulnerability",
+            "exploit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stealth operative",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stealth operative",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "early bird",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "navigator",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "navigator",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "self-disciplined individual",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "forecaster",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "forecaster",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "time traveler",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "venn diagram",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "alarm clock",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "reconnaissance drone",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "programmer",
+            "use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "programmer",
+            "use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ninja",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "optimist",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tool",
+            "use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tool",
+            "use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "talent scout",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "talent scout",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "proofreader",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "patient person",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "construction project",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "construction project",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "immortal being",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "innovator",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "innovator",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "patience",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stealthy unit",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "project",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "athlete",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "event",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "event",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "event",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "predecessor",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "double striker",
+            "scout"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "activist",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "administrator",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "administrator",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "administrator",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "administrator",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "leader",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "leader",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "evaluator",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "evaluator",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "distracted person",
+            "find"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sensor",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sensor",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sensor",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sensor",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sensor",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sensor",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sensor",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "assistant",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ultramarathon runner",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blind pilot",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "astronomer",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "astronomer",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "visionary",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mindreader",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "legislature",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "clairvoyant",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "clairvoyant",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "clairvoyant",
+            "use"
+        ],
+        "label": 0
+    }
+]

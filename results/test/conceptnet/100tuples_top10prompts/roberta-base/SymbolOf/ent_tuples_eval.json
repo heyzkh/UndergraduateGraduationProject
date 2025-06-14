@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "flag",
+            "American Freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "flag",
+            "American History"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "flag",
+            "American Identity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "flag",
+            "American Pride"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kite",
+            "flying"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kite",
+            "flight"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kai",
+            "Japanese People"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "flag",
+            "american unity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kai",
+            "Kali"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "star",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kang",
+            "kong"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kara",
+            "Kari"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kang",
+            "Korean"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kang",
+            "Chinese"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kara",
+            "Karma"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "star",
+            "unity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kang",
+            "Korea"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kai",
+            "Japanese"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kang",
+            "China"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kara",
+            "Kali"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Wich",
+            "human spirit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pence",
+            "equality"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "name",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kite",
+            "Starry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pence",
+            "gold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "name",
+            "unity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pix",
+            "human state"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kai",
+            "Japan"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pence",
+            "money"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pix",
+            "Linux"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bib",
+            "black woman"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cat",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "name",
+            "Unicode"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kara",
+            "Japan"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wreath",
+            "home"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wreath",
+            "Christmas"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "star",
+            "light"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "name",
+            "identity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lite",
+            "Linux"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fern",
+            "spring"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "star",
+            "power"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lite",
+            "light"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Rhet",
+            "power"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bib",
+            "blackness"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lite",
+            "gold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fern",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wisp",
+            "light"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fern",
+            "life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cat",
+            "home"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "name",
+            "English"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kron",
+            "Korn"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cross",
+            "humanism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "star",
+            "Earth"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pix",
+            "humanism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fern",
+            "death"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bib",
+            "identity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wisp",
+            "magic"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wisp",
+            "Lisp"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cat",
+            "freedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wreath",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bib",
+            "black"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cat",
+            "unity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "peter",
+            "home"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kate",
+            "Kata"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wisp",
+            "Twp"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wreath",
+            "Americanism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kate",
+            "Kali"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "peter",
+            "water"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pix",
+            "humanity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kron",
+            "metal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kate",
+            "Japanese"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kara",
+            "Hanu"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Wich",
+            "evil"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bib",
+            "blackface"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kate",
+            "Japan"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "peter",
+            "pox"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Wich",
+            "human state"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wag",
+            "Japan"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kron",
+            "gold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kron",
+            "peace"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kron",
+            "kra"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kite",
+            "Starring"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kate",
+            "Hawaii"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "peter",
+            "salt"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Wich",
+            "humanism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kite",
+            "starion"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fern",
+            "humanness"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pix",
+            "humanness"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pence",
+            "Britishness"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wth",
+            "nth"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hilde",
+            "china"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "peter",
+            "poppers"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Wth",
+            "equality"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hilde",
+            "chinese"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Wich",
+            "humanness"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pence",
+            "moneying"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Wth",
+            "humanism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wisp",
+            "tww"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Wth",
+            "humanity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Wth",
+            "humanness"
+        ],
+        "label": 0
+    }
+]

@@ -1,0 +1,50 @@
+[
+    [
+        "<ENT0> stands as a symbolic representation of <ENT1> .",
+        0.09277317291864125
+    ],
+    [
+        "The <ENT0> serves as a symbolic embodiment of <ENT1> .",
+        0.09179685958681892
+    ],
+    [
+        "The <ENT0> stands as a symbolic representation of <ENT1> .",
+        0.09152865978571945
+    ],
+    [
+        "The <ENT0> serves as a symbolic emblem of <ENT1> .",
+        0.09054758889660731
+    ],
+    [
+        "<ENT0> serves as a symbolic representation of <ENT1> .",
+        0.09021309198963248
+    ],
+    [
+        "<ENT0> is symbolic representation of <ENT1> .",
+        0.08800799109801394
+    ],
+    [
+        "<ENT0> symbolizes <ENT1> .",
+        0.07952692929760341
+    ],
+    [
+        "<ENT0> symbolically represents <ENT1> .",
+        0.07883727858260618
+    ],
+    [
+        "The <ENT0> serves as a symbolic representation of <ENT1> .",
+        0.07823559571260078
+    ],
+    [
+        "The act of <ENT0> symbolizing <ENT1> .",
+        0.07745490045989435
+    ],
+    [
+        "The act of <ENT0> symbolically represents <ENT1> .",
+        0.07413730114644504
+    ],
+    [
+        "A <ENT0> symbolizes <ENT1> .",
+        0.06694063052541704
+    ]
+]

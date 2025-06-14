@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "\"Security Camera\"",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"Security Camera\"",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"Security Camera\"",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"Security Camera\"",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"software developer\"",
+            "code"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "X-Ray Vision",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Bacteria",
+            "multiply"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crows",
+            "fly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Data Analyst",
+            "use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Data Analyst",
+            "use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"sensor\"",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"sniper\"",
+            "kill shoot"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chameleon",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chameleon",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chameleon",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chameleon",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chameleon",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "programmer",
+            "use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "robot",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "satellite",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"programmer\"",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Time Traveler",
+            "see travel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "\"tracker\"",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "detective",
+            "investigate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "detective",
+            "investigate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "detective",
+            "investigate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "detective",
+            "investigate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "detective",
+            "investigate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "detective",
+            "investigate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "detective",
+            "investigate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cheetah",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cheetah",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cheetah",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cheetah",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "\"chameleon\"",
+            "attack"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "\"Inspector\"",
+            "report"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"Inspector\"",
+            "report"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"Strategist\"",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "\"shopper\"",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "\"Patient Person\"",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"Patient Person\"",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"Patient Person\"",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"Patient Person\"",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"Patient Person\"",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"Patient Person\"",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"speaker\"",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"literate person\"",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Assassin",
+            "execute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"software\"",
+            "use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "speaker",
+            "say"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "plant",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Journalist",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Journalist",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Singer",
+            "perform"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Motivator",
+            "predict"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "\"warrior\"",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"warrior\"",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"warrior\"",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"warrior\"",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"warrior\"",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"analyzer\"",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Lion",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Lion",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Lion",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "student",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "student",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"supervisor\"",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "\"eyes\"",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Athlete",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"volunteer\"",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"motivator\"",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "engineer",
+            "see test"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "engineer",
+            "see test"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "engineer",
+            "see test"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "\"boomerang\"",
+            "occur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Predator",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"applicant\"",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "author",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"Organizer\"",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "\"Organizer\"",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "\"artist\"",
+            "create"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"event\"",
+            "happen"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "\"event\"",
+            "happen"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "\"Inquirer\"",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"Inquirer\"",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"scholar\"",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"person\"",
+            "mean read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"person\"",
+            "mean read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"ignition\"",
+            "occur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Philosopher",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "assistant",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "assistant",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "assistant",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "herbivore",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "\"detective\"",
+            "detect mean"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "\"Hound\"",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "videographer",
+            "observe see"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sensor",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "**athlete**",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "\"Angler\"",
+            "read"
+        ],
+        "label": 0
+    }
+]

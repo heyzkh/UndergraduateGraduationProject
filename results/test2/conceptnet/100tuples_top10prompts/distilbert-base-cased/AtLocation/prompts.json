@@ -1,0 +1,42 @@
+[
+    [
+        "The <ENT1> has <ENT0> inside it . (Note: ENT0 and ENT1 conform to objective facts.) .",
+        0.13492677183930152
+    ],
+    [
+        "The <ENT1> houses the <ENT0> . (Note: ENT0 and ENT1 conform to objective facts.) .",
+        0.1288214655517626
+    ],
+    [
+        "The <ENT1> contains <ENT0> . (Note: ENT0 and ENT1 conform to objective facts.) .",
+        0.11540398189938299
+    ],
+    [
+        "The <ENT1> includes <ENT0> as one of its components . (Note: ENT0 and ENT1 conform to objective facts.) .",
+        0.10846293876545618
+    ],
+    [
+        "The <ENT0> are inside the <ENT1> . (Note: ENT0 and ENT1 conform to objective facts.) .",
+        0.10752886833403716
+    ],
+    [
+        "The <ENT1> is where the <ENT0> are located . (Note: ENT0 and ENT1 conform to objective facts.) .",
+        0.09258858819947778
+    ],
+    [
+        "<ENT1> is home to <ENT0> . (Note: ENT0 and ENT1 conform to objective facts.) .",
+        0.0848180904128617
+    ],
+    [
+        "<ENT1> serves as the container for <ENT0> . (Note: ENT0 and ENT1 conform to objective facts.) .",
+        0.08393041728022645
+    ],
+    [
+        "<ENT1> is the location for <ENT0> .",
+        0.0757476113451903
+    ],
+    [
+        "<ENT0> inhabit <ENT1> . (Note: ENT0 and ENT1 conform to objective facts.) .",
+        0.06777126637230337
+    ]
+]

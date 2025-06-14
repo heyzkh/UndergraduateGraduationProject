@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "bikers",
+            "ride bikes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "attackers",
+            "target targets"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "trees",
+            "become trees"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "vaccines",
+            "kill bacteria"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cameras",
+            "capture images"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "consumers",
+            "purchase products"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drugs",
+            "reduce anxiety"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Bias",
+            "cause bias"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "drugs",
+            "reduce pain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "surgeons",
+            "see patients"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cameras",
+            "capture video"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "teams",
+            "get together"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "messages",
+            "send messages"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "criminals",
+            "target targets"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Bricks",
+            "break apart"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cams",
+            "record videos"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Bias",
+            "cause anxiety"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "farms",
+            "harvest grain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "people",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "terrorists",
+            "target targets"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "emails",
+            "send messages"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Drones",
+            "fly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "controllers",
+            "set parameters"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "researchers",
+            "find information"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "designers",
+            "design patterns"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "donors",
+            "donate money"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "winners",
+            "win games"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "patterns",
+            "generate patterns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "attacks",
+            "target targets"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Bricks",
+            "break windows"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "people",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vaccines",
+            "kill animals"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "riddles",
+            "solve puzzles"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "people",
+            "ask"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Drones",
+            "follow"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Brows",
+            "look good"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "people",
+            "say"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "databases",
+            "store files"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spanners",
+            "spot signs"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "farms",
+            "harvest seeds"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "controllers",
+            "set variables"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spanners",
+            "spot spots"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "drugs",
+            "reduce risk"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cries",
+            "become aggressive"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "scanners",
+            "spot signs"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "agents",
+            "find information"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "programmers",
+            "test"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "givers",
+            "give money"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hackers",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cries",
+            "become angry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "people",
+            "use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Marines",
+            "take advantage"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Brows",
+            "look like"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hackers",
+            "hide"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bikers",
+            "ride around"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drugs",
+            "kill animals"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hosts",
+            "set parameters"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Brows",
+            "look forward"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "criminals",
+            "steal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "marines",
+            "take action"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "birds",
+            "fly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hackers",
+            "steal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Drones",
+            "hunt"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cats",
+            "hunt"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "groups",
+            "find information"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Surgeons",
+            "see signs"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cats",
+            "hide"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hunters",
+            "go online"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "others",
+            "get together"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "robots",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Hackers",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "generators",
+            "generate code"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "firearms",
+            "kill animals"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "attackers",
+            "get online"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sets",
+            "set parameters"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hackers",
+            "spy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spies",
+            "spy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cats",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "developers",
+            "test"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "controllers",
+            "control objects"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "homes",
+            "become houses"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Nails",
+            "break windows"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "developers",
+            "build"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "criminals",
+            "hide"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "scientists",
+            "study data"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vehicles",
+            "drive around"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "controllers",
+            "control variables"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cats",
+            "trap"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "banks",
+            "buy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "developers",
+            "use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Panners",
+            "spot spots"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "others",
+            "find information"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fighters",
+            "go online"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "trees",
+            "grow"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "thieves",
+            "steal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "analysts",
+            "report"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cats",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "birds",
+            "hunt"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Algorithms",
+            "compute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "users",
+            "search"
+        ],
+        "label": 1
+    }
+]

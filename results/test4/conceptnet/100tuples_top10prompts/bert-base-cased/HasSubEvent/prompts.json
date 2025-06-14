@@ -1,0 +1,42 @@
+[
+    [
+        "You <ENT1> when you <ENT0> .",
+        0.13747135875399813
+    ],
+    [
+        "When you <ENT0>, you <ENT1> .",
+        0.13197011241257153
+    ],
+    [
+        "You need to <ENT1> in order to <ENT0> .",
+        0.12446839638548655
+    ],
+    [
+        "As you <ENT0>, you will also <ENT1> .",
+        0.12308197074811554
+    ],
+    [
+        "As you <ENT0>, you will not only <ENT1>, but also experience .",
+        0.09426102359824806
+    ],
+    [
+        "In order to <ENT0> something, you first have to <ENT1> .",
+        0.08835055998658609
+    ],
+    [
+        "When we <ENT0> something, we automatically <ENT1> about it .",
+        0.08527983068144099
+    ],
+    [
+        "<ENT1> generally happens when you <ENT0> someone .",
+        0.07317761633852825
+    ],
+    [
+        "Your body produces <ENT1> to cool itself when you <ENT0> .",
+        0.07167455797396473
+    ],
+    [
+        "When you <ENT0> someone, you may find yourself <ENT1> along with them .",
+        0.07026457312106014
+    ]
+]

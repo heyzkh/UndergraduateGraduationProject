@@ -1,0 +1,34 @@
+[
+    [
+        "If someone wants to <ENT1>, they need to <ENT0> well .",
+        0.2196155936910957
+    ],
+    [
+        "Someone <ENT0>s in order to <ENT1> .",
+        0.14923650127435872
+    ],
+    [
+        "The reason someone would <ENT0> is so they can have something to <ENT1> .",
+        0.12387537406432861
+    ],
+    [
+        "Someone does <ENT0> because they want to <ENT1> and they also want to have a sense of purpose .",
+        0.11159125723912534
+    ],
+    [
+        "Someone does <ENT0> because they want to <ENT1> .",
+        0.11124537379039924
+    ],
+    [
+        "Outright <ENT0>s their thing because they need or want <ENT1> from it .",
+        0.10159582480388236
+    ],
+    [
+        "Someone <ENT0>s because they want <ENT1> .",
+        0.09870715873127098
+    ],
+    [
+        "The person is <ENT0>ing in order to make <ENT1> .",
+        0.08413291640553905
+    ]
+]

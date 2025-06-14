@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "select option",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "walk away",
+            "return"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "press button",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "execute command",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "log out",
+            "login"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "complete registration",
+            "register"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "finish work",
+            "restart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fire gun",
+            "reload"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "submit application",
+            "complete"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "leave office",
+            "return"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "publish article",
+            "edit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "compile code",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compile program",
+            "execute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "install updates",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "submit manuscript",
+            "complete"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "submit report",
+            "complete"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "complete documentation",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "warm up",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "print document",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "record audio",
+            "edit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "publish manuscript",
+            "edit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "prepare materials",
+            "use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wrap up",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "publish post",
+            "edit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "compile",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "prepare presentation",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "publish final version",
+            "edit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "print",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "publish book",
+            "write"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "serve food",
+            "cook"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "write",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Save Changes",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "decide",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "publish paper",
+            "edit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "compile instructions",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "brainstorm ideas",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "copy text",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "submit",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "publish draft",
+            "edit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "read",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "conclude meeting",
+            "leave"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "verify",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "test",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "edit",
+            "add"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "publish",
+            "edit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "debug program",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "debug code",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "approve",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "format document",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "format document",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "submit draft",
+            "edit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "summarize",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "assemble",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "analyze",
+            "calculate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "toast",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "review",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "compose",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "format manuscript",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "press",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "aim",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sign",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "draft",
+            "select"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "debug",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "discuss",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "present",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "authenticate",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "jog",
+            "walk"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "evaluate",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "finalize draft",
+            "select"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "polish",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "debate",
+            "vote"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "finalize",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "reflect",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sprint",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "format text",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "brainstorm",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "skim",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "memorize",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "revise",
+            "write"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "organize",
+            "create"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "annotate document",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rehearse",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "proofread",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "proof",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "proof",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "proof",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "proof",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "redraft",
+            "write"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "annotate text",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "proofread document",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "transcribe",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "consult",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rewrite",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "annotate",
+            "print"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "format",
+            "print"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ponder",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Rehearse Lines",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "borrow",
+            "use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stroll",
+            "walk"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "proofreading",
+            "type"
+        ],
+        "label": 0
+    }
+]

@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "pass through security checkpoint",
+            "enter"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cast a ballot",
+            "vote"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "press ctrl+z",
+            "press type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Press The Power Button",
+            "Press Restart"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sign up",
+            "login"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sign up",
+            "login"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "check out",
+            "login"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "complete application",
+            "execute"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "complete warm-up exercises",
+            "walk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shut down",
+            "restart"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shut down",
+            "restart"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shut down",
+            "restart"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shut down",
+            "restart"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shut down",
+            "restart"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shut down",
+            "restart"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "complete task",
+            "complete execute"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "complete task",
+            "complete execute"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "enter credentials",
+            "login"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "finish",
+            "start"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "finish",
+            "start"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "finish",
+            "start"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "warm up",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "execute test",
+            "execute run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "record a video",
+            "edit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "turn on tv",
+            "watch"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "send to printer",
+            "print type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "send to printer",
+            "print type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "leave a building",
+            "exit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "leave a building",
+            "exit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "leave a building",
+            "exit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "click",
+            "click type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "select file",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "record events",
+            "edit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "register",
+            "login"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Save Changes",
+            "Edit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lie down",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "exit",
+            "enter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "submit assignment",
+            "execute"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "submit assignment",
+            "execute"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "submit assignment",
+            "execute"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "write",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "debug code",
+            "execute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "extinguish a fire",
+            "restart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "end",
+            "start"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "end",
+            "start"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "end",
+            "start"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cook",
+            "cook eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "edit",
+            "add"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "edit",
+            "add"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "leave a place",
+            "leave return"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "activate",
+            "execute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "install",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "install",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "install",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "submit",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "open",
+            "close"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "erase",
+            "delete"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "erase",
+            "delete"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shoot",
+            "reload"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shoot",
+            "reload"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shoot",
+            "reload"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "apply",
+            "complete"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "race",
+            "finish"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sign",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sign",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sign",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sign",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sign",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "practice",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sprint",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "score",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "celebrate",
+            "Celebrate Remember"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "celebrate",
+            "Celebrate Remember"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Shutting Down",
+            "restart"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Shutting Down",
+            "restart"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "jog",
+            "walk"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "jog",
+            "walk"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rehearse",
+            "practice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rehearse",
+            "practice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "election",
+            "vote"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Light A Match",
+            "Fire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stir",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "skim",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "whisper",
+            "repeat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "proofread",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "proofread",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "completing",
+            "complete"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Borrow",
+            "Borrow Use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Borrow",
+            "Borrow Use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Borrow",
+            "Borrow Use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stroll",
+            "walk"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "arrest",
+            "arrest release"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "arrest",
+            "arrest release"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "arrest",
+            "arrest release"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "arrest",
+            "arrest release"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "conversation",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ending",
+            "start"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Concluding",
+            "Complete"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "igniting",
+            "fire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "igniting",
+            "fire"
+        ],
+        "label": 1
+    }
+]

@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "final scene",
+            "movie"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "present",
+            "historical period"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "central triangle",
+            "square"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "central triangle",
+            "circle"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "third place",
+            "list"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "present",
+            "historical history"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "final line",
+            "sequence"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "final part",
+            "sequence"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "central triangle",
+            "arc"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "story",
+            "book"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "story",
+            "series"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rut",
+            "long road"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "third segment",
+            "show"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "story",
+            "novel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "third point",
+            "sequence"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "third segment",
+            "list"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "central structure",
+            "system"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "central structure",
+            "complex"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "final case",
+            "law"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "final case",
+            "trial"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "story",
+            "game"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "third point",
+            "list"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rut",
+            "Long Run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "map",
+            "game"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "setting",
+            "game"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Centralia",
+            "Western Region"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "story",
+            "movie"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "world",
+            "book"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rau",
+            "western desert"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "scene",
+            "movie"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "setting",
+            "novel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "world",
+            "game"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "map",
+            "table"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "map",
+            "text"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "present",
+            "history"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "map",
+            "video"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "setting",
+            "book"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "scene",
+            "video"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "world",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "place",
+            "forest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "setting",
+            "series"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "line",
+            "section"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "section",
+            "book"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "place",
+            "town"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Rau",
+            "Western Region"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "scene",
+            "game"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "map",
+            "book"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rut",
+            "road"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "line",
+            "sequence"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "present",
+            "past"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "line",
+            "string"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "scene",
+            "novel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "place",
+            "land"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "section",
+            "series"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "place",
+            "park"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "series",
+            "anime"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "series",
+            "manga"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rut",
+            "river"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "line",
+            "text"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rau",
+            "western country"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "section",
+            "text"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "present",
+            "future"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "section",
+            "article"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "centraling",
+            "historical tradition"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Rau",
+            "Western Area"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rut",
+            "longitude"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cid",
+            "Bic"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "centraling",
+            "historical timeline"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Centralion",
+            "Greek Tradition"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "centrality",
+            "system"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rss",
+            "css"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rau",
+            "river"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "centrality",
+            "structure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rss",
+            "fic"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rss",
+            "fss"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rance",
+            "play"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Ration",
+            "system"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cid",
+            "bib"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Rance",
+            "Poem"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Centralion",
+            "Greek System"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rance",
+            "song"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Centralion",
+            "Greek Script"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rss",
+            "wss"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cid",
+            "chain"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cid",
+            "post"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cet",
+            "tree"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "css",
+            "function"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cet",
+            "box"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Centralia",
+            "world"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "centralia",
+            "land"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "finalx",
+            "sequence"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "centralia",
+            "triangle"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Ration",
+            "war"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "setting",
+            "gameworld"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "centralion",
+            "world"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "centralion",
+            "triangle"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Centralic",
+            "structure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "finalion",
+            "list"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rss",
+            "wrt"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cid",
+            "bid"
+        ],
+        "label": 0
+    }
+]

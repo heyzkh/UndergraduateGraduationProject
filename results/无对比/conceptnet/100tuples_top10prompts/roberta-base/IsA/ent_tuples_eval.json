@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "red blood cell",
+            "cancer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sand dune",
+            "desert"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "brain tumor",
+            "cancer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hot air balloon",
+            "rocket"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "muscle cramp",
+            "contraction"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Lymphatic Tissue",
+            "tumor"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "muscle spasm",
+            "contraction"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "muscle twitch",
+            "twitch muscle"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "benign tumor",
+            "cancer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cell membrane",
+            "membrane cell"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spindle fiber",
+            "fibre"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sparrow",
+            "bird species"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spinning wheel",
+            "machine"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "solar panel",
+            "cell"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blood vessel",
+            "cell"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tarantula",
+            "snake"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Lymphatic Follicle",
+            "cell"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Lymphatic Follicle",
+            "cell"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sparrow",
+            "bird"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "butterfly net",
+            "net butterfly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "anemia",
+            "disease"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Bacterium",
+            "bacteria"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Lymphoid Organ",
+            "tumor"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Butterfly Wing",
+            "wing butterfly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "arachnid",
+            "parasite"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "food web",
+            "site"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "biceps",
+            "muscle"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "viper",
+            "worm"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lice",
+            "parasite"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Burial Mound",
+            "site"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nematode",
+            "worm"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mountain range",
+            "region"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Sea Sponge",
+            "fish"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Spinning Machine",
+            "machinery"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hamster",
+            "rodent"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sepsis",
+            "cancer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Garden Plot",
+            "plot garden"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cobra",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "platypus",
+            "rodent"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mitochondrion",
+            "cell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "luna moth",
+            "butterfly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Lymph Node",
+            "cancer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tree",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "silkworm moth",
+            "insect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "seedling",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spasm",
+            "contraction"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "caterpillar",
+            "moth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dragonfly",
+            "butterfly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "biofilm",
+            "tissue"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "paraglider",
+            "worm"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tapeworm",
+            "fungus"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cartilage",
+            "tissue"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Ring Binder",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Neuron",
+            "cell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blimp",
+            "balloon"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cardiac output",
+            "heart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "microcell",
+            "protein"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "enzyme",
+            "protein"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Tendon",
+            "muscle"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "butterfly",
+            "bird"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "meson",
+            "mass"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "abscess",
+            "infection"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Kitten",
+            "cat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "harvest spider",
+            "insect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "silkworm",
+            "parasite"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Ecosystem",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "glider",
+            "bird"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "church steeple",
+            "structure"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sporangium",
+            "fungus"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kitchen sponge",
+            "bacteria"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cloud",
+            "system"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sponge",
+            "fungus"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "python",
+            "language"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "intervertebral disc",
+            "disk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Skyscraper",
+            "building"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "zeppelin",
+            "structure"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "building",
+            "structure"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bridge",
+            "structure"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Sporocyte",
+            "cell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Pollen",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "airship",
+            "vessel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "puppy",
+            "dog"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "skin",
+            "tissue"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Helicopter",
+            "vehicle"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Foam",
+            "sponge"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "computer",
+            "system"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tent",
+            "structure"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "harvestman",
+            "farmer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "airscrew",
+            "worm"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "serpent",
+            "snake"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Iceberg",
+            "vessel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tower",
+            "structure"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Sage",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spice",
+            "foodstuff"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Airplane",
+            "bird"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spice",
+            "food"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "orb-weaver",
+            "worm"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Notebook",
+            "cell"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Android",
+            "system"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "folder",
+            "file"
+        ],
+        "label": 0
+    }
+]

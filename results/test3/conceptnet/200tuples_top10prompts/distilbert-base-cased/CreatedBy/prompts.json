@@ -1,0 +1,42 @@
+[
+    [
+        "A <ENT1> is a person who oversees the production of a <ENT0> .",
+        0.15178415145961827
+    ],
+    [
+        "A <ENT1> is a person who helps to create a <ENT0> by coordinating the different elements that go into making it .",
+        0.1190117907147131
+    ],
+    [
+        "<ENT1> refers to the person who is responsible for creating a <ENT0> .",
+        0.1142942139946308
+    ],
+    [
+        "The word \"<ENT1>\" refers to the person who creates or prepares <ENT0> .",
+        0.11215387668129313
+    ],
+    [
+        "The person responsible for creating a <ENT0> is called the <ENT1> .",
+        0.10992557223663571
+    ],
+    [
+        "A <ENT1> is someone who makes <ENT0> .",
+        0.10464198944595395
+    ],
+    [
+        "The <ENT1> is the creative force behind the <ENT0>, responsible for its overall vision and direction .",
+        0.07421105381054002
+    ],
+    [
+        "<ENT1>s create <ENT0>s either by writing the music themselves or by collaborating with lyricists and other musicians .",
+        0.07319259077635015
+    ],
+    [
+        "One function of the <ENT1> is to lay <ENT0>s .",
+        0.07270709602522114
+    ],
+    [
+        "A <ENT1> is a female chicken that produces <ENT0>s .",
+        0.06807766485504371
+    ]
+]

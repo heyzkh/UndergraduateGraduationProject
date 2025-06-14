@@ -1,0 +1,30 @@
+[
+    [
+        "This is a statement about <ENT0> in general - that they are <ENT1> .",
+        0.1791983685759649
+    ],
+    [
+        "Most <ENT0>s are <ENT1> and can lead to dependence .",
+        0.16111849399950864
+    ],
+    [
+        "While not all <ENT0>s are <ENT1>, some can be .",
+        0.15893734666851475
+    ],
+    [
+        "<ENT0>s are <ENT1> and can easily be carried around with you .",
+        0.1585042587839592
+    ],
+    [
+        "<ENT0> are often seen as <ENT1> and pure .",
+        0.1553911663605523
+    ],
+    [
+        "<ENT1> <ENT0>s are great for carrying around with you .",
+        0.11580668330235766
+    ],
+    [
+        "<ENT0>s are relatively <ENT1> compared to other types of notebooks .",
+        0.07104368230914254
+    ]
+]

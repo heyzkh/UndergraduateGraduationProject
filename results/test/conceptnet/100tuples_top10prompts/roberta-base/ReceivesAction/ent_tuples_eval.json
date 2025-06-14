@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "individual letters",
+            "written separately"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "additional variables",
+            "added"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "individual letters",
+            "read separately"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "items",
+            "set aside"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "individual components",
+            "added separately"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "different versions",
+            "tested"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "additional variables",
+            "considered"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "two programs",
+            "compared"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "final version",
+            "edited"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "additional tools",
+            "added"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "different strategies",
+            "implemented"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "specific patterns",
+            "found online"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "two rules",
+            "combined"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "additional variables",
+            "set"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "different variables",
+            "considered"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "two statements",
+            "combined"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "changes",
+            "made"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "different versions",
+            "found"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "individual variables",
+            "summed together"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "additional tools",
+            "downloaded"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "two statements",
+            "compared"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "different types",
+            "mixed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tests",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tests",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "specific cases",
+            "looked upon"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "steps",
+            "taken"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tests",
+            "performed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "changes",
+            "implemented"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "analyzed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "results",
+            "compared"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tests",
+            "repeated"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "code",
+            "read directly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rules",
+            "modified"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "steps",
+            "followed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "changes",
+            "applied"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "extracted"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rules",
+            "changed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "results",
+            "obtained"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "two programs",
+            "implemented"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "results",
+            "used"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "steps",
+            "repeated"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "specific cases",
+            "looked forward"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "conditions",
+            "set"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "conditions",
+            "applied"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tests",
+            "conducted"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "conditions",
+            "adjusted"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "specific cases",
+            "looked closely"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "conditions",
+            "changed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "manipulated"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "conditions",
+            "modified"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rules",
+            "applied"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "steps",
+            "used"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "results",
+            "seen"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rules",
+            "followed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "results",
+            "modified"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "items",
+            "set together"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "final statements",
+            "written"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "final values",
+            "calculated"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "final lines",
+            "drawn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "changes",
+            "adjusted"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "final lines",
+            "added"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "filtered"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "code",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "steps",
+            "modified"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "measures",
+            "taken together"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "specific options",
+            "applied directly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "code",
+            "written"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "code",
+            "changed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "values",
+            "set"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "values",
+            "adjusted"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "changes",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "values",
+            "changed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "values",
+            "calculated"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "test statements",
+            "written"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "differences",
+            "made"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Test Statement",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "measures",
+            "taken"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "differences",
+            "seen"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "differences",
+            "compared"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "differences",
+            "observed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "differences",
+            "found"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "test statements",
+            "evaluated"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "measures",
+            "applied"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "test statement",
+            "written"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "individualizations",
+            "done manually"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "test statement",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "measures",
+            "adjusted"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "measures",
+            "modified"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "individualizations",
+            "done individually"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "products",
+            "made online"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "individualizations",
+            "done directly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "finalctions",
+            "made available"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "individualizations",
+            "done together"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "code",
+            "readable"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "individual products",
+            "individuallyized"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "finalctions",
+            "taken"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "differenties",
+            "found"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "differentations",
+            "found"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "differentions",
+            "compared"
+        ],
+        "label": 1
+    }
+]

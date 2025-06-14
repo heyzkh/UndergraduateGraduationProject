@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "Statue Of Liberty",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cherry Blossom",
+            "Spring"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Golden Retriever",
+            "freedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "night sky",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "white dove",
+            "unity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Black Diamond",
+            "unity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Black Pearl",
+            "unity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Mount Fuji",
+            "Japan"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Union Jack",
+            "freedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bald eagle",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Liberty Bell",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "black swan",
+            "unity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Black Panther",
+            "racism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "red maple leaf",
+            "Canada"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "black cat",
+            "racism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "golden calf",
+            "unity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Gold Coin",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Crystal Ball",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "white lily",
+            "spring"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Black Rose",
+            "unity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Black Orchid",
+            "unity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Black Widow",
+            "death"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Black Feather",
+            "unity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rainbow",
+            "unity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Great Wall",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Black Lotus",
+            "unity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "black butterfly",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Rainbow Serpent",
+            "unity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "golden sun",
+            "unity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "open book",
+            "freedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Apple Pie",
+            "Pie Apple"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "silver fox",
+            "freedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "oak tree",
+            "unity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "moon",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Olive Branch",
+            "unity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "red-crowned crane",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "butterfly",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "olive tree",
+            "unity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cobra",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dragon",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "penguin",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "penguin",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "unicorn",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wreath",
+            "Christmas"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "panda",
+            "China"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Aloha Shirt",
+            "Qatar"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "eagle",
+            "space"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crow",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lion",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "comet",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "saffron",
+            "unity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Chimney Smoke",
+            "smoking"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackbird",
+            "space"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bison",
+            "freedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "compass",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "skull",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tiger",
+            "China"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "interlocking rings",
+            "unity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wreath",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bat",
+            "bats"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dove",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "falcon",
+            "space"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "thunderbolt",
+            "lightning"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "firefly",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "quill pen",
+            "writing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "whale",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shadow",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "onyx",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Lamb",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "phoenix",
+            "rebirth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wolf",
+            "evil"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Scales",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Scales",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fox",
+            "freedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rose",
+            "unity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "owl",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "magpie",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hawk",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lantern",
+            "light"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "heart",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mirror",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hummingbird",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Serpent",
+            "evil"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Samurai",
+            "Japan"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ebony",
+            "unity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hearth",
+            "home"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Lotus",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "apple",
+            "fruit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "iron",
+            "metal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fire",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bluebird",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cosmos",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chimney",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "raven",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Nightingale",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Scarecrow",
+            "Halloween"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sunrise",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pepper",
+            "salt"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "peony",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "oak",
+            "wood"
+        ],
+        "label": 0
+    }
+]

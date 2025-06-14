@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "warm up",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sleep",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "exit",
+            "return"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dance",
+            "play"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shift",
+            "change"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "swim",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "transition",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "battle",
+            "fight"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "arrive",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "plan",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "read",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "count",
+            "rest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "drive",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "attack",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "succumb",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "merge",
+            "change"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "research",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "perform",
+            "play"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stroll",
+            "walk"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "converse",
+            "rest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sprint",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "commute",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "commute",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "commute",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "commute",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "collapse",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "recover",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Breathe",
+            "rest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "finalize",
+            "return"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "separate",
+            "rest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "decorate",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "debate",
+            "talk"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "approach",
+            "return"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "camp",
+            "rest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "protest",
+            "rest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "divide",
+            "rest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sail",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compete",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dive",
+            "swim"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sing",
+            "dance"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "reunite",
+            "return"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "revise",
+            "change"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bless",
+            "rest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rinse",
+            "wash"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "persevere",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "review",
+            "report"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "participate",
+            "play"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "relax",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "interview",
+            "talk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "celebrate",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "evade",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "prepare",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vote",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "flee",
+            "return"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stretch",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "argue",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "track",
+            "rest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "jog",
+            "walk"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cook",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "paint",
+            "draw"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Improvise",
+            "play"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "schedule",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "adjust",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "signal",
+            "return"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "observe",
+            "rest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Brake",
+            "stop"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "appeal",
+            "return"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bow",
+            "rest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "propose",
+            "rest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "medicate",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hike",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "reflect",
+            "rest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sketch",
+            "draw"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sketch",
+            "draw"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sketch",
+            "draw"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sketch",
+            "draw"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "conclude",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "assemble",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Accelerate",
+            "stop"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "yawn",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "consult",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "analyze",
+            "rest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rehearse",
+            "dance"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rehearse",
+            "dance"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Convict",
+            "rest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "assess",
+            "rest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "confess",
+            "rest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "reconcile",
+            "change"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rejoice",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "greet",
+            "rest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ambush",
+            "rest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "negotiate",
+            "surrender"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "decelerate",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "verify",
+            "check"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "commemorate",
+            "rest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "meditate",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "meditate",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "meditate",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "adapt",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hypothesize",
+            "test"
+        ],
+        "label": 1
+    }
+]

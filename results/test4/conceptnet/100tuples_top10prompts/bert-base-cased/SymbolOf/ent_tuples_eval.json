@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "Tree Of Life",
+            "nature"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Lamb Of God",
+            "Christ"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lightning bolt",
+            "fire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "white lily",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "white dove",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "black butterfly",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "statue of liberty",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Liberty Bell",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "black crow",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bald eagle",
+            "God"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "white feather",
+            "love"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Black Rose",
+            "freedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "maple leaf",
+            "oak"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Black Moth",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "golden laurel",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "white poppy",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "olive branch",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Oak Tree",
+            "nature"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cross",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Olive Tree",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "oak leaf",
+            "life"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cross",
+            "Christ"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "heart",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cross",
+            "Jesus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "broken chains",
+            "death"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "river",
+            "water"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lion",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "open cage",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rainbow flag",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rose",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sword",
+            "power"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bird",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "church",
+            "Jesus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "church",
+            "faith"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "statue",
+            "Jesus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "moon",
+            "light"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "flag",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Willow Tree",
+            "nature"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dragon",
+            "fire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rainbow",
+            "water"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "book",
+            "God"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tiger",
+            "India"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dragon",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "snake",
+            "God"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mountain",
+            "nature"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bluebird",
+            "nature"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lightning",
+            "fire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sunflower",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wolf",
+            "nature"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wave",
+            "waves"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dove",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "harp",
+            "music"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crown",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lamb",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "violin",
+            "music"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "swan",
+            "water"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "turtle",
+            "nature"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "butterfly",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sacrificial altar",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "torch",
+            "fire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "eagle",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "owl",
+            "nature"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dragonfly",
+            "fire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pearl",
+            "water"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "peacock",
+            "nature"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "waterfall",
+            "rain"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "skyscraper",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "trophy",
+            "victory"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "firefly",
+            "nature"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "firefly",
+            "nature"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shackles",
+            "freedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "whale",
+            "nature"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mango",
+            "love"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thunderbolt",
+            "lightning"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lighthouse",
+            "nature"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "candle",
+            "light"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lotus",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "thorn",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Phoenix",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "raven",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compass",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "apple",
+            "fruit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lantern",
+            "light"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rocket",
+            "flight"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Howling Wind",
+            "rain"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "unicorn",
+            "nature"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sacrificial dagger",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hourglass",
+            "time"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "banyan tree",
+            "rain"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "anchor",
+            "power"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Laurel Wreath",
+            "peace"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "salamander",
+            "water"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tide",
+            "water"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "goalpost",
+            "victory"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fireplace",
+            "God"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "interlocked hands",
+            "power"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "raindrop",
+            "water"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pomegranate",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "scales",
+            "life"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Caterpillar",
+            "life"
+        ],
+        "label": 0
+    }
+]

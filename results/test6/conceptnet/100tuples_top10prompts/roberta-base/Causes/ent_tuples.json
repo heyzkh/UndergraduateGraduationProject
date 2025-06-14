@@ -1,0 +1,695 @@
+[
+    [
+        [
+            "Lack Of Proper Nutrition",
+            "overweight"
+        ],
+        0.15514049316839906
+    ],
+    [
+        [
+            "Exposure To Cold Temperatures",
+            "freezing"
+        ],
+        0.056107913226095235
+    ],
+    [
+        [
+            "eating meat",
+            "diarrhea"
+        ],
+        0.04048851629050872
+    ],
+    [
+        [
+            "experiencing trauma",
+            "depression"
+        ],
+        0.04039728772372951
+    ],
+    [
+        [
+            "experiencing trauma",
+            "anger"
+        ],
+        0.038145553152207246
+    ],
+    [
+        [
+            "Chronic Illness",
+            "physical"
+        ],
+        0.03608446831462176
+    ],
+    [
+        [
+            "skipping meals",
+            "eating"
+        ],
+        0.03440493580434353
+    ],
+    [
+        [
+            "weak immune system",
+            "cold"
+        ],
+        0.032415312553718226
+    ],
+    [
+        [
+            "excessive caffeine intake",
+            "high"
+        ],
+        0.0281337006935541
+    ],
+    [
+        [
+            "Lack Of Communication",
+            "angry"
+        ],
+        0.0254971672164829
+    ],
+    [
+        [
+            "sleep deprivation",
+            "sleeping"
+        ],
+        0.019782625930497448
+    ],
+    [
+        [
+            "power outage",
+            "cold"
+        ],
+        0.019522174960306116
+    ],
+    [
+        [
+            "excessive sunlight exposure",
+            "cold"
+        ],
+        0.019460951462673202
+    ],
+    [
+        [
+            "Exposure To Radiation",
+            "cold"
+        ],
+        0.019386631078901647
+    ],
+    [
+        [
+            "heavy lifting",
+            "fatigue"
+        ],
+        0.018312344371157068
+    ],
+    [
+        [
+            "alcohol consumption",
+            "drinking"
+        ],
+        0.01806979363815472
+    ],
+    [
+        [
+            "excessive sugar intake",
+            "high"
+        ],
+        0.016514303856916462
+    ],
+    [
+        [
+            "strong wind",
+            "cold"
+        ],
+        0.0164691277427199
+    ],
+    [
+        [
+            "allergic reaction",
+            "severe"
+        ],
+        0.015190990677174674
+    ],
+    [
+        [
+            "excessive screen time",
+            "bored"
+        ],
+        0.01483323780636803
+    ],
+    [
+        [
+            "access to firearms",
+            "violent"
+        ],
+        0.014563424685507552
+    ],
+    [
+        [
+            "Loss Of A Loved One",
+            "grieving"
+        ],
+        0.014426495725674232
+    ],
+    [
+        [
+            "Financial Problems",
+            "Problems Financial"
+        ],
+        0.013165677869567982
+    ],
+    [
+        [
+            "wet clothing",
+            "cold"
+        ],
+        0.012637987627480364
+    ],
+    [
+        [
+            "jet lag",
+            "sleeping"
+        ],
+        0.01262819131981919
+    ],
+    [
+        [
+            "Viral Infection",
+            "infected"
+        ],
+        0.01252877744885767
+    ],
+    [
+        [
+            "poor posture",
+            "uncomfortable"
+        ],
+        0.012211015592196214
+    ],
+    [
+        [
+            "funny joke",
+            "laughing"
+        ],
+        0.010645805776354078
+    ],
+    [
+        [
+            "bright light",
+            "red"
+        ],
+        0.01051572530875367
+    ],
+    [
+        [
+            "smoking",
+            "physical discomfort"
+        ],
+        0.010370712281374709
+    ],
+    [
+        [
+            "intense physical activity",
+            "fatigue"
+        ],
+        0.009840074772207644
+    ],
+    [
+        [
+            "alarm clock",
+            "sleeping"
+        ],
+        0.009393360053399835
+    ],
+    [
+        [
+            "drinking",
+            "alcohol"
+        ],
+        0.009200655315073818
+    ],
+    [
+        [
+            "Intense Exercise",
+            "fatigue"
+        ],
+        0.008681783777109226
+    ],
+    [
+        [
+            "Positive Thinking",
+            "happy"
+        ],
+        0.008665706153478786
+    ],
+    [
+        [
+            "shared experiences",
+            "similar"
+        ],
+        0.008360265931025011
+    ],
+    [
+        [
+            "drunk",
+            "driving"
+        ],
+        0.008194865490270119
+    ],
+    [
+        [
+            "lack of social interaction",
+            "lonely"
+        ],
+        0.0078009833838409955
+    ],
+    [
+        [
+            "poor time management",
+            "late"
+        ],
+        0.00768662464048402
+    ],
+    [
+        [
+            "Hormonal Changes",
+            "upset"
+        ],
+        0.00719842426101556
+    ],
+    [
+        [
+            "lack of supervision",
+            "violent"
+        ],
+        0.006598113190290936
+    ],
+    [
+        [
+            "loud noise",
+            "upset"
+        ],
+        0.006424184395691441
+    ],
+    [
+        [
+            "excessive social media use",
+            "depression"
+        ],
+        0.006263709724251263
+    ],
+    [
+        [
+            "Sudden Brake Failure",
+            "near"
+        ],
+        0.005919905727047429
+    ],
+    [
+        [
+            "secondhand vapor exposure",
+            "breathing"
+        ],
+        0.00565723497504895
+    ],
+    [
+        [
+            "late-night eating",
+            "sleeping"
+        ],
+        0.005559345340833737
+    ],
+    [
+        [
+            "drunk",
+            "alcohol"
+        ],
+        0.0055408418152103995
+    ],
+    [
+        [
+            "Sudden Gust Of Wind",
+            "cold"
+        ],
+        0.0054816150091815796
+    ],
+    [
+        [
+            "excessive workload",
+            "fatigue"
+        ],
+        0.005022119219818034
+    ],
+    [
+        [
+            "Unfair Treatment",
+            "violent"
+        ],
+        0.004097151261771259
+    ],
+    [
+        [
+            "miscommunication",
+            "upset"
+        ],
+        0.003872788098367871
+    ],
+    [
+        [
+            "pregnant",
+            "pregnancy"
+        ],
+        0.003518498199373726
+    ],
+    [
+        [
+            "prolonged silence",
+            "angry"
+        ],
+        0.00319225866094714
+    ],
+    [
+        [
+            "overthinking",
+            "upset"
+        ],
+        0.003155261332615477
+    ],
+    [
+        [
+            "excessive heat",
+            "cold"
+        ],
+        0.003088330017741786
+    ],
+    [
+        [
+            "social isolation",
+            "emotional"
+        ],
+        0.0028960639934608235
+    ],
+    [
+        [
+            "Frequent Notifications",
+            "upset"
+        ],
+        0.0028551595690310253
+    ],
+    [
+        [
+            "strong current",
+            "cold"
+        ],
+        0.0026409196770275783
+    ],
+    [
+        [
+            "improper hydration",
+            "vomiting"
+        ],
+        0.0024236645370033397
+    ],
+    [
+        [
+            "technical malfunction",
+            "problems"
+        ],
+        0.0023924515092684563
+    ],
+    [
+        [
+            "Combat Exposure",
+            "sleeping"
+        ],
+        0.0023618402964522356
+    ],
+    [
+        [
+            "reckless behavior",
+            "violent"
+        ],
+        0.002323665497805727
+    ],
+    [
+        [
+            "chemical dye reaction",
+            "red"
+        ],
+        0.002224842618853496
+    ],
+    [
+        [
+            "Explicit Media Content",
+            "upset"
+        ],
+        0.002162766629567827
+    ],
+    [
+        [
+            "repetitive motion",
+            "uncomfortable"
+        ],
+        0.0021104500118536
+    ],
+    [
+        [
+            "pregnant",
+            "depression"
+        ],
+        0.0019956104510061865
+    ],
+    [
+        [
+            "Airplane Engine Failure",
+            "flying"
+        ],
+        0.0019589202227834114
+    ],
+    [
+        [
+            "stress",
+            "emotional"
+        ],
+        0.0019259575437206387
+    ],
+    [
+        [
+            "Peer Pressure",
+            "angry"
+        ],
+        0.001866894191154756
+    ],
+    [
+        [
+            "emotional vulnerability",
+            "physical"
+        ],
+        0.0017267255018887503
+    ],
+    [
+        [
+            "Unresolved Conflict",
+            "angry"
+        ],
+        0.001610795072699476
+    ],
+    [
+        [
+            "creative inspiration",
+            "frustrated"
+        ],
+        0.0015800242892557925
+    ],
+    [
+        [
+            "anger management issues",
+            "angry"
+        ],
+        0.0015391502087550287
+    ],
+    [
+        [
+            "sudden tire blowout",
+            "angry"
+        ],
+        0.0014486661327444037
+    ],
+    [
+        [
+            "Boredom",
+            "angry"
+        ],
+        0.0010600954426233584
+    ],
+    [
+        [
+            "competitive environment",
+            "cold"
+        ],
+        0.0009932238524227011
+    ],
+    [
+        [
+            "Unprotected Intimacy",
+            "sexual"
+        ],
+        0.0009046177033094287
+    ],
+    [
+        [
+            "inattentiveness",
+            "angry"
+        ],
+        0.0008575697802036427
+    ],
+    [
+        [
+            "peer influence",
+            "social"
+        ],
+        0.0008493281416074639
+    ],
+    [
+        [
+            "Loneliness",
+            "angry"
+        ],
+        0.0008463976603353514
+    ],
+    [
+        [
+            "overexertion",
+            "upset"
+        ],
+        0.000831296340438231
+    ],
+    [
+        [
+            "muscle strain",
+            "physical"
+        ],
+        0.0008139899643269662
+    ],
+    [
+        [
+            "Bird Migration",
+            "flying"
+        ],
+        0.0007711523772975354
+    ],
+    [
+        [
+            "Unexpected News",
+            "upset"
+        ],
+        0.0007423692365781963
+    ],
+    [
+        [
+            "overstimulation",
+            "upset"
+        ],
+        0.0006573866515986037
+    ],
+    [
+        [
+            "experiencing trauma",
+            "ptsd"
+        ],
+        0.0005805301555845115
+    ],
+    [
+        [
+            "tickling",
+            "cold"
+        ],
+        0.0005277416326382206
+    ],
+    [
+        [
+            "Improper Warm-Up",
+            "cold"
+        ],
+        0.0005168815767434948
+    ],
+    [
+        [
+            "Improper Footwear",
+            "walking"
+        ],
+        0.0003992347148770699
+    ],
+    [
+        [
+            "procrastination",
+            "angry"
+        ],
+        0.00038252522270241227
+    ],
+    [
+        [
+            "diabetes",
+            "overweight"
+        ],
+        0.0003703007182119632
+    ],
+    [
+        [
+            "neglect",
+            "angry"
+        ],
+        0.0003116074580506729
+    ],
+    [
+        [
+            "Uncertainty",
+            "angry"
+        ],
+        0.000218038742385421
+    ],
+    [
+        [
+            "nightmare",
+            "sleeping"
+        ],
+        0.00018700339871835668
+    ],
+    [
+        [
+            "failure",
+            "success"
+        ],
+        0.00018275938030433515
+    ],
+    [
+        [
+            "distraction",
+            "upset"
+        ],
+        0.0001614404902573331
+    ],
+    [
+        [
+            "kindness",
+            "angry"
+        ],
+        0.0001306795552555041
+    ],
+    [
+        [
+            "adventure-seeking",
+            "bored"
+        ],
+        0.00011906905970482155
+    ],
+    [
+        [
+            "pollution",
+            "sleeping"
+        ],
+        7.474873928081468e-05
+    ]
+]

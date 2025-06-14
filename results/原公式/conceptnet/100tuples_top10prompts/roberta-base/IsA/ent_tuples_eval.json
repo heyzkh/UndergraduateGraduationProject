@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "golden retriever",
+            "dog"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Willow Tree",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bulldog",
+            "bull dog"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "jumping spider",
+            "insect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Oak Tree",
+            "tree oak"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mollusk",
+            "snail"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "water pipe",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "American Bison",
+            "animal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Maple Tree",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cotton bale",
+            "crop"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tarantula",
+            "snake"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "leukocyte",
+            "cell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sparrow",
+            "bird"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sparrow",
+            "bird"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kite",
+            "bird"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Lymphoid Organ",
+            "tissue"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thistle",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Sea Sponge",
+            "fish"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Root Hair",
+            "fungus"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "panda",
+            "animal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "panda",
+            "animal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "water pipe accessory",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "viper",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cobra",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "melanoma",
+            "cancer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "coffee plantation",
+            "Plant Plantation"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "straw bale",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "baker's yeast",
+            "fungus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "alpaca",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Microscopic Organism",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "nematode",
+            "worm"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "falcon",
+            "bird"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "baker's yeast culture",
+            "bacteria"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "anaconda",
+            "animal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hamster",
+            "rodent"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cedar",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blackberry",
+            "fruit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hemoglobin",
+            "protein"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Mold Spore",
+            "fungus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stomata",
+            "fungus"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mycelium",
+            "fungus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "biceps",
+            "muscle"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "seedling",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "root system",
+            "system tree"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "boa",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "intelligence agency",
+            "organization"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sunflower",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "scorpion",
+            "snake"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "daisy",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wool bale",
+            "sheep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Ring Binder",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blueberry",
+            "fruit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "salmon",
+            "fish"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "goat",
+            "animal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "haystack",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "meadow",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crow",
+            "bird"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "loom",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "microcell",
+            "protein"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Heel",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "capybara",
+            "animal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "silkworm",
+            "parasite"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "biont",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Kitten",
+            "cat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Kitten",
+            "cat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Kitten",
+            "cat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "butterfly",
+            "insect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Calf",
+            "animal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kitchen sponge",
+            "fungus"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lathe",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "basil",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "python",
+            "snake"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dragon",
+            "animal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "aqueduct",
+            "structure"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lamb",
+            "animal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tick",
+            "rodent"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "aquifer",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "buffalo",
+            "animal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Lighthouse",
+            "structure"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Steeple",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "raven",
+            "bird"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "raven",
+            "bird"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "quadriceps",
+            "muscle"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "villus",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hawk",
+            "bird"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Antibody",
+            "protein"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kaon",
+            "worm"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bookshelf",
+            "structure"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bookshelf",
+            "structure"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "reservoir",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Asthma",
+            "disease"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "canal",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "harvestman",
+            "farmer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "boulder",
+            "rock"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spice",
+            "food"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "monarch",
+            "state"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wool",
+            "animal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pub",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "orb-weaver",
+            "worm"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Notebook",
+            "cell"
+        ],
+        "label": 0
+    }
+]

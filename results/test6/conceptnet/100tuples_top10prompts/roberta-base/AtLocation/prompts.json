@@ -1,0 +1,14 @@
+[
+    [
+        "The <ENT1> is the best place to store your <ENT0> when you're traveling .",
+        0.1499231173897716
+    ],
+    [
+        "<ENT0> is an ingredient in <ENT1>s .",
+        0.12971525331262598
+    ],
+    [
+        "The <ENT1> is where i put my <ENT0> .",
+        0.12615797956761243
+    ]
+]

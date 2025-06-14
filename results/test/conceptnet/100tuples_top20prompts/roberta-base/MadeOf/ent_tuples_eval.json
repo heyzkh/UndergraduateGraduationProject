@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "copper wire",
+            "copper oxide"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "metal",
+            "iron"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "coffee",
+            "copper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coffee",
+            "coal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "diamond",
+            "iron"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bread",
+            "wheat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "metal",
+            "steel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "copper",
+            "iron"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coffee",
+            "gold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "glass",
+            "gold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coffee",
+            "coke"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plastic",
+            "cotton"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "diamond",
+            "cork"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bread",
+            "flour"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "glass",
+            "water"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "diamond",
+            "Cite"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "glass",
+            "iron"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gold",
+            "metals"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "film",
+            "Cine"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "diamond",
+            "cotton"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "steel",
+            "metal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bread",
+            "corn"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "film",
+            "cotton"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cloth",
+            "hair"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "paper",
+            "Hose"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "concrete",
+            "cotton"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "glass",
+            "Hose"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "film",
+            "Coding"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "piglet",
+            "pork"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "concrete",
+            "cork"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plastic",
+            "cork"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "piglet",
+            "pigine"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "concrete",
+            "Cite"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pigpen",
+            "piglet"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "film",
+            "cork"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bread",
+            "Bitter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shell",
+            "Hose"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "paper",
+            "Hoc"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shell",
+            "Cite"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cloth",
+            "Hose"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pigtail",
+            "piglet"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "piglet",
+            "pore"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cine",
+            "gold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cine",
+            "Cene"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cyl",
+            "copper"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pigtail",
+            "pork"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pigpen",
+            "pork"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plastic",
+            "cinder"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cine",
+            "cinder"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cloth",
+            "holly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pigpen",
+            "pigine"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bread",
+            "bile"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shell",
+            "hite"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pigiron",
+            "pigine"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pigmentation",
+            "halo"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pigtail",
+            "pigine"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pigtail",
+            "pore"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pigpen",
+            "pore"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pigmentation",
+            "Hyl"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pigpen",
+            "pith"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pigments",
+            "pine"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pigtail",
+            "pith"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pigiron",
+            "Purity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cyl",
+            "cinder"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pigiron",
+            "Porous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pigments",
+            "pore"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pigments",
+            "Purity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pigine",
+            "Purity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pig protein",
+            "pink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "diamond",
+            "inc"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "metal",
+            "Inc"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pigments",
+            "pith"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pigro",
+            "pore"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pigro",
+            "pork"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cite",
+            "citation"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pigro",
+            "Pile"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "paper",
+            "inc"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pigro",
+            "Porous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cloth",
+            "Haste"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pigro",
+            "Pura"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pigments",
+            "pink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pigiron",
+            "pink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shell",
+            "Hcl"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "glass",
+            "Hcl"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shell",
+            "Cdna"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pigrine",
+            "pine"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "film",
+            "Cdna"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "paper",
+            "hmm"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cyl",
+            "Inc"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pigmentation",
+            "Hcg"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pigrine",
+            "pina"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pigrine",
+            "Purity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pigrine",
+            "pium"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pigrine",
+            "Pile"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plastic",
+            "Pet"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pigmentation",
+            "Hcl"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Piganium",
+            "pium"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Piganium",
+            "pina"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Piganium",
+            "pidium"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Piganium",
+            "pene"
+        ],
+        "label": 0
+    }
+]

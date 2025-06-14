@@ -1,0 +1,34 @@
+[
+    [
+        "Most people experience <ENT1> while <ENT0>s at some point .",
+        0.2120612038834478
+    ],
+    [
+        "It is common for people to experience <ENT1> while <ENT0> .",
+        0.15987203191342628
+    ],
+    [
+        "When people are <ENT0>, it is typical for them to be <ENT1> with someone .",
+        0.15827730525602615
+    ],
+    [
+        "It is typical to <ENT1> when <ENT0>s .",
+        0.12568545454236177
+    ],
+    [
+        "It is typical for <ENT0> to cause <ENT1> .",
+        0.10081462233907634
+    ],
+    [
+        "When people are <ENT1> with one another, it is typical for them to <ENT0> .",
+        0.08879442178061396
+    ],
+    [
+        "<ENT0> usually results in <ENT1>s .",
+        0.08139668025639032
+    ],
+    [
+        "When you are <ENT0>, it is common for you to <ENT1>e with others .",
+        0.07309828002865731
+    ]
+]

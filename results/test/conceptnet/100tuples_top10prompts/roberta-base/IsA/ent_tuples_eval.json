@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "pore",
+            "water source"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pix",
+            "small print"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pore",
+            "spore"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sparrow",
+            "bird"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pix",
+            "small fly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vid",
+            "viral infection"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sparrow",
+            "moth"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spore",
+            "sponge"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sparrow",
+            "rodent"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "vid",
+            "Viral Virus"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sparrow",
+            "worm"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kappa",
+            "dog"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kappa",
+            "snake"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pore",
+            "sponge"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kappa",
+            "monkey"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lice",
+            "insect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Hyl",
+            "clonal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spasm",
+            "muscle"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kappa",
+            "bong"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Vary",
+            "small intestine"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bic",
+            "cic"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spire",
+            "spider"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gia",
+            "gyrus"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spasm",
+            "infection"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spasm",
+            "disease"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pix",
+            "dog"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "vox",
+            "vix"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Spine",
+            "fungus"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pix",
+            "mouse"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Grit",
+            "spore"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bib",
+            "balloon"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spasm",
+            "contraction"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bib",
+            "cib"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bic",
+            "bac"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spire",
+            "snake"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spire",
+            "structure"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vix",
+            "cix"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bib",
+            "dog"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "vine",
+            "plant genus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Bic",
+            "yeast"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hyl",
+            "clob"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hyl",
+            "clog"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bic",
+            "binder"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "vine",
+            "plant species"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hib",
+            "bale"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "binder",
+            "cell"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pore",
+            "spasm"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gia",
+            "spura"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "binder",
+            "protein"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kappa",
+            "pion"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Spine",
+            "muscle"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "vid",
+            "film"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gia",
+            "fia"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hyl",
+            "clox"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Vary",
+            "Small Worm"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pore",
+            "waterore"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sprit",
+            "spider"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "vix",
+            "pion"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Vary",
+            "bison"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Spia",
+            "fungus"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "vox",
+            "clox"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spix",
+            "spider"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Spia",
+            "spider"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hyl",
+            "clice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Gia",
+            "Fema"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bib",
+            "cid"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sprit",
+            "snake"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Spia",
+            "worm"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bic",
+            "cid"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Vary",
+            "bale"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sph",
+            "worm"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "vix",
+            "cid"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pix",
+            "smallix"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "vox",
+            "cloxin"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Vib",
+            "bison"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spix",
+            "butterfly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "vix",
+            "pice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sph",
+            "snake"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "vox",
+            "cox"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Vib",
+            "bale"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spura",
+            "snake"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Vary",
+            "binder"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Grit",
+            "sprit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Spura",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Vib",
+            "binder"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Vib",
+            "brio"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hib",
+            "cid"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gia",
+            "fion"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "vox",
+            "cid"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "vid",
+            "Viraloid"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "vine",
+            "fruit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vine",
+            "weed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "vine",
+            "herb"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spx",
+            "spider"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spice",
+            "herb"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spice",
+            "food"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spice",
+            "weed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bib",
+            "Humanoid"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hib",
+            "hub"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "vid",
+            "viralid"
+        ],
+        "label": 0
+    }
+]

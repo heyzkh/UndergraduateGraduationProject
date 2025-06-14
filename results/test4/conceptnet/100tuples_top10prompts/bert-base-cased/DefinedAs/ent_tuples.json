@@ -1,0 +1,702 @@
+[
+    [
+        [
+            "Programming Language",
+            "Language Programming"
+        ],
+        0.1150652236724951
+    ],
+    [
+        [
+            "wind",
+            "wind winds"
+        ],
+        0.06388406246947492
+    ],
+    [
+        [
+            "digital media",
+            "Media Digital"
+        ],
+        0.06372170329133171
+    ],
+    [
+        [
+            "Acoustic Wave",
+            "acoustic sound"
+        ],
+        0.052616658233643115
+    ],
+    [
+        [
+            "Social Movement",
+            "movement sociology"
+        ],
+        0.051625876086542566
+    ],
+    [
+        [
+            "gender identity",
+            "Identity Gender"
+        ],
+        0.04803791519109984
+    ],
+    [
+        [
+            "scientific inquiry",
+            "science"
+        ],
+        0.04481043343188306
+    ],
+    [
+        [
+            "information science",
+            "Science Information"
+        ],
+        0.04174039959104379
+    ],
+    [
+        [
+            "thermal energy",
+            "energy heat"
+        ],
+        0.03925203578115209
+    ],
+    [
+        [
+            "social stratification",
+            "sociology"
+        ],
+        0.038617738215804075
+    ],
+    [
+        [
+            "Musical Composition",
+            "composition music"
+        ],
+        0.0379464981880881
+    ],
+    [
+        [
+            "architectural design",
+            "architecture"
+        ],
+        0.03347790231185833
+    ],
+    [
+        [
+            "visual arts",
+            "music"
+        ],
+        0.025160044508682027
+    ],
+    [
+        [
+            "literary criticism",
+            "literature"
+        ],
+        0.024131104752549187
+    ],
+    [
+        [
+            "early childhood education",
+            "English"
+        ],
+        0.02166765685865389
+    ],
+    [
+        [
+            "football",
+            "football soccer"
+        ],
+        0.020537702234150603
+    ],
+    [
+        [
+            "Divine Being",
+            "God"
+        ],
+        0.020479640257109844
+    ],
+    [
+        [
+            "cultural anthropology",
+            "Anthropology Sociology"
+        ],
+        0.019800863018432605
+    ],
+    [
+        [
+            "Graphic Design",
+            "art"
+        ],
+        0.017867400597010377
+    ],
+    [
+        [
+            "quantum physics",
+            "Einstein"
+        ],
+        0.014713382883255556
+    ],
+    [
+        [
+            "urban sociology",
+            "geography"
+        ],
+        0.013938126222345436
+    ],
+    [
+        [
+            "hydrogen oxide",
+            "oxygen"
+        ],
+        0.012762846588484407
+    ],
+    [
+        [
+            "Armed Conflict",
+            "war"
+        ],
+        0.012226939505162694
+    ],
+    [
+        [
+            "consciousness",
+            "mind consciousness"
+        ],
+        0.010942290758767428
+    ],
+    [
+        [
+            "Fashion Industry",
+            "Industry Fashion"
+        ],
+        0.009928510648778909
+    ],
+    [
+        [
+            "developmental psychology",
+            "education"
+        ],
+        0.009749995496031153
+    ],
+    [
+        [
+            "reproductive biology",
+            "evolution"
+        ],
+        0.009446125734717722
+    ],
+    [
+        [
+            "cognitive science",
+            "psychology"
+        ],
+        0.009432110643897797
+    ],
+    [
+        [
+            "sound art",
+            "music"
+        ],
+        0.007910085022390793
+    ],
+    [
+        [
+            "community development",
+            "education"
+        ],
+        0.007650467688405483
+    ],
+    [
+        [
+            "anthropology",
+            "history anthropology"
+        ],
+        0.007224386570651771
+    ],
+    [
+        [
+            "artwork",
+            "Art Painting"
+        ],
+        0.0067803429018317265
+    ],
+    [
+        [
+            "human speech",
+            "sound"
+        ],
+        0.005802938760475738
+    ],
+    [
+        [
+            "kinetic energy",
+            "momentum"
+        ],
+        0.005667412558760394
+    ],
+    [
+        [
+            "social beings",
+            "humans"
+        ],
+        0.00464019497675461
+    ],
+    [
+        [
+            "spatial measurement",
+            "measurement spatial"
+        ],
+        0.004241234960030458
+    ],
+    [
+        [
+            "adaptive evolution",
+            "ecology"
+        ],
+        0.004156875148926871
+    ],
+    [
+        [
+            "moral law",
+            "justice"
+        ],
+        0.0038276554242946017
+    ],
+    [
+        [
+            "feminine mystique",
+            "beauty"
+        ],
+        0.0037988508529622853
+    ],
+    [
+        [
+            "Classical Language",
+            "English"
+        ],
+        0.003365917070721742
+    ],
+    [
+        [
+            "educational curriculum",
+            "English"
+        ],
+        0.0031297974603953557
+    ],
+    [
+        [
+            "marital dissolution",
+            "marriage"
+        ],
+        0.0027037412633872495
+    ],
+    [
+        [
+            "automotive industry",
+            "technology"
+        ],
+        0.0025214803947767603
+    ],
+    [
+        [
+            "Improvisational Music",
+            "jazz"
+        ],
+        0.0022676775636557536
+    ],
+    [
+        [
+            "religion",
+            "Christianity"
+        ],
+        0.002145837522709454
+    ],
+    [
+        [
+            "nutrition",
+            "nutrition food"
+        ],
+        0.002018721953697942
+    ],
+    [
+        [
+            "Gender Equity",
+            "feminism"
+        ],
+        0.0020153063967905363
+    ],
+    [
+        [
+            "intellectual pursuit",
+            "science"
+        ],
+        0.0019394858761634965
+    ],
+    [
+        [
+            "poetry",
+            "music"
+        ],
+        0.0019194237349090548
+    ],
+    [
+        [
+            "longevity",
+            "time"
+        ],
+        0.001771161245573346
+    ],
+    [
+        [
+            "strategic doctrine",
+            "strategy"
+        ],
+        0.0016654100813291584
+    ],
+    [
+        [
+            "community networks",
+            "Internet"
+        ],
+        0.0014059150948681218
+    ],
+    [
+        [
+            "kinship structure",
+            "gender"
+        ],
+        0.0013760774515810849
+    ],
+    [
+        [
+            "monetary aggregate",
+            "money"
+        ],
+        0.0012779474113221593
+    ],
+    [
+        [
+            "religion",
+            "Buddhism"
+        ],
+        0.0010754834542779882
+    ],
+    [
+        [
+            "Vedic Tradition",
+            "Buddhism"
+        ],
+        0.0010570469436618467
+    ],
+    [
+        [
+            "Ebony Furniture",
+            "wood"
+        ],
+        0.001017861289724786
+    ],
+    [
+        [
+            "mortality",
+            "death"
+        ],
+        0.0009937507300734263
+    ],
+    [
+        [
+            "renewable resource",
+            "energy"
+        ],
+        0.0009601222409297406
+    ],
+    [
+        [
+            "suffering",
+            "pain"
+        ],
+        0.0009301856473225313
+    ],
+    [
+        [
+            "Spiritual Practice",
+            "meditation"
+        ],
+        0.0008503838582710861
+    ],
+    [
+        [
+            "terrestrial sphere",
+            "Earth"
+        ],
+        0.000824744211907468
+    ],
+    [
+        [
+            "fire",
+            "flame"
+        ],
+        0.000805558872759337
+    ],
+    [
+        [
+            "literature",
+            "English"
+        ],
+        0.0007844387200451136
+    ],
+    [
+        [
+            "self-harm",
+            "anger"
+        ],
+        0.000751327753931541
+    ],
+    [
+        [
+            "grammar",
+            "language"
+        ],
+        0.0007136313983520709
+    ],
+    [
+        [
+            "Calendar Event",
+            "time"
+        ],
+        0.0007050729354596102
+    ],
+    [
+        [
+            "harmony",
+            "music"
+        ],
+        0.0007040290374354371
+    ],
+    [
+        [
+            "Omnipotent Creator",
+            "God"
+        ],
+        0.0006736403742030348
+    ],
+    [
+        [
+            "chronology",
+            "history"
+        ],
+        0.0006403300700706097
+    ],
+    [
+        [
+            "neuroscience",
+            "psychology"
+        ],
+        0.0006242581254692724
+    ],
+    [
+        [
+            "wellness",
+            "health"
+        ],
+        0.0006171695553861233
+    ],
+    [
+        [
+            "enchantment",
+            "magic"
+        ],
+        0.0005997852409578367
+    ],
+    [
+        [
+            "community advocate",
+            "green"
+        ],
+        0.0005863645433965113
+    ],
+    [
+        [
+            "sacramental theology",
+            "Christianity"
+        ],
+        0.0005846076134983146
+    ],
+    [
+        [
+            "financial hub",
+            "London"
+        ],
+        0.0005789895115321702
+    ],
+    [
+        [
+            "planet",
+            "Earth"
+        ],
+        0.000542643476831388
+    ],
+    [
+        [
+            "cuisine",
+            "food"
+        ],
+        0.000521909976857139
+    ],
+    [
+        [
+            "liquid asset",
+            "money"
+        ],
+        0.0005129631728987129
+    ],
+    [
+        [
+            "midwife",
+            "mother"
+        ],
+        0.0004868501819110813
+    ],
+    [
+        [
+            "cartography",
+            "geography"
+        ],
+        0.0004590936906879542
+    ],
+    [
+        [
+            "cosmology",
+            "physics"
+        ],
+        0.00044290295574589937
+    ],
+    [
+        [
+            "oratory",
+            "English"
+        ],
+        0.00039874947263915817
+    ],
+    [
+        [
+            "compassion",
+            "God"
+        ],
+        0.00037285079013707934
+    ],
+    [
+        [
+            "vocalization",
+            "sound"
+        ],
+        0.0003534899769217041
+    ],
+    [
+        [
+            "linguistics",
+            "language"
+        ],
+        0.0003385379980033931
+    ],
+    [
+        [
+            "choreography",
+            "dance"
+        ],
+        0.0003036718853912561
+    ],
+    [
+        [
+            "Dwelling",
+            "building"
+        ],
+        0.0002595993817050749
+    ],
+    [
+        [
+            "historiography",
+            "history"
+        ],
+        0.00019067010773329845
+    ],
+    [
+        [
+            "philosopher",
+            "Aristotle"
+        ],
+        0.00017108821836434097
+    ],
+    [
+        [
+            "Messiah",
+            "God"
+        ],
+        0.00016036007315525477
+    ],
+    [
+        [
+            "surrender value",
+            "price"
+        ],
+        0.00013409267452249582
+    ],
+    [
+        [
+            "matrimony",
+            "marriage"
+        ],
+        0.000127674691878039
+    ],
+    [
+        [
+            "cigarette",
+            "tobacco"
+        ],
+        9.42929850542707e-05
+    ],
+    [
+        [
+            "terra",
+            "Latin"
+        ],
+        8.800121800439394e-05
+    ],
+    [
+        [
+            "craftsman",
+            "art"
+        ],
+        7.210852226484459e-05
+    ],
+    [
+        [
+            "Mobile Payment",
+            "sms"
+        ],
+        4.557640792113614e-05
+    ],
+    [
+        [
+            "kinship network",
+            "dna"
+        ],
+        1.9830624745979008e-05
+    ],
+    [
+        [
+            "Biophilic Design",
+            "Design Dna"
+        ],
+        9.619493076596384e-06
+    ],
+    [
+        [
+            "Biophilia",
+            "Dna"
+        ],
+        9.107335071442144e-06
+    ]
+]

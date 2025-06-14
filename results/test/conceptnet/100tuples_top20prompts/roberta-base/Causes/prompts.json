@@ -1,0 +1,38 @@
+[
+    [
+        "<ENT1> typically results from <ENT0> .",
+        0.15482408162270836
+    ],
+    [
+        "<ENT0> often leads to <ENT1> .",
+        0.1346745007389782
+    ],
+    [
+        "<ENT1> is typically caused by <ENT0> .",
+        0.11899248026503886
+    ],
+    [
+        "<ENT0> generally leads to <ENT1> .",
+        0.1187935658718049
+    ],
+    [
+        "<ENT0> usually leads to <ENT1> .",
+        0.1187778891916016
+    ],
+    [
+        "<ENT0> typically leads to <ENT1> .",
+        0.11555247561350818
+    ],
+    [
+        "<ENT0> typically results in <ENT1> .",
+        0.11322855205333776
+    ],
+    [
+        "<ENT0> typically causes <ENT1> .",
+        0.0650883696007231
+    ],
+    [
+        "<ENT0> generally results in <ENT1>ion in a manner that: .",
+        0.06006808504229907
+    ]
+]

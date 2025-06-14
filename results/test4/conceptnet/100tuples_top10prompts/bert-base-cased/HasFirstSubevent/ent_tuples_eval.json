@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "warm up",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Stretch",
+            "Start Stretch"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "start",
+            "end"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "trip",
+            "start trip"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "launch",
+            "Launch Start"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "countdown",
+            "count start"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "light",
+            "dark"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Record",
+            "Record Start"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "plan",
+            "plan start"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "count",
+            "check"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "count",
+            "check"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pause",
+            "stop"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blast off",
+            "kill"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "release",
+            "return"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bloom",
+            "spring"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "choreograph",
+            "dance"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Gather",
+            "Gather Start"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Initiate",
+            "Initiate Start"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "begin",
+            "end"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "halt",
+            "stop"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "contemplate",
+            "test"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "design",
+            "test"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "study",
+            "test"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "schedule",
+            "date"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Explore",
+            "Search"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Endure",
+            "End Start"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "advertise",
+            "advertisement"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "envision",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "envision",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Execute",
+            "Execute Start"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "host",
+            "guest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Vote",
+            "Draw"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "review",
+            "test"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ask",
+            "answer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sing",
+            "play"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "finalize",
+            "test"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "revolve",
+            "play"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Sketch Out",
+            "Draw"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "court",
+            "play"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "court",
+            "play"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "awaken",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "disapprove",
+            "reject"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Divide",
+            "Divide Start"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "perform",
+            "play"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "protest",
+            "strike"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sketch",
+            "draw"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sketch",
+            "draw"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "enroll",
+            "test"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "unveil",
+            "test"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Observe",
+            "Read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Prepare",
+            "test"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "harvest",
+            "rain"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "register",
+            "check"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "commence",
+            "begin start"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Resume",
+            "Stop"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ponder",
+            "question"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "conceive",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "conceive",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Compete",
+            "Win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Compete",
+            "Win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Invite",
+            "Invitation"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Assess",
+            "test"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tally",
+            "count"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Trigger Round",
+            "hit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cultivate",
+            "Seed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Compose",
+            "Play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Conduct",
+            "Play"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "announce",
+            "announce start"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Arrange",
+            "Play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Depart",
+            "Return"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "draft",
+            "test"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "declare",
+            "draw"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Rehearse",
+            "Play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Rehearse",
+            "Play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Rehearse",
+            "Play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Rehearse",
+            "Play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Rehearse",
+            "Play"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Celebrate",
+            "Play"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Develop",
+            "Test"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "enumerate",
+            "count"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "enumerate",
+            "count"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "enumerate",
+            "count"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "orchestrate",
+            "play"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Propose",
+            "test"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Criticize",
+            "critique"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "anticipate",
+            "test"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "misjudge",
+            "mistake"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Outline",
+            "Type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "meditate",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "promote",
+            "play"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Conclude",
+            "End"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "discuss",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Brainstorm",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Coordinate",
+            "Time"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Attend",
+            "Visit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "organize",
+            "play"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Publish",
+            "test"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "negotiate",
+            "negotiation"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "illustrate",
+            "test"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "distribute",
+            "play"
+        ],
+        "label": 0
+    }
+]

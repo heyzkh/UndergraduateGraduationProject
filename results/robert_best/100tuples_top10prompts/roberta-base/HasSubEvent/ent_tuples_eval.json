@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "swing a bat",
+            "hit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "watch a movie",
+            "think"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sign a lease",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "feel good",
+            "relax"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "feel tired",
+            "yawn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "prepare a meal",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lose hope",
+            "despair"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drink",
+            "become drunk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "achieve a goal",
+            "become"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "book a hotel",
+            "know"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "attend a concert",
+            "see"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "move out",
+            "leave"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Participate In A Competition",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sleep",
+            "dream"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sleep",
+            "dream"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "forget completely",
+            "become"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fall",
+            "die"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pour a glass",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "compose a song",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compete in a tournament",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compete in a tournament",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "walk",
+            "move"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cry",
+            "scream"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "talk",
+            "sound"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "learn",
+            "understand"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "learn",
+            "understand"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "consistently succeed",
+            "excel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "program a software",
+            "use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "analyze information",
+            "get"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "watch",
+            "see"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "brake",
+            "accelerate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "brake",
+            "accelerate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "resign",
+            "leave"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "resign",
+            "leave"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "race",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "swing",
+            "hit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "depart",
+            "leave"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "depart",
+            "leave"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "evolve",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shop",
+            "buy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shop",
+            "buy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shop",
+            "buy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compete",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "exercise",
+            "improve"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "exercise",
+            "improve"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "apologize",
+            "say"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "celebrate",
+            "remember"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "argue",
+            "lose"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "explain",
+            "say"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "meditate",
+            "practice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "study",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "design",
+            "create"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "perform",
+            "create"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "perform",
+            "create"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "recall",
+            "remember"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "recall",
+            "remember"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "converse",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "converse",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "converse",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "prepare",
+            "know"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "accomplish",
+            "achieve"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "persevere",
+            "succeed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "reflect",
+            "think"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "reflect",
+            "think"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "discover",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "plant",
+            "die"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spill",
+            "leak"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Receive An Inheritance",
+            "Inherit Receive"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "present",
+            "say"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "skip",
+            "cheat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "confide",
+            "tell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "experience",
+            "feel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "experience",
+            "feel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bully",
+            "hurt"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "purchase",
+            "buy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "attempt",
+            "fail"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "replace",
+            "get"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "announce",
+            "say"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "observe",
+            "see"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "applaud",
+            "mean"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "misplace",
+            "lose"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "misplace",
+            "lose"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "misplace",
+            "lose"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "insult",
+            "hurt"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "insult",
+            "hurt"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Alarm Going Off",
+            "know"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "assassinate",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ignite",
+            "burn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "convince",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "marathon",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ponder",
+            "think"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "inquire",
+            "find"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "require",
+            "need"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "romance",
+            "kiss"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sunrise",
+            "sunset"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cycling",
+            "mean"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "meeting",
+            "say"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Playground",
+            "Run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Charity Work",
+            "Donate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nursing",
+            "get"
+        ],
+        "label": 0
+    }
+]

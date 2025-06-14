@@ -1,0 +1,22 @@
+[
+    [
+        "<ENT0> to someone symbolically represents <ENT1> .",
+        0.42098514245582386
+    ],
+    [
+        "The <ENT0> is a symbol of <ENT1> .",
+        0.17023932730282348
+    ],
+    [
+        "A <ENT0> is a physical embodiment of <ENT1> .",
+        0.14094378229063642
+    ],
+    [
+        "Some people think that the <ENT0> symbolically represents <ENT1> .",
+        0.13719707924270144
+    ],
+    [
+        "<ENT0> symbolically represents <ENT1> .",
+        0.13063466870801482
+    ]
+]

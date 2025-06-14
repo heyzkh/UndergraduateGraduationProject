@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "black coffee",
+            "white"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "black cherry",
+            "white"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackened cauliflower",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackened garlic",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Black Diamond",
+            "white"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackened asparagus",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cotton candy",
+            "white"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Black Hole",
+            "unique"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackened mushrooms",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackened metal",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackened banana",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackened cabbage",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Blackened Corn",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "black licorice",
+            "white"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackened celery",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackened scallops",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackened salmon",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "frosted glass",
+            "transparent"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackened spinach",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackened broccoli",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackened potato",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackened zucchini",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackened pumpkin seeds",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackened shrimp",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Blackened Onion",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackened eggplant",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackened mango",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "molten chocolate",
+            "golden"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blackened carrots",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackened tofu",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackened avocado",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackened kale",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "molten lava",
+            "white"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackened beef",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackened squash",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackened chicken",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackened steel",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackened steak",
+            "rare"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackened turkey",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dandelion",
+            "yellow"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blackened pork",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "volcanic rock",
+            "unique"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackened lobster",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackened tomato",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackened fish",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Blackened Peach",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackened apple",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "water",
+            "white"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blood orange",
+            "Orange Red"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blackened tuna",
+            "white"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "burnt toast",
+            "edible"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shadow",
+            "dark"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pumpkin",
+            "white"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blackened peppers",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "moonlit sky",
+            "blue"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Lightning Bug",
+            "visible"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blackened paint",
+            "toxic"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "smudged ink",
+            "black"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blackened beans",
+            "poisonous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackened lamb",
+            "white"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "charred wood",
+            "dark"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blackened orange",
+            "yellow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Chicken Breast",
+            "white"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mathematical axiom",
+            "true"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sunset",
+            "black"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackened cod",
+            "rare"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pearl",
+            "white"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blackberry",
+            "white"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "elephant",
+            "white"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "oxidized metal",
+            "radioactive"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "uranium",
+            "radioactive"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blood",
+            "white"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "jade",
+            "white"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "concrete",
+            "white"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rainbow",
+            "blue"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ebony",
+            "white"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Asphalt",
+            "white"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "snowflake",
+            "white"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "truffle",
+            "white"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ice",
+            "white"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rattlesnake",
+            "black"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "slate",
+            "unique"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spam email",
+            "anonymous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "jellyfish",
+            "edible"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "onyx",
+            "unique"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Charcoal",
+            "black"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Phantom",
+            "black"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blackboard",
+            "white"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "raven",
+            "black"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "soot",
+            "black"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crystal",
+            "transparent"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cellophane",
+            "transparent"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kaleidoscope",
+            "dark"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rust",
+            "unique"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Midnight",
+            "dark"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ghost",
+            "unique"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mahogany",
+            "white"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "glass",
+            "white"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Obsidian",
+            "black"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Embers",
+            "white"
+        ],
+        "label": 0
+    }
+]

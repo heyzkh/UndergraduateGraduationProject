@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "Type File",
+            "document"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "function",
+            "lambda function"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "type element",
+            "struct"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Threshold",
+            "Mathematical Value"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Type Statement",
+            "declaration"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Type File",
+            "struct"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "type statement",
+            "expression"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thome",
+            "moth"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thome",
+            "snake"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Threshold",
+            "value"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "function",
+            "expression"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thome",
+            "worm"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thron",
+            "hex symbol"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Thumb",
+            "letter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Threshold",
+            "limit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thome",
+            "mushroom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "threes",
+            "number"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "threes",
+            "integer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "thome",
+            "spider"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thumper",
+            "dog"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thaw",
+            "frost"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Threshold",
+            "test"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Threshold",
+            "error"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Thirteen",
+            "number"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "threes",
+            "multiplication"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Thumb",
+            "hand"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "thunk",
+            "sound"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Thumb",
+            "fist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Thumb",
+            "nail"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Thumb",
+            "finger"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "function",
+            "lambda"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "thumper",
+            "duck"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thaw",
+            "cold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thumper",
+            "lamb"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thump",
+            "slug"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "threes",
+            "string"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thaw",
+            "snow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "threes",
+            "decimal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thaw",
+            "wind"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thump",
+            "noise"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Thirteen",
+            "code"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thunk",
+            "spunk"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thaw",
+            "tree"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thumper",
+            "ram"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thump",
+            "hammer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thumper",
+            "tree"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thunk",
+            "noise"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thong",
+            "kung"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thump",
+            "sound"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "thron",
+            "hexagon"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Thirteen",
+            "law"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thunk",
+            "duck"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thump",
+            "bump"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Thrown",
+            "ball"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thn",
+            "integer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thn",
+            "vector"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Thrown",
+            "void"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Thicket",
+            "ball"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thron",
+            "hexagram"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Thirteen",
+            "twelve"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Thicket",
+            "yarn"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thumbnail",
+            "photo gallery"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Thrown",
+            "garbage"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "thief",
+            "criminal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Thicket",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Thang",
+            "symbol"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Thicket",
+            "paper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thn",
+            "struct"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Thrown",
+            "throwing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Thang",
+            "code"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Thang",
+            "string"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Thirteen",
+            "seven"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thief",
+            "person"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "thief",
+            "robber"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Thw",
+            "thread"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Thw",
+            "thx"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thunk",
+            "spool"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thron",
+            "hexhex"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thief",
+            "hunter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thief",
+            "animal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Thw",
+            "tree"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Throws",
+            "void"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Throws",
+            "thrower"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Thang",
+            "char"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Throws",
+            "catch"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Thw",
+            "Thp"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thron",
+            "hexron"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Throws",
+            "Thrown"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Throws",
+            "throwing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "thick",
+            "thin"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thick",
+            "paper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thick",
+            "yarn"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thr",
+            "char"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thick",
+            "thread"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Thw",
+            "Thr"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thick",
+            "string"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Thumbnail",
+            "photo"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Thumbnail",
+            "image"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Thumbnail",
+            "graphic"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Thumbnail",
+            "gif"
+        ],
+        "label": 0
+    }
+]

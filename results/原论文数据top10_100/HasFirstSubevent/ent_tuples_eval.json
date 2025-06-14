@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "Final Fight",
+            "Final Battle"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Final Fight",
+            "Final Round"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Game Update",
+            "Game Start"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Final Fight",
+            "Final Match"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Gameplay",
+            "Game Start"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Gameplay",
+            "Game Setup"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Halloween",
+            "Christmas"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Loser",
+            "Winner"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "battery",
+            "power supply"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "battery",
+            "power surge"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gameplay",
+            "game creation"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Losing",
+            "Winning"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pause",
+            "resume"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Fade",
+            "Flash"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fear",
+            "panic"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fizzle",
+            "flash"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Easter",
+            "Christmas"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Halloween",
+            "October"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Eclipse",
+            "Sunrise"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cancel",
+            "submit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Bait",
+            "Catch"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Lunch",
+            "Breakfast"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "firing",
+            "burning"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Eclipse",
+            "Sun"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Rally",
+            "Race"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fear",
+            "anger"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Latch",
+            "Lock"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "firing",
+            "loading"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fatal",
+            "critical"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fright",
+            "Fear"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Crossover",
+            "Classic"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fear",
+            "love"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "worse",
+            "better"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fade",
+            "Cut"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fetch",
+            "Write"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fate",
+            "chance"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "possible",
+            "likely"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fear",
+            "stress"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Halloween",
+            "Holiday"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Noon",
+            "Morning"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "factory",
+            "production"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "purchase",
+            "download"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "punch",
+            "kick"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Racket",
+            "Raffle"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Gala",
+            "Opening"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Grief",
+            "Joy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Loser",
+            "Wager"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "purchase",
+            "sell"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Racing",
+            "Race"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Breath",
+            "Pause"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bop",
+            "pop"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hoot",
+            "Shoot"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fizzle",
+            "flicker"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lunch",
+            "business"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Failing",
+            "Failure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pause",
+            "reset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Pawn",
+            "Pay"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Eclipse",
+            "Moon"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Rushing",
+            "Loading"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Fetch",
+            "Pile"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Rushing",
+            "Running"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hug",
+            "kiss"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Losing",
+            "Wins"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Crawl",
+            "Brawl"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lunch",
+            "conference"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pitch",
+            "bat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hint",
+            "Answer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hanger",
+            "hook"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Wipe",
+            "Delete"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pitch",
+            "swing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Grief",
+            "Pain"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wrestling",
+            "boxing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "purchase",
+            "sale"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Coda",
+            "Introduction"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Eclipse",
+            "Sunset"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fate",
+            "choice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hush",
+            "Lush"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Rally",
+            "Racing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Routine",
+            "Fence"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bait",
+            "Hook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "breath",
+            "take"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Nuke",
+            "Launch"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "breath",
+            "pulse"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fence",
+            "Block"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bop",
+            "skip"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Rally",
+            "Raffle"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bop",
+            "beat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hush",
+            "speak"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hoot",
+            "Hype"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "buzz",
+            "flash"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "buddy",
+            "friend"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bait",
+            "Trap"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Grief",
+            "Loss"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hatch",
+            "spawn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Pounce",
+            "Pause"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pushing",
+            "pull"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Finalization",
+            "Finalize"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "worse",
+            "worst"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wet",
+            "dry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hype",
+            "Press"
+        ],
+        "label": 0
+    }
+]

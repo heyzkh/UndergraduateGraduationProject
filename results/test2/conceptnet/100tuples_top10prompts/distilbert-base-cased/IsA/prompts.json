@@ -1,0 +1,42 @@
+[
+    [
+        "A <ENT0> is a <ENT1> that has more than two sets of chromosomes .",
+        0.12136225184507123
+    ],
+    [
+        "A <ENT0> is a type of <ENT1> that produces edible grains .",
+        0.11913169277633628
+    ],
+    [
+        "A <ENT0> is a type of <ENT1> .",
+        0.11500916823163608
+    ],
+    [
+        "An <ENT0> is a specific type of <ENT1> that is known for living in large groups and being very aggressive .",
+        0.09837738753670726
+    ],
+    [
+        "A <ENT0> is a specific type of <ENT1> that is grown in order to harvest its grain, which is used as a food source .",
+        0.09835115812583001
+    ],
+    [
+        "A <ENT0> is a type of <ENT1> that is grown specifically for the grain that it produces .",
+        0.09582381463688197
+    ],
+    [
+        "More specifically, <ENT0> is a type of <ENT1> of the bile ducts .",
+        0.09543202735435538
+    ],
+    [
+        "In other words, <ENT0> is one particular <ENT1> .",
+        0.0911019914166123
+    ],
+    [
+        "A <ENT1> that is of the <ENT0> type is one that is characterized by its large size and population .",
+        0.08635084967816023
+    ],
+    [
+        "In medicine, <ENT0> is a subtype of <ENT1> affecting the biliary tree, which includes the bile ducts .",
+        0.07905965839840912
+    ]
+]

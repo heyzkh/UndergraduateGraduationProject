@@ -1,0 +1,695 @@
+[
+    {
+        "entity_tuple": [
+            "research paper",
+            "researcher"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "music composer",
+            "Musician Composer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "William Wordsworth",
+            "writer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "divine decree",
+            "god"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "visionary founder",
+            "Founder Visionary"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "code editor",
+            "programmer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "code editor",
+            "programmer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "code editor",
+            "programmer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "musical artist",
+            "composer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "musical piece",
+            "composer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fashion brand",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Development Team",
+            "developer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bread",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Artistic Designer",
+            "designer artist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fashion label",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "artwork",
+            "artist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "artwork",
+            "artist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "artwork",
+            "artist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "artwork",
+            "artist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "artwork",
+            "artist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "artwork",
+            "artist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "culinary dish",
+            "chef"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "software",
+            "programmer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "software",
+            "programmer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dough",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fashion collection",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fashion collection",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "podcast",
+            "Podcast Producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "advanced code architect",
+            "developer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Pythagorean Theorem",
+            "math"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Culinary Artist",
+            "chef"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "smith's artwork",
+            "smithsmith"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "smith's artwork",
+            "smithsmith"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "smith's artwork",
+            "smithsmith"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "smith's artwork",
+            "smithsmith"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "smith's artwork",
+            "smithsmith"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chef",
+            "chef cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chef",
+            "chef cook"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chef",
+            "chef cook"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "painting",
+            "painter"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "painting",
+            "painter"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "painting",
+            "painter"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "painting",
+            "painter"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Charles Perrault",
+            "perper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Shadow Weaver",
+            "shadowshadow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "algorithm",
+            "programmer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "baker's delight",
+            "Baker Chef"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "football coach",
+            "coachcoach"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Expert System",
+            "master"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "great man theory",
+            "Manman"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cic creator",
+            "Cac"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "allan alcorn",
+            "master"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Blender",
+            "producer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Linguist",
+            "Professor"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "street artist",
+            "artistartist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "novelist",
+            "writer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "novelist",
+            "writer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "woodcarver",
+            "smith"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "audio engineer",
+            "epep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bookmaker",
+            "author"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "songwriter",
+            "writerwriter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "songwriter",
+            "writerwriter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "songwriter",
+            "writerwriter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "songwriter",
+            "writerwriter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "songwriter",
+            "writerwriter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "songwriter",
+            "writerwriter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Baker",
+            "producer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "craftsman",
+            "smith"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "craftsman",
+            "smith"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "arborist",
+            "artist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "beethoven",
+            "Ovenoven"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "beethoven",
+            "Ovenoven"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "singer",
+            "Composer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "artisan",
+            "Artisansmith"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "artisan",
+            "Artisansmith"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "artisan",
+            "Artisansmith"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "artisan",
+            "Artisansmith"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "automobile",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "speak",
+            "speaker"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "superhero",
+            "herohero"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Filmmaker",
+            "director"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Filmmaker",
+            "director"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pickaxe",
+            "smith"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "expert",
+            "master"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "expert",
+            "master"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "roof",
+            "builder"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "superhero creator",
+            "Herohero"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "supervisor",
+            "director"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "expertise designer",
+            "director"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "melodycraft",
+            "composer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "complexistworks",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mithworks",
+            "master"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "brewer",
+            "producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "apprentice",
+            "mastermaster"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "founder",
+            "founderfounder"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Psychologist",
+            "Director"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Psychologist",
+            "Director"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "selfcreator",
+            "selfself"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "specializer's creator",
+            "creatormaster"
+        ],
+        "label": 0
+    }
+]

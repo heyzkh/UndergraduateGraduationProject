@@ -1,0 +1,695 @@
+[
+    {
+        "entity_tuple": [
+            "Lack Of Sleep",
+            "sleeping"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "experiencing trauma",
+            "anger"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "experiencing trauma",
+            "depression"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "working hard",
+            "stress"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "food poisoning",
+            "sick"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "getting physical",
+            "sweating"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "getting old",
+            "aging"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "experiencing stress",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wet hair",
+            "cold"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cold temperatures",
+            "warm"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "excessive caffeine intake",
+            "high"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "excessive screen time",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "poor lighting",
+            "blind"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shared interests",
+            "friends"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "alcohol consumption",
+            "drinking"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "reading in dim light",
+            "blind"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "unmet expectations",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stage fright",
+            "physical"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "exposure to smoke",
+            "smoking"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shared experiences",
+            "similar"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "emotional closeness",
+            "physical"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "unpredictable weather",
+            "cold"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "poor internet connection",
+            "online"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sugar intake",
+            "high"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Spicy Food",
+            "cold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "traffic congestion",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Sudden Braking",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "awkward situations",
+            "uncomfortable"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "loud noises",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drinking",
+            "alcohol"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "social gatherings",
+            "drinking"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Hormonal Changes",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drunk",
+            "alcohol"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Intense Physical Exercise",
+            "fatigue"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Funny Jokes",
+            "laughing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Gang Violence",
+            "violent"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "miscommunication",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Unfair Treatment",
+            "violent"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tight clothing",
+            "cold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "embarrassing situations",
+            "uncomfortable"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Distracted Driving",
+            "upset"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "unclear instructions",
+            "confused"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Peer Pressure",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gun ownership",
+            "violence"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "overthinking",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "neglected maintenance",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "eating",
+            "chokes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pregnant",
+            "pregnancy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stress",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "financial instability",
+            "emotional"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "warm compliments",
+            "cold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "icy road conditions",
+            "crash"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Sedentary Lifestyle",
+            "overweight"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Unresolved Conflict",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Excessive Oil Production",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "emotional vulnerability",
+            "physical"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pregnant",
+            "depression"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "romantic music",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "flirtatious behavior",
+            "aggressive"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Jealousy",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "meditation",
+            "upset"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Prolonged Eye Contact",
+            "uncomfortable"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Boredom",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fatigue",
+            "sleeping"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Unexpected News",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Loneliness",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "prolonged standing",
+            "walking"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Careless Typing",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Inequality",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tickling",
+            "upset"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "speeding",
+            "crash"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Insecurity",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "laughter",
+            "upset"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "happiness",
+            "happy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "isolation",
+            "close"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "experiencing trauma",
+            "ptsd"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "neglect",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Exhaustion",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "success",
+            "successful"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fever",
+            "sick"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Intimacy",
+            "sex"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Rejection",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "procrastination",
+            "frustrated"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Improper Footwear",
+            "walking"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sunlight",
+            "cold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Malaria",
+            "sick"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "diabetes",
+            "overweight"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "frustration",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "trust",
+            "upset"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Negligence",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "overcrowding",
+            "crowded"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "earthquake",
+            "violent"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "inspiration",
+            "angry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Arousal",
+            "sexual"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Dehydration",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kindness",
+            "angry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "injury",
+            "physical"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "disappointment",
+            "happy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "nightmares",
+            "sleep"
+        ],
+        "label": 0
+    }
+]

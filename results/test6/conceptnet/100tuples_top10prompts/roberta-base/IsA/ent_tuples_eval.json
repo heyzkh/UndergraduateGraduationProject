@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "seasonal affective disorder",
+            "depression"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "red blood cell",
+            "cancer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hepatitis",
+            "viral hepatitis"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "autism spectrum disorder",
+            "Autism Disorder"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bacterial meningitis",
+            "infection"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "viral infection",
+            "disease"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "allergic rhinitis",
+            "disease"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "muscle cramp",
+            "contraction"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bipolar disorder",
+            "depression"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "muscle spasm",
+            "contraction"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "acute bronchitis",
+            "pneumonia"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bacterial biofilm",
+            "infection"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Lymphatic Tissue",
+            "cancer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hepatic lobule",
+            "cancer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "malignant neoplasm",
+            "cancer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Fungal Spore",
+            "cancer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Eukaryotic Cell",
+            "cancer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "muscle twitch",
+            "twitch muscle"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "viral particle",
+            "virus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "parasitic infection",
+            "parasite"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Plant Bacterial Disease",
+            "infection"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bacterial colony",
+            "Bacteria Colony"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Galaxy Cluster",
+            "cluster galaxy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bacterial Virus",
+            "infection"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Lymphoid Follicle",
+            "cancer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bacterial filament",
+            "Bacteria Filament"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Bacterial Cell",
+            "Bacteria Cell"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "benign neoplasm",
+            "cancer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spinal nerve",
+            "neuron"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Lymphoid Organ",
+            "cancer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "autoimmune disorder",
+            "disease"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "autoimmune disease",
+            "cancer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bacterial Spore",
+            "infection"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bacterial Ribosome",
+            "cell"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spleen",
+            "organ"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bacterial toxin",
+            "Bacteria Toxin"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cancer",
+            "disease"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bacterial flagellum",
+            "infection"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hiccup",
+            "cancer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hepatitis",
+            "disease"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lice",
+            "parasite"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Hepatitis",
+            "infection"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "venous return",
+            "cancer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bacterial plasmid",
+            "infection"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "yeast",
+            "bacteria"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "prion",
+            "cancer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "algal bloom",
+            "fungus"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "yeast",
+            "fungus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crystal lattice",
+            "structure"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spinning wheel",
+            "disease"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bacterial Capsule",
+            "infection"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Prokaryotic Cell",
+            "cancer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Joint Inflammation",
+            "disease"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cardiac output",
+            "stroke"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "allergic reaction",
+            "disease"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bacteriophage",
+            "bacteria"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "aorta",
+            "cancer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "neutron star",
+            "radiation"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Microbial Spore",
+            "bacteria"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hypertension",
+            "disease"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "depression",
+            "disorder"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "capillary circulation",
+            "infection"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pollen grain",
+            "fungus"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "edema",
+            "infection"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mycelium",
+            "cancer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "biofilm",
+            "tissue"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "diabetes",
+            "disorder"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nematode",
+            "parasite"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nephron",
+            "cancer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crystal structure",
+            "protein"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "synovitis",
+            "infection"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hypertension",
+            "disorder"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lichen",
+            "fungus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hypertension",
+            "condition"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Essential Hypertension",
+            "disease"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cyanobacterium",
+            "bacteria"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "depression",
+            "condition"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hepatocyte",
+            "cell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "endocrine gland",
+            "tissue"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "star cluster",
+            "system"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lobar pneumonia",
+            "infection"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fern",
+            "fungus"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pathogen",
+            "cancer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mushroom",
+            "fungus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spirochete",
+            "cancer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "heart",
+            "disease"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Neuron",
+            "cell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lathe spindle",
+            "muscle"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Machine Tool Spindle",
+            "vessel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "trophic level",
+            "disease"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "endospore",
+            "cancer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "church tower",
+            "structure"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Textile Machine",
+            "operation"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "viroid",
+            "cancer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Textile Loom",
+            "tissue"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "arteriole",
+            "cancer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Algae",
+            "Bacteria"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "building",
+            "structure"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spice",
+            "food product"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Notebook",
+            "cancer"
+        ],
+        "label": 0
+    }
+]

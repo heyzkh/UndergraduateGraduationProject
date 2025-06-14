@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "Black People",
+            "Black Women"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "alcoholic",
+            "drink alcohol"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cat",
+            "Get Away"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "artist",
+            "make music"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vegetarian",
+            "eat meat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "investor",
+            "buy stock"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "modern monarch",
+            "rule"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "good dog",
+            "bark"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Single Parent",
+            "divorce"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "family",
+            "get along"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cat",
+            "get together"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "creator",
+            "create content"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "male bee",
+            "sting"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "true romantic",
+            "kiss"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vegetarian",
+            "Eat Food"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "family",
+            "get together"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "modern social",
+            "socialize"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "young child",
+            "parent"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "human",
+            "live"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "black raven",
+            "feeder"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "animal",
+            "feed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "person",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bird",
+            "nest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "single child",
+            "parent"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "individual",
+            "change"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "human",
+            "grow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "male",
+            "reproduce"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Single Girl",
+            "date"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "American Girl",
+            "kiss"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "human",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "person",
+            "change"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "animal",
+            "grow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "true red",
+            "redness"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "biker",
+            "ride"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stomach",
+            "eat meat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "alcohol",
+            "drink alcohol"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "human",
+            "survive"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "modern butterfly",
+            "sting"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bird",
+            "fly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "human",
+            "control"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Stomach",
+            "Eat Food"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "car",
+            "Go Away"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "animal",
+            "live"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "black raven",
+            "feeders"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dog",
+            "breed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ad lib",
+            "post"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "animal",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "female",
+            "change"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "American Grandmother",
+            "farm"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "individual",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cat",
+            "feed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "good young",
+            "mature"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bird",
+            "feed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "individual",
+            "control"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "family",
+            "get around"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "animal",
+            "survive"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "plant",
+            "flower"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "woman",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "person",
+            "live"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "person",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "god",
+            "make sense"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "government",
+            "cut budget"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Ad User",
+            "post"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cat",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bee",
+            "nest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "alcoholic",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sovereign",
+            "free speech"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "individual",
+            "grow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "good child",
+            "parent"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Black People",
+            "blackness"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "farmer",
+            "harvest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "person",
+            "control"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "black raven",
+            "feeding"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "flower",
+            "bloom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plant",
+            "reproduce"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "single male",
+            "female"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "female",
+            "grow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "woman",
+            "change"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "male",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "investor",
+            "Buy Back"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cuddle",
+            "puddle"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "horse",
+            "breed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "volcano",
+            "go wild"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cat",
+            "live"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "female",
+            "fly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "man",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bear",
+            "hunt"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tree",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dog",
+            "kill"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tree",
+            "flower"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "volcano",
+            "go underground"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mother",
+            "change"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pup",
+            "cuddle"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bear",
+            "feed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tree",
+            "fruit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "individual",
+            "survive"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cow",
+            "breed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kite",
+            "flight"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "man",
+            "control"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "American Monarch",
+            "rule"
+        ],
+        "label": 0
+    }
+]

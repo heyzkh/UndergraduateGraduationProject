@@ -1,0 +1,702 @@
+[
+    [
+        [
+            "sense of belonging",
+            "join"
+        ],
+        0.10304862930566605
+    ],
+    [
+        [
+            "social anxiety",
+            "withdraw"
+        ],
+        0.08290478892009877
+    ],
+    [
+        [
+            "financial insecurity",
+            "withdraw"
+        ],
+        0.03906881096409181
+    ],
+    [
+        [
+            "fresh air",
+            "sing"
+        ],
+        0.0384915381104413
+    ],
+    [
+        [
+            "achieving success",
+            "succeed"
+        ],
+        0.035339018077334264
+    ],
+    [
+        [
+            "sparkling bubbles",
+            "play"
+        ],
+        0.03510628731140293
+    ],
+    [
+        [
+            "toxic ideology",
+            "kill"
+        ],
+        0.031500987942635866
+    ],
+    [
+        [
+            "hidden treasure",
+            "seek"
+        ],
+        0.029376079924306884
+    ],
+    [
+        [
+            "spicy food",
+            "eat"
+        ],
+        0.029023358481092908
+    ],
+    [
+        [
+            "financial hardship",
+            "withdraw"
+        ],
+        0.028138890747688203
+    ],
+    [
+        [
+            "fertile soil",
+            "dig"
+        ],
+        0.022400360905306387
+    ],
+    [
+        [
+            "unfamiliar surroundings",
+            "withdraw"
+        ],
+        0.021348520108760528
+    ],
+    [
+        [
+            "unbearable heat",
+            "die"
+        ],
+        0.02095815385923628
+    ],
+    [
+        [
+            "aching loneliness",
+            "withdraw"
+        ],
+        0.019711034986947668
+    ],
+    [
+        [
+            "fashion trends",
+            "buy"
+        ],
+        0.018511860790178178
+    ],
+    [
+        [
+            "aching sadness",
+            "cry"
+        ],
+        0.018286267055264094
+    ],
+    [
+        [
+            "intellectual stimulation",
+            "read"
+        ],
+        0.017911153980118368
+    ],
+    [
+        [
+            "religious devotion",
+            "die"
+        ],
+        0.017123895119933324
+    ],
+    [
+        [
+            "sunny weather",
+            "read"
+        ],
+        0.017073998519167424
+    ],
+    [
+        [
+            "reckless impulsivity",
+            "kill"
+        ],
+        0.014749968943744687
+    ],
+    [
+        [
+            "unusual behavior",
+            "withdraw"
+        ],
+        0.013998793096104746
+    ],
+    [
+        [
+            "unbearable pain",
+            "cry"
+        ],
+        0.013341030568530619
+    ],
+    [
+        [
+            "aching nostalgia",
+            "read"
+        ],
+        0.012299082086642151
+    ],
+    [
+        [
+            "social celebration",
+            "celebrate"
+        ],
+        0.012251851188315089
+    ],
+    [
+        [
+            "fear",
+            "kill"
+        ],
+        0.011662363627092675
+    ],
+    [
+        [
+            "playful banter",
+            "laugh"
+        ],
+        0.011474727416549613
+    ],
+    [
+        [
+            "fascinating character",
+            "read"
+        ],
+        0.01047294289716913
+    ],
+    [
+        [
+            "beautiful melody",
+            "sing"
+        ],
+        0.010409813246158837
+    ],
+    [
+        [
+            "vengeance",
+            "kill"
+        ],
+        0.010149152860045347
+    ],
+    [
+        [
+            "creative inspiration",
+            "write"
+        ],
+        0.009878578411454713
+    ],
+    [
+        [
+            "passionate debate",
+            "write"
+        ],
+        0.00984252422885883
+    ],
+    [
+        [
+            "boredom",
+            "die"
+        ],
+        0.00956324327360532
+    ],
+    [
+        [
+            "uncontrollable rage",
+            "kill"
+        ],
+        0.009009572608155499
+    ],
+    [
+        [
+            "positive feedback",
+            "write"
+        ],
+        0.008308176193927048
+    ],
+    [
+        [
+            "nurturing environment",
+            "grow"
+        ],
+        0.007756549968600607
+    ],
+    [
+        [
+            "existential despair",
+            "die"
+        ],
+        0.007587908127869855
+    ],
+    [
+        [
+            "financial desperation",
+            "withdraw"
+        ],
+        0.007470570575276647
+    ],
+    [
+        [
+            "warm embrace",
+            "hug"
+        ],
+        0.007392707817927866
+    ],
+    [
+        [
+            "stress",
+            "cry"
+        ],
+        0.0070653454973671915
+    ],
+    [
+        [
+            "unresolved anger",
+            "kill"
+        ],
+        0.0068591676102972635
+    ],
+    [
+        [
+            "uplifting music",
+            "sing"
+        ],
+        0.006759838915831252
+    ],
+    [
+        [
+            "guilt",
+            "kill"
+        ],
+        0.006727714263391269
+    ],
+    [
+        [
+            "unrelenting suffering",
+            "die"
+        ],
+        0.006621834180123947
+    ],
+    [
+        [
+            "delicious aroma",
+            "smell"
+        ],
+        0.006580548545051193
+    ],
+    [
+        [
+            "lively music",
+            "sing"
+        ],
+        0.006235182294530366
+    ],
+    [
+        [
+            "uncontrollable jealousy",
+            "kill"
+        ],
+        0.006097902063588414
+    ],
+    [
+        [
+            "inner peace",
+            "live"
+        ],
+        0.0058152342048032
+    ],
+    [
+        [
+            "curiosity",
+            "read"
+        ],
+        0.005682496993089366
+    ],
+    [
+        [
+            "unexpected discovery",
+            "read"
+        ],
+        0.005266602092829371
+    ],
+    [
+        [
+            "soothing rhythm",
+            "sing"
+        ],
+        0.005179229978640558
+    ],
+    [
+        [
+            "peer pressure",
+            "withdraw"
+        ],
+        0.005160043503506354
+    ],
+    [
+        [
+            "hunger",
+            "kill"
+        ],
+        0.004684243658810448
+    ],
+    [
+        [
+            "overwhelming grief",
+            "cry"
+        ],
+        0.00464205191639279
+    ],
+    [
+        [
+            "excitement",
+            "play"
+        ],
+        0.004511968107383184
+    ],
+    [
+        [
+            "depression",
+            "withdraw"
+        ],
+        0.00433414120194116
+    ],
+    [
+        [
+            "personal goals",
+            "write"
+        ],
+        0.004299348003269577
+    ],
+    [
+        [
+            "startling noise",
+            "scream"
+        ],
+        0.004220767898460805
+    ],
+    [
+        [
+            "captivating book cover",
+            "read"
+        ],
+        0.0040971299894357344
+    ],
+    [
+        [
+            "deep conversation",
+            "read"
+        ],
+        0.00388102025555155
+    ],
+    [
+        [
+            "unfinished manuscript",
+            "read"
+        ],
+        0.0036373067879890736
+    ],
+    [
+        [
+            "intriguing question",
+            "read"
+        ],
+        0.003526196304816475
+    ],
+    [
+        [
+            "humor",
+            "die"
+        ],
+        0.0032529153937094803
+    ],
+    [
+        [
+            "adrenaline rush",
+            "drink"
+        ],
+        0.0032264728232845835
+    ],
+    [
+        [
+            "creative challenge",
+            "write"
+        ],
+        0.0032058790675482474
+    ],
+    [
+        [
+            "compelling mystery",
+            "investigate"
+        ],
+        0.0030497330278677695
+    ],
+    [
+        [
+            "captivating idea",
+            "read"
+        ],
+        0.002999160056384147
+    ],
+    [
+        [
+            "fulfilling purpose",
+            "live"
+        ],
+        0.0028287730477467186
+    ],
+    [
+        [
+            "despair",
+            "kill"
+        ],
+        0.0027978750618236265
+    ],
+    [
+        [
+            "lively atmosphere",
+            "read"
+        ],
+        0.00224188566567486
+    ],
+    [
+        [
+            "limited-time offer",
+            "buy"
+        ],
+        0.002102845929382329
+    ],
+    [
+        [
+            "tranquil scenery",
+            "read"
+        ],
+        0.0020570939922113078
+    ],
+    [
+        [
+            "nicotine craving",
+            "die"
+        ],
+        0.00202247736746039
+    ],
+    [
+        [
+            "artistic expression",
+            "live"
+        ],
+        0.00201489269250313
+    ],
+    [
+        [
+            "mouthwatering flavor",
+            "drink"
+        ],
+        0.0018991281365871415
+    ],
+    [
+        [
+            "playful puppy",
+            "read"
+        ],
+        0.0018976405508969946
+    ],
+    [
+        [
+            "frustration",
+            "write"
+        ],
+        0.0015223077436146571
+    ],
+    [
+        [
+            "soothing voice",
+            "sing"
+        ],
+        0.0013125217316524377
+    ],
+    [
+        [
+            "gratitude",
+            "live"
+        ],
+        0.001280765570572533
+    ],
+    [
+        [
+            "empathy",
+            "live"
+        ],
+        0.0012502616603737426
+    ],
+    [
+        [
+            "inviting playground",
+            "enter"
+        ],
+        0.0012477913182930799
+    ],
+    [
+        [
+            "heartbreak",
+            "cry"
+        ],
+        0.0012185810997224866
+    ],
+    [
+        [
+            "compassion",
+            "live"
+        ],
+        0.0011358281717241906
+    ],
+    [
+        [
+            "romantic atmosphere",
+            "read"
+        ],
+        0.0009362926727451005
+    ],
+    [
+        [
+            "loneliness",
+            "live"
+        ],
+        0.0008505179119997001
+    ],
+    [
+        [
+            "kindness",
+            "live"
+        ],
+        0.0008188377250301328
+    ],
+    [
+        [
+            "ambition",
+            "read"
+        ],
+        0.000795416377790545
+    ],
+    [
+        [
+            "inspiration",
+            "Live"
+        ],
+        0.0007796967202817375
+    ],
+    [
+        [
+            "thirst",
+            "read"
+        ],
+        0.0007225644727820995
+    ],
+    [
+        [
+            "determination",
+            "live"
+        ],
+        0.0007139411609524789
+    ],
+    [
+        [
+            "serenity",
+            "live"
+        ],
+        0.0006913697735438733
+    ],
+    [
+        [
+            "heartfelt gratitude",
+            "live"
+        ],
+        0.0006752045452382373
+    ],
+    [
+        [
+            "aching loss",
+            "live"
+        ],
+        0.0006433239259921974
+    ],
+    [
+        [
+            "poignant memory",
+            "write"
+        ],
+        0.0005890958830912403
+    ],
+    [
+        [
+            "joyful moment",
+            "live"
+        ],
+        0.0004910483196600948
+    ],
+    [
+        [
+            "deadline pressure",
+            "withdraw"
+        ],
+        0.00048349791337341384
+    ],
+    [
+        [
+            "appetizing appearance",
+            "look"
+        ],
+        0.0004150656632291159
+    ],
+    [
+        [
+            "generosity",
+            "live"
+        ],
+        0.000389144395022646
+    ],
+    [
+        [
+            "hopelessness",
+            "live"
+        ],
+        0.0003305412794894436
+    ],
+    [
+        [
+            "engaging story",
+            "read"
+        ],
+        0.0001456327201078705
+    ],
+    [
+        [
+            "adventure",
+            "live"
+        ],
+        0.00013547191783495132
+    ]
+]

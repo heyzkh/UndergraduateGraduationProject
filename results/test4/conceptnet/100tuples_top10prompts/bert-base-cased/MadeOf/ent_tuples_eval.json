@@ -1,0 +1,674 @@
+[
+    {
+        "entity_tuple": [
+            "water bottle",
+            "glass"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wooden spoon",
+            "metal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Golden Goblet",
+            "silver"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "copper wire",
+            "metal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "water balloon",
+            "plastic"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clay tablet",
+            "stone"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stone wall",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stone sculpture",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "copper kettle",
+            "metal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "steel beam",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "steel beam",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plastic container",
+            "glass"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Steel Hammer",
+            "metal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bamboo flute",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "paper airplane",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "brick",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "steel railing",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stone foundation",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "copper pipe",
+            "metal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "quartz crystal ball",
+            "glass"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "watercolor paint",
+            "clay"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wooden easel",
+            "metal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plastic toy",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chair",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "painting canvas",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stone tablet",
+            "clay"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "copper bracelet",
+            "metal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "steel drum",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cardboard box",
+            "plastic"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Wooden Clock",
+            "metal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sword",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Steel Ladder",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Steel Ladder",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "iron gate",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bamboo basket",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "charcoal pencil",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "plastic comb",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "statue",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hammer",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "house",
+            "brick"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bridge",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vase",
+            "glass"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "violin",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "iron fence",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wooden ladder",
+            "timber"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "violin bow",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "belt",
+            "metal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Clay Whistle",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "yoga mat",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "concrete bench",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bamboo chopsticks",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Clay Mask",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "charcoal grill",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "necklace",
+            "metal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cloth",
+            "cotton"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "quartz watch",
+            "glass"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "limestone pavement",
+            "limestone stone"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "quartz lamp",
+            "glass"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crown",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cup",
+            "ceramic material"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Iron Helmet",
+            "metal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tire",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "concrete planter",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "charcoal briquette",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mountain",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pottery",
+            "clay"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "teapot",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "limestone fireplace",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plastic straw",
+            "straw plastic"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "scarf",
+            "silk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dress",
+            "silk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mug",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "limestone staircase",
+            "limestone stone"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "t-shirt",
+            "cotton"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "jacket",
+            "leather"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sweater",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ice",
+            "glass"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "limestone tile",
+            "limestone stone"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "quartz jewelry",
+            "gold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kimono",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "charcoal filter",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "saree",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wallet",
+            "leather"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sidewalk",
+            "concrete"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "quartzite countertop",
+            "granite"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handkerchief",
+            "paper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Ceramic Coaster",
+            "glass"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Gloves",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wrench",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sneakers",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "boots",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sunglasses",
+            "plastic"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "raindrop",
+            "glass"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "keychain",
+            "metal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bookshelf",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bookshelf",
+            "wood"
+        ],
+        "label": 1
+    }
+]

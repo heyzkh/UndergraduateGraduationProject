@@ -1,0 +1,30 @@
+[
+    [
+        "If someone wants to <ENT0>, they must first <ENT1> .",
+        0.18260991627173334
+    ],
+    [
+        "If someone wants to <ENT0>, they must <ENT1> first .",
+        0.16722705317403105
+    ],
+    [
+        "If someone wants to <ENT0>, they need to <ENT1> first .",
+        0.1636397348501225
+    ],
+    [
+        "For someone to <ENT0>, they must first <ENT1> .",
+        0.1399583683291319
+    ],
+    [
+        "If someone wishes to <ENT0>e, they must first <ENT1> .",
+        0.12246588315755816
+    ],
+    [
+        "If someone intends to <ENT0>e, they must first <ENT1> .",
+        0.11591797786773506
+    ],
+    [
+        "For someone to <ENT0>e, they must first <ENT1> .",
+        0.10818106634968815
+    ]
+]

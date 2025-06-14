@@ -1,0 +1,42 @@
+[
+    [
+        "<ENT1> provides a more explanatory lens for understanding <ENT0> .",
+        0.11840413779127841
+    ],
+    [
+        "<ENT1> serves as a more detailed or explanatory term for <ENT0> .",
+        0.1177098560913107
+    ],
+    [
+        "<ENT1> provides a clearer understanding of <ENT0> .",
+        0.112845670313756
+    ],
+    [
+        "<ENT1> acts as a more descriptive term for <ENT0> .",
+        0.10852924976522972
+    ],
+    [
+        "<ENT1> functions as a more detailed representation of <ENT0> .",
+        0.09802547980127713
+    ],
+    [
+        "<ENT1> serves as a more explanatory variant of <ENT0> .",
+        0.09187565967783012
+    ],
+    [
+        "<ENT1> provide a more explanatory lens on <ENT0> .",
+        0.08934425107735433
+    ],
+    [
+        "<ENT1> offer a more detailed understanding of <ENT0> .",
+        0.08860096042572917
+    ],
+    [
+        "<ENT1> offer a more explanatory perspective on <ENT0> .",
+        0.08734243109488214
+    ],
+    [
+        "<ENT1> is a more explanatory version of <ENT0> .",
+        0.08732230396135222
+    ]
+]

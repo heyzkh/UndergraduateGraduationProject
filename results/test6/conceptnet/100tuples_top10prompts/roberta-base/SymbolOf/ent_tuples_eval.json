@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "black widow spider",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "black hole",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cherry blossom",
+            "spring"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Statue Of Liberty",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Eternal Flame",
+            "immortality"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "black swan",
+            "racism"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bald eagle",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Black Oak",
+            "racism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "red rose",
+            "unity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "red fox",
+            "freedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Black Panther",
+            "racism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Apple Pie",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "the ballot box",
+            "democracy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "golden calf",
+            "freedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Giant Panda",
+            "China"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "black dove",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Black Diamond",
+            "unity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "black crow",
+            "racism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "red maple leaf",
+            "Canada"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "black falcon",
+            "racism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "golden apple",
+            "freedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Black Pearl",
+            "unity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "red flag",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cherry Tree",
+            "fruit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Liberty Bell",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "black feather",
+            "racism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "black wolf",
+            "racism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "black wolf",
+            "racism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Black Eagle",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Black Moth",
+            "racism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Red Dragon",
+            "dragons"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "red double-decker bus",
+            "freedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "black rose",
+            "racism"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Mount Fuji",
+            "Japan"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "black orchid",
+            "racism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fishing rod",
+            "freedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rainbow",
+            "unity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "black lotus",
+            "racism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "black jaguar",
+            "racism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "red telephone box",
+            "America"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crown",
+            "power"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "black crane",
+            "racism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "black fist",
+            "racism"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Olive Branch",
+            "life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "trident",
+            "unity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "jaguar",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "oak tree",
+            "trees"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "scarlet macaw",
+            "racism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "eagle",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lion",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "butterfly",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "moon",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Willow Tree",
+            "trees"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "black phoenix",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vulture",
+            "diversity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sword",
+            "power"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dragonfly",
+            "dragons"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "unicorn",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "broken mirror",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Kitten",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cross",
+            "Jesus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tiger",
+            "China"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mermaid",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "panther",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dolphin",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dove",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "torch",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "monkey",
+            "God"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Lamb",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "serpent",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "peacock",
+            "racism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sparrow",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bear",
+            "freedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "volcano",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "phoenix",
+            "rebirth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "river",
+            "water"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hawk",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "thunderbolt",
+            "lightning"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cosmic Web",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "heart",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cosmic Whale",
+            "humanity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Interwoven Hands",
+            "unity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "labyrinth",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Samurai",
+            "Japan"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Whisker",
+            "white"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Scales",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "buffalo",
+            "humanity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Rosebud",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Lotus",
+            "life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sunrise",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "coral",
+            "life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ocean",
+            "space"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Thunderbird",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "raven",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "electron",
+            "life"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bluebird",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Afro Pick",
+            "racism"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tempest",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "anchovy",
+            "freedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Formosan Black Bear",
+            "China"
+        ],
+        "label": 0
+    }
+]

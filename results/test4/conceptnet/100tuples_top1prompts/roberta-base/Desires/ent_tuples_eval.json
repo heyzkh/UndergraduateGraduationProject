@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "survival instinct",
+            "failure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "true believer",
+            "faith"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "personal growth",
+            "education"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "inner peace",
+            "freedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "personal fulfillment",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spiritual enlightenment",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "perfectionist",
+            "success"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "student",
+            "education"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "self-discovery",
+            "failure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "self-discovery",
+            "failure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "self-discovery",
+            "failure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "self-discovery",
+            "failure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "self-discovery",
+            "failure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ultimate fulfillment",
+            "failure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "self-improvement",
+            "failure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "self-expression",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "self-expression",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "self-expression",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "self-expression",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "self-expression",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "self-indulgence",
+            "failure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cryptocurrency Investor",
+            "bitcoin"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cryptocurrency Investor",
+            "bitcoin"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cryptocurrency Investor",
+            "bitcoin"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "progressive equality",
+            "freedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "universal justice",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Equitable Opportunities",
+            "freedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lust",
+            "sex"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "success",
+            "failure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "activist",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ambition",
+            "failure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ambition",
+            "failure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ambition",
+            "failure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ambition",
+            "failure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ambition",
+            "failure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Thirst",
+            "water"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Thirst",
+            "water"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Thirst",
+            "water"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Fulfillment",
+            "success"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Fulfillment",
+            "success"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Fulfillment",
+            "success"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Fulfillment",
+            "success"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "romance",
+            "success"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "romance",
+            "success"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pleasure",
+            "death"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pleasure",
+            "death"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "greed",
+            "failure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "greed",
+            "failure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "greed",
+            "failure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Anonymity",
+            "privacy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Anonymity",
+            "privacy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "altruism",
+            "failure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "altruism",
+            "failure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "altruism",
+            "failure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "altruism",
+            "failure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "altruism",
+            "failure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "suicide",
+            "failure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "explorer",
+            "success"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "comfort",
+            "home"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "comfort",
+            "home"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "comfort",
+            "home"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "meditation",
+            "failure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "learning",
+            "education"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "learning",
+            "education"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "learning",
+            "education"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "learning",
+            "education"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Affection",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Affection",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Affection",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "harmony",
+            "balance"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "harmony",
+            "balance"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "harmony",
+            "balance"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "freedom",
+            "freedomfreedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "freedom",
+            "freedomfreedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "freedom",
+            "freedomfreedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "freedom",
+            "freedomfreedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "freedom",
+            "freedomfreedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "freedom",
+            "freedomfreedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "freedom",
+            "freedomfreedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Wellness",
+            "balance"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Wellness",
+            "balance"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Wellness",
+            "balance"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Wellness",
+            "balance"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "justice",
+            "justicejustice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "justice",
+            "justicejustice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "justice",
+            "justicejustice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "security",
+            "securitysecurity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "speed",
+            "speedspeed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "equality",
+            "equalityequality"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "equality",
+            "equalityequality"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "equality",
+            "equalityequality"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Euroscepticism",
+            "brexit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Euroscepticism",
+            "brexit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Euroscepticism",
+            "brexit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Euroscepticism",
+            "brexit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Advocacy",
+            "freedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Advocacy",
+            "freedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "supporters",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "admiration",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "admiration",
+            "love"
+        ],
+        "label": 1
+    }
+]

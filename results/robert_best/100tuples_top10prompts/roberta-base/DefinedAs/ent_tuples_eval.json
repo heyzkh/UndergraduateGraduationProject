@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "Start Moving",
+            "Stop"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Start Moving",
+            "Stop"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "present day",
+            "today"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hold on",
+            "stop"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "much obliged",
+            "thanks"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "grateful",
+            "thanks"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "grateful",
+            "thanks"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wishing",
+            "thinking"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Snow Season",
+            "Winter"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nope",
+            "yes"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crap",
+            "fuck"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crap",
+            "fuck"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lucky",
+            "happy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "exclamation of joy",
+            "happy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gratitude",
+            "thanks"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "amazing",
+            "wow"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "amazing",
+            "wow"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "amazing",
+            "wow"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "terminated",
+            "dead"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "charm",
+            "love"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "nearly",
+            "almost"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Achievement",
+            "Success"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Gratitude Feast",
+            "Thanks"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "delicious treat",
+            "special"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "can",
+            "would"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "humiliation",
+            "death"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "greeting at dusk",
+            "noon"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "greeting",
+            "thanks"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chilly",
+            "cold"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "alarm",
+            "alert"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "affirmative vote",
+            "yes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "phew",
+            "thanks"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Farewell",
+            "bye"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Farewell",
+            "bye"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Gratitude Deity",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Gratitude Deity",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "what the fudge",
+            "fuck"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "affection",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "affection",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "affection",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "affection",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Crisp",
+            "Apple"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "greeting at midday",
+            "noon"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "greeting phrase",
+            "name"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "jolt",
+            "shock"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tranquility",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "catastrophe",
+            "shock"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "catastrophe",
+            "shock"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "difficult",
+            "easy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "difficult",
+            "easy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "joyful",
+            "happy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "joyful",
+            "happy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "joyful",
+            "happy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "thankful",
+            "thanks"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "thankful",
+            "thanks"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "desire",
+            "want"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stinky",
+            "dirty"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "morning greeting",
+            "hello"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "defect",
+            "break"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "disheartened",
+            "happy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "imminently",
+            "soon"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cozy",
+            "cool"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "contempt",
+            "assault"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "possibly",
+            "likely"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "possibly",
+            "likely"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bliss",
+            "fuck"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bliss",
+            "fuck"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "interruption",
+            "attack"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cranky",
+            "nice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subsequently",
+            "later"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hex",
+            "hexhex"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shivers",
+            "shock"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "prepare",
+            "wait"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plush",
+            "flush"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mishandle",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Amazement",
+            "Shock"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "power",
+            "strength"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "power",
+            "strength"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Confidence",
+            "Strength"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "destiny",
+            "strength"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fluvirus",
+            "bug"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "feeble",
+            "crazy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ungrateful",
+            "sorry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ungrateful",
+            "sorry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fortune",
+            "Luck"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "retrieve",
+            "pause"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "aversion",
+            "shock"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "persistent",
+            "reasonable"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "intestine",
+            "Israel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ice",
+            "cold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "speedier",
+            "better"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "courteous",
+            "nice"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "startled",
+            "happy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "request",
+            "requestrequest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "likely",
+            "likelylikely"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "benedictions",
+            "health"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "total",
+            "totaltotal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "liquid",
+            "liquidliquid"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Acknowledgment Sound",
+            "Soundsound"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Powerful",
+            "Powerfulpowerful"
+        ],
+        "label": 0
+    }
+]

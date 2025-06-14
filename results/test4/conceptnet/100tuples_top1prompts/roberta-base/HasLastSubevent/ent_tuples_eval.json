@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "press a button",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "complete task",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "finish writing",
+            "edit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "complete a training session",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "press stop button",
+            "restart"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "complete warm-up exercises",
+            "repeat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "finish serving food",
+            "serve"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "open eyes",
+            "see"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "complete registration",
+            "register"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "finish",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "finish",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "turn on",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "turn on",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "turn on",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "leave the room",
+            "return"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "submit application",
+            "complete"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "board a bus",
+            "wait"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "leave the building",
+            "return"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "make a fresh start",
+            "restart"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "conclude negotiations",
+            "discuss"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "enter credentials",
+            "type"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "write bash script",
+            "execute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "take the mcat exam",
+            "write"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shut down",
+            "restart"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shut down",
+            "restart"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shut down",
+            "restart"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shut down",
+            "restart"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "attend a party",
+            "leave"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "save document",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "record audio",
+            "edit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "save",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "prepare training materials",
+            "use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "send to printer",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "send to printer",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "send to printer",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "send to printer",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lie down",
+            "pee"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "exit",
+            "enter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "exit",
+            "enter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "install",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clean",
+            "use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clean",
+            "use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "decide",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "decide",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "leave",
+            "return"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "submit",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "verify",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "leave a place",
+            "return"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "leave a place",
+            "return"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "leave a place",
+            "return"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "edit",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "erase",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cook",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cook",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "negotiate a contract",
+            "sign"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "review notes",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shoot",
+            "reload"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shoot",
+            "reload"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "debug software",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dial a number",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "press",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "press",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "review log",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sign",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sign",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sign",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sign",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sign",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sign",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Firing A Gun",
+            "reload"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drop",
+            "use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pause",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pour",
+            "repeat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "practice",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "jog",
+            "walk"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "jog",
+            "walk"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "attempt",
+            "complete"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stir",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stir",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sprint",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sprint",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "skim",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "skim",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "proofread",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "proofread",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "proofread",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rehearse",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rehearse",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rehearse",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rehearse",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "whisper",
+            "say"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "whisper",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "whisper",
+            "say"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "arrest",
+            "register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "arrest",
+            "register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "arrest",
+            "register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "arrest",
+            "register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "commute",
+            "return"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Customer Complaint Handling",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stroll",
+            "walk"
+        ],
+        "label": 0
+    }
+]

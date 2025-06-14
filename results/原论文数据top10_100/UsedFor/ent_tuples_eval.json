@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "karate",
+            "martial arts"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Bible",
+            "religious belief"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "steed",
+            "horse riding"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handbag",
+            "carry luggage"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handbag",
+            "carry bags"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "trimmer",
+            "cut wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chimp",
+            "animal feed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Common Sense",
+            "reason"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plow",
+            "land clearing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vial",
+            "water flow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plaid",
+            "dress uniform"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackbird",
+            "bird hunting"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "karate",
+            "fight"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blackhole",
+            "black holes"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "black tar",
+            "burn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "karate",
+            "martial art"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Lung",
+            "Respiratory Ventilation"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blackberry",
+            "fruit peel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "common knot",
+            "tie"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blackberry",
+            "fruit picking"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bridge",
+            "travel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blackbird",
+            "bird watching"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hand book",
+            "hand writing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spelt",
+            "spell words"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vial",
+            "water treatment"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackbird",
+            "bird song"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kite",
+            "flutter"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handbag",
+            "carry around"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Bible",
+            "religious practice"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vial",
+            "water drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kite",
+            "fly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handbook",
+            "study history"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Wig",
+            "Hair Styling"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Black Pen",
+            "ink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chimp",
+            "animal rescue"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pix",
+            "photo shoot"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "plaid",
+            "dress pattern"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Stash",
+            "Store Stuff"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sword",
+            "fight"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lung",
+            "respiratory tract"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "handbook",
+            "practice meditation"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wheel",
+            "travel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "white egg",
+            "eggs"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sparrow",
+            "bird flight"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kite",
+            "flute"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Handlock",
+            "Lock Locks"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wiz",
+            "power generation"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spaniel",
+            "dog food"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tricycle",
+            "locomotion"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bridge",
+            "transport"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hammer",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wiz",
+            "power distribution"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spaniel",
+            "dog walk"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wiz",
+            "power tools"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sword",
+            "combat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "plenum",
+            "decomposition"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kite",
+            "flying"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Stash",
+            "store value"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Black Pen",
+            "drawing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sword",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "trill",
+            "sound music"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blackberry",
+            "fruit juice"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gait",
+            "locomotion"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Common Name",
+            "spell"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stinger",
+            "stings"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "net",
+            "travel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wiz",
+            "power management"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chakra",
+            "focus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spindle",
+            "spool"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "screen",
+            "view"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spaniel",
+            "dog training"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Stash",
+            "Store Money"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Spouse",
+            "social interaction"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "handstand",
+            "handhold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chimp",
+            "animal care"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wreath",
+            "decorate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bridge",
+            "walk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Handgun",
+            "Gun Fire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spindle",
+            "wheel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kung",
+            "hoe"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "handstand",
+            "handwork"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hammer",
+            "strike"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spinner",
+            "spindle"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gait",
+            "speed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sparrow",
+            "bird song"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vase",
+            "decorate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shell",
+            "transport"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tricycle",
+            "locomotive"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "handrail",
+            "handhold"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "white cup",
+            "drinking"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "box",
+            "travel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stinger",
+            "stinging"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chisel",
+            "hammer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stile",
+            "locomotion"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stinger",
+            "harvest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "net",
+            "transport"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "steed",
+            "horseback"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rss",
+            "type pattern"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "truer",
+            "use words"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Spine",
+            "body part"
+        ],
+        "label": 0
+    }
+]

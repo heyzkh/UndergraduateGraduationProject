@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "Programming Language",
+            "Language Programming"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wind",
+            "wind winds"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "digital media",
+            "Media Digital"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Acoustic Wave",
+            "acoustic sound"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Social Movement",
+            "movement sociology"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gender identity",
+            "Identity Gender"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "scientific inquiry",
+            "science"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "information science",
+            "Science Information"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thermal energy",
+            "energy heat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "social stratification",
+            "sociology"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Musical Composition",
+            "composition music"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "architectural design",
+            "architecture"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "visual arts",
+            "music"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "literary criticism",
+            "literature"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "early childhood education",
+            "English"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "football",
+            "football soccer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Divine Being",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cultural anthropology",
+            "Anthropology Sociology"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Graphic Design",
+            "art"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "quantum physics",
+            "Einstein"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "urban sociology",
+            "geography"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hydrogen oxide",
+            "oxygen"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Armed Conflict",
+            "war"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "consciousness",
+            "mind consciousness"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Fashion Industry",
+            "Industry Fashion"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "developmental psychology",
+            "education"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "reproductive biology",
+            "evolution"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cognitive science",
+            "psychology"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sound art",
+            "music"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "community development",
+            "education"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "anthropology",
+            "history anthropology"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "artwork",
+            "Art Painting"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "human speech",
+            "sound"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kinetic energy",
+            "momentum"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "social beings",
+            "humans"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spatial measurement",
+            "measurement spatial"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "adaptive evolution",
+            "ecology"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "moral law",
+            "justice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "feminine mystique",
+            "beauty"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Classical Language",
+            "English"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "educational curriculum",
+            "English"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "marital dissolution",
+            "marriage"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "automotive industry",
+            "technology"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Improvisational Music",
+            "jazz"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "religion",
+            "Christianity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "nutrition",
+            "nutrition food"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Gender Equity",
+            "feminism"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "intellectual pursuit",
+            "science"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "poetry",
+            "music"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "longevity",
+            "time"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "strategic doctrine",
+            "strategy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "community networks",
+            "Internet"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kinship structure",
+            "gender"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "monetary aggregate",
+            "money"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "religion",
+            "Buddhism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Vedic Tradition",
+            "Buddhism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Ebony Furniture",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mortality",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "renewable resource",
+            "energy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "suffering",
+            "pain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Spiritual Practice",
+            "meditation"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "terrestrial sphere",
+            "Earth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fire",
+            "flame"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "literature",
+            "English"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "self-harm",
+            "anger"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "grammar",
+            "language"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Calendar Event",
+            "time"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "harmony",
+            "music"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Omnipotent Creator",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chronology",
+            "history"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "neuroscience",
+            "psychology"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wellness",
+            "health"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "enchantment",
+            "magic"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "community advocate",
+            "green"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sacramental theology",
+            "Christianity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "financial hub",
+            "London"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "planet",
+            "Earth"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cuisine",
+            "food"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "liquid asset",
+            "money"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "midwife",
+            "mother"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cartography",
+            "geography"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cosmology",
+            "physics"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "oratory",
+            "English"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "compassion",
+            "God"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "vocalization",
+            "sound"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "linguistics",
+            "language"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "choreography",
+            "dance"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Dwelling",
+            "building"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "historiography",
+            "history"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "philosopher",
+            "Aristotle"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Messiah",
+            "God"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "surrender value",
+            "price"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "matrimony",
+            "marriage"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cigarette",
+            "tobacco"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "terra",
+            "Latin"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "craftsman",
+            "art"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Mobile Payment",
+            "sms"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kinship network",
+            "dna"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Biophilic Design",
+            "Design Dna"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Biophilia",
+            "Dna"
+        ],
+        "label": 0
+    }
+]

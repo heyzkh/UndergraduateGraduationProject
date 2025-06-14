@@ -1,0 +1,42 @@
+[
+    [
+        "The order of events is: <ENT1>, then <ENT0> .",
+        0.12415427611869884
+    ],
+    [
+        "In order for the \"<ENT0>\" event to begin, the \"<ENT1>\" event must first occur .",
+        0.12018533705688969
+    ],
+    [
+        "The \"<ENT1>\" event happens first, and then the \"<ENT0>\" event can start .",
+        0.11469976008905265
+    ],
+    [
+        "The \"<ENT1>\" event must occur before the \"<ENT0>\" event can begin .",
+        0.10975740865463016
+    ],
+    [
+        "The event \"<ENT0>\" begins with the subevent \"<ENT1>.\" .",
+        0.10602433989928256
+    ],
+    [
+        "The subevent \"<ENT1>\" is the beginning of the event \"<ENT0>.\" .",
+        0.10579118232513682
+    ],
+    [
+        "The <ENT0> begins by having the participants <ENT1> a text .",
+        0.10556633333230019
+    ],
+    [
+        "The \"<ENT0>\" event begins with the \"<ENT1>\" subevent .",
+        0.09936093929817004
+    ],
+    [
+        "The <ENT0> begins with the <ENT1>ing of a text .",
+        0.0599173956051204
+    ],
+    [
+        "The <ENT0> is an event that begins with the subevent of <ENT1>ing .",
+        0.054543027620718755
+    ]
+]

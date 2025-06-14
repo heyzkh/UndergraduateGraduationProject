@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "quit smoking",
+            "quit smoke"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "quit smoking",
+            "quit smoke"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "quit smoking",
+            "quit smoke"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "go away",
+            "leave"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "seek shelter",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "write",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "write",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "write",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "quench thirst",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "quench thirst",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "play",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "explore new experiences",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "learn",
+            "Learn Teach"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "learn",
+            "Learn Teach"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "improve health",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Donate",
+            "Donate Give"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cook",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "eat",
+            "survive"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "suicide attempt",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "walk",
+            "move"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "walk",
+            "exercise"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sleep",
+            "dream"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "practice",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compete",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compete",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "exercise",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "exercise",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "team collaboration",
+            "collaborate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "study",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "study",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "study",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "study",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "self-defense",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "survive",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "survive",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "survive",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "survive",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "induce vomiting",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hunger",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "resign",
+            "leave"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "resign",
+            "leave"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Career Advancement",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Career Advancement",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Career Advancement",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Career Advancement",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "propose",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "romantic gesture",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "reform",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "reform",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "reflect",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "reflect",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "promote",
+            "Promote Sell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "promote",
+            "Promote Sell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "promote",
+            "Promote Sell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "promote",
+            "Promote Sell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "promote",
+            "Promote Sell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "conceal",
+            "hide"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "player",
+            "Play Win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "depart",
+            "leave"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "innovate",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "innovate",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "barista",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hydrate",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "publish",
+            "publish read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rescue",
+            "save"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rescue",
+            "save"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "romance",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dieting",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dieting",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dieting",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Romantic Dinner",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "conversation",
+            "talk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "competition",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Civic Engagement",
+            "contribute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Impress",
+            "Impress Win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "angler",
+            "fish"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "recharge",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "persuade",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "persuade",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "persuade",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "persuade",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "feedback",
+            "improve"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ambition",
+            "live"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ambition",
+            "live"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ambition",
+            "live"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "robbery",
+            "steal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "assassin",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "actor",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chef",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "activist",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "activist",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "activist",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "competitor",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "assistant",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "assistant",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "assistant",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "assistant",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "improvement",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bigotry",
+            "hate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "relaxation",
+            "eat"
+        ],
+        "label": 0
+    }
+]

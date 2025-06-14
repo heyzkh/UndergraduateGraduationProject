@@ -1,7 +1,7 @@
 import os
 import json
 import fire
-
+# from models.deepseek import DeepSeek
 from models.knowledge_harvester import KnowledgeHarvester
 
 
@@ -26,6 +26,7 @@ def main(rel_set='conceptnet',
 
     for rel, info in relation_info.items():
         print(f'Harvesting for relation {rel}...')
+        knowledge_harvester._ent_tuple_searcher.current_relation = rel
 
         setting = f'{max_n_ent_tuples}tuples'
         if use_init_prompts:
@@ -33,7 +34,7 @@ def main(rel_set='conceptnet',
         else:
             setting += f'_top{max_n_prompts}prompts'
 
-        output_dir = f'results/{rel_set}/{setting}/{model_name}'
+        output_dir = f'results/原公式/{rel_set}/{setting}/{model_name}'
         if os.path.exists(f'{output_dir}/{rel}/ent_tuples.json'):
             print(f'file {output_dir}/{rel}/ent_tuples.json exists, skipped.')
             continue
@@ -63,3 +64,4 @@ def main(rel_set='conceptnet',
 
 if __name__ == '__main__':
     fire.Fire(main)
+

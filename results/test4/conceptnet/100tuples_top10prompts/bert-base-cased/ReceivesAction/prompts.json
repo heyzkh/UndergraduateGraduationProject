@@ -1,0 +1,42 @@
+[
+    [
+        "This is a test to see if the <ENT0> can be <ENT1> .",
+        0.13394791993764377
+    ],
+    [
+        "The <ENT0> can be <ENT1> to the color that you want .",
+        0.12393817446044374
+    ],
+    [
+        "The <ENT0> can be <ENT1> .",
+        0.12178550321142632
+    ],
+    [
+        "The <ENT0> can be <ENT1> in order to assess their effectiveness and compliance .",
+        0.11310600753374941
+    ],
+    [
+        "To ensure that both parties are satisfied, <ENT0> can be <ENT1> .",
+        0.09552976703878537
+    ],
+    [
+        "<ENT0> can be <ENT1> in a variety of colors .",
+        0.09094853405243963
+    ],
+    [
+        "<ENT0> can be <ENT1> to see if they are effective .",
+        0.08981799718658195
+    ],
+    [
+        "Both parties can ensure that <ENT0> are <ENT1> by taking them themselves .",
+        0.08527570074739246
+    ],
+    [
+        "<ENT0> can be <ENT1> to ensure that they are fair and meet the needs of both parties .",
+        0.07744748616960807
+    ],
+    [
+        "<ENT0>s can be <ENT1> to create different pitch levels .",
+        0.0682029096619294
+    ]
+]

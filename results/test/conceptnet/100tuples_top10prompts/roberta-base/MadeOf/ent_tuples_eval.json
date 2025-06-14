@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "bread",
+            "wheat flour"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cinder",
+            "Carbon Dioxide"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bib",
+            "cotton wool"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shell",
+            "solid shell"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pencil",
+            "paper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pencil",
+            "plastic"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pencil",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pencil",
+            "metal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pencil",
+            "rubber"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cloth",
+            "cotton"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cloth",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cloth",
+            "fabric"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bib",
+            "cotton"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cowl",
+            "wool"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cloth",
+            "wool"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cowl",
+            "silk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crust",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bib",
+            "nylon"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hull",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cloth",
+            "linen"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "yarn",
+            "wool"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "css",
+            "text files"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crust",
+            "iron"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bib",
+            "cotton material"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "yarn",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shell",
+            "glass"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hull",
+            "steel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crust",
+            "clay"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crust",
+            "metal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cowl",
+            "cork"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cinder",
+            "carbonite"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "yarn",
+            "cotton"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hull",
+            "metal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crust",
+            "plastic"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bread",
+            "flour"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bough",
+            "wheat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cowl",
+            "cedar"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "yarn",
+            "rubber"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crown",
+            "gold"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cyl",
+            "carbon dioxide"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hood",
+            "plastic"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hull",
+            "aluminum"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hull",
+            "aluminium"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "yarn",
+            "metal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gold",
+            "copper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cinder",
+            "carbonate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bread",
+            "wheat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hood",
+            "rubber"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bread",
+            "dough"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crown",
+            "glass"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mould",
+            "plastic"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bough",
+            "woodstock"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mould",
+            "clay"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crown",
+            "copper"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bough",
+            "bark"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gold",
+            "iron"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gold",
+            "silver"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mould",
+            "rubber"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mould",
+            "metal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bald",
+            "Black Hair"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "glass",
+            "steel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cib",
+            "Carbon Fiber"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gold",
+            "glass"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "metalium",
+            "metallic oxide"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cyl",
+            "Carbon Fiber"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bread",
+            "butter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hood",
+            "copper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bough",
+            "woodwood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "metalium",
+            "metallic material"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Crib",
+            "cedar"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cowl",
+            "cinder"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mould",
+            "carbonite"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bough",
+            "wooden"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bald",
+            "black leather"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "metalium",
+            "carbonium"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cint",
+            "copper oxide"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cyl",
+            "carbonite"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bald",
+            "black pigment"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cyl",
+            "carbonate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cald",
+            "woodstock"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bald",
+            "Black Powder"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cpt",
+            "carbon"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cib",
+            "carbonite"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cald",
+            "woodwood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cib",
+            "carbonate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cint",
+            "cinder"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Css",
+            "string"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cald",
+            "wooden"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Pcb",
+            "plastic"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Css",
+            "cds"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Pcb",
+            "copper"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Css",
+            "text"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cpt",
+            "cmp"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Pcb",
+            "glass"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "metalcraft",
+            "metallic oxide"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Pcb",
+            "carbonite"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Pcb",
+            "carbonate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Css",
+            "stringing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cether",
+            "carbonate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "metalshell",
+            "metalite"
+        ],
+        "label": 1
+    }
+]

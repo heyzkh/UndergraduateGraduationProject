@@ -1,6 +1,7 @@
 import re
 from nltk.corpus import stopwords
-
+import os
+import json
 
 stopwords = stopwords.words('english')
 stopwords.extend([
@@ -79,3 +80,42 @@ def find_sublist(a, b):
             return l
 
     return None
+    """
+    增强版子列表查找，处理可能的tokenization差异
+    """
+    # sequence, sublist
+    # sub_len = len(b)
+    # for i in range(len(a) - sub_len + 1):
+    #     match = True
+    #     for j in range(sub_len):
+    #         if a[i+j] != b[j]:
+    #             match = False
+    #             break
+    #     if match:
+    #         return i
+    # # 容错机制：尝试匹配核心部分
+    # if len(b) > 2:
+    #     return find_sublist(a, b[1:-1])
+    # return -1  # 改为返回-1而不是断言失败
+
+
+def data_processing(data):
+    # 去除小数部分，只保留包含字符串的子列表
+    result = [item[0] for item in data]
+    return result
+
+
+def process_json_file(input_file_path):
+    # 获取父类文件名，作为关系
+    parent_dir = os.path.dirname(input_file_path)
+    parent_dir_name = os.path.basename(parent_dir)
+    # 读取 JSON 文件
+    try:
+        with open(input_file_path, 'r', encoding='utf-8') as file:
+            data = json.load(file)
+    except FileNotFoundError:
+        print(f"未找到文件: {input_file_path}")
+    # 处理数据
+    processed_data = data_processing(data)
+
+    return processed_data, parent_dir_name

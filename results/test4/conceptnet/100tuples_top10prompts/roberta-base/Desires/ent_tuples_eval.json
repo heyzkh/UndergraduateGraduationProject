@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "i'm sorry, but i can't comply with this request. i can't assist with generating content that promotes or relates to harmful, illegal, or",
+            "cause harm"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "delicious food",
+            "taste"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "image format",
+            "format image"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hungry cat",
+            "food"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "romantic partner",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "peaceful coexistence",
+            "end"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Personal Growth",
+            "Grow Growth"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "parent",
+            "control"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "artist",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "artist",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Dream Home",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "child",
+            "control"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "romantic partnership",
+            "end"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hungry traveler",
+            "food"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "aspiring students",
+            "study"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Compassionate Understanding",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "climber",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "champion",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hungry person",
+            "food"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hungry person",
+            "food"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "self-expression",
+            "control"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "activist",
+            "protest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "activist",
+            "protest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "activist",
+            "protest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "self-improvement",
+            "control"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "competitor",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "competitor",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "unrestricted liberty",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "power",
+            "control"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "power",
+            "control"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "power",
+            "control"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "power",
+            "control"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "botanist",
+            "control"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "botanist",
+            "control"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "botanist",
+            "control"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "student",
+            "study"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "student",
+            "study"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "career",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lust",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lust",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lust",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "happiness",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Appetite",
+            "food"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "success",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "success",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "book",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Reunite",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "patriot",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "beauty",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "yearning",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "romance",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "romance",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "romance",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "romance",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "romance",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "romance",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pleasure",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pleasure",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Fulfillment",
+            "end"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fulfillment",
+            "end"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fulfillment",
+            "end"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fulfillment",
+            "end"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fairy",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ambition",
+            "control"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ambition",
+            "control"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ambition",
+            "control"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ambition",
+            "control"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ambition",
+            "control"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ambition",
+            "control"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Dominance",
+            "control"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "aspiration",
+            "control"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "aspiration",
+            "control"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "aspiration",
+            "control"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "parents",
+            "control"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "parents",
+            "control"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "innovation",
+            "control"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "curiosity",
+            "control"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "adventure",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "adventure",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "adventure",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "adventure",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "adventure",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "adventure",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "adventure",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rest",
+            "end"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rest",
+            "end"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hungry_cat",
+            "feed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Prosperity",
+            "control"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "victory",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Slang",
+            "end"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Reunion",
+            "end"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Reunion",
+            "end"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "escape",
+            "control"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "escape",
+            "control"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "escape",
+            "control"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "express",
+            "control"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "relaxation",
+            "control"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "relaxation",
+            "control"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "relaxation",
+            "control"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Exploring",
+            "control"
+        ],
+        "label": 0
+    }
+]

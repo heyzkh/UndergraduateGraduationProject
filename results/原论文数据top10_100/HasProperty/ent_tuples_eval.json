@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "food",
+            "health food"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gold",
+            "highly valued"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cloth",
+            "extremely durable"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "period",
+            "time periods"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "drug",
+            "addictive"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mood",
+            "highly emotional"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "food",
+            "healthful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fraud",
+            "easily discovered"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Heaven",
+            "like heaven"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bread",
+            "extremely rich"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "alcohol",
+            "dangerous"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clown",
+            "quite funny"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cloth",
+            "extremely versatile"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bread",
+            "extremely versatile"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "alcohol",
+            "harmful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "alcohol",
+            "addictive"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "alcohol",
+            "toxic"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drug",
+            "toxic"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "aircraft",
+            "highly efficient"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pharmaceutical",
+            "addictive"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pharmaceutical",
+            "expensive"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drug",
+            "harmful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pain",
+            "quite severe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wild",
+            "quite wild"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "staff",
+            "well trained"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pharmaceutical",
+            "dangerous"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "food",
+            "healthy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Newborn",
+            "born early"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "food",
+            "nutritious"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pharmaceutical",
+            "cheap"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pharmaceutical",
+            "safe"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "alcohol",
+            "strong"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "physical",
+            "extremely difficult"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Girl",
+            "Sexually Motivated"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "football",
+            "highly explosive"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "prawn",
+            "edible"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Btw",
+            "really nice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bisexual",
+            "sexually active"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Yarn",
+            "cheap"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Yarn",
+            "beautiful"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Mac",
+            "powerful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Yarn",
+            "expensive"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fowl",
+            "fussy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fowl",
+            "wild"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Corrupt",
+            "easily manipulated"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Btw",
+            "really great"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "email",
+            "personal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coffee",
+            "tasty"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cat",
+            "smart"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Oven",
+            "hot"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bread",
+            "delicious"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "email",
+            "anonymous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "email",
+            "private"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "egg",
+            "white"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "oil",
+            "toxic"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bff",
+            "really nice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fern",
+            "edible"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Yarn",
+            "hard"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "overall",
+            "well rounded"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cancer",
+            "deadly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fang",
+            "sharp"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Yarn",
+            "soft"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cat",
+            "cute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "width",
+            "quite wide"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Grit",
+            "tough"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mood",
+            "negative"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mood",
+            "positive"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Heaven",
+            "like hell"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cancer",
+            "aggressive"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Bitcoin",
+            "valuable"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stock",
+            "volatile"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chemical",
+            "harmful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mood",
+            "different"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Macbook",
+            "portable"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "smart",
+            "useful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "abortion",
+            "illegal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Iceberg",
+            "cold"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "analog",
+            "useful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "abortion",
+            "unnecessary"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "email",
+            "unsecure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "email",
+            "secure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Pencil",
+            "cheap"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cost",
+            "significant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Grandmother",
+            "quite old"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gaff",
+            "costly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cat",
+            "aggressive"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Iceberg",
+            "fragile"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "straw",
+            "still used"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bread",
+            "sweet"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "apple",
+            "edible"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "product",
+            "inexpensive"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cough",
+            "harmless"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mood",
+            "similar"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "threat",
+            "serious"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "children",
+            "young"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Noun",
+            "verbose"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bread",
+            "tasty"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Pencil",
+            "expensive"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sign",
+            "positive"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fraud",
+            "common"
+        ],
+        "label": 1
+    }
+]

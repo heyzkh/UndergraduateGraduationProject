@@ -1,0 +1,30 @@
+[
+    [
+        "Every <ENT0> wants to mate in order to <ENT1> .",
+        0.3487295521978797
+    ],
+    [
+        "<ENT0>s <ENT1> in order to create new generations of their species .",
+        0.20265409148672267
+    ],
+    [
+        "<ENT0> desire to <ENT1> .",
+        0.15720269137463957
+    ],
+    [
+        "Every <ENT0> desires a way to <ENT1> their frustration .",
+        0.1003064271137933
+    ],
+    [
+        "<ENT1> is something that every <ENT0> desires .",
+        0.06870464360800393
+    ],
+    [
+        "<ENT1> is what every <ENT0> desires .",
+        0.06339733806773522
+    ],
+    [
+        "The <ENT1>s are what every <ENT0> wants .",
+        0.059005256151225545
+    ]
+]

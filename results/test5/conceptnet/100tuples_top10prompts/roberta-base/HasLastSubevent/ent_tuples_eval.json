@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "compile code",
+            "execute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shut down",
+            "restart"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "warm up",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "get ready",
+            "prepare"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "configure system",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compile script",
+            "execute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compile program",
+            "execute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "select text",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wrap up",
+            "finish"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "save",
+            "reload"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "register",
+            "login"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compile",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "reboot",
+            "restart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "initialize",
+            "execute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "reload",
+            "execute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "load",
+            "reload"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "write",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "debug code",
+            "execute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "print",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "paint",
+            "draw"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "render",
+            "execute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "format document",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "format document",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "assemble weapon",
+            "fire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "prepare",
+            "practice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "publish",
+            "edit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "publish",
+            "edit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "edit",
+            "add"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "type",
+            "print"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "install",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "submit",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "perform",
+            "finish"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "review",
+            "edit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "upload",
+            "download"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "assemble",
+            "build"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shoot",
+            "reload"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Rehearse A Scene",
+            "Edit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "record",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "copy",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "program",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "compose",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cook",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "apply",
+            "complete"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "analyze",
+            "calculate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "format text",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "format text",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "debug",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "finalize draft",
+            "edit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Rehearse A Song",
+            "sing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "debate",
+            "vote"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Rehearse A Speech",
+            "Read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "score",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "draft",
+            "edit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pack",
+            "start"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Rehearse A Dance",
+            "practice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mix",
+            "add"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "campaign",
+            "vote"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "aim",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "research",
+            "review"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "jog",
+            "walk"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "authenticate",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "finalize",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "design",
+            "create"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "accelerate",
+            "restart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sketch",
+            "draw"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rehearse",
+            "practice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rehearse",
+            "practice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "script",
+            "execute"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "light",
+            "fire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Rehearse A Performance",
+            "Review"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "revise draft",
+            "edit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Rehearse A Play",
+            "Read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "meditate",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Rehearsal",
+            "Practice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stretch",
+            "repeat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stretch",
+            "repeat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "negotiate",
+            "discuss"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "negotiate",
+            "discuss"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "memorize",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "practise",
+            "practice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "enroll",
+            "complete"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "brainstorm",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "organize",
+            "create"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "polish",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plan",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "format",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "proofread",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "proofread",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "proofread",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "proofread document",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "charge",
+            "reload"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "highlight",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "proof",
+            "verify"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "proof",
+            "verify"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "arrange",
+            "follow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "revise",
+            "edit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "film",
+            "edit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Rehearse Lines",
+            "Read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stroll",
+            "walk"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "choreograph",
+            "perform"
+        ],
+        "label": 1
+    }
+]

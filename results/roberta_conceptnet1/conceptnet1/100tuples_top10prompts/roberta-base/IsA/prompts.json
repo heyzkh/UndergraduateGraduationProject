@@ -1,0 +1,42 @@
+[
+    [
+        "<ENT0> is a particular kind of <ENT1> .",
+        0.12843531655336585
+    ],
+    [
+        "The <ENT0> is a specialized type of <ENT1> .",
+        0.11219021003455076
+    ],
+    [
+        "<ENT0> is a type of <ENT1> .",
+        0.10624508971074954
+    ],
+    [
+        "<ENT0> represents a specialized form of <ENT1> .",
+        0.10542626910683718
+    ],
+    [
+        "The <ENT0> is a specific type of <ENT1> .",
+        0.09852565172264353
+    ],
+    [
+        "The <ENT0> is a type of <ENT1> .",
+        0.0934670649592796
+    ],
+    [
+        "The <ENT0> belongs to the category of <ENT1>s .",
+        0.09292337658182102
+    ],
+    [
+        "The <ENT0> belongs to a specialized category of <ENT1>s .",
+        0.08931074677776604
+    ],
+    [
+        "<ENT0> is a form of <ENT1> .",
+        0.08842674050691082
+    ],
+    [
+        "<ENT0> is a <ENT1> with a specialized classification .",
+        0.0850495340460757
+    ]
+]

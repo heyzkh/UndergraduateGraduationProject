@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "protein",
+            "amino acids"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "soup",
+            "vegetable soup"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cake",
+            "chocolate icing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compost",
+            "organic compost"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wreath",
+            "pine straw"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wine",
+            "grape wine"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dust",
+            "fine dust"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pizza",
+            "cheese sauce"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tree",
+            "pine resin"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "compost",
+            "organic waste"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fruit",
+            "plant stem"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chocolate",
+            "cocoa bean"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "formula",
+            "real numbers"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wreath",
+            "pine resin"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shroud",
+            "black velvet"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "photograph",
+            "photo media"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cake",
+            "chocolate milk"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spectrum",
+            "light spectrum"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "composite acrylic",
+            "resin"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "soup",
+            "vegetable paste"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shield",
+            "steel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "void",
+            "Solid Void"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "brick",
+            "concrete"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "diamond",
+            "copper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "diamond",
+            "iron"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "small diamond",
+            "quartz"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "logo",
+            "white powder"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "case",
+            "natural selection"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "small cell",
+            "protein"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pencil",
+            "paper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "solid crystal",
+            "quartz"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spruce",
+            "pine resin"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "diamond",
+            "stone"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dust",
+            "fine particles"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shell",
+            "metal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "composite crystal",
+            "quartz"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "coin",
+            "silver"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pencil",
+            "metal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tree",
+            "bamboo"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mask",
+            "rubber"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shield",
+            "aluminum"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pencil",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pencil",
+            "plastic"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "match",
+            "two matches"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "core",
+            "solid materials"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "newspaper",
+            "printed pages"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tree",
+            "woodstock"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wine",
+            "grape pulp"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "carpet",
+            "polyester"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tree",
+            "bark"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bib",
+            "cotton"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pencil",
+            "rubber"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sausage",
+            "meat mixture"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cowl",
+            "fur"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wall",
+            "concrete"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "flower",
+            "plant matter"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shell",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shell",
+            "plastic"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "small leaf",
+            "leaves"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cloth",
+            "cotton"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "period",
+            "time period"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shell",
+            "aluminum"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cube",
+            "ice"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cowl",
+            "cork"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "small crystal",
+            "quartz"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pyramid",
+            "limestone"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cloth",
+            "fabric"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blockchain",
+            "physical blocks"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wall",
+            "stone"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cylinder",
+            "aluminium"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "potato",
+            "vegetable starch"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pet",
+            "animal skin"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "building",
+            "stone"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dust",
+            "fine powder"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sphere",
+            "gas"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sword",
+            "leather"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chip",
+            "silicon"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cell",
+            "carbon"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cloth",
+            "wool"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dictionary",
+            "English Language"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "textile",
+            "polyester"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crystal",
+            "quartz"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "carpet",
+            "fabric"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mushroom",
+            "plant matter"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "yarn",
+            "wool"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "block",
+            "concrete"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "helmet",
+            "leather"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lawn",
+            "grass seed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cloth",
+            "linen"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "molecule",
+            "silicon"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hull",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fern",
+            "bark"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "small field",
+            "grass"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "watermelon",
+            "fruit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hull",
+            "steel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sheep",
+            "animal skin"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crust",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "feather",
+            "fluff"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hull",
+            "metal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "composite",
+            "aluminum"
+        ],
+        "label": 1
+    }
+]

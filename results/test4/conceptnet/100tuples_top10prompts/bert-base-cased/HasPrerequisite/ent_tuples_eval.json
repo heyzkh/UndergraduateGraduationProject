@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "get drunk",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stand still",
+            "move"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "open your eyes",
+            "know"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "assume authority",
+            "act"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "finish work",
+            "start work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "say sorry",
+            "apologize"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stand up",
+            "move"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gather materials",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "weigh options",
+            "decide"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "secure transportation",
+            "leave"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gather thoughts",
+            "focus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "leave work",
+            "go leave"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "acquire weapon",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "organize thoughts",
+            "focus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "warm up",
+            "move"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hear",
+            "listen"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gather ideas",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "understand",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hate others",
+            "learn"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "read",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "think",
+            "act"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "practice",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stand",
+            "move"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "calm your mind",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "question",
+            "answer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "position yourself",
+            "move"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "study",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "retreat",
+            "move"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cook",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "approach",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "inquire",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "concentrate",
+            "focus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "explore",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "identify",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "knock",
+            "know"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "learn",
+            "learn think"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "memorize",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "reflect on actions",
+            "act think"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "apply",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "research",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "aim",
+            "focus"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pause",
+            "stop"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "register",
+            "call"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "locate a book",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pack",
+            "leave"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "observe",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "attempt",
+            "try"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "commute",
+            "leave"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "focus",
+            "focus think"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "adapt",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "prepare mentally",
+            "prepare think"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "articulate",
+            "speak"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "align",
+            "move"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "position",
+            "move"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "compose",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "consider",
+            "decide"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "listen",
+            "listen think"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "assess risks",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "request",
+            "ask"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Breathe",
+            "Breathe Think"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Assemble Information",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "prepare",
+            "prepare think"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "verify",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dial",
+            "call"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kneel",
+            "move"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "recognize",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "assess",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Absorb",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "decide",
+            "decide think"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "reflect",
+            "focus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Clarify Intentions",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "predict",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "analyze",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pronounce",
+            "speak"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "evaluate",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "grasp",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "assemble",
+            "move"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pour",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "scan",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "halt",
+            "stop"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "halt",
+            "stop"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "arrange",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "initialize",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "visualize",
+            "focus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stretch",
+            "stop"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rotate",
+            "move"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Peer",
+            "know"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plan",
+            "plan think"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "formulate",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "prioritize",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "relax",
+            "relax think"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rehearse",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rehearse lines",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "glance",
+            "look"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "glance",
+            "look"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compare",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "anticipate",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "meditate",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "perceive",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "enunciate",
+            "know"
+        ],
+        "label": 1
+    }
+]

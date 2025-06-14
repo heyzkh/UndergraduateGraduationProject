@@ -1,0 +1,702 @@
+[
+    [
+        [
+            "building a house",
+            "construction"
+        ],
+        0.15715489454145826
+    ],
+    [
+        [
+            "performing a risky surgery",
+            "death"
+        ],
+        0.089823203905579
+    ],
+    [
+        [
+            "publishing a journal",
+            "writing"
+        ],
+        0.0827894535049181
+    ],
+    [
+        [
+            "committing suicide",
+            "death"
+        ],
+        0.06814070147780252
+    ],
+    [
+        [
+            "administering a lethal injection",
+            "death"
+        ],
+        0.06773613251685388
+    ],
+    [
+        [
+            "preparing a manuscript",
+            "writing"
+        ],
+        0.05056584688893542
+    ],
+    [
+        [
+            "composing a poem",
+            "writing"
+        ],
+        0.03610911251890138
+    ],
+    [
+        [
+            "posting on social media",
+            "writing"
+        ],
+        0.03006767313235814
+    ],
+    [
+        [
+            "installing a circuit breaker",
+            "installation"
+        ],
+        0.02765981611540695
+    ],
+    [
+        [
+            "administering a poison",
+            "death"
+        ],
+        0.0273292822216497
+    ],
+    [
+        [
+            "composing a letter",
+            "writing"
+        ],
+        0.0210338775512078
+    ],
+    [
+        [
+            "organizing a workshop",
+            "training"
+        ],
+        0.019818461916228554
+    ],
+    [
+        [
+            "editing a video",
+            "animation"
+        ],
+        0.019785264802088927
+    ],
+    [
+        [
+            "Sending An Email",
+            "message"
+        ],
+        0.019204699251601245
+    ],
+    [
+        [
+            "developing a strategy",
+            "development"
+        ],
+        0.018421000153488767
+    ],
+    [
+        [
+            "resolving a conflict",
+            "action"
+        ],
+        0.018276139627199386
+    ],
+    [
+        [
+            "creating a playlist",
+            "activity"
+        ],
+        0.015777218782027175
+    ],
+    [
+        [
+            "connecting devices",
+            "connection"
+        ],
+        0.014368180792421345
+    ],
+    [
+        [
+            "postmortem",
+            "death"
+        ],
+        0.014182492991120692
+    ],
+    [
+        [
+            "designing a website",
+            "writing"
+        ],
+        0.014112094033229591
+    ],
+    [
+        [
+            "preparing a presentation",
+            "writing"
+        ],
+        0.013619798619255033
+    ],
+    [
+        [
+            "conducting a workshop",
+            "training"
+        ],
+        0.013054697918723218
+    ],
+    [
+        [
+            "closing an account",
+            "closure"
+        ],
+        0.009822341328030237
+    ],
+    [
+        [
+            "repairing a car",
+            "damage"
+        ],
+        0.009777416557399889
+    ],
+    [
+        [
+            "planning a project",
+            "development"
+        ],
+        0.009041694933811182
+    ],
+    [
+        [
+            "watching a show",
+            "usually"
+        ],
+        0.008037331028520818
+    ],
+    [
+        [
+            "designing a prototype",
+            "development"
+        ],
+        0.007778633686505497
+    ],
+    [
+        [
+            "hosting a webinar",
+            "usually"
+        ],
+        0.007117579411684934
+    ],
+    [
+        [
+            "conducting an interview",
+            "usually"
+        ],
+        0.006966819855053645
+    ],
+    [
+        [
+            "drawing a diagram",
+            "writing"
+        ],
+        0.00681613331668861
+    ],
+    [
+        [
+            "conducting a conversation",
+            "dialogue"
+        ],
+        0.0062065918846151485
+    ],
+    [
+        [
+            "preparing a meal",
+            "usually"
+        ],
+        0.0062001737079472735
+    ],
+    [
+        [
+            "having a disagreement",
+            "usually"
+        ],
+        0.006159754454072649
+    ],
+    [
+        [
+            "formatting a document",
+            "writing"
+        ],
+        0.005241750828042496
+    ],
+    [
+        [
+            "conducting a performance review",
+            "usually"
+        ],
+        0.0051520299160209395
+    ],
+    [
+        [
+            "holding a debate",
+            "usually"
+        ],
+        0.00446094869598308
+    ],
+    [
+        [
+            "conducting an experiment",
+            "usually"
+        ],
+        0.004379980143410825
+    ],
+    [
+        [
+            "brainstorming ideas",
+            "writing"
+        ],
+        0.003577452843212146
+    ],
+    [
+        [
+            "assembling a chain",
+            "closure"
+        ],
+        0.0035589857811443686
+    ],
+    [
+        [
+            "negotiating a contract",
+            "usually"
+        ],
+        0.003503482476376026
+    ],
+    [
+        [
+            "drafting a document",
+            "writing"
+        ],
+        0.0034774928675113765
+    ],
+    [
+        [
+            "organizing a conference",
+            "usually"
+        ],
+        0.0034568784120331576
+    ],
+    [
+        [
+            "mediating a dispute",
+            "usually"
+        ],
+        0.0031369934125008887
+    ],
+    [
+        [
+            "finalizing a decision",
+            "usually"
+        ],
+        0.003044363310343978
+    ],
+    [
+        [
+            "organizing a meeting",
+            "usually"
+        ],
+        0.00292540661550241
+    ],
+    [
+        [
+            "conducting a rehearsal",
+            "usually"
+        ],
+        0.0029148819144955737
+    ],
+    [
+        [
+            "choosing a candidate",
+            "selection"
+        ],
+        0.0026570770827103202
+    ],
+    [
+        [
+            "compiling code",
+            "testing"
+        ],
+        0.0024380629871814364
+    ],
+    [
+        [
+            "creating a presentation",
+            "writing"
+        ],
+        0.002266483650801251
+    ],
+    [
+        [
+            "ending a contract",
+            "termination"
+        ],
+        0.0019853928206781998
+    ],
+    [
+        [
+            "Analyzing Patterns",
+            "analysis"
+        ],
+        0.0018113765324449889
+    ],
+    [
+        [
+            "Diagnosing A Condition",
+            "treatment"
+        ],
+        0.0017317399373461262
+    ],
+    [
+        [
+            "finalizing a project",
+            "usually"
+        ],
+        0.001620468221116719
+    ],
+    [
+        [
+            "Assessing Performance",
+            "testing"
+        ],
+        0.0013820667654840949
+    ],
+    [
+        [
+            "assessing a property",
+            "construction"
+        ],
+        0.0013426844757108672
+    ],
+    [
+        [
+            "conducting a survey",
+            "taking"
+        ],
+        0.0012530524054254959
+    ],
+    [
+        [
+            "conducting a survey",
+            "taking"
+        ],
+        0.0012530524054254959
+    ],
+    [
+        [
+            "ordering a product",
+            "usually"
+        ],
+        0.001113866997103099
+    ],
+    [
+        [
+            "Grading Assignments",
+            "testing"
+        ],
+        0.001048238249292092
+    ],
+    [
+        [
+            "wrapping a gift",
+            "usually"
+        ],
+        0.0010390924656874013
+    ],
+    [
+        [
+            "exploring options",
+            "selection"
+        ],
+        0.0007114164868352117
+    ],
+    [
+        [
+            "creating a hyperlink",
+            "linklink"
+        ],
+        0.0006037472958203536
+    ],
+    [
+        [
+            "creating a hyperlink",
+            "linklink"
+        ],
+        0.0006037472958203536
+    ],
+    [
+        [
+            "solving equations",
+            "function"
+        ],
+        0.0005138829292283537
+    ],
+    [
+        [
+            "compiling a list",
+            "adding"
+        ],
+        0.00029622893527024346
+    ],
+    [
+        [
+            "Completing A Form",
+            "action"
+        ],
+        0.00025074020091178314
+    ],
+    [
+        [
+            "updating a database",
+            "updateupdate"
+        ],
+        0.00022916987579014948
+    ],
+    [
+        [
+            "collecting samples",
+            "collectioncollection"
+        ],
+        0.00020792764226833514
+    ],
+    [
+        [
+            "Adjusting Parameters",
+            "termination"
+        ],
+        0.00019478688868312553
+    ],
+    [
+        [
+            "organizing a list",
+            "termination"
+        ],
+        0.00017167629707120038
+    ],
+    [
+        [
+            "writing a comment",
+            "commentcomment"
+        ],
+        0.0001580146038393586
+    ],
+    [
+        [
+            "writing a letter",
+            "writingwriting"
+        ],
+        0.00015254395677239248
+    ],
+    [
+        [
+            "having an argument",
+            "argumentargument"
+        ],
+        0.00012782808961228574
+    ],
+    [
+        [
+            "Cleaning Data",
+            "datadata"
+        ],
+        0.0001242664470451525
+    ],
+    [
+        [
+            "reading a book",
+            "readingreading"
+        ],
+        0.00011915211410501611
+    ],
+    [
+        [
+            "Booking A Table",
+            "registration"
+        ],
+        0.00010196804396544456
+    ],
+    [
+        [
+            "writing a paper",
+            "writingwriting"
+        ],
+        8.620336398493514e-05
+    ],
+    [
+        [
+            "testing a software",
+            "testingtesting"
+        ],
+        7.859643414810292e-05
+    ],
+    [
+        [
+            "requesting a quote",
+            "quotequote"
+        ],
+        6.78634988713092e-05
+    ],
+    [
+        [
+            "reviewing a document",
+            "reviewreview"
+        ],
+        6.719764094980606e-05
+    ],
+    [
+        [
+            "writing a report",
+            "writingwriting"
+        ],
+        6.139529951180557e-05
+    ],
+    [
+        [
+            "Optimizing A Function",
+            "always"
+        ],
+        5.431840508180988e-05
+    ],
+    [
+        [
+            "conducting a training session",
+            "trainingtraining"
+        ],
+        5.210910082711788e-05
+    ],
+    [
+        [
+            "writing a blog post",
+            "writingwriting"
+        ],
+        5.202886709951622e-05
+    ],
+    [
+        [
+            "writing a review",
+            "writingwriting"
+        ],
+        5.057135546093975e-05
+    ],
+    [
+        [
+            "processing information",
+            "processingprocessing"
+        ],
+        4.0585842222961733e-05
+    ],
+    [
+        [
+            "debugging code",
+            "debugdebug"
+        ],
+        2.7329642036206306e-05
+    ],
+    [
+        [
+            "Reviewing Content",
+            "reviewreview"
+        ],
+        1.886794578410548e-05
+    ],
+    [
+        [
+            "taking a break",
+            "usuallyusually"
+        ],
+        8.207340849865584e-06
+    ],
+    [
+        [
+            "attending a concert",
+            "usuallyusually"
+        ],
+        6.293851583457552e-06
+    ],
+    [
+        [
+            "hosting a podcast",
+            "usuallyusually"
+        ],
+        5.055811719207214e-06
+    ],
+    [
+        [
+            "Evaluating Expressions",
+            "evaleval"
+        ],
+        4.304510765741437e-06
+    ],
+    [
+        [
+            "conducting a discussion",
+            "discussiondiscussion"
+        ],
+        4.192952496858068e-06
+    ],
+    [
+        [
+            "debugging a program",
+            "debugdebug"
+        ],
+        4.0006817257245776e-06
+    ],
+    [
+        [
+            "hosting a workshop",
+            "usuallyusually"
+        ],
+        3.7042278980423904e-06
+    ],
+    [
+        [
+            "conducting research",
+            "researchresearch"
+        ],
+        3.3265146534430236e-06
+    ],
+    [
+        [
+            "reading a bedtime story",
+            "usuallyusually"
+        ],
+        2.7825089308604606e-06
+    ],
+    [
+        [
+            "attending a lecture",
+            "usuallyusually"
+        ],
+        2.4071601249168613e-06
+    ],
+    [
+        [
+            "participating in a discussion",
+            "discussiondiscussion"
+        ],
+        2.259802277732744e-06
+    ],
+    [
+        [
+            "cleaning a dataset",
+            "cleanclean"
+        ],
+        1.4844981871442965e-06
+    ]
+]

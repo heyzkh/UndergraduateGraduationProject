@@ -1,0 +1,42 @@
+[
+    [
+        "A <ENT1> that is of the <ENT0> type is one that is characterized by its large size and population .",
+        0.1311348439519735
+    ],
+    [
+        "An <ENT0> is a specific type of <ENT1> that is known for living in large groups and being very aggressive .",
+        0.12078798171442016
+    ],
+    [
+        "A <ENT0> is a type of <ENT1> .",
+        0.11564798483148037
+    ],
+    [
+        "A <ENT0> is a type of <ENT1> that produces edible grains .",
+        0.11545287769889351
+    ],
+    [
+        "More specifically, <ENT0> is a type of <ENT1> of the bile ducts .",
+        0.10907827271319952
+    ],
+    [
+        "A <ENT0> is a type of <ENT1> that occurs when the bile ducts become inflamed .",
+        0.10121894195473886
+    ],
+    [
+        "In medicine, <ENT0> is a subtype of <ENT1> affecting the biliary tree, which includes the bile ducts .",
+        0.08884255908216997
+    ],
+    [
+        "<ENT0>s are a type of <ENT1> that typically live in large colonies .",
+        0.07365675478211245
+    ],
+    [
+        "A <ENT0> is a type of <ENT1> that is grown specifically for the grain that it produces .",
+        0.07340684891499713
+    ],
+    [
+        "<ENT0> is a <ENT1>, and specifically, it is the capital of belarus .",
+        0.07077293435601462
+    ]
+]

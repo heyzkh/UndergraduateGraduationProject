@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "cursor",
+            "always undefined"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cactus",
+            "quite unusual"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cactus",
+            "quite unique"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "curl",
+            "called url"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cursor",
+            "always selected"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cork",
+            "really weird"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cowl",
+            "quite unusual"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cursor",
+            "always used"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cowl",
+            "quite warm"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Coding",
+            "Type Data"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cactus",
+            "quite special"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crowd",
+            "large"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crown",
+            "blue"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crowd",
+            "huge"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crown",
+            "white"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crown",
+            "black"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cursor",
+            "Always True"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crowd",
+            "small"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crowd",
+            "larger"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crowd",
+            "big"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hood",
+            "black"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hood",
+            "white"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hood",
+            "red"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cursor",
+            "selected"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Coding",
+            "Type File"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Coding",
+            "Type String"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hood",
+            "similar"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Coding",
+            "optional"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "curl",
+            "type string"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hatching",
+            "possible"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "holly",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "coda",
+            "similar"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crown",
+            "blackish"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crown",
+            "blackface"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hint",
+            "hidden"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "holly",
+            "black"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hatching",
+            "unknown"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "happiness",
+            "beautiful"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hatching",
+            "similar"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hanging",
+            "similar"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hanging",
+            "black"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hanging",
+            "red"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cork",
+            "special"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cork",
+            "good"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hanging",
+            "white"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cork",
+            "real"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cary",
+            "red"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coda",
+            "closed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "happiness",
+            "happy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "happiness",
+            "possible"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hint",
+            "real"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "holly",
+            "real"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hoc",
+            "available"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "holly",
+            "good"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cork",
+            "free"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "happiness",
+            "great"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hoc",
+            "closed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hint",
+            "false"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "halo",
+            "unique"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hobby",
+            "different"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hunk",
+            "hot"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hobby",
+            "special"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hose",
+            "red"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hobby",
+            "good"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cary",
+            "unusual"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hobby",
+            "free"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hashing",
+            "listed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hunk",
+            "real"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hind",
+            "two"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hashing",
+            "available"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hind",
+            "called"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hunk",
+            "good"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cary",
+            "unreadable"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hij",
+            "good"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hind",
+            "similar"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hose",
+            "green"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Hose",
+            "black"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Hose",
+            "white"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Hose",
+            "blue"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "curl",
+            "calledurl"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hashing",
+            "false"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hij",
+            "red"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hunk",
+            "free"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cuss",
+            "bad"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cuss",
+            "real"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hij",
+            "done"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coda",
+            "unive"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cuss",
+            "funny"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Coda",
+            "Unite"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hij",
+            "available"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cub",
+            "like cat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Coding",
+            "usedable"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Coda",
+            "Unitable"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cary",
+            "unive"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cub",
+            "named"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cub",
+            "free"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cub",
+            "available"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cub",
+            "unreadable"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cary",
+            "unlike"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Curl",
+            "Typestring"
+        ],
+        "label": 0
+    }
+]

@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "cancel",
+            "add"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cancel",
+            "wait"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cancel",
+            "list"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hale",
+            "fire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fetch",
+            "get"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "firing",
+            "fire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fetch",
+            "save"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "firing",
+            "starting"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fetch",
+            "send"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "firing",
+            "burning"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fetch",
+            "create"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hale",
+            "black"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hale",
+            "warm"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hale",
+            "green"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fate",
+            "death"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crisis",
+            "panic"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cursor",
+            "trigger"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hale",
+            "heat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fizzle",
+            "fire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fetch",
+            "load"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "firing",
+            "loading"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "finally",
+            "break"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hollow",
+            "empty"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fale",
+            "save"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cursor",
+            "click"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fatal",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "finally",
+            "later"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fatal",
+            "critical"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "faster",
+            "slow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "frozen",
+            "cold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hatch",
+            "catch"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hanging",
+            "cutting"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cursor",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coda",
+            "final"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fale",
+            "free"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hatch",
+            "hide"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fale",
+            "show"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fatal",
+            "error"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hint",
+            "Click"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hanging",
+            "rising"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cascade",
+            "burst"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "frozen",
+            "free"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "faster",
+            "better"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fatal",
+            "bad"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fale",
+            "final"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fale",
+            "alpha"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hanging",
+            "breaking"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crisis",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cascade",
+            "trigger"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fade",
+            "change"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hollow",
+            "death"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hanging",
+            "moving"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hiding",
+            "Hide"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cascade",
+            "wave"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fatal",
+            "safe"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hint",
+            "Warning"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hiding",
+            "opening"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "firing",
+            "charging"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "frozen",
+            "winter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cascade",
+            "alpha"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crisis",
+            "shock"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fade",
+            "light"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Flux",
+            "Alpha"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fade",
+            "black"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hiding",
+            "running"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hanging",
+            "binding"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hollow",
+            "dark"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fade",
+            "dark"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crisis",
+            "security"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "frozen",
+            "raw"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cascade",
+            "clone"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Coding",
+            "Code"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fury",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "faster",
+            "normal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hiding",
+            "breaking"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hype",
+            "post"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "numbers",
+            "size"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hype",
+            "save"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fate",
+            "Life"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "credits",
+            "save"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crisis",
+            "storm"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fury",
+            "Fire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hype",
+            "hello"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "credits",
+            "death"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fiasco",
+            "Fire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "faster",
+            "light"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fiasco",
+            "error"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "numbers",
+            "values"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hiding",
+            "closure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "faster",
+            "lower"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fiasco",
+            "success"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fiasco",
+            "attack"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coding",
+            "data"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "credits",
+            "release"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fury",
+            "attack"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fury",
+            "Fight"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fury",
+            "war"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hoc",
+            "alpha"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Haha",
+            "Wow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Haha",
+            "Yes"
+        ],
+        "label": 0
+    }
+]

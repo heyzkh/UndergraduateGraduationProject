@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "sting",
+            "bee sting"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plasma",
+            "blood plasma"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "small intestine",
+            "bowel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "small intestine",
+            "liver"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "large intestine",
+            "bowel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "large intestine",
+            "liver"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "clock",
+            "biological clock"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spworm",
+            "parasitic worms"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fern",
+            "flowering tree"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "monotype",
+            "genetic mutation"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "zinc",
+            "metal mineral"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "monotype",
+            "genetic trait"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "monotype",
+            "genetic variation"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "brom",
+            "bacterial colony"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hose",
+            "water source"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cloxin",
+            "bacterial toxin"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hose",
+            "water tank"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "biol",
+            "bacterial enzyme"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "snort",
+            "snore"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bison",
+            "deer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mushroom",
+            "fungus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "polyester",
+            "polymer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vid",
+            "viral infection"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kite",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rat",
+            "rodent"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spore",
+            "sponge"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sparrow",
+            "mouse"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kappa",
+            "monkey"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Wig",
+            "Hair Dye"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pate",
+            "pore"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "smallpox",
+            "bacterium"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chia",
+            "china"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stung",
+            "sting ray"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "monoma",
+            "blood tumor"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spork",
+            "sparrow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "grom",
+            "brom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chine",
+            "china"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spong",
+            "spore"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bacteria",
+            "organism"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stent",
+            "blood vessel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "plant",
+            "animal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chica",
+            "chile"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plastic",
+            "food waste"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bacteria",
+            "yeast"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chia",
+            "chile"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thale",
+            "bale"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "monium",
+            "bacterium"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kip",
+            "kite"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spindle",
+            "fiber"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "polyester",
+            "plastic"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "polyester",
+            "textile"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kate",
+            "kite"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thym",
+            "phylum"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "snip",
+            "snapper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rat",
+            "animal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chica",
+            "clastic"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "worm",
+            "parasite"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spleen",
+            "kidney"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "monotype",
+            "genetic material"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "human",
+            "animal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chakra",
+            "root"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chiron",
+            "chiton"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plant",
+            "fungus"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "polypy",
+            "polygon"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "polyp",
+            "polymers"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "worm",
+            "fungus"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "yeast",
+            "fungus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wort",
+            "waterweed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lite",
+            "lice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "phoenix",
+            "wildflower"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "yeast",
+            "bacteria"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "polyole",
+            "bacterial species"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kara",
+            "kari"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "grom",
+            "gyrus"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cluster",
+            "cell"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "throm",
+            "phylum"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "virus",
+            "bacteria"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chilla",
+            "chile"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cancer",
+            "tumor"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wisp",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cat",
+            "dog"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "protein",
+            "cell"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "phobia",
+            "fear"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "thong",
+            "bong"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plasma",
+            "blood vessel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "snuff",
+            "snort"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lub",
+            "lice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "polyamide",
+            "molecule"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kra",
+            "kappa"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rix",
+            "redix"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "snar",
+            "snapper"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "feng",
+            "fang"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hybrid",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rat",
+            "mammal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "human",
+            "mammal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "worm",
+            "animal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mouse",
+            "rodent"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chaff",
+            "clump"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cation",
+            "cate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "human",
+            "creature"
+        ],
+        "label": 1
+    }
+]

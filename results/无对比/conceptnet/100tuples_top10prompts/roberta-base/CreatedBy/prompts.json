@@ -1,0 +1,26 @@
+[
+    [
+        "The word \"<ENT1>\" refers to the person who creates or prepares <ENT0> .",
+        0.2915092208261297
+    ],
+    [
+        "A <ENT1> is someone who makes <ENT0> .",
+        0.21107032142254653
+    ],
+    [
+        "A <ENT1> is a female chicken that produces <ENT0>s .",
+        0.17846450164269448
+    ],
+    [
+        "The person responsible for creating a <ENT0> is called the <ENT1> .",
+        0.157387948649886
+    ],
+    [
+        "A <ENT1> is a musician who creates <ENT0>s .",
+        0.10164256347272436
+    ],
+    [
+        "A <ENT1> is an individual who bakes <ENT0> .",
+        0.05992544398601901
+    ]
+]

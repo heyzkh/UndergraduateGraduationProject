@@ -1,0 +1,42 @@
+[
+    [
+        "<ENT0> causes someone to want to <ENT1> .",
+        0.11046203667306108
+    ],
+    [
+        "<ENT0> makes someone desire to <ENT1> .",
+        0.10803945308451231
+    ],
+    [
+        "<ENT0> causes someone to <ENT1> .",
+        0.10785278140932171
+    ],
+    [
+        "<ENT0> instills in someone the desire to <ENT1>ly .",
+        0.10637215868183118
+    ],
+    [
+        "<ENT0> motivates someone to <ENT1> eagerly .",
+        0.10068931640228565
+    ],
+    [
+        "<ENT0> makes someone want to <ENT1> .",
+        0.09889753989919521
+    ],
+    [
+        "<ENT0> makes someone desire to <ENT1>ly .",
+        0.09741528114800309
+    ],
+    [
+        "<ENT0> causes someone to want to <ENT1>ly .",
+        0.09501669585930483
+    ],
+    [
+        "<ENT0> inspires in someone the urge to <ENT1>ly .",
+        0.09333578410796875
+    ],
+    [
+        "<ENT0> inspires someone to want to <ENT1>ly .",
+        0.08191895273451617
+    ]
+]

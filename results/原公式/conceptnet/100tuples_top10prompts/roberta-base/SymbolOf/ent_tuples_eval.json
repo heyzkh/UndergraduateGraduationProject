@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "black hole",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cherry Blossom",
+            "spring"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Statue Of Liberty",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tree of life",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "black ink",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "black cat",
+            "racism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Black Panther",
+            "racism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "red rose",
+            "unity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "red rose",
+            "unity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Union Jack",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bald eagle",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Eternal Flame",
+            "immortality"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Black Diamond",
+            "unity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Black Pearl",
+            "unity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Gold Coin",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Apple Pie",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fishing rod",
+            "fish fishing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Black Panther Paw",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mountain peak",
+            "altitude"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lighthouse",
+            "Light Lighthouse"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cosmic dust",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Rising Sun Flag",
+            "freedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lightning bolt",
+            "freedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rainbow flag",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "black panther claw",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "black panther claw",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "black raven",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "black feather",
+            "racism"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Mount Fuji",
+            "Japan"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "black leopard",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clasped hands",
+            "unity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Black Rose",
+            "unity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "black lotus",
+            "racism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "black raven feather",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Black Butterfly",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "black flame",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "natural hair",
+            "beauty"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "samurai sword",
+            "power"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Red Panda",
+            "China"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "open book",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "black fist",
+            "racism"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Broken Chains",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kimono",
+            "Japan"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "black sun",
+            "darkness"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Oak Tree",
+            "trees"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stop sign",
+            "speed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cross",
+            "Christianity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "scarlet macaw",
+            "freedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dragon",
+            "dragons"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "butterfly",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Olive Branch",
+            "unity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lion",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "paw print",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "moon",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kanji",
+            "Japanese"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Lotus Flower",
+            "Spring"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sunflower",
+            "spring"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mermaid",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "yin-yang symbol",
+            "China"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "constellation",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wild horse",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "traffic signal",
+            "speed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "phoenix",
+            "rebirth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "peacock",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "skull",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "torch",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shinkansen",
+            "Japan"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dolphin",
+            "life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "thunderbolt",
+            "lightning"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dove",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "heart",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cosmic Web",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Interlocking Circles",
+            "unity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Scales Of Justice",
+            "equality"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pineapple",
+            "fruit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "candle",
+            "unity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ocean wave",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "baseball",
+            "power"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "serpent",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "quill pen",
+            "writing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Interwoven Threads",
+            "unity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "scythe",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mirror",
+            "light"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Astronaut",
+            "space"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chessboard",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Interlocking Puzzle Pieces",
+            "unity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sundial",
+            "God"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rocket",
+            "space"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Eternal Spiral",
+            "infinity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "thorn",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "anchor",
+            "power"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "raven",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "interlocked rings",
+            "unity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "unicode star",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "afro pick comb",
+            "hair"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "electron",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hourglass",
+            "freedom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blood",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tea",
+            "water"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cosmonaut",
+            "space"
+        ],
+        "label": 0
+    }
+]

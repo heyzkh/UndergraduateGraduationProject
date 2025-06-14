@@ -1,0 +1,30 @@
+[
+    [
+        "The <ENT0> are inside the <ENT1> .",
+        0.16523507249319386
+    ],
+    [
+        "The <ENT1> is in the same location as the <ENT0> .",
+        0.16040314017669002
+    ],
+    [
+        "The <ENT1> serves as the container for <ENT0> .",
+        0.1571659000384137
+    ],
+    [
+        "The <ENT1> includes <ENT0> as one of its components .",
+        0.14582785155769623
+    ],
+    [
+        "<ENT1> serves as the container for <ENT0> .",
+        0.1410666719520698
+    ],
+    [
+        "<ENT1> is home to the <ENT0> .",
+        0.11823949513792881
+    ],
+    [
+        "The <ENT1> is where the <ENT0> is located .",
+        0.11206186864400776
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "The <ENT0> in the <ENT1> is a great part of the film .",
+        0.13651753878369377
+    ],
+    [
+        "The <ENT0> is a part of the <ENT1> .",
+        0.12033819586868554
+    ],
+    [
+        "A <ENT0> in a <ENT1> is a specific part of the film that generally takes place in one location and revolves around one particular event or plot point .",
+        0.11713098066076776
+    ],
+    [
+        "The <ENT0> in the <ENT1> is set in a city .",
+        0.10469843818587507
+    ],
+    [
+        "The <ENT0> is a lake that is bordered by <ENT1> to the east and israel to the west .",
+        0.10424107136871291
+    ],
+    [
+        "A <ENT0> is the highest point on a <ENT1> .",
+        0.10042313700627836
+    ],
+    [
+        "The <ENT0> is one of the main parts of an <ENT1> .",
+        0.08809683912627309
+    ],
+    [
+        "A <ENT0> in a <ENT1> is a self-contained segment that typically features a particular location, plot point, or characters .",
+        0.08611023677747356
+    ],
+    [
+        "<ENT0> is a part of <ENT1> .",
+        0.08164710218700971
+    ],
+    [
+        "The <ENT0> is the clear, sticky liquid that surrounds the <ENT1> yolk .",
+        0.06079646003523028
+    ]
+]

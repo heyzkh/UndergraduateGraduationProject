@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "wool blanket",
+            "cotton"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wooden spoon",
+            "bamboo"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "copper wire",
+            "steel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "water bottle",
+            "plastic"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wrought iron gate",
+            "copper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "soda can",
+            "aluminum"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "metal rod",
+            "copper"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "copper pipe",
+            "steel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Carbon Fiber",
+            "iron"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fishing net",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "paper bag",
+            "plastic"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Steel Bridge",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "teddy bear",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wool coat",
+            "cotton"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "glass vase",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "aluminum foil tray",
+            "copper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cardboard box",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "paper airplane",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wooden flute",
+            "bamboo"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "steel sword",
+            "copper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wooden chair",
+            "bamboo"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rubber duck",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "steel drum",
+            "copper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cotton shirt",
+            "wool"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plastic toy",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "metal spoon",
+            "copper"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "plastic container",
+            "paper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ceramic capacitor",
+            "copper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "steel cable",
+            "copper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "steel fork",
+            "aluminum"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Plastic Straw",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Knitted Hat",
+            "wool"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "copper pot",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cotton tote bag",
+            "nylon"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Steel Ladder",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "steel beam",
+            "aluminum"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Golden Ring",
+            "copper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pancake",
+            "flour"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "iron skillet",
+            "steel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "carbonated drink",
+            "water"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "aluminium foil",
+            "copper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "copper kettle",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wooden guitar",
+            "steel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "copper vase",
+            "gold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cloth",
+            "cotton"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Rubber Band",
+            "metal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sandstone wall",
+            "clay"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Carbonated Water",
+            "Carbon Water"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fiberglass boat",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chair",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rope",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "yarn",
+            "wool"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bread",
+            "flour"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kimono",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "carbonium alloy",
+            "copper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "e-book",
+            "paper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "airplane",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hammer",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "soup",
+            "rice"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Golden Necklace",
+            "copper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "parchment",
+            "paper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chalk",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "parachute",
+            "steel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "windshield",
+            "glass"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bicycle frame",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sandcastle",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "paper",
+            "water"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sweater",
+            "wool"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "croissant",
+            "flour"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "napkin",
+            "paper"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bagel",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "beer",
+            "water"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Aluminum Ladder",
+            "steel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Aluminum Ladder",
+            "steel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "concrete",
+            "metal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ice",
+            "water"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "steam",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Metalite Alloy",
+            "copper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Metalite Bracelet",
+            "copper"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "glass",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "webpage",
+            "html"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "carbonite dagger",
+            "copper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wooden table",
+            "bamboo"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "necklace",
+            "copper"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pasta",
+            "rice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "metalite sculpture",
+            "copper"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "scarf",
+            "wool"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pottery",
+            "clay"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "script",
+            "text"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bookshelf",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "copperite sculpture",
+            "gold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "software documentation",
+            "code"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Xml Document",
+            "Html"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "metalite armor",
+            "copper"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "snowman",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "database",
+            "text"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sandpaper",
+            "paper sand"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "origami",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stockings",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Metallicium Sword",
+            "copper"
+        ],
+        "label": 1
+    }
+]

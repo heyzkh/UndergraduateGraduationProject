@@ -1,0 +1,42 @@
+[
+    [
+        "Typically, <ENT0> inherently involve <ENT1> .",
+        0.12976641301131359
+    ],
+    [
+        "Typically, <ENT0> are assumed to have <ENT1> .",
+        0.1078390433793895
+    ],
+    [
+        "Typically, <ENT0> are expected to entail <ENT1> .",
+        0.10596183530905655
+    ],
+    [
+        "Typically, <ENT0> are expected to involve <ENT1> .",
+        0.10423071757866285
+    ],
+    [
+        "Typically, <ENT0> are expected to have <ENT1> .",
+        0.10060758070747856
+    ],
+    [
+        "Usually, we would expect <ENT0> to have <ENT1> .",
+        0.09775542433353014
+    ],
+    [
+        "Generally, <ENT0> are assumed to have <ENT1> .",
+        0.09194596707448523
+    ],
+    [
+        "Generally, <ENT0> are assumed to possess <ENT1> .",
+        0.09120094512369749
+    ],
+    [
+        "Typically, <ENT0> are expected to lead to <ENT1> .",
+        0.08549944965069667
+    ],
+    [
+        "Typically, <ENT0> are expected to result in <ENT1> .",
+        0.08519262383168937
+    ]
+]

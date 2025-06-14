@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "bacteria",
+            "kill bacteria"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bacteria",
+            "digest protein"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bacteria",
+            "digest proteins"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bacteria",
+            "kill cells"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bacteria",
+            "digest water"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cities",
+            "get involved"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cams",
+            "capture videos"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "coder",
+            "write code"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bears",
+            "run around"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cams",
+            "detect objects"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "people",
+            "speak"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "people",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Coding",
+            "write code"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Citations",
+            "go beyond"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "calls",
+            "return"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "categories",
+            "fit together"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "people",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cursor",
+            "run commands"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "people",
+            "communicate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cursor",
+            "read text"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bears",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "calls",
+            "reply"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coder",
+            "use printf"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "calls",
+            "respond"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Coding",
+            "read text"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cursor",
+            "move objects"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "calls",
+            "answer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Coding",
+            "read data"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cans",
+            "get burned"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "people",
+            "use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "categories",
+            "list"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cams",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "calls",
+            "receive"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "categories",
+            "define"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Citations",
+            "go forward"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cans",
+            "produce"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "categories",
+            "select"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cortex",
+            "generate data"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cores",
+            "play together"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "counters",
+            "respond"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Counters",
+            "engage"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cities",
+            "serve"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cities",
+            "build"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cities",
+            "connect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "counters",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bears",
+            "walk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "coder",
+            "Handle Code"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cities",
+            "close"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "counters",
+            "interact"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cans",
+            "combine"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "counters",
+            "react"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cores",
+            "match"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "users",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "users",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Citations",
+            "follow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coder",
+            "run code"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "users",
+            "edit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cores",
+            "run together"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bait",
+            "Get Used"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cans",
+            "grow"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cortex",
+            "function"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cams",
+            "record"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cortex",
+            "function like"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "categories",
+            "Filter Together"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bears",
+            "hunt"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cores",
+            "play"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Citations",
+            "occur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cores",
+            "run around"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "agents",
+            "use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cams",
+            "render"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Coding",
+            "compile"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Coding",
+            "function like"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cortex",
+            "generate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Bait",
+            "return"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "users",
+            "configure"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cans",
+            "Get Used"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bait",
+            "take"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bears",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "users",
+            "find"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cortex",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "agents",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "agents",
+            "produce"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cursor",
+            "move forward"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Bionics",
+            "operate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bionics",
+            "perform"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bionics",
+            "function"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Citations",
+            "go together"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bionics",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "agents",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "agents",
+            "generate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "battery",
+            "use electricity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "battery",
+            "Replace Electricity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "credits",
+            "apply"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "credits",
+            "Get Used"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "battery",
+            "discharge"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "credits",
+            "give"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "credits",
+            "increase"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "battery",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "credits",
+            "pay"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "battery",
+            "fire"
+        ],
+        "label": 0
+    }
+]

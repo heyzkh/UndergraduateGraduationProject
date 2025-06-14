@@ -1,0 +1,18 @@
+[
+    [
+        "When people are <ENT0>, it is typical for them to be <ENT1> with someone .",
+        0.5634350467256932
+    ],
+    [
+        "It is common for people to experience <ENT1> while <ENT0> .",
+        0.22012236957360767
+    ],
+    [
+        "Most people experience <ENT1> while <ENT0>s at some point .",
+        0.1560614097963249
+    ],
+    [
+        "<ENT0> usually results in <ENT1>s .",
+        0.060381173904374225
+    ]
+]

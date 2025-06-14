@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "composite material",
+            "carbon fiber"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "coffee cup",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cardboard box",
+            "aluminum"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gold necklace",
+            "copper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gold necklace",
+            "copper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "beverage can",
+            "aluminum"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "beverage can",
+            "aluminum"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "beverage can",
+            "aluminum"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "beverage can",
+            "aluminum"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "beverage can",
+            "aluminum"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "beverage can",
+            "aluminum"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stone statue",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "diamond",
+            "gold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "diamond",
+            "gold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "diamond",
+            "gold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "platinum ring",
+            "gold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tree",
+            "branches"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dry ice",
+            "water"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tree",
+            "leaves"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ice cube",
+            "water"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bottle",
+            "glass"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bottle",
+            "glass"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "molecule",
+            "water"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "molecule",
+            "water"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "molecule",
+            "water"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pair",
+            "two"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pair",
+            "two"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pair",
+            "two"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pair",
+            "two"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "patchwork quilt",
+            "cotton"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sword",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sword",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sword",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sword",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sword",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pyramid",
+            "limestone"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pyramid",
+            "limestone"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pyramid",
+            "limestone"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rope",
+            "nylon"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rope",
+            "nylon"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rope",
+            "nylon"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chair",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Modular Robot",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "beam",
+            "metal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "beam",
+            "metal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "beam",
+            "metal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "necklace",
+            "copper"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "necklace",
+            "copper"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "necklace",
+            "copper"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "jacket",
+            "leather"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hammer",
+            "steel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hammer",
+            "steel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hammer",
+            "steel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shelf",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "electrical wire",
+            "copper"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wheel",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "machine",
+            "metal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tire",
+            "rubber"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "notebook",
+            "paper"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "notebook",
+            "paper"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "notebook",
+            "paper"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Ice Sculpture",
+            "water"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "basket",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wire",
+            "copper"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wire",
+            "copper"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wire",
+            "copper"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "balloon",
+            "helium"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "balloon",
+            "helium"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "balloon",
+            "helium"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "balloon",
+            "helium"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "furniture",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "furniture",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "furniture",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "furniture",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "furniture",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spiral",
+            "air"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "vineyard",
+            "vines"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "poem",
+            "lines"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "poem",
+            "lines"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "portico",
+            "concrete"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "watch",
+            "gold"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "checkerboard",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "checkerboard",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "checkerboard",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "checkerboard",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "checkerboard",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drawing",
+            "paper"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "alloy",
+            "aluminium"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chart",
+            "lines"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "database",
+            "rows"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "alphabet",
+            "letters"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Ammonia",
+            "water"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ice",
+            "water"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ice",
+            "water"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ice",
+            "water"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ice",
+            "water"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ice",
+            "water"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "scoreboard",
+            "wood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Chromosome",
+            "dna"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Estimate",
+            "probability"
+        ],
+        "label": 0
+    }
+]

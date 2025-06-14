@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "full version",
+            "downloaded"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "additional files",
+            "downloaded"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "additional fields",
+            "defined"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sub req",
+            "returned"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Full Transcript",
+            "viewed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sub req",
+            "executed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "full version",
+            "viewed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "see whether",
+            "checked"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "review",
+            "read online"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "see whether",
+            "tested"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "see whether",
+            "improved"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "see whether",
+            "changed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "form",
+            "Modified Using"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "code",
+            "passed directly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Full Transcript",
+            "accessed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "code",
+            "added directly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "text",
+            "edited"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "text",
+            "translated"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Full Transcript",
+            "downloaded"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crowd",
+            "seen outside"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "subscription",
+            "purchased"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "text",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sub req",
+            "ignored"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cursor",
+            "modified using"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "text",
+            "modified"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "css",
+            "written using"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "subscription",
+            "extended"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "code",
+            "passed like"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subtext",
+            "returned"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Subscription",
+            "made"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Coding",
+            "Done Directly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cursor",
+            "Added Directly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "subscription",
+            "expanded"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Subdiv",
+            "extended"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Pdf",
+            "downloaded"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "additional values",
+            "defined"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "text",
+            "found"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "css",
+            "written like"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "form",
+            "converted using"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crowd",
+            "larger"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Subcontract",
+            "signed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "subdiv",
+            "used"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "categories",
+            "expanded upon"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "curl",
+            "edited manually"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Subversion",
+            "added"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "citation",
+            "Read Online"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Subcontract",
+            "extended"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "account",
+            "created"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "form",
+            "passed like"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "account",
+            "modified"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Pdf",
+            "obtained"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Pdf",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Subtotal",
+            "calculated"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "account",
+            "changed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Pdf",
+            "found"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Subdiv",
+            "created"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Subtotal",
+            "set"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crowd",
+            "seen"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "form",
+            "extended like"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crowd",
+            "large"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Additional Files",
+            "created"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Subcontract",
+            "executed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Subtotal",
+            "expanded"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "citation",
+            "Read Via"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cursor",
+            "selected"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Subcontract",
+            "made"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Subversion",
+            "made"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Coder",
+            "named"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subject",
+            "changed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subject",
+            "named"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crowd",
+            "expected"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "form",
+            "converted like"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Coding",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "download",
+            "required"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Curl",
+            "edited using"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Subsub",
+            "named"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "account",
+            "added"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Pdf",
+            "download"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "account",
+            "found"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cursor",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Subsub",
+            "called"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "credits",
+            "obtained via"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "see results",
+            "compared"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "css",
+            "omitted"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "calls",
+            "made via"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "additional files",
+            "made"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coder",
+            "called"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Coder",
+            "written"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Coding",
+            "found online"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cpt",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "credits",
+            "obtained"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "credits",
+            "obtained online"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "calls",
+            "placed via"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cpanel",
+            "Viewed Directly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fulltext",
+            "expanded"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cpanel",
+            "viewed via"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "credits",
+            "applied"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cpanel",
+            "Viewed Online"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cpanel",
+            "configured"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cpanel",
+            "created"
+        ],
+        "label": 0
+    }
+]

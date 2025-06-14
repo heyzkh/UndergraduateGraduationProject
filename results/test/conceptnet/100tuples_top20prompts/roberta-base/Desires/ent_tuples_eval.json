@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "True Self",
+            "Perfect Perfection"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "true romantic",
+            "perfect romance"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "successful entrepreneur",
+            "succeed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "successful entrepreneur",
+            "scale"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "successful entrepreneur",
+            "profit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "human",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "young boy",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "good friend",
+            "drink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "great power",
+            "dominate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Young Adult",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "great power",
+            "control"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "great power",
+            "destroy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "good friend",
+            "friendship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "person",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "True Self",
+            "perfect self"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "great nation",
+            "greatness"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "child",
+            "Live Life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "child",
+            "play together"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "person",
+            "dream"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "man",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "young adult",
+            "succeed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "True Self",
+            "perfect happiness"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "great nation",
+            "lead"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "human",
+            "dream"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "creature",
+            "better world"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "True Self",
+            "selflessness"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Single Girl",
+            "date"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "person",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "woman",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "child",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "human",
+            "live"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "successful leader",
+            "scale"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "person",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "young boy",
+            "kill"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "human",
+            "please"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "animal",
+            "mate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "single female",
+            "date"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "man",
+            "dream"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "person",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Single Girl",
+            "Dance"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "man",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "man",
+            "kill"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "human",
+            "happiness"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "animal",
+            "better world"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "good soul",
+            "happiness"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Good Thing",
+            "profit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "individual",
+            "dream"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "successful leader",
+            "fail"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Good Thing",
+            "Destroy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "individual",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "child",
+            "parent"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "single male",
+            "dominate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "individual",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "individual",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "individual",
+            "power"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "single soul",
+            "happiness"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "man",
+            "please"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "young male",
+            "date"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "animal",
+            "hunt"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "woman",
+            "dream"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "woman",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "soul",
+            "change"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "soul",
+            "happiness"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "creature",
+            "mate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "woman",
+            "please"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "child",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "animal",
+            "kill"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "animal",
+            "live"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "woman",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "soul",
+            "live"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "modernist",
+            "reform"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "creature",
+            "live"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "creature",
+            "life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "girl",
+            "dance"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "modernist",
+            "compromise"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "creature",
+            "hunt"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "girl",
+            "please"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "modernist",
+            "revolution"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "girl",
+            "date"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "modernist",
+            "perfection"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "individualist",
+            "profit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "goodman",
+            "better people"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "individualist",
+            "control"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "trueist",
+            "Free Speech"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "individualist",
+            "perfection"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "greatman",
+            "greatness"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "trueist",
+            "free thought"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "trueist",
+            "Free Society"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "individualist",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "goodman",
+            "profit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "trueist",
+            "Free World"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "modernist",
+            "modernity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "greatman",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "goodman",
+            "kill"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "goodman",
+            "serve"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "trueist",
+            "free market"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "greatman",
+            "master"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "greatman",
+            "lead"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "goodman",
+            "betterman"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "moderner",
+            "moderate opinion"
+        ],
+        "label": 0
+    }
+]

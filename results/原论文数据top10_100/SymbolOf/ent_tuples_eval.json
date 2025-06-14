@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "white ox",
+            "white supremacy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "white ox",
+            "white man"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackface",
+            "racial injustice"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "white tail",
+            "Black Tail"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "trace",
+            "another trace"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Black Icon",
+            "Black People"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pence",
+            "British Nationalism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "karate",
+            "Japanese Culture"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "human hand",
+            "hands"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kite",
+            "flying solo"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "swastika",
+            "fascism"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shilling",
+            "currency exchange"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "swastika",
+            "Hitler"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "red string",
+            "Red Arrow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "zodiac",
+            "fertility"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chakra",
+            "enlightenment"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tricycle",
+            "bicycle movement"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "swastika",
+            "oppression"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chakra",
+            "Kali"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kite",
+            "flight"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cross",
+            "unity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kite",
+            "flying"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "trandom",
+            "random numbers"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kala",
+            "Hinduism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tricycle",
+            "bicycle culture"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "human tail",
+            "hair"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Kada",
+            "Japanese Language"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kong",
+            "Korea"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Ville",
+            "French Style"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "letter",
+            "unity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pence",
+            "liberty"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "trinity",
+            "Christianity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "red string",
+            "Red Line"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "flag",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "koji",
+            "Tokyo"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Chord",
+            "Two Parts"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "karate",
+            "Japanese People"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kang",
+            "Chinese People"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "zodiac",
+            "birth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kala",
+            "Shiva"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cross",
+            "Christianity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "person",
+            "humanity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chocobo",
+            "chivalry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kala",
+            "karma"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "trandom",
+            "random probability"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "flag",
+            "patriotism"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "trinity",
+            "faith"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kong",
+            "Taiwan"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "person",
+            "God"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "star",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "star",
+            "infinity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "catfish",
+            "tuna"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "star",
+            "unity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "letter",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "catfish",
+            "fishing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackface",
+            "slavery"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kame",
+            "kami"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tricycle",
+            "bicycle use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "circle",
+            "infinity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kara",
+            "Karma"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kai",
+            "Kali"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "signet",
+            "two words"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "name",
+            "unity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kame",
+            "kama"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "catty",
+            "cats"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chai",
+            "Buddhism"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "flag",
+            "equality"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "letter",
+            "time"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "letter",
+            "life"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cross",
+            "equality"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "name",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ville",
+            "France"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sign",
+            "unity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tricycle",
+            "cycling"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ville",
+            "Paris"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cross",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Ration",
+            "human suffering"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dot",
+            "zero"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chai",
+            "Buddha"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "flag",
+            "America"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tricycle",
+            "transportation"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lemma",
+            "every rule"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "letter",
+            "God"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kara",
+            "Kali"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kara",
+            "Kari"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chai",
+            "chi"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "person",
+            "power"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shilling",
+            "currency"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kang",
+            "kong"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pence",
+            "British Society"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "word",
+            "meaning"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tree",
+            "Earth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blackness",
+            "oppression"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "name",
+            "identity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "triangle",
+            "infinity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "catwalk",
+            "London"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kang",
+            "Kim"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fern",
+            "wood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cat",
+            "humanity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kang",
+            "kung"
+        ],
+        "label": 0
+    }
+]

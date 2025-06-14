@@ -1,0 +1,702 @@
+[
+    [
+        [
+            "go away",
+            "leave"
+        ],
+        0.1354574106000945
+    ],
+    [
+        [
+            "training for a marathon",
+            "run"
+        ],
+        0.060770385043253675
+    ],
+    [
+        [
+            "training for a triathlon",
+            "run"
+        ],
+        0.05307960527661747
+    ],
+    [
+        [
+            "writing a novel",
+            "write"
+        ],
+        0.048640687549083586
+    ],
+    [
+        [
+            "play",
+            "win"
+        ],
+        0.04260923481787754
+    ],
+    [
+        [
+            "make food",
+            "cook"
+        ],
+        0.03691911954487665
+    ],
+    [
+        [
+            "writing a research paper",
+            "publish"
+        ],
+        0.03685250914838912
+    ],
+    [
+        [
+            "make money",
+            "profit"
+        ],
+        0.036117610865831665
+    ],
+    [
+        [
+            "spreading false rumors",
+            "gain"
+        ],
+        0.021971625202029246
+    ],
+    [
+        [
+            "starting a business",
+            "profit"
+        ],
+        0.020699646909658524
+    ],
+    [
+        [
+            "reading a bedtime story",
+            "sleep"
+        ],
+        0.020222354769209167
+    ],
+    [
+        [
+            "getting a haircut",
+            "shave"
+        ],
+        0.019463747980945998
+    ],
+    [
+        [
+            "Competing In A Chess Tournament",
+            "win"
+        ],
+        0.0186193446686864
+    ],
+    [
+        [
+            "attending a workshop",
+            "learn"
+        ],
+        0.018148994623646907
+    ],
+    [
+        [
+            "giving a motivational speech",
+            "change"
+        ],
+        0.01769702278530504
+    ],
+    [
+        [
+            "sketching a portrait",
+            "draw"
+        ],
+        0.01755664549130205
+    ],
+    [
+        [
+            "learning a new language",
+            "read"
+        ],
+        0.01669781065205829
+    ],
+    [
+        [
+            "practicing mindfulness",
+            "focus"
+        ],
+        0.015304955619160336
+    ],
+    [
+        [
+            "Competing In A Tournament",
+            "win"
+        ],
+        0.015210078510135127
+    ],
+    [
+        [
+            "Preparing For A Job Interview",
+            "work"
+        ],
+        0.015046837196510288
+    ],
+    [
+        [
+            "writing a love letter",
+            "write"
+        ],
+        0.014635119286872266
+    ],
+    [
+        [
+            "joining a weight loss support group",
+            "help"
+        ],
+        0.014292590383381787
+    ],
+    [
+        [
+            "Hosting A Cocktail Party",
+            "drink"
+        ],
+        0.013568132260710655
+    ],
+    [
+        [
+            "political campaign",
+            "win"
+        ],
+        0.01352116010331054
+    ],
+    [
+        [
+            "food poisoning",
+            "eat"
+        ],
+        0.012010855292210285
+    ],
+    [
+        [
+            "Organizing A Blood Drive",
+            "donate"
+        ],
+        0.011909839137036037
+    ],
+    [
+        [
+            "planning a romantic evening",
+            "date"
+        ],
+        0.01166678566326836
+    ],
+    [
+        [
+            "eat",
+            "survive"
+        ],
+        0.010681786815176755
+    ],
+    [
+        [
+            "shopping spree",
+            "buy"
+        ],
+        0.010158625011989551
+    ],
+    [
+        [
+            "Preparing For A Music Competition",
+            "win"
+        ],
+        0.010008512945406993
+    ],
+    [
+        [
+            "pursuing higher education",
+            "work"
+        ],
+        0.009535459262711052
+    ],
+    [
+        [
+            "walk",
+            "exercise"
+        ],
+        0.009388354307994626
+    ],
+    [
+        [
+            "walk",
+            "move"
+        ],
+        0.009121446062204172
+    ],
+    [
+        [
+            "terrorist attack",
+            "kill"
+        ],
+        0.009069540441530454
+    ],
+    [
+        [
+            "exercise routine",
+            "eat"
+        ],
+        0.008720205732883552
+    ],
+    [
+        [
+            "organizing a community clean-up",
+            "help"
+        ],
+        0.008609620370542519
+    ],
+    [
+        [
+            "Organizing A Charity Auction",
+            "donate"
+        ],
+        0.008517073124880996
+    ],
+    [
+        [
+            "Preparing For A Sabbatical",
+            "work"
+        ],
+        0.00837688001467652
+    ],
+    [
+        [
+            "organizing a wine tasting event",
+            "drink"
+        ],
+        0.006958624015040951
+    ],
+    [
+        [
+            "organizing a recycling drive",
+            "recycle"
+        ],
+        0.006843276478449324
+    ],
+    [
+        [
+            "charity fundraiser",
+            "donate"
+        ],
+        0.006426382751024942
+    ],
+    [
+        [
+            "sleep",
+            "dream"
+        ],
+        0.006321063706425559
+    ],
+    [
+        [
+            "competing in a spelling bee",
+            "learn"
+        ],
+        0.006061887989703742
+    ],
+    [
+        [
+            "starting a family",
+            "work"
+        ],
+        0.006032419543371008
+    ],
+    [
+        [
+            "community service project",
+            "help"
+        ],
+        0.005596189824894069
+    ],
+    [
+        [
+            "Launching A Phishing Campaign",
+            "spam"
+        ],
+        0.005593357339366002
+    ],
+    [
+        [
+            "self-defense training",
+            "defend"
+        ],
+        0.005423094414841084
+    ],
+    [
+        [
+            "sleep",
+            "rest"
+        ],
+        0.005410151494422008
+    ],
+    [
+        [
+            "Job Resignation",
+            "work"
+        ],
+        0.005253495221962669
+    ],
+    [
+        [
+            "organizing a bake sale",
+            "sell"
+        ],
+        0.004856414204076689
+    ],
+    [
+        [
+            "Weight Loss",
+            "eat"
+        ],
+        0.004839135327505404
+    ],
+    [
+        [
+            "Promoting A New Product",
+            "sell"
+        ],
+        0.004562453249607343
+    ],
+    [
+        [
+            "organizing a clothing drive",
+            "donate"
+        ],
+        0.0040570286030844165
+    ],
+    [
+        [
+            "mentoring a colleague",
+            "learn"
+        ],
+        0.004019515792585151
+    ],
+    [
+        [
+            "Prison Break",
+            "escape"
+        ],
+        0.0036071610794002106
+    ],
+    [
+        [
+            "Organizing A Potluck Dinner",
+            "eat"
+        ],
+        0.0035561065312013297
+    ],
+    [
+        [
+            "saving money",
+            "save"
+        ],
+        0.0034112776509872553
+    ],
+    [
+        [
+            "art exhibition",
+            "sell"
+        ],
+        0.0028643962355207535
+    ],
+    [
+        [
+            "Organizing A Fitness Challenge",
+            "exercise"
+        ],
+        0.002778605534985472
+    ],
+    [
+        [
+            "Organizing A Peer Support Group",
+            "help"
+        ],
+        0.002721241194153128
+    ],
+    [
+        [
+            "marketing campaign",
+            "sell"
+        ],
+        0.002172227523577285
+    ],
+    [
+        [
+            "Organizing A Public Speaking Club",
+            "talk"
+        ],
+        0.0021255863721281044
+    ],
+    [
+        [
+            "starting a garden",
+            "grow"
+        ],
+        0.002065802304709018
+    ],
+    [
+        [
+            "Organizing A Book Club",
+            "read"
+        ],
+        0.002062184162556168
+    ],
+    [
+        [
+            "quitting smoking",
+            "smoke"
+        ],
+        0.001992306626641088
+    ],
+    [
+        [
+            "protest",
+            "change"
+        ],
+        0.001922887253419819
+    ],
+    [
+        [
+            "Attempting A Dangerous Stunt",
+            "escape"
+        ],
+        0.0018912663794634103
+    ],
+    [
+        [
+            "Organizing A Neighborhood Watch Program",
+            "help"
+        ],
+        0.0017921919843190853
+    ],
+    [
+        [
+            "negotiating a lease agreement",
+            "rent"
+        ],
+        0.0016909744672731662
+    ],
+    [
+        [
+            "Organizing A Surprise Party",
+            "celebrate"
+        ],
+        0.001440032473821194
+    ],
+    [
+        [
+            "Training For A Promotion",
+            "work"
+        ],
+        0.0013795613362446173
+    ],
+    [
+        [
+            "Practicing Public Speaking",
+            "talk"
+        ],
+        0.0011098770352882918
+    ],
+    [
+        [
+            "Organizing A Reading Challenge",
+            "learn"
+        ],
+        0.0011091562571888857
+    ],
+    [
+        [
+            "Organizing A Debate",
+            "win"
+        ],
+        0.001005795279324512
+    ],
+    [
+        [
+            "corporate espionage",
+            "profit"
+        ],
+        0.0009599156181445869
+    ],
+    [
+        [
+            "organizing a poetry reading",
+            "write"
+        ],
+        0.0008942906140522127
+    ],
+    [
+        [
+            "swim",
+            "exercise"
+        ],
+        0.0008727793849441731
+    ],
+    [
+        [
+            "Organizing A Talent Show",
+            "Show Win"
+        ],
+        0.0008668405896479315
+    ],
+    [
+        [
+            "Athletic Training",
+            "learn"
+        ],
+        0.000658743634643307
+    ],
+    [
+        [
+            "meditation retreat",
+            "escape"
+        ],
+        0.0006430469211806238
+    ],
+    [
+        [
+            "crafting a handmade sweater",
+            "wear"
+        ],
+        0.0005864789559335144
+    ],
+    [
+        [
+            "fundraising event",
+            "donate"
+        ],
+        0.0005634394219710726
+    ],
+    [
+        [
+            "team-building workshop",
+            "learn"
+        ],
+        0.0004193861007263828
+    ],
+    [
+        [
+            "dieting",
+            "eat"
+        ],
+        0.00030944959383730425
+    ],
+    [
+        [
+            "hydration practice",
+            "drink"
+        ],
+        0.00022159041583757235
+    ],
+    [
+        [
+            "fishing competition",
+            "win"
+        ],
+        0.00017486076157882031
+    ],
+    [
+        [
+            "cooking class",
+            "learn"
+        ],
+        0.00014084399202369556
+    ],
+    [
+        [
+            "studying",
+            "learn"
+        ],
+        0.0001406944220635801
+    ],
+    [
+        [
+            "wilderness survival course",
+            "survive"
+        ],
+        0.00013926709137698545
+    ],
+    [
+        [
+            "assassination",
+            "kill"
+        ],
+        0.00011774735185196442
+    ],
+    [
+        [
+            "arson",
+            "kill"
+        ],
+        9.788093811037929e-05
+    ],
+    [
+        [
+            "robbery",
+            "steal"
+        ],
+        7.394370867406915e-05
+    ],
+    [
+        [
+            "bullying",
+            "change"
+        ],
+        6.96153080062702e-05
+    ],
+    [
+        [
+            "investment",
+            "save"
+        ],
+        6.096354523684592e-05
+    ],
+    [
+        [
+            "volunteering",
+            "help"
+        ],
+        3.85757188055231e-05
+    ],
+    [
+        [
+            "birdwatching",
+            "read"
+        ],
+        3.581957401518105e-05
+    ],
+    [
+        [
+            "burglary",
+            "steal"
+        ],
+        2.91857391918549e-05
+    ],
+    [
+        [
+            "Proposing",
+            "change"
+        ],
+        1.830838399314738e-05
+    ],
+    [
+        [
+            "campaigning",
+            "win"
+        ],
+        1.7822170122462023e-05
+    ],
+    [
+        [
+            "researching",
+            "read"
+        ],
+        1.776893400896432e-05
+    ]
+]

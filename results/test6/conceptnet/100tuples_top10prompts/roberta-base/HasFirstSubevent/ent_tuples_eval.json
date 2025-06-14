@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "Read A Bedtime Story",
+            "Reading"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "begin",
+            "end"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "open",
+            "close"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fade",
+            "death"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Receive A Gift",
+            "Give"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "divide",
+            "remove"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shuffle",
+            "reset"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rescue",
+            "attack"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "light",
+            "dark"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "play",
+            "save"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "toss",
+            "win"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "arrive",
+            "exit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "discover",
+            "save"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shatter",
+            "shock"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Lie Down",
+            "Wake"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "greet",
+            "meet"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compete",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "backup",
+            "reset"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "collapse",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "reset",
+            "resetreset"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "melt",
+            "rain"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "discharge",
+            "release"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dissolve",
+            "destroy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "depart",
+            "exit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "publish",
+            "post"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "publish",
+            "post"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "terminate",
+            "stop"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compile",
+            "save"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "leap",
+            "jump"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "explode",
+            "destroy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "inflate",
+            "update"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "whisper",
+            "click"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "conceal",
+            "trigger"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "multiply",
+            "random"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "conclude",
+            "close"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "load",
+            "loadload"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Achieve",
+            "Win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "assemble",
+            "assembly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "assemble",
+            "assembly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "assemble",
+            "assembly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bloom",
+            "reset"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "confess",
+            "submit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fire",
+            "Firefire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "propose",
+            "create"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "celebrate",
+            "show"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ambush",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ambush",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "unlock",
+            "locklock"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Negotiate",
+            "Agree"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "install",
+            "save"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "replicate",
+            "replace"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "jump",
+            "jumpjump"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Unfold",
+            "Foldfold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crumble",
+            "break"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Unpack",
+            "Packpack"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fill",
+            "fillfill"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "press",
+            "presspress"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Inspect",
+            "Notice"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Swing",
+            "Swingswing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "argue",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "browse",
+            "download"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "electrify",
+            "reset"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "succumb",
+            "wake"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stroll",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "analyze",
+            "filter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "activate",
+            "activateactivate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Ignite",
+            "Reset"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Ignite",
+            "Reset"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "display",
+            "displaydisplay"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "accelerate",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Detonate",
+            "Destroy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "select",
+            "selectselect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "launch",
+            "launchlaunch"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rest",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "alert",
+            "alertalert"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "appear",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "initiate",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "drop",
+            "dropdrop"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bat",
+            "batbat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Shoot",
+            "Shootshoot"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "misplace",
+            "update"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "download",
+            "downloaddownload"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Darken",
+            "Darkdark"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "count",
+            "countcount"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "combust",
+            "shock"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "complete",
+            "completecomplete"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "attach",
+            "attachattach"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "submit",
+            "submitsubmit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "construct",
+            "constructconstruct"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "travel",
+            "traveltravel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Slice",
+            "sliceslice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "witness",
+            "eventevent"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cook",
+            "Cookcook"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "split",
+            "splitsplit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Trip",
+            "Triptrip"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "prepare",
+            "prepprep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hop",
+            "hophop"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Release",
+            "Releaserelease"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "program",
+            "programprogram"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Throw",
+            "Throwthrow"
+        ],
+        "label": 0
+    }
+]

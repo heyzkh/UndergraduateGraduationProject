@@ -1,0 +1,42 @@
+[
+    [
+        "A <ENT0> is typically made of <ENT1> .",
+        0.1566174066876144
+    ],
+    [
+        "A <ENT0> is a piece of <ENT1> that helps to focus light .",
+        0.12837972297259181
+    ],
+    [
+        "Evidence suggests that the ancient egyptians were the first to use <ENT1> to make <ENT0>s .",
+        0.10474057780049427
+    ],
+    [
+        "<ENT1> is the main material that <ENT0>s are made from .",
+        0.09713061474979505
+    ],
+    [
+        "<ENT0>s are made out of <ENT1> .",
+        0.09661378646672487
+    ],
+    [
+        "<ENT1> is a common material used to make <ENT0>s .",
+        0.08954906166129498
+    ],
+    [
+        "The <ENT0> in a camera is made of <ENT1> .",
+        0.08581788155967894
+    ],
+    [
+        "<ENT0> is made of <ENT1> .",
+        0.08544320152773621
+    ],
+    [
+        "<ENT0> is a construction material made from hardened <ENT1> .",
+        0.08327971484421932
+    ],
+    [
+        "The <ENT0> is composed of <ENT1> .",
+        0.07242803172985005
+    ]
+]

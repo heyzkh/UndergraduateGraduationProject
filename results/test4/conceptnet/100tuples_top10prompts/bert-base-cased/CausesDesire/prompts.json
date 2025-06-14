@@ -1,0 +1,42 @@
+[
+    [
+        "<ENT0> is a desire to <ENT1> or in large amounts .",
+        0.20256594900078698
+    ],
+    [
+        "People generally <ENT1>r for <ENT0> because they want to look their best .",
+        0.12876694729466498
+    ],
+    [
+        "A person who is interested in <ENT0> is likely to <ENT1>, since they care about what is inside .",
+        0.11393655406794517
+    ],
+    [
+        "The <ENT0> makes people want to <ENT1>r .",
+        0.10860044474308408
+    ],
+    [
+        "The <ENT0> creates a desire in someone to <ENT1>r than they usually would .",
+        0.10012497772046942
+    ],
+    [
+        "A <ENT0> would make someone want to <ENT1>r than they would normally .",
+        0.08748194203931305
+    ],
+    [
+        "People usually feel the urge to <ENT1> when they <ENT0> .",
+        0.07458650589200766
+    ],
+    [
+        "Person who <ENT0> may want to <ENT1> in order to see what is inside .",
+        0.06641548210846503
+    ],
+    [
+        "Someone who <ENT0> is likely to want to <ENT1>, since they are interested in what is inside .",
+        0.06092880060341315
+    ],
+    [
+        "If someone <ENT0>, they may be more likely to want to <ENT1> to see what is inside .",
+        0.05659239652985044
+    ]
+]

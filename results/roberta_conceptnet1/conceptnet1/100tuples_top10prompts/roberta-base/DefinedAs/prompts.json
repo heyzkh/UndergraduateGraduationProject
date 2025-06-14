@@ -1,0 +1,42 @@
+[
+    [
+        "<ENT1> is a more descriptive term for <ENT0> .",
+        0.11670363398886911
+    ],
+    [
+        "<ENT1> acts as a more descriptive term for <ENT0> .",
+        0.11154596830024098
+    ],
+    [
+        "<ENT1> functions as a more descriptive term for <ENT0> .",
+        0.10838472999090834
+    ],
+    [
+        "<ENT1> offers a more granular description of <ENT0> .",
+        0.10520011314281345
+    ],
+    [
+        "<ENT1> functions as a more detailed representation of <ENT0> .",
+        0.1007502317226216
+    ],
+    [
+        "A <ENT1> functions as a more detailed descriptor for <ENT0> .",
+        0.09661726578464667
+    ],
+    [
+        "<ENT1> function as a more explanatory form of <ENT0> .",
+        0.09489815892120436
+    ],
+    [
+        "<ENT1> functions as a more explanatory measure of <ENT0> .",
+        0.09070064920137283
+    ],
+    [
+        "<ENT1> is a more explanatory version of <ENT0> .",
+        0.08974954651071053
+    ],
+    [
+        "<ENT1> function as a more descriptive label for <ENT0> .",
+        0.08544970243661218
+    ]
+]

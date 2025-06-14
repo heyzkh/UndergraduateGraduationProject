@@ -1,0 +1,38 @@
+[
+    [
+        "The material used to make a <ENT0> is <ENT1> .",
+        0.17880210147443526
+    ],
+    [
+        "<ENT0> is made of <ENT1> .",
+        0.13254254177799613
+    ],
+    [
+        "<ENT1> is the material from which <ENT0>s are made .",
+        0.12861947449219951
+    ],
+    [
+        "<ENT1> is the material used to make <ENT0> .",
+        0.10864977503583073
+    ],
+    [
+        "<ENT1> is the material from which <ENT0> is made .",
+        0.0971626576381686
+    ],
+    [
+        "<ENT1> is used as an ingredient in <ENT0> .",
+        0.09570123383610822
+    ],
+    [
+        "<ENT1> is the material used in the production of <ENT0> .",
+        0.0899954542527551
+    ],
+    [
+        "<ENT1> is an ingredient in <ENT0> .",
+        0.08614772127429766
+    ],
+    [
+        "<ENT1> is a component used in the creation of a <ENT0> .",
+        0.08237904021820863
+    ]
+]

@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "stars and stripes",
+            "America"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pink and blue colors",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pink and blue colors",
+            "love"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "white flag",
+            "racism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "equal rights symbol (⚧)",
+            "equality"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compassion",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compassion",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mother teresa",
+            "death"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mother teresa",
+            "death"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "statue of liberty",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "statue of liberty",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "confederate flag",
+            "America"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "black fist",
+            "racism"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ebony",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "black panther",
+            "racism"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dignity",
+            "humanity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fingerprint",
+            "oneself"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fingerprint",
+            "oneself"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "olive branch",
+            "life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "olive branch",
+            "life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "noose",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "noose",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pineapple on pizza",
+            "death"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "golden calf",
+            "youth"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "golden calf",
+            "youth"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "eagle",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "burning cross",
+            "hate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rainbow",
+            "death"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rainbow",
+            "death"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rainbow",
+            "death"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rainbow",
+            "death"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rainbow",
+            "death"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "black cat",
+            "racism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "black cat",
+            "racism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "black cat",
+            "racism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "broken chain",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "swastika",
+            "women"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lion",
+            "lions"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lion",
+            "lions"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lion",
+            "lions"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "black madonna",
+            "racism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "universal declaration of human rights",
+            "humanity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "milestone",
+            "life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "scales",
+            "life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "serpent",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "butterfly",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dove",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dove",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dove",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dove",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dove",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dove",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "scales of justice",
+            "injustice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "scales of justice",
+            "injustice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mirror",
+            "life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mirror",
+            "life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mirror",
+            "life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mirror",
+            "life"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mirror",
+            "life"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mirror",
+            "life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mirror",
+            "life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mirror",
+            "life"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mirror",
+            "life"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mirror",
+            "life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mirror",
+            "life"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mirror",
+            "life"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mirror",
+            "life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mirror",
+            "life"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mirror",
+            "life"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mirror",
+            "life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cross",
+            "sex"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "venus symbol (♀)",
+            "sex"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "scepter",
+            "power"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rose",
+            "oneself"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rose",
+            "oneself"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pride flag",
+            "America"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dagger",
+            "masculinity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shadow",
+            "oneself"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shadow",
+            "oneself"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "snake",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "snake",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "snake",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "phoenix",
+            "rebirth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "phoenix",
+            "rebirth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "phoenix",
+            "rebirth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "phoenix",
+            "rebirth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "phoenix",
+            "rebirth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "phoenix",
+            "rebirth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "phoenix",
+            "rebirth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "phoenix",
+            "rebirth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "raven",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "raven",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "raven",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "raven",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "raven",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "raven",
+            "God"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rocket",
+            "oneself"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "divinechalice",
+            "oneself"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "divinechalice",
+            "oneself"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "afro pick",
+            "diversity"
+        ],
+        "label": 1
+    }
+]

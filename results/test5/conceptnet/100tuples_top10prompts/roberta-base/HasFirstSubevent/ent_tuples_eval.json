@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "light a candle",
+            "fire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ask a question",
+            "answer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blow out a candle",
+            "fire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "throw a ball",
+            "catch"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "press a button",
+            "click"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sound an alarm",
+            "alert"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "adjust the thermostat",
+            "reset"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "start a conversation",
+            "reply"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "put on a coat",
+            "dress"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "turn a doorknob",
+            "click"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "check the weather forecast",
+            "update"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "load a gun",
+            "fire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Lock The Door",
+            "Exit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Plug In A Device",
+            "Connect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "write an email",
+            "send"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compile code",
+            "debug"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "declare war",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chop wood",
+            "fire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sew a seam",
+            "break"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Spark A Flame",
+            "Fire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blow a bubble",
+            "burst"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Weigh The Ingredients",
+            "Process"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "administer a lethal injection",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Seal An Envelope",
+            "Open"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Light A Fireplace",
+            "Firefire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "melt chocolate",
+            "cake"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stoke the flames",
+            "fire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "peel a banana",
+            "fruit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bend a stick",
+            "break"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Melt Butter",
+            "Cream"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Dip A Paintbrush",
+            "Draw"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "peel an onion",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ring a doorbell",
+            "bellbell"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "greet someone",
+            "meet"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Start A Fire",
+            "Firefire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "inflate a balloon",
+            "pop"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fatal",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bake a cake",
+            "cakecake"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Draw A Sword",
+            "Drawdraw"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Sharpen A Knife",
+            "Attack"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "administer poison",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "draw a weapon",
+            "drawdraw"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "draw a weapon",
+            "drawdraw"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "measure flour",
+            "test"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "board a flight",
+            "boardboard"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "administer anesthesia",
+            "save"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "start a race",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Argue With Someone",
+            "Fight"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Fold A Paper Airplane",
+            "print"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Plant A Seed",
+            "Seedseed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "flip a switch",
+            "switchswitch"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "download a file",
+            "downloaddownload"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "measure ingredients",
+            "test"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "water the plants",
+            "waterwater"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Ignite A Fire",
+            "Firefire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Roast Marshmallows",
+            "Cake"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "run a diagnostic test",
+            "testtest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Pour Water Into A Glass",
+            "Waterwater"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stir the batter",
+            "strike"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Dim The Lights",
+            "Lightlight"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shiver",
+            "push"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "push a cart",
+            "pushpush"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "light a match",
+            "matchmatch"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Paint A Wall",
+            "Wallwall"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Analyze Data",
+            "Datadata"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blend the batter",
+            "mix"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mix ingredients",
+            "mixmix"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Strike A Match",
+            "Strikestrike"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Brew Tea",
+            "Brewbrew"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Strike A Flint",
+            "Strikestrike"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "open an app",
+            "openopen"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "electrify a wire",
+            "fire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "assemble a team",
+            "teamteam"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "preheat oven",
+            "heatheat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pour a liquid",
+            "pourpour"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "drop a glass",
+            "dropdrop"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Write A Program",
+            "Writewrite"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "launch a project",
+            "launchlaunch"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "charge a battery",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Unfold A Map",
+            "Mapmap"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "inflate a tire",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fill a container",
+            "fillfill"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Turn On The Stove",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Turn On A Computer",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Boil Water",
+            "Waterwater"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "receive shocking news",
+            "newsnews"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Open A Bottle",
+            "openopen"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "administer a drug",
+            "drugdrug"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Snap A Twig",
+            "Snapsnap"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "insert a cartridge",
+            "insertinsert"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "activate a device",
+            "activateactivate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "insert dna sample",
+            "insertinsert"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "order food",
+            "orderorder"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "slice bread",
+            "sliceslice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Crack An Egg",
+            "Eggegg"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cut vegetables",
+            "cutcut"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "send a letter",
+            "sendsend"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "submit a paper",
+            "submitsubmit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "prepare ingredients",
+            "prepprep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Release A Bird",
+            "Releaserelease"
+        ],
+        "label": 0
+    }
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "<ENT1> is what every <ENT0> desires .",
+        0.12793053591095616
+    ],
+    [
+        "Every <ENT0> wants to mate in order to <ENT1> .",
+        0.12747940436935443
+    ],
+    [
+        "<ENT1> is something that every <ENT0> desires .",
+        0.12735140713240414
+    ],
+    [
+        "<ENT0> desire to <ENT1> .",
+        0.11365412030853855
+    ],
+    [
+        "Every <ENT0> desires a way to <ENT1> their frustration .",
+        0.09731247559933401
+    ],
+    [
+        "The <ENT1>s are what every <ENT0> wants .",
+        0.09443464620966102
+    ],
+    [
+        "<ENT0>s <ENT1> in order to create new generations of their species .",
+        0.09254940694330291
+    ],
+    [
+        "Every <ENT0> desires an outlet, or a <ENT1>, for their anger .",
+        0.07474889623314021
+    ],
+    [
+        "<ENT0>s have a strong desire to fly toward <ENT1>s .",
+        0.07249817312257038
+    ],
+    [
+        "<ENT0>s are attracted to <ENT1>s because they need the nectar to make honey .",
+        0.07204093417073826
+    ]
+]

@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "fire extinguisher",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "board game",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "feather duster",
+            "dress"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fishing rod",
+            "fish fishing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "jump rope",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coffee cup",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wine glass",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wine glass",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "steam engine",
+            "transport"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fishing net",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wine bottle",
+            "transport"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "prayer beads",
+            "worship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dog's tail",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bamboo stick",
+            "travel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Walking Stick",
+            "Walk Walking"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cocktail Shaker",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tambourine",
+            "dance"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tambourine",
+            "dance"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Party Hat",
+            "dress"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "karaoke set",
+            "dance"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tap shoes",
+            "dance"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "karaoke system",
+            "dance"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "prayer mat",
+            "worship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hammock",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "internet",
+            "communication"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mouthpiece",
+            "communication"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crossbow",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "karaoke machine",
+            "dance"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "karaoke machine",
+            "dance"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "karaoke machine",
+            "dance"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "telephone",
+            "communication"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "boomerang",
+            "dance"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "whistle",
+            "communication"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "whistle",
+            "communication"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "violin",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "flute",
+            "music"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wine decanter",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wine decanter",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Sharpening Stone",
+            "attack"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "camera",
+            "capture"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tail",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "compass",
+            "travel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "karaoke speaker",
+            "communication"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pen",
+            "communication"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sparkler gun",
+            "fire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rope",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "megaphone",
+            "communication"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "megaphone",
+            "communication"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "key",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "guitar",
+            "music"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "harp",
+            "music"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "karaoke microphone",
+            "singing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "egg",
+            "hatch"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "slingshot",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "book",
+            "travel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thermometer",
+            "temperature"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pen",
+            "writing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hanger",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "knife",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "microphone",
+            "communication"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "calculator",
+            "calculation"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spatula",
+            "fire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "backpack",
+            "travel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "baton",
+            "communication"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bed",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pillow",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blanket",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Fire Poker",
+            "play"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "incense",
+            "worship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bicycle",
+            "transport"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "basket",
+            "transport"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plunger",
+            "sink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "needle",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wine opener",
+            "drink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dart",
+            "attack"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "reed",
+            "transport"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "smartphone",
+            "communication"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "flint",
+            "fire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "campfire",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shield",
+            "defense"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Lullaby",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "walkie-talkie",
+            "communication"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "walkie-talkie",
+            "communication"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "walkie-talkie",
+            "communication"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Passport",
+            "travel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "toothpick",
+            "chewing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Laptop",
+            "travel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Wristwatch",
+            "communication"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "music",
+            "communication"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "firestarter",
+            "cooking"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fan",
+            "communication"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "harmonica",
+            "music"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sparkler",
+            "light"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "oxygen",
+            "transport"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rifle",
+            "hunting"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "suitcase",
+            "travel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wand",
+            "travel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lighter",
+            "transport"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wine",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "medicine",
+            "life"
+        ],
+        "label": 1
+    }
+]

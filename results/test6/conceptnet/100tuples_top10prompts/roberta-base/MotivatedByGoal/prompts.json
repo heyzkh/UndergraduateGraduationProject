@@ -1,0 +1,14 @@
+[
+    [
+        "The reason someone would <ENT0> is so they can have something to <ENT1> .",
+        0.28464865056251654
+    ],
+    [
+        "If someone wants to <ENT1>, they need to <ENT0> well .",
+        0.24333558506637412
+    ],
+    [
+        "Someone <ENT0>s in order to <ENT1> .",
+        0.14800495285083462
+    ]
+]

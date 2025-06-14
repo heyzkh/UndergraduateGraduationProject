@@ -1,0 +1,702 @@
+[
+    [
+        [
+            "poor financial planning",
+            "debt"
+        ],
+        0.08444521509442647
+    ],
+    [
+        [
+            "police brutality",
+            "death"
+        ],
+        0.08261160391635367
+    ],
+    [
+        [
+            "social isolation",
+            "depression"
+        ],
+        0.07454749456583601
+    ],
+    [
+        [
+            "poor decision-making",
+            "failure"
+        ],
+        0.06779024271236776
+    ],
+    [
+        [
+            "gun violence",
+            "death"
+        ],
+        0.056062353643448436
+    ],
+    [
+        [
+            "financial instability",
+            "default"
+        ],
+        0.05174028475440768
+    ],
+    [
+        [
+            "political corruption",
+            "violence"
+        ],
+        0.050489705834368084
+    ],
+    [
+        [
+            "poor time management",
+            "problems"
+        ],
+        0.047434833895289026
+    ],
+    [
+        [
+            "differing interpretations",
+            "confusion"
+        ],
+        0.034363661722568876
+    ],
+    [
+        [
+            "lack of accountability",
+            "failure"
+        ],
+        0.028856099952064923
+    ],
+    [
+        [
+            "crisis",
+            "economic collapse"
+        ],
+        0.025644105815935132
+    ],
+    [
+        [
+            "aggressive behavior",
+            "violence"
+        ],
+        0.025100907603425003
+    ],
+    [
+        [
+            "effective communication",
+            "success"
+        ],
+        0.0242345893185723
+    ],
+    [
+        [
+            "differing opinions",
+            "conflict"
+        ],
+        0.023869333668752594
+    ],
+    [
+        [
+            "poor training data",
+            "errors"
+        ],
+        0.019803122171524853
+    ],
+    [
+        [
+            "lack of transparency",
+            "abuse"
+        ],
+        0.017958946569628455
+    ],
+    [
+        [
+            "unforeseen circumstances",
+            "conflict"
+        ],
+        0.016588805375876235
+    ],
+    [
+        [
+            "human error",
+            "errors"
+        ],
+        0.014749018737359256
+    ],
+    [
+        [
+            "power outage",
+            "damage"
+        ],
+        0.012649546404076914
+    ],
+    [
+        [
+            "structural instability",
+            "problems"
+        ],
+        0.011653062464621597
+    ],
+    [
+        [
+            "excessive force",
+            "injury"
+        ],
+        0.009896745058421948
+    ],
+    [
+        [
+            "resource scarcity",
+            "surplus"
+        ],
+        0.009500817494665964
+    ],
+    [
+        [
+            "lack of communication",
+            "conflict"
+        ],
+        0.008621634618233948
+    ],
+    [
+        [
+            "excessive heat",
+            "dehydration"
+        ],
+        0.008225879528720986
+    ],
+    [
+        [
+            "physical impact",
+            "death"
+        ],
+        0.0077317529598457365
+    ],
+    [
+        [
+            "rough surfaces",
+            "friction"
+        ],
+        0.007426199974847256
+    ],
+    [
+        [
+            "poor experimental design",
+            "errors"
+        ],
+        0.006778360458786795
+    ],
+    [
+        [
+            "breaking a mirror",
+            "blindness"
+        ],
+        0.0063705196917735836
+    ],
+    [
+        [
+            "lack of preparation",
+            "problems"
+        ],
+        0.006010373155851429
+    ],
+    [
+        [
+            "substance addiction",
+            "depression"
+        ],
+        0.005929506442930568
+    ],
+    [
+        [
+            "incorrect syntax",
+            "errors"
+        ],
+        0.005281453313580116
+    ],
+    [
+        [
+            "incomplete data",
+            "errors"
+        ],
+        0.005280372403939271
+    ],
+    [
+        [
+            "faulty equipment",
+            "accidents"
+        ],
+        0.0052645925421105425
+    ],
+    [
+        [
+            "religious intolerance",
+            "violence"
+        ],
+        0.004969502703943589
+    ],
+    [
+        [
+            "nerve damage",
+            "infection"
+        ],
+        0.004959697441274652
+    ],
+    [
+        [
+            "system overload",
+            "errors"
+        ],
+        0.004593915260315597
+    ],
+    [
+        [
+            "excessive workload",
+            "exhaustion"
+        ],
+        0.004339033461068946
+    ],
+    [
+        [
+            "algorithmic bias",
+            "errors"
+        ],
+        0.004319999016264795
+    ],
+    [
+        [
+            "complex terminology",
+            "confusion"
+        ],
+        0.004290694744632721
+    ],
+    [
+        [
+            "diligent effort",
+            "success"
+        ],
+        0.0042228490292927435
+    ],
+    [
+        [
+            "crying",
+            "tears"
+        ],
+        0.00401057504221088
+    ],
+    [
+        [
+            "unfair treatment",
+            "violence"
+        ],
+        0.0038397569571843233
+    ],
+    [
+        [
+            "miscommunication",
+            "misunderstanding"
+        ],
+        0.0036235252058932537
+    ],
+    [
+        [
+            "blunt force trauma",
+            "death"
+        ],
+        0.0035641657269047168
+    ],
+    [
+        [
+            "crisis",
+            "war"
+        ],
+        0.003295689213355477
+    ],
+    [
+        [
+            "funny meme",
+            "outrage"
+        ],
+        0.0032676773977360174
+    ],
+    [
+        [
+            "instrument malfunction",
+            "failure"
+        ],
+        0.003060550501150282
+    ],
+    [
+        [
+            "friction",
+            "problems"
+        ],
+        0.003039450886961649
+    ],
+    [
+        [
+            "inflammation",
+            "death"
+        ],
+        0.0029857065670470225
+    ],
+    [
+        [
+            "discrimination",
+            "violence"
+        ],
+        0.0029517574559347146
+    ],
+    [
+        [
+            "systemic racism",
+            "violence"
+        ],
+        0.0029002482637109717
+    ],
+    [
+        [
+            "crying",
+            "pain"
+        ],
+        0.0027901277925453595
+    ],
+    [
+        [
+            "procrastination",
+            "failure"
+        ],
+        0.0026267140607482155
+    ],
+    [
+        [
+            "misunderstanding",
+            "confusion"
+        ],
+        0.002518551196684835
+    ],
+    [
+        [
+            "crisis",
+            "recession"
+        ],
+        0.0024396458364311212
+    ],
+    [
+        [
+            "unrealistic expectations",
+            "disappointment"
+        ],
+        0.002421339366338114
+    ],
+    [
+        [
+            "conflicting information",
+            "confusion"
+        ],
+        0.0024089092066748043
+    ],
+    [
+        [
+            "prolonged sleep deprivation",
+            "insomnia"
+        ],
+        0.0023609610888944833
+    ],
+    [
+        [
+            "excessive noise",
+            "confusion"
+        ],
+        0.0023461251420193443
+    ],
+    [
+        [
+            "peer pressure",
+            "depression"
+        ],
+        0.002336911456997106
+    ],
+    [
+        [
+            "fraud",
+            "loss"
+        ],
+        0.002100896854811615
+    ],
+    [
+        [
+            "fatigue",
+            "exhaustion"
+        ],
+        0.0020411950960682597
+    ],
+    [
+        [
+            "bribery",
+            "violence"
+        ],
+        0.0020401166055040248
+    ],
+    [
+        [
+            "negligence",
+            "conflict"
+        ],
+        0.0020270803817904305
+    ],
+    [
+        [
+            "fury",
+            "violence"
+        ],
+        0.002021349239816296
+    ],
+    [
+        [
+            "reckless driving",
+            "death"
+        ],
+        0.0020168362897110244
+    ],
+    [
+        [
+            "unexpected betrayal",
+            "violence"
+        ],
+        0.0020113886055604852
+    ],
+    [
+        [
+            "inexperience",
+            "failure"
+        ],
+        0.0018600426616007392
+    ],
+    [
+        [
+            "contamination",
+            "infection"
+        ],
+        0.0018301238698580841
+    ],
+    [
+        [
+            "unauthorized access",
+            "violations"
+        ],
+        0.0017521871842553244
+    ],
+    [
+        [
+            "software bugs",
+            "crashes"
+        ],
+        0.0017349272957066866
+    ],
+    [
+        [
+            "incorrect algorithm",
+            "errors"
+        ],
+        0.0017053406486295549
+    ],
+    [
+        [
+            "inefficient processes",
+            "errors"
+        ],
+        0.0016793286263936257
+    ],
+    [
+        [
+            "unequal resource distribution",
+            "depletion"
+        ],
+        0.0016561604394663976
+    ],
+    [
+        [
+            "fraud",
+            "losses"
+        ],
+        0.0016270666254340315
+    ],
+    [
+        [
+            "fury",
+            "anger"
+        ],
+        0.0015023636108962909
+    ],
+    [
+        [
+            "overconsumption",
+            "obesity"
+        ],
+        0.0013864072590216864
+    ],
+    [
+        [
+            "humorous joke",
+            "laughter"
+        ],
+        0.0011299681827297305
+    ],
+    [
+        [
+            "bias",
+            "violence"
+        ],
+        0.0010599543087815627
+    ],
+    [
+        [
+            "stereotyping",
+            "errors"
+        ],
+        0.001025158707569393
+    ],
+    [
+        [
+            "unchecked rumors",
+            "speculation"
+        ],
+        0.0010229575942493575
+    ],
+    [
+        [
+            "distraction",
+            "confusion"
+        ],
+        0.0010183630770841182
+    ],
+    [
+        [
+            "poisoning",
+            "death"
+        ],
+        0.000973907073258726
+    ],
+    [
+        [
+            "cortex",
+            "pain"
+        ],
+        0.0009476987516024052
+    ],
+    [
+        [
+            "territorial disputes",
+            "conflict"
+        ],
+        0.0008898436455689554
+    ],
+    [
+        [
+            "malicious input",
+            "errors"
+        ],
+        0.0007988098155731895
+    ],
+    [
+        [
+            "cortex",
+            "stress"
+        ],
+        0.0007936219397828713
+    ],
+    [
+        [
+            "courage",
+            "action"
+        ],
+        0.0007039133232329977
+    ],
+    [
+        [
+            "plagiarism",
+            "errors"
+        ],
+        0.0006966199665553186
+    ],
+    [
+        [
+            "mathematical abstraction",
+            "complexity"
+        ],
+        0.0006875082727548754
+    ],
+    [
+        [
+            "ambiguous instructions",
+            "errors"
+        ],
+        0.0006144610652446913
+    ],
+    [
+        [
+            "carelessness",
+            "death"
+        ],
+        0.0005633980590724694
+    ],
+    [
+        [
+            "inequality",
+            "problems"
+        ],
+        0.0005046173831618366
+    ],
+    [
+        [
+            "dishonest actions",
+            "consequences"
+        ],
+        0.0004249765863188965
+    ],
+    [
+        [
+            "sports collisions",
+            "injuries"
+        ],
+        0.00042183976043110114
+    ],
+    [
+        [
+            "territorial expansion",
+            "inequality"
+        ],
+        0.0003958291154098976
+    ],
+    [
+        [
+            "overpackaging",
+            "errors"
+        ],
+        0.00028334066944743215
+    ],
+    [
+        [
+            "oppression",
+            "violence"
+        ],
+        0.00026218532936019223
+    ],
+    [
+        [
+            "fear",
+            "violence"
+        ],
+        0.0002480167824331983
+    ],
+    [
+        [
+            "calibration errors",
+            "problems"
+        ],
+        0.00014497740902519513
+    ]
+]

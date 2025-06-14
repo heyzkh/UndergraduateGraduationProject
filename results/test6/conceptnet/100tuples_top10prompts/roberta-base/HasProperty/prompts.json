@@ -1,0 +1,22 @@
+[
+    [
+        "<ENT0> are often seen as <ENT1> and pure .",
+        0.11800539983200031
+    ],
+    [
+        "<ENT0>s are <ENT1> and can easily be carried around with you .",
+        0.11769567867667217
+    ],
+    [
+        "This is a statement about <ENT0> in general - that they are <ENT1> .",
+        0.11442288375424499
+    ],
+    [
+        "<ENT1> <ENT0>s are great for carrying around with you .",
+        0.1141320102136976
+    ],
+    [
+        "While not all <ENT0>s are <ENT1>, some can be .",
+        0.1077987545628682
+    ]
+]

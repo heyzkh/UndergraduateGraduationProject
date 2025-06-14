@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "carbon monoxide poisoning",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Global Warming",
+            "cold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pregnant",
+            "pregnancy hormones"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "exposure to low temperatures",
+            "cold"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Public Speaking",
+            "talking"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "achieving a personal goal",
+            "success"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "receiving a compliment",
+            "good"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "food poisoning",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lack of proper nutrition",
+            "pain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lack of sleep",
+            "pain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "alcohol consumption",
+            "drinking"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stage fright",
+            "shock"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "drunk",
+            "alcohol"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lack of oxygen",
+            "pain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cultural differences",
+            "different"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lack of vitamin c",
+            "pain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drinking",
+            "drunk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chronic illness",
+            "symptoms"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dying",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drinking",
+            "alcohol"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "heart attack",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "eating",
+            "food"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "excessive sugar intake",
+            "high"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gunshot wound",
+            "pain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "adrenaline rush",
+            "fear"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "loud noise",
+            "quiet"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "childhood trauma",
+            "pain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "excessive salt intake",
+            "nausea"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drinking",
+            "depression"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "unprotected sexual intercourse",
+            "Sex Sexual"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "excessive alcohol consumption",
+            "drinking"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "radiation poisoning",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Emotional Neglect",
+            "depression"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "excessive caffeine consumption",
+            "high"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pregnant",
+            "depression"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "excessive workload",
+            "stress"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bacterial infection",
+            "infected"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "time management",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Acid Reflux",
+            "pain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "aging",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "poor posture",
+            "pain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chronic pain",
+            "discomfort"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "prolonged silence",
+            "quiet"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "excessive sunlight exposure",
+            "cold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "viral infection",
+            "infected"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "excessive screen time",
+            "uncomfortable"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sunburn",
+            "cold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spicy food",
+            "good"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Work Pressure",
+            "stress"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "prolonged fasting",
+            "pain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "weakened immune system",
+            "pain"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Muscle Strain",
+            "pain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "depression",
+            "anxiety"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "peer pressure",
+            "depression"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stress",
+            "depression"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "social isolation",
+            "depression"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tooth decay",
+            "death"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Improper Footwear",
+            "discomfort"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "unexpected news",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "financial instability",
+            "problems"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Excessive Social Media Use",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Eye Strain",
+            "pain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "meditation",
+            "pain"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Prolonged Sitting",
+            "uncomfortable"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "exercise",
+            "pain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "poisoning",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Gestational Diabetes",
+            "pregnant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "unresolved conflict",
+            "anger"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "boredom",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "joyful music",
+            "happy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bullying",
+            "fear"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fracture",
+            "pain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "infidelity",
+            "love"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "romantic gesture",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ghost",
+            "death"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "injury",
+            "pain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "overthinking",
+            "frustration"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lust",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "allergy",
+            "pain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "electricity",
+            "cold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hormonal Imbalance",
+            "pregnant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "writer's block",
+            "depression"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "affection",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "jealousy",
+            "anger"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "poverty",
+            "living"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Neglect",
+            "problems"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dehydration",
+            "depression"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Pornography",
+            "sex"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "inspiration",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Curiosity",
+            "friends"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "negligent parenting",
+            "problems"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "disappointment",
+            "happy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Gratitude",
+            "happy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "generosity",
+            "good"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kindness",
+            "good"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "exhaustion",
+            "pain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "miscommunication",
+            "confusion"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Procrastination",
+            "pain"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Procrastination",
+            "pain"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Procrastination",
+            "pain"
+        ],
+        "label": 0
+    }
+]

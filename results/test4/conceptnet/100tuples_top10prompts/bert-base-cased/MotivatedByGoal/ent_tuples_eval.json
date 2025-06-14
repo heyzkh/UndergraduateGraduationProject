@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "fight",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "go free",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fight",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sacrifice",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "self-preservation",
+            "live"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "support",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "refreshment",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "focus",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "self-reliance",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Acquisition",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "evasion",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "self-improvement",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "resilience",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "resilience",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "attentiveness",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Approval",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Avoidance",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "justice",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "empowerment",
+            "live"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "profit",
+            "live"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "enlightenment",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "enlightenment",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Awareness",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rejuvenation",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rejuvenation",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "survival",
+            "live"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "freedom",
+            "live"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "discipline",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "discipline",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "expression",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fulfillment",
+            "live"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clarification",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Appreciation",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "defense",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "perseverance",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "persuasion",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "persuasion",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Guidance",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compensation",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compensation",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "faith",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "faith",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "understanding",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "motivation",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Curiosity",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "competition",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Nutrition",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "satisfaction",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nourishment",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "concealment",
+            "hide"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "connection",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "communication",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Compassion",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "learning",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "assistance",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vengeance",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "recovery",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "contribution",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "determination",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "secrecy",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "deception",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mastery",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "generosity",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Creativity",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "engagement",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "altruism",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "observation",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Ambition",
+            "live"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Ambition",
+            "live"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Conviction",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "recognition",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "growth",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "adaptation",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "interpretation",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "improvement",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "discovery",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Reunion",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Reunion",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "validation",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "affection",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "elimination",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Efficiency",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hydration",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "devotion",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "enjoyment",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "alertness",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "relaxation",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "domination",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "preparedness",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "exploration",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "innovation",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "liberation",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "achievement",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "collaboration",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "encouragement",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "encouragement",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "admiration",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Continuity",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "entrepreneurship",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "**Inspiration**",
+            "help"
+        ],
+        "label": 1
+    }
+]

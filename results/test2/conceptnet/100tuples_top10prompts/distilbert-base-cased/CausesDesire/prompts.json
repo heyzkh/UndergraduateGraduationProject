@@ -1,0 +1,10 @@
+[
+    [
+        "<ENT0> causes someone to want to <ENT1> . (Note: ENT0 must be a concrete motivator, and ENT1 should be a specific volitional action that humans would plausibly be driven to perform in response.) .",
+        0.6727471764047481
+    ],
+    [
+        "<ENT0> makes someone want <ENT1> . (Note: ENT0 must be a concrete motivator, and ENT1 should be a specific volitional action that humans would plausibly be driven to perform in response.) .",
+        0.3272528235952518
+    ]
+]

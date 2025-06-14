@@ -1,0 +1,695 @@
+[
+    [
+        [
+            "watching a comedy show",
+            "laughing"
+        ],
+        0.2254107136290941
+    ],
+    [
+        [
+            "receiving a compliment",
+            "upset"
+        ],
+        0.14776905528960096
+    ],
+    [
+        [
+            "achieving a personal goal",
+            "upset"
+        ],
+        0.06820229534045438
+    ],
+    [
+        [
+            "Lack Of Emotional Support",
+            "suicidal"
+        ],
+        0.05280966987203385
+    ],
+    [
+        [
+            "Lack Of Communication",
+            "angry"
+        ],
+        0.04775944441108777
+    ],
+    [
+        [
+            "getting old",
+            "aging"
+        ],
+        0.04099775510421939
+    ],
+    [
+        [
+            "Lack Of Trust",
+            "angry"
+        ],
+        0.03816583320494787
+    ],
+    [
+        [
+            "Lack Of Sleep",
+            "sleeping"
+        ],
+        0.0367631884086108
+    ],
+    [
+        [
+            "feeling sad",
+            "crying"
+        ],
+        0.032345111114100863
+    ],
+    [
+        [
+            "excessive alcohol consumption",
+            "drinking"
+        ],
+        0.032198480805791505
+    ],
+    [
+        [
+            "excessive sugar consumption",
+            "overweight"
+        ],
+        0.02150571066089722
+    ],
+    [
+        [
+            "excessive caffeine intake",
+            "sleeping"
+        ],
+        0.02135541177718015
+    ],
+    [
+        [
+            "Positive Thinking",
+            "happy"
+        ],
+        0.016581331752830164
+    ],
+    [
+        [
+            "drinking",
+            "intoxicated"
+        ],
+        0.01564855367886736
+    ],
+    [
+        [
+            "unfulfilled desires",
+            "unhappy"
+        ],
+        0.011339551248159531
+    ],
+    [
+        [
+            "excessive screen time",
+            "upset"
+        ],
+        0.011128940213415999
+    ],
+    [
+        [
+            "lack of companionship",
+            "lonely"
+        ],
+        0.010903882077542023
+    ],
+    [
+        [
+            "jet lag",
+            "sleeping"
+        ],
+        0.008151403341524631
+    ],
+    [
+        [
+            "poor diet",
+            "overweight"
+        ],
+        0.0074105740108943
+    ],
+    [
+        [
+            "distracted driving",
+            "upset"
+        ],
+        0.007018862290578419
+    ],
+    [
+        [
+            "shared experiences",
+            "friends"
+        ],
+        0.006440170728306487
+    ],
+    [
+        [
+            "common interests",
+            "friends"
+        ],
+        0.006012669618440885
+    ],
+    [
+        [
+            "Fear Of Silence",
+            "angry"
+        ],
+        0.00587320108641781
+    ],
+    [
+        [
+            "Active Listening",
+            "talking"
+        ],
+        0.005816972950215102
+    ],
+    [
+        [
+            "strong wind",
+            "angry"
+        ],
+        0.005800029579785278
+    ],
+    [
+        [
+            "unrealistic expectations",
+            "angry"
+        ],
+        0.005176521781026225
+    ],
+    [
+        [
+            "Funny Joke",
+            "laughing"
+        ],
+        0.005099136238858606
+    ],
+    [
+        [
+            "shared laughter",
+            "laughing"
+        ],
+        0.004784305944939398
+    ],
+    [
+        [
+            "excessive social media use",
+            "upset"
+        ],
+        0.004684243227415652
+    ],
+    [
+        [
+            "unmet expectations",
+            "angry"
+        ],
+        0.004529190244587981
+    ],
+    [
+        [
+            "Hormonal Changes",
+            "upset"
+        ],
+        0.004254194434390341
+    ],
+    [
+        [
+            "shared values",
+            "friends"
+        ],
+        0.004190463225341025
+    ],
+    [
+        [
+            "overworking",
+            "sleeping"
+        ],
+        0.004184929369511387
+    ],
+    [
+        [
+            "unpredictable weather",
+            "upset"
+        ],
+        0.004119621893365924
+    ],
+    [
+        [
+            "emotional eating",
+            "upset"
+        ],
+        0.0038554061161079076
+    ],
+    [
+        [
+            "quality time",
+            "busy"
+        ],
+        0.003778351789265292
+    ],
+    [
+        [
+            "poor posture",
+            "angry"
+        ],
+        0.00374081836358997
+    ],
+    [
+        [
+            "muscle fatigue",
+            "sleeping"
+        ],
+        0.0036205232426907295
+    ],
+    [
+        [
+            "uneven terrain",
+            "walking"
+        ],
+        0.0032971081869768246
+    ],
+    [
+        [
+            "loud noise",
+            "upset"
+        ],
+        0.003216998406725858
+    ],
+    [
+        [
+            "lack of purpose",
+            "angry"
+        ],
+        0.003188492509847762
+    ],
+    [
+        [
+            "neglect of self-care",
+            "angry"
+        ],
+        0.003000451912604148
+    ],
+    [
+        [
+            "Unfair Treatment",
+            "angry"
+        ],
+        0.002849652908767541
+    ],
+    [
+        [
+            "sunny weather",
+            "happy"
+        ],
+        0.002574331304371662
+    ],
+    [
+        [
+            "playful teasing",
+            "angry"
+        ],
+        0.002279483442434932
+    ],
+    [
+        [
+            "Excessive Socializing",
+            "drinking"
+        ],
+        0.0017973193602359874
+    ],
+    [
+        [
+            "delayed flights",
+            "flying"
+        ],
+        0.0016939590496669818
+    ],
+    [
+        [
+            "neglect of responsibilities",
+            "angry"
+        ],
+        0.0016492868861766041
+    ],
+    [
+        [
+            "excessive workload",
+            "sleeping"
+        ],
+        0.0016146764926636527
+    ],
+    [
+        [
+            "excessive workload",
+            "sleeping"
+        ],
+        0.0016146764926636527
+    ],
+    [
+        [
+            "Unresolved Conflicts",
+            "angry"
+        ],
+        0.0015594355383084992
+    ],
+    [
+        [
+            "prolonged inactivity",
+            "sleeping"
+        ],
+        0.0015363504103790785
+    ],
+    [
+        [
+            "emotional intimacy",
+            "physical"
+        ],
+        0.0014375007325618569
+    ],
+    [
+        [
+            "improper gait",
+            "walking"
+        ],
+        0.001435605152751179
+    ],
+    [
+        [
+            "reckless behavior",
+            "violent"
+        ],
+        0.0014212575313556155
+    ],
+    [
+        [
+            "emotional support",
+            "physical"
+        ],
+        0.0014102663898799598
+    ],
+    [
+        [
+            "repetitive tasks",
+            "frustrated"
+        ],
+        0.0013392803084498616
+    ],
+    [
+        [
+            "improper breathing technique",
+            "coughing"
+        ],
+        0.0012457743471586792
+    ],
+    [
+        [
+            "miscommunication",
+            "angry"
+        ],
+        0.001220693743311198
+    ],
+    [
+        [
+            "Unexpected Criticism",
+            "angry"
+        ],
+        0.0011754987808962239
+    ],
+    [
+        [
+            "emotional connection",
+            "physical"
+        ],
+        0.0011457629324385116
+    ],
+    [
+        [
+            "Constant Criticism",
+            "angry"
+        ],
+        0.0011117886476664136
+    ],
+    [
+        [
+            "Sedentary Lifestyle",
+            "overweight"
+        ],
+        0.0011064543051854303
+    ],
+    [
+        [
+            "cultural exchange",
+            "bonding"
+        ],
+        0.0011034333147351522
+    ],
+    [
+        [
+            "Language Barriers",
+            "angry"
+        ],
+        0.0010005299239632492
+    ],
+    [
+        [
+            "emotional vulnerability",
+            "physical"
+        ],
+        0.000994256371163685
+    ],
+    [
+        [
+            "financial instability",
+            "living"
+        ],
+        0.0009753754137683227
+    ],
+    [
+        [
+            "Peer Pressure",
+            "angry"
+        ],
+        0.0009740571690170761
+    ],
+    [
+        [
+            "Excessive Talking",
+            "upset"
+        ],
+        0.0009574687904673441
+    ],
+    [
+        [
+            "prolonged sitting",
+            "talking"
+        ],
+        0.0006709985153942255
+    ],
+    [
+        [
+            "Boredom",
+            "sleeping"
+        ],
+        0.000668604032833942
+    ],
+    [
+        [
+            "mutual respect",
+            "friends"
+        ],
+        0.0006120365519045647
+    ],
+    [
+        [
+            "Competitive Jealousy",
+            "Jealous Competitive"
+        ],
+        0.0005494538376449361
+    ],
+    [
+        [
+            "Unresolved Emotional Tension",
+            "angry"
+        ],
+        0.0005220421046255891
+    ],
+    [
+        [
+            "improper stride length",
+            "walking"
+        ],
+        0.000499916334147013
+    ],
+    [
+        [
+            "excessive multitasking",
+            "distracted"
+        ],
+        0.0004965624218117164
+    ],
+    [
+        [
+            "social isolation",
+            "friends"
+        ],
+        0.0004872294602932963
+    ],
+    [
+        [
+            "stress",
+            "upset"
+        ],
+        0.00039132170799575163
+    ],
+    [
+        [
+            "unprotected intercourse",
+            "sex"
+        ],
+        0.0003897016447132126
+    ],
+    [
+        [
+            "flirtatious behavior",
+            "aggressive"
+        ],
+        0.00034570044833752005
+    ],
+    [
+        [
+            "Loneliness",
+            "angry"
+        ],
+        0.00031873343771265076
+    ],
+    [
+        [
+            "Insecurity",
+            "angry"
+        ],
+        0.0003171940178745142
+    ],
+    [
+        [
+            "social anxiety",
+            "angry"
+        ],
+        0.0002827222693478269
+    ],
+    [
+        [
+            "humorous story",
+            "laughing"
+        ],
+        0.00024929119569768127
+    ],
+    [
+        [
+            "upbeat music",
+            "upset"
+        ],
+        0.00023412571541256893
+    ],
+    [
+        [
+            "social discomfort",
+            "physical"
+        ],
+        0.00022565569784750107
+    ],
+    [
+        [
+            "unexpected news",
+            "upset"
+        ],
+        0.00022126203137699346
+    ],
+    [
+        [
+            "Joyful Music",
+            "angry"
+        ],
+        0.00020641615261756595
+    ],
+    [
+        [
+            "Upbeat Rhythm",
+            "happy"
+        ],
+        0.00019868558176233225
+    ],
+    [
+        [
+            "shared hardships",
+            "angry"
+        ],
+        0.000181821664291952
+    ],
+    [
+        [
+            "toxic relationships",
+            "angry"
+        ],
+        0.00010985942680757479
+    ],
+    [
+        [
+            "Fatigue",
+            "sleeping"
+        ],
+        0.00010517008970793818
+    ],
+    [
+        [
+            "procrastination",
+            "angry"
+        ],
+        8.885793576532724e-05
+    ],
+    [
+        [
+            "Forgiveness",
+            "angry"
+        ],
+        7.883237647910799e-05
+    ],
+    [
+        [
+            "Improper Footwear",
+            "walking"
+        ],
+        6.813080832700613e-05
+    ],
+    [
+        [
+            "Improper Warm-Up",
+            "walking"
+        ],
+        4.657560315654711e-05
+    ],
+    [
+        [
+            "nightmares",
+            "sleeping"
+        ],
+        4.469213942889172e-05
+    ],
+    [
+        [
+            "Kindness",
+            "angry"
+        ],
+        1.9689827646830896e-05
+    ],
+    [
+        [
+            "Distraction",
+            "upset"
+        ],
+        1.4972146357129686e-05
+    ]
+]

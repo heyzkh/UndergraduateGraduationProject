@@ -1,0 +1,702 @@
+[
+    [
+        [
+            "Schedule A Meeting",
+            "Meeting Schedule"
+        ],
+        0.16107831112931026
+    ],
+    [
+        [
+            "Type A Message",
+            "Message Type"
+        ],
+        0.13917672710208043
+    ],
+    [
+        [
+            "Pick Up The Phone",
+            "call"
+        ],
+        0.11833455725910474
+    ],
+    [
+        [
+            "Open A Door",
+            "Open Event"
+        ],
+        0.11627556877265256
+    ],
+    [
+        [
+            "Check Call History",
+            "Call Check"
+        ],
+        0.027990629566163085
+    ],
+    [
+        [
+            "select a contact from the list",
+            "contact select"
+        ],
+        0.027133570732746613
+    ],
+    [
+        [
+            "Hang Up The Phone",
+            "call"
+        ],
+        0.026865018457492233
+    ],
+    [
+        [
+            "End A Phone Call",
+            "call end"
+        ],
+        0.02265806947407292
+    ],
+    [
+        [
+            "Receive A Call Notification",
+            "Notification Call"
+        ],
+        0.018860088689070454
+    ],
+    [
+        [
+            "Enter A Password",
+            "key"
+        ],
+        0.016329576427818397
+    ],
+    [
+        [
+            "Play A Voicemail Message",
+            "message play"
+        ],
+        0.015511290105923602
+    ],
+    [
+        [
+            "Write A Note",
+            "Note Write"
+        ],
+        0.014097732740276776
+    ],
+    [
+        [
+            "Write A Letter",
+            "Letter Write"
+        ],
+        0.01346720586111544
+    ],
+    [
+        [
+            "review class notes",
+            "description"
+        ],
+        0.012380326577831542
+    ],
+    [
+        [
+            "Watch A Foreign Film With Subtitles",
+            "video"
+        ],
+        0.011376984685222304
+    ],
+    [
+        [
+            "Forward A Call",
+            "Call Forward"
+        ],
+        0.011179326154990604
+    ],
+    [
+        [
+            "Send An Email",
+            "message"
+        ],
+        0.010917352155443746
+    ],
+    [
+        [
+            "File A Complaint",
+            "complaint file"
+        ],
+        0.010266314340056442
+    ],
+    [
+        [
+            "Strike A Match",
+            "Match Strike"
+        ],
+        0.01015465295868753
+    ],
+    [
+        [
+            "Compete In A Tournament",
+            "match"
+        ],
+        0.008405973782053218
+    ],
+    [
+        [
+            "Light A Cigarette",
+            "smoking"
+        ],
+        0.007042058323379247
+    ],
+    [
+        [
+            "listen to a podcast",
+            "listlist"
+        ],
+        0.0069493414176436735
+    ],
+    [
+        [
+            "send a fax",
+            "message"
+        ],
+        0.0068584579071933474
+    ],
+    [
+        [
+            "Unlock The Phone",
+            "call"
+        ],
+        0.006768994196758645
+    ],
+    [
+        [
+            "process a task in the event loop",
+            "handler"
+        ],
+        0.006723295144851105
+    ],
+    [
+        [
+            "process a task in the event loop",
+            "handler"
+        ],
+        0.006723295144851105
+    ],
+    [
+        [
+            "Save A Phone Number",
+            "call"
+        ],
+        0.006693782254328498
+    ],
+    [
+        [
+            "update contact details",
+            "description"
+        ],
+        0.006268155136920861
+    ],
+    [
+        [
+            "watch a movie with subtitles",
+            "description"
+        ],
+        0.006164472337074533
+    ],
+    [
+        [
+            "close an application",
+            "closure"
+        ],
+        0.005942803796583961
+    ],
+    [
+        [
+            "scroll through a document",
+            "handler"
+        ],
+        0.0054498748622956806
+    ],
+    [
+        [
+            "record a video message",
+            "description"
+        ],
+        0.005406365588056977
+    ],
+    [
+        [
+            "Download A File",
+            "Download File"
+        ],
+        0.005300973776527864
+    ],
+    [
+        [
+            "Compile A Directory",
+            "Compile Directory"
+        ],
+        0.005149222769532366
+    ],
+    [
+        [
+            "request a callback",
+            "handler"
+        ],
+        0.004709769932313107
+    ],
+    [
+        [
+            "Watch A Movie",
+            "like"
+        ],
+        0.004457737290736095
+    ],
+    [
+        [
+            "listen to a song",
+            "listlist"
+        ],
+        0.004445332597031215
+    ],
+    [
+        [
+            "Search For A Contact",
+            "searchsearch"
+        ],
+        0.004326103198273051
+    ],
+    [
+        [
+            "Send A Letter",
+            "Message"
+        ],
+        0.004254810683187289
+    ],
+    [
+        [
+            "review call logs",
+            "loglog"
+        ],
+        0.004145172261010731
+    ],
+    [
+        [
+            "Search For A File",
+            "searchsearch"
+        ],
+        0.003944404762050861
+    ],
+    [
+        [
+            "Conduct An Investigation",
+            "report"
+        ],
+        0.003698800574710998
+    ],
+    [
+        [
+            "Schedule A Phone Call",
+            "call schedule"
+        ],
+        0.003636003473860867
+    ],
+    [
+        [
+            "Watch A Foreign Film",
+            "screening"
+        ],
+        0.0036135798332603093
+    ],
+    [
+        [
+            "Share A Webpage",
+            "description"
+        ],
+        0.0034745871801647285
+    ],
+    [
+        [
+            "Sign A Document",
+            "signature"
+        ],
+        0.0033863547740695466
+    ],
+    [
+        [
+            "Share A Contact",
+            "link"
+        ],
+        0.0032480989005296717
+    ],
+    [
+        [
+            "execute a command",
+            "execution"
+        ],
+        0.003055533979121919
+    ],
+    [
+        [
+            "Score A Goal",
+            "Scoring"
+        ],
+        0.003031528708767017
+    ],
+    [
+        [
+            "Read A Book Chapter",
+            "reading"
+        ],
+        0.0029442344117048937
+    ],
+    [
+        [
+            "listen to voicemail",
+            "listlist"
+        ],
+        0.002936342641619724
+    ],
+    [
+        [
+            "Leave A Voicemail",
+            "message"
+        ],
+        0.0029248043577791275
+    ],
+    [
+        [
+            "open the messaging app",
+            "message"
+        ],
+        0.002738727504438849
+    ],
+    [
+        [
+            "press the call button",
+            "call event"
+        ],
+        0.002734602001920703
+    ],
+    [
+        [
+            "Schedule A Callback",
+            "Callback Event"
+        ],
+        0.002627228026900166
+    ],
+    [
+        [
+            "press the send button",
+            "message"
+        ],
+        0.0026265884990369186
+    ],
+    [
+        [
+            "press the send button",
+            "message"
+        ],
+        0.0026265884990369186
+    ],
+    [
+        [
+            "Make A Phone Call",
+            "call event"
+        ],
+        0.002600430156008023
+    ],
+    [
+        [
+            "Install A Software Patch",
+            "update"
+        ],
+        0.0025813130841536784
+    ],
+    [
+        [
+            "Schedule An Appointment",
+            "Schedule Event"
+        ],
+        0.0025662436277337514
+    ],
+    [
+        [
+            "Watch A Tv Show",
+            "show watch"
+        ],
+        0.002509845679794658
+    ],
+    [
+        [
+            "Schedule A Reminder",
+            "description"
+        ],
+        0.0021915157297542646
+    ],
+    [
+        [
+            "answer the phone",
+            "message"
+        ],
+        0.002123646685675592
+    ],
+    [
+        [
+            "play a voice message",
+            "call"
+        ],
+        0.001981515160686111
+    ],
+    [
+        [
+            "Dial A Number",
+            "call"
+        ],
+        0.0019362769888197843
+    ],
+    [
+        [
+            "Save A Contact",
+            "call"
+        ],
+        0.001899146976270007
+    ],
+    [
+        [
+            "Place A Call",
+            "call event"
+        ],
+        0.001531852728906598
+    ],
+    [
+        [
+            "complete a programming task",
+            "completion"
+        ],
+        0.0015027612834150558
+    ],
+    [
+        [
+            "send an invitation",
+            "description"
+        ],
+        0.0014445658412580308
+    ],
+    [
+        [
+            "click a hyperlink",
+            "description"
+        ],
+        0.0013026495808777557
+    ],
+    [
+        [
+            "send a voice note",
+            "message"
+        ],
+        0.0010332436478496093
+    ],
+    [
+        [
+            "Conduct A Survey",
+            "results"
+        ],
+        0.0009869722151441762
+    ],
+    [
+        [
+            "Compose An Email",
+            "message"
+        ],
+        0.000967057328334474
+    ],
+    [
+        [
+            "Install An App Update",
+            "Install Update"
+        ],
+        0.0008699691278487157
+    ],
+    [
+        [
+            "Watch A Recorded Video",
+            "description"
+        ],
+        0.0008183435280142586
+    ],
+    [
+        [
+            "Complete A Phone Call",
+            "Call Event"
+        ],
+        0.0008119334821077661
+    ],
+    [
+        [
+            "Execute A Loop Iteration",
+            "Execute Loop"
+        ],
+        0.000768600102474443
+    ],
+    [
+        [
+            "publish a research paper",
+            "description"
+        ],
+        0.0007270819689572948
+    ],
+    [
+        [
+            "Save A Document",
+            "Savesave"
+        ],
+        0.000699756218636797
+    ],
+    [
+        [
+            "Attend A Conference",
+            "call"
+        ],
+        0.0006668231007914634
+    ],
+    [
+        [
+            "Activate Voice Command",
+            "activation"
+        ],
+        0.0005935509063399657
+    ],
+    [
+        [
+            "Attend A Webinar",
+            "description"
+        ],
+        0.0005755689855731125
+    ],
+    [
+        [
+            "Send A Message",
+            "Messagemessage"
+        ],
+        0.0005058810184508806
+    ],
+    [
+        [
+            "Terminate A Call Session",
+            "closure"
+        ],
+        0.000494562653932434
+    ],
+    [
+        [
+            "Activate Call Waiting",
+            "Activation"
+        ],
+        0.0004366566635972625
+    ],
+    [
+        [
+            "publish a blog post",
+            "description"
+        ],
+        0.000402154526851701
+    ],
+    [
+        [
+            "Submit A Form",
+            "Formsubmit"
+        ],
+        0.0003881251456021741
+    ],
+    [
+        [
+            "bookmark a webpage",
+            "url"
+        ],
+        0.0003809106151927733
+    ],
+    [
+        [
+            "activate speakerphone",
+            "call"
+        ],
+        0.0003465793642863844
+    ],
+    [
+        [
+            "record a voice memo",
+            "recordrecord"
+        ],
+        0.00031031481832698366
+    ],
+    [
+        [
+            "Navigate A Trail",
+            "description"
+        ],
+        0.00023943543938341488
+    ],
+    [
+        [
+            "Activate Call Forwarding",
+            "Activation"
+        ],
+        0.0002346422129278013
+    ],
+    [
+        [
+            "Transfer A Call",
+            "handler"
+        ],
+        0.0002120951568194644
+    ],
+    [
+        [
+            "Browse A Website",
+            "description"
+        ],
+        0.00019359990605654818
+    ],
+    [
+        [
+            "Send A Text Message",
+            "Messagemessage"
+        ],
+        0.00017109956793373278
+    ],
+    [
+        [
+            "Activate Call Recording",
+            "Activation"
+        ],
+        0.00014151306839005042
+    ],
+    [
+        [
+            "submit a report",
+            "reportreport"
+        ],
+        0.00011888433483233616
+    ],
+    [
+        [
+            "Send A Quick Message",
+            "Messagemessage"
+        ],
+        0.00011273002923379126
+    ],
+    [
+        [
+            "Initiate A Conference Call",
+            "Presentation"
+        ],
+        7.182593971284272e-05
+    ],
+    [
+        [
+            "initiate a video call",
+            "call event"
+        ],
+        6.102168340881591e-05
+    ]
+]

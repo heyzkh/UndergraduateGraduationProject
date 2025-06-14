@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "delicious aroma",
+            "pur"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "delicious aroma",
+            "pur"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "erotic literature",
+            "pur"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cute puppy",
+            "pur"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Uncertainty",
+            "err"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Uncertainty",
+            "err"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "motivation",
+            "err"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "motivation",
+            "err"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "motivation",
+            "err"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "motivation",
+            "err"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stress",
+            "withdraw"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stress",
+            "withdraw"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stress",
+            "withdraw"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mistake",
+            "err"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mistake",
+            "err"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mistake",
+            "err"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "romantic gestures",
+            "admire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "prompt",
+            "err"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "prompt",
+            "err"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "prompt",
+            "err"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "prompt",
+            "err"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "meditation",
+            "pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "provocation",
+            "err"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "isolation",
+            "withdraw"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "isolation",
+            "withdraw"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fragrance",
+            "pur"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fragrance",
+            "pur"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fragrance",
+            "pur"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fragrance",
+            "pur"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fragrance",
+            "pur"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sunlight",
+            "pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sunlight",
+            "pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "music",
+            "pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "music",
+            "pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "music",
+            "pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "music",
+            "pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "music",
+            "pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "music",
+            "pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "music",
+            "pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "music",
+            "pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fertilizer",
+            "grow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fertilizer",
+            "grow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fertilizer",
+            "grow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hunting",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "curiosity",
+            "inquire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "curiosity",
+            "inquire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "curiosity",
+            "inquire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "music festival",
+            "perform"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "music festival",
+            "perform"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "music festival",
+            "perform"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "anger",
+            "rage"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "anger",
+            "rage"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "anger",
+            "rage"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Discovering Rare Species",
+            "acquire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Heroism",
+            "admire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Heroism",
+            "admire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Heroism",
+            "admire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "festival",
+            "pur"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "anticipation",
+            "react"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "suspense",
+            "react"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Peer Pressure",
+            "perform"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Peer Pressure",
+            "perform"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compassion",
+            "care"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compassion",
+            "care"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compassion",
+            "care"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compassion",
+            "care"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compassion",
+            "care"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Romantic Proposal",
+            "respond"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Kindness",
+            "care"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Kindness",
+            "care"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Kindness",
+            "care"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Kindness",
+            "care"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Kindness",
+            "care"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Kindness",
+            "care"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "exclusive fashion",
+            "admire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "excitement",
+            "react"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "excitement",
+            "react"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "excitement",
+            "react"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "excitement",
+            "react"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pain",
+            "care"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pain",
+            "care"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Thirst",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Thirst",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Inspiration",
+            "perform"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Inspiration",
+            "perform"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Inspiration",
+            "perform"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Inspiration",
+            "perform"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Inspiration",
+            "perform"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Inspiration",
+            "perform"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Inspiration",
+            "perform"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Seeing Beautiful Makeup Looks",
+            "Faire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "encouragement",
+            "care"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "encouragement",
+            "care"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "encouragement",
+            "care"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "encouragement",
+            "care"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "encouragement",
+            "care"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Inspires",
+            "admire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Inspires",
+            "admire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Confidence",
+            "perform"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sexual arousal",
+            "masturb"
+        ],
+        "label": 1
+    }
+]

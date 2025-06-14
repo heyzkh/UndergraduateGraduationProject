@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "click edit",
+            "click delete"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "click edit",
+            "click undo"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hit reset",
+            "hit reboot"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hit zero",
+            "go back"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "get home",
+            "return"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "read history",
+            "write history"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "get ready",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "click link",
+            "download"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hit reset",
+            "reboot"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "finish",
+            "start"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "get home",
+            "leave"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "get ready",
+            "prepare"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "finish",
+            "restart"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "finish",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cast spell",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cast spell",
+            "fire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "finish",
+            "complete"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "complete",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "click ok",
+            "select"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "read history",
+            "review"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "finished",
+            "restart"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "save",
+            "reload"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "finished",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "read history",
+            "write"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "read code",
+            "write"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "complete",
+            "start"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "finished",
+            "start"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "finish",
+            "begin"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "register",
+            "login"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "complete",
+            "execute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "complete",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "run",
+            "walk"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "return",
+            "restart"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "save",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Completed Training",
+            "Begin Practice"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "save",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "completed training",
+            "begin training"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "enter",
+            "exit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "start",
+            "restart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "save",
+            "execute"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "save",
+            "exit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "login",
+            "register"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "login",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "merge",
+            "join"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "merge",
+            "add"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "completed typing",
+            "write code"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "merge",
+            "update"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "start",
+            "exit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "get finished",
+            "play"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "merge",
+            "create"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "login",
+            "exit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "register",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "exit",
+            "enter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "run",
+            "sprint"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cast",
+            "edit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "merge",
+            "delete"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "login",
+            "execute"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "return",
+            "reload"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "enter",
+            "submit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "enter",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "launch",
+            "update"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "launch",
+            "download"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cast",
+            "watch"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cast",
+            "review"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "register",
+            "update"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "launch",
+            "reload"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "launch",
+            "restart"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "enter",
+            "register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hit reset",
+            "restarting"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "finished",
+            "begin"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "completed testing",
+            "runtest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "castal",
+            "practice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "castigate",
+            "return"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "castal",
+            "perform"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "castigate",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "castigate",
+            "delete"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "castigate",
+            "vote"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "castify",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "castration",
+            "repeat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "castify",
+            "return"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "castify",
+            "execute"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "castration",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "castration",
+            "burn"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "castration",
+            "rest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "castify",
+            "vote"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "castcast",
+            "edit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "casted",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "castcast",
+            "print"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "castcast",
+            "download"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "casted",
+            "broadcast"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "finishing",
+            "begin"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "finishing",
+            "restarting"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "finishing",
+            "begining"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "finishing",
+            "starting"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "starting",
+            "end"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "starting",
+            "finishing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "casting",
+            "play"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "casting",
+            "review"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "launch",
+            "starting"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "starting",
+            "ending"
+        ],
+        "label": 1
+    }
+]

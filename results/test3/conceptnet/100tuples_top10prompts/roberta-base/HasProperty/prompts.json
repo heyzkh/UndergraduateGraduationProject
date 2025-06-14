@@ -1,0 +1,42 @@
+[
+    [
+        "<ENT0> are often seen as <ENT1> and pure .",
+        0.11800539983200031
+    ],
+    [
+        "<ENT0>s are <ENT1> and can easily be carried around with you .",
+        0.11769567867667217
+    ],
+    [
+        "This is a statement about <ENT0> in general - that they are <ENT1> .",
+        0.11442288375424499
+    ],
+    [
+        "<ENT1> <ENT0>s are great for carrying around with you .",
+        0.1141320102136976
+    ],
+    [
+        "While not all <ENT0>s are <ENT1>, some can be .",
+        0.1077987545628682
+    ],
+    [
+        "Most <ENT0>s are <ENT1> and can lead to dependence .",
+        0.09890776053043683
+    ],
+    [
+        "<ENT0>s are relatively <ENT1> compared to other types of notebooks .",
+        0.09346093377708732
+    ],
+    [
+        "<ENT0>s are <ENT1> .",
+        0.08088741099333387
+    ],
+    [
+        "<ENT0> is a <ENT1> liquid produced by mammals .",
+        0.07776734161906398
+    ],
+    [
+        "<ENT0> is a <ENT1> liquid .",
+        0.07692182604059467
+    ]
+]

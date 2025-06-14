@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "Oak Tree",
+            "green"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cloth bag",
+            "reusable"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Watercolor Painting",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Maple Syrup",
+            "sweet"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "giraffe calf",
+            "small"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "firefly larva",
+            "small"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dandelion",
+            "green"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Vintage Book",
+            "rare"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "morning dew",
+            "light"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "butterfly wing",
+            "small"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "soybean",
+            "cheap"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "worn-out shoes",
+            "cheap"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cotton",
+            "cheap"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Caramelized Sugar",
+            "sweet"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lemon",
+            "green"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "plastic",
+            "cheap"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sunflower",
+            "green"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gold",
+            "cheap"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "giraffe",
+            "small"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "parchment",
+            "simple"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fireplace ember",
+            "hot"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fire",
+            "small"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Pillow",
+            "soft"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "prawn",
+            "tasty"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sapphire",
+            "white"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mold",
+            "small"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "smartphone",
+            "cheap"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Chalkboard",
+            "simple"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "emerald",
+            "rare"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "quilt",
+            "simple"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sunset",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chalk",
+            "white"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sunrise",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "apple",
+            "small"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pebble",
+            "soft"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Honey",
+            "sweet"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "snow",
+            "soft"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Caramel",
+            "white"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bubble",
+            "small"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "moonlight",
+            "bright"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "diamond",
+            "rare"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Kitten",
+            "small"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "unicorn",
+            "small"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "robot",
+            "small"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "whale",
+            "white"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "comet",
+            "small"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pearl",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "steel",
+            "cheap"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rainbow",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "patient",
+            "healthy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "encyclopedia",
+            "simple"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "encyclopedia",
+            "simple"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ice",
+            "simple"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "computer",
+            "small"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "paper",
+            "small"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rock",
+            "solid"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "moonstone",
+            "rare"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "raindrop",
+            "light"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "feather",
+            "soft"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "brick",
+            "solid"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cardboard",
+            "simple"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lantern",
+            "small"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "jade",
+            "strong"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "breeze",
+            "light"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wheat",
+            "small"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "granite",
+            "small"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "elephant",
+            "small"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Velvet",
+            "light"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mountain",
+            "small"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "waterfall",
+            "small"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "grass",
+            "green"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "aurora",
+            "rare"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ivory",
+            "cheap"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rose",
+            "white"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sunbeam",
+            "bright"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Amethyst",
+            "rare"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tool",
+            "simple"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tiger",
+            "small"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "firefly",
+            "small"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Ocean",
+            "warm"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thunderstorm",
+            "strong"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Whisper",
+            "strong"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "starlight",
+            "bright"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dragon",
+            "small"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "candlelight",
+            "bright"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Wolf",
+            "small"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "river",
+            "small"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "compass",
+            "simple"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "oak",
+            "small"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "maple",
+            "small"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "volcano",
+            "small"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "internet",
+            "free"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "glass",
+            "clear"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "butterfly",
+            "small"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sky",
+            "small"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "galaxy",
+            "small"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "waterlily",
+            "green"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "raven",
+            "small"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "origami",
+            "simple"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Fireworks",
+            "small"
+        ],
+        "label": 1
+    }
+]

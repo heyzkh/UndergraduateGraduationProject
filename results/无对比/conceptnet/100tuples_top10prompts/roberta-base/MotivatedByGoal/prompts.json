@@ -1,0 +1,10 @@
+[
+    [
+        "The reason someone would <ENT0> is so they can have something to <ENT1> .",
+        0.5679095197845019
+    ],
+    [
+        "If someone wants to <ENT1>, they need to <ENT0> well .",
+        0.4320904802154981
+    ]
+]

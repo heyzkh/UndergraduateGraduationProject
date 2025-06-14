@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "start practicing",
+            "practice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "donate",
+            "help others"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "donate",
+            "help financially"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "play",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "listen",
+            "learn better"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sleep",
+            "dream"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "walk",
+            "move"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "self-reliant",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "frugal",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "articulate",
+            "say"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "aspiring writer",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hungry",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Eager To Express",
+            "say"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vengeful",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Determined",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "health-conscious",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "goal-directed",
+            "achieve"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "goal-driven",
+            "achieve"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Compassionate",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "yearning",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "goal-focused",
+            "achieve"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "goal-oriented",
+            "achieve"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "profit-seeking",
+            "lose"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "budget-conscious",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "content",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Financially Prepared",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "parched",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "philanthropic",
+            "give"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "thirsty",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "community-minded",
+            "contribute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "altruistic",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "driven",
+            "drink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Eager",
+            "drink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "starving",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tenacious",
+            "lose"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "affectionate",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "assertive",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "goal-aligned",
+            "achieve"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "zealous",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cautious",
+            "drink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "motivated",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Enthusiastic",
+            "drink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "purpose-driven",
+            "achieve"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "committed",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Energized",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Resilient",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dehydrated",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "knowledge-seeking",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "knowledge-hungry",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "methodical",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "purposeful",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "impulsive",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "inquisitive",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "focused",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "competitive",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "reform-minded",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "observant",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "knowledge-thirsty",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "future-oriented",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "creative",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ambitious",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dedicated",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "aspiring",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fashion-conscious",
+            "wear"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "goal-attentive",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "security-minded",
+            "hide"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "curious",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "inspired",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "covetous",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "disciplined",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "disciplined",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "resourceful",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Culinary Enthusiast",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "purpose-minded",
+            "contribute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fitness-oriented",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "generous",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "innovative",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hopeful",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "charitable",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "persistent",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "purpose-seeking",
+            "achieve"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "exploratory",
+            "explore"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Playful",
+            "drink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thoughtful",
+            "drink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "optimistic",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "strategic",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "passionate",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Contemplative",
+            "think"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "visionary",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stylish",
+            "drink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "devoted",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fearful",
+            "drink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Analytical",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "reflective",
+            "drink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Expressive",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Expressive",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "protective",
+            "drink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "collaborative",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "diligent",
+            "drink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Triumphant",
+            "eat"
+        ],
+        "label": 0
+    }
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "The <ENT1> is where i put my <ENT0> .",
+        0.12797422869538913
+    ],
+    [
+        "The <ENT1> is the best place to store your <ENT0> when you're traveling .",
+        0.12430024640070579
+    ],
+    [
+        "<ENT1> components that allow the vehicle to function properly are collectively known as <ENT0> .",
+        0.10639425374541786
+    ],
+    [
+        "The <ENT1> is where you would typically find <ENT0> .",
+        0.10626783293360066
+    ],
+    [
+        "A <ENT0> is typically found on a <ENT1> .",
+        0.10309910737078525
+    ],
+    [
+        "There may be <ENT0> in the <ENT1> .",
+        0.09860766802316223
+    ],
+    [
+        "A <ENT1> is a great location to keep a <ENT0> in case you need it .",
+        0.08708847955327964
+    ],
+    [
+        "<ENT0> is an ingredient in <ENT1>s .",
+        0.0870395164068775
+    ],
+    [
+        "The <ENT1> is the perfect place to get <ENT0> .",
+        0.08107930899123184
+    ],
+    [
+        "<ENT0> are found in <ENT1> .",
+        0.07814935787955
+    ]
+]

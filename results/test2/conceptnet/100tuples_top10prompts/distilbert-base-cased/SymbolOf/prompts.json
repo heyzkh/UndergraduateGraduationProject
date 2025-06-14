@@ -1,0 +1,42 @@
+[
+    [
+        "A <ENT0> is a physical embodiment of <ENT1> .",
+        0.11737377473087543
+    ],
+    [
+        "The <ENT0> mascot represents the <ENT1> kernel .",
+        0.11671291276529495
+    ],
+    [
+        "A <ENT0> represents <ENT1> symbolically .",
+        0.11208569214790759
+    ],
+    [
+        "When you <ENT0> to someone, it is symbol of your <ENT1> for them .",
+        0.10323683970883359
+    ],
+    [
+        "<ENT0> to someone symbolically represents <ENT1> .",
+        0.10102204733128775
+    ],
+    [
+        "Some people think that the <ENT0> symbolically represents <ENT1> .",
+        0.09384364249368765
+    ],
+    [
+        "The <ENT0> is a symbol of <ENT1> .",
+        0.09306517154267305
+    ],
+    [
+        "<ENT1> kernel's official mascot is <ENT0> .",
+        0.09302242470864329
+    ],
+    [
+        "<ENT0> symbolically represents <ENT1> .",
+        0.08700336163371519
+    ],
+    [
+        "The official mascot of the <ENT1> kernel is a penguin named <ENT0> .",
+        0.08263413293708159
+    ]
+]

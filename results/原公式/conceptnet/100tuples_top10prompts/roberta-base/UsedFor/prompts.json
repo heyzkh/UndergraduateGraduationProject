@@ -1,0 +1,42 @@
+[
+    [
+        "The <ENT0> is a common mode of <ENT1> used by people all over the world .",
+        0.20309628395890536
+    ],
+    [
+        "The <ENT0> is a popular means of <ENT1> .",
+        0.15942660883463125
+    ],
+    [
+        "The <ENT0> is the part of the bird that helps it <ENT1> .",
+        0.11090270643718922
+    ],
+    [
+        "A <ENT0> is a piece of furniture that is typically used for <ENT1>ing in .",
+        0.09117664629498948
+    ],
+    [
+        "The <ENT0> is a place where <ENT1>ers can battle each other .",
+        0.08027322471304302
+    ],
+    [
+        "A <ENT0> is a thin sheet of material, often attached to the body of an animal, that helps the animal to <ENT1> by providing lift and increasing .",
+        0.07700136359861855
+    ],
+    [
+        "The <ENT0> is a place where people go to <ENT1> .",
+        0.07203287608147003
+    ],
+    [
+        "The <ENT0> is a vehicle that is used for <ENT1> .",
+        0.07140786002445301
+    ],
+    [
+        "The function of <ENT0> is to <ENT1> .",
+        0.06753456462341449
+    ],
+    [
+        "The <ENT0> is a furniture piece meant for <ENT1>ing in .",
+        0.06714786543328571
+    ]
+]

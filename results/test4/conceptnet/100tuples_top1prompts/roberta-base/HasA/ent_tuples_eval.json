@@ -1,0 +1,695 @@
+[
+    {
+        "entity_tuple": [
+            "female counterparts",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "birds",
+            "feathers"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cats",
+            "ears"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "birds",
+            "wings"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cats",
+            "claws"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "birds",
+            "legs"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crows",
+            "feathers"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "german cows",
+            "calves"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crows",
+            "wings"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dog shelter",
+            "standards"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "humans",
+            "teeth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "farms",
+            "chickens"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "australian cows",
+            "calves"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "australian sheep",
+            "wool"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fowl",
+            "feathers"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tiger",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "zebra",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "zebra",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "zebra",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "women",
+            "breasts"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "labrador retriever mix",
+            "ears"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "deer",
+            "horns"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "champion bloodline",
+            "hybrids"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "elite athlete",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "genetic variant",
+            "hybrids"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "eagle",
+            "tails"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "eagle",
+            "tails"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gentleman",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rabbit",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rabbit",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rabbit",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rabbit",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rabbit",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stable",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stable",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fruit",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "nest",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "leopard",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dalmatian",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dog",
+            "ears"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bird",
+            "feathers"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bird",
+            "feathers"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bird",
+            "feathers"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "patient teacher",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bull",
+            "horns"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bull",
+            "horns"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bull",
+            "horns"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bull",
+            "horns"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bull",
+            "horns"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hen",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "award",
+            "offspring"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "compatible partner",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "compatible partner",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "compatible partner",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "multiracial person",
+            "white"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hamburger",
+            "legs"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hamburger",
+            "legs"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "resembling title",
+            "names"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rifle",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rifle",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dentist",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "meringue",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "testes",
+            "tails"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "owl",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "owl",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "owl",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "teacher",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "comb",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dalmation",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dalmation",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "parent",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "parent",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "brand",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coin",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coin",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coin",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coin",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coin",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coin",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coin",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coin",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "person",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "person",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "biracial individual",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "biracial individual",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gender",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "contract",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "face",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "face",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "flavor",
+            "teeth"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "firearm",
+            "legs"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "firearm",
+            "legs"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "queen",
+            "tails"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "alligator",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "language",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "language",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dictionary",
+            "names"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dentition",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dentition",
+            "horns"
+        ],
+        "label": 0
+    }
+]

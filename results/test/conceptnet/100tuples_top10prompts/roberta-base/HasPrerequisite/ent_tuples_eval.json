@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "say hi",
+            "say hello"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "see things",
+            "look inside"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "see things",
+            "look around"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "make sense",
+            "understand"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "use java",
+            "compile"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "say hi",
+            "go back"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sign online",
+            "sign form"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "comment",
+            "post reply"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "comment",
+            "hit reply"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "start coding",
+            "code"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "start typing",
+            "print"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "understand language",
+            "speak"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "take action",
+            "see"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "use java",
+            "create"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "comment",
+            "post link"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "start training",
+            "practice"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "use java",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "use java",
+            "import"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "change policy",
+            "act"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "start typing",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "take selfies",
+            "stop"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "change course",
+            "decide"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "make money",
+            "sell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "start reading",
+            "get"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "make mistakes",
+            "practice"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "participate",
+            "Go Online"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "make money",
+            "invest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "make history",
+            "die"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "get together",
+            "meet"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "understand things",
+            "see"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "see pictures",
+            "look"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "play",
+            "register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "help",
+            "ask"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "participate",
+            "register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Meet Others",
+            "meet people"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "take credit",
+            "pay"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "play",
+            "try"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "play",
+            "practice"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "play",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "talk",
+            "ask"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "change history",
+            "act"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "enter",
+            "register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "work",
+            "write"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Understand History",
+            "study"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "change things",
+            "act"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vote",
+            "register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "enter",
+            "click"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "play",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "enter",
+            "sign"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "join",
+            "register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "change history",
+            "create"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "talk",
+            "call"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "use code",
+            "call"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "help",
+            "call"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "work",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "work",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "know",
+            "ask"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "speak",
+            "ask"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "help",
+            "try"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "read",
+            "try"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "talk",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "talk",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "join",
+            "sign"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "enter",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "take money",
+            "pay"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "talk",
+            "agree"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "work",
+            "get"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "join",
+            "click"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "help",
+            "write"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "read",
+            "click"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "work",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "enter",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vote",
+            "click"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "vote",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "help",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "comment",
+            "Hit Like"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "signify",
+            "type symbol"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vote",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "speak",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "know",
+            "try"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "speak",
+            "listen"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "participate",
+            "click"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vote",
+            "sign"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "comment",
+            "reply"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Take Questions",
+            "answer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "win",
+            "try"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "win",
+            "finish"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "win",
+            "beat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "signups",
+            "go online"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "win",
+            "get"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "signet",
+            "type sign"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "signups",
+            "go back"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "signpost",
+            "post message"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "signpost",
+            "post code"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "signpost",
+            "post link"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "join",
+            "logins"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "join",
+            "logb"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "participate",
+            "gov"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "signet",
+            "Signify"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "signify",
+            "starting"
+        ],
+        "label": 0
+    }
+]

@@ -1,0 +1,702 @@
+[
+    [
+        [
+            "chocolate chip cookies",
+            "delicious"
+        ],
+        0.07711205850069722
+    ],
+    [
+        [
+            "golden retriever",
+            "friendly"
+        ],
+        0.06807175650754195
+    ],
+    [
+        [
+            "cast iron skillet",
+            "cheap"
+        ],
+        0.05850409625162742
+    ],
+    [
+        [
+            "paper napkin",
+            "reusable"
+        ],
+        0.05717439570539135
+    ],
+    [
+        [
+            "paper towel",
+            "disposable"
+        ],
+        0.05307927863008957
+    ],
+    [
+        [
+            "memory foam mattress",
+            "cheap"
+        ],
+        0.052725185340152615
+    ],
+    [
+        [
+            "stainless steel cookware",
+            "cheap"
+        ],
+        0.04776877522458456
+    ],
+    [
+        [
+            "carbon fiber composite",
+            "cheap"
+        ],
+        0.03674274947878488
+    ],
+    [
+        [
+            "chocolate cake",
+            "delicious"
+        ],
+        0.036063617059129305
+    ],
+    [
+        [
+            "carbon nanotube",
+            "cheap"
+        ],
+        0.029239705480825988
+    ],
+    [
+        [
+            "wool sweater",
+            "cheap"
+        ],
+        0.02267059844408979
+    ],
+    [
+        [
+            "professional athlete",
+            "strong"
+        ],
+        0.02214939380236877
+    ],
+    [
+        [
+            "organic fertilizer",
+            "cheap"
+        ],
+        0.021103269597861744
+    ],
+    [
+        [
+            "smartphone app",
+            "free"
+        ],
+        0.02070250830426783
+    ],
+    [
+        [
+            "high-quality leather jacket",
+            "cheap"
+        ],
+        0.018267865859103158
+    ],
+    [
+        [
+            "solar panel",
+            "cheap"
+        ],
+        0.017005040086031133
+    ],
+    [
+        [
+            "portable charger",
+            "cheap"
+        ],
+        0.016349182718122215
+    ],
+    [
+        [
+            "vinyl flooring",
+            "cheap"
+        ],
+        0.015671544261003992
+    ],
+    [
+        [
+            "plastic storage bin",
+            "reusable"
+        ],
+        0.014516876873221904
+    ],
+    [
+        [
+            "crystal chandelier",
+            "beautiful"
+        ],
+        0.011569622918779037
+    ],
+    [
+        [
+            "glass bead",
+            "durable"
+        ],
+        0.011523109671132084
+    ],
+    [
+        [
+            "turbine engine",
+            "efficient"
+        ],
+        0.011223463477741474
+    ],
+    [
+        [
+            "Bamboo Flooring",
+            "durable"
+        ],
+        0.010560401861679563
+    ],
+    [
+        [
+            "organic cotton sheets",
+            "cheap"
+        ],
+        0.01012334034693507
+    ],
+    [
+        [
+            "paper airplane",
+            "cheap"
+        ],
+        0.010050886887252333
+    ],
+    [
+        [
+            "woven hemp rope",
+            "durable"
+        ],
+        0.009825461111261632
+    ],
+    [
+        [
+            "balanced diet",
+            "healthy"
+        ],
+        0.009028283838411467
+    ],
+    [
+        [
+            "Watercolor Painting",
+            "beautiful"
+        ],
+        0.009012839309943343
+    ],
+    [
+        [
+            "titanium alloy",
+            "cheap"
+        ],
+        0.008324195575605868
+    ],
+    [
+        [
+            "plastic straw",
+            "reusable"
+        ],
+        0.007831232859424107
+    ],
+    [
+        [
+            "foam pillow",
+            "soft"
+        ],
+        0.007777733833829291
+    ],
+    [
+        [
+            "reinforced steel beam",
+            "strong"
+        ],
+        0.007556339423393212
+    ],
+    [
+        [
+            "cotton ball",
+            "soft"
+        ],
+        0.007381023078918431
+    ],
+    [
+        [
+            "pearl necklace",
+            "beautiful"
+        ],
+        0.007127739784520945
+    ],
+    [
+        [
+            "helium balloon",
+            "reusable"
+        ],
+        0.006955124621938302
+    ],
+    [
+        [
+            "Microscopic Organism",
+            "small"
+        ],
+        0.006348630754805163
+    ],
+    [
+        [
+            "open-source software",
+            "free"
+        ],
+        0.006158897839521459
+    ],
+    [
+        [
+            "Maple Syrup",
+            "sweet"
+        ],
+        0.005970664158412295
+    ],
+    [
+        [
+            "platinum jewelry",
+            "rare"
+        ],
+        0.0059438972731175295
+    ],
+    [
+        [
+            "latex paint",
+            "cheap"
+        ],
+        0.005540691039214779
+    ],
+    [
+        [
+            "silk pillowcase",
+            "soft"
+        ],
+        0.005493323475140161
+    ],
+    [
+        [
+            "Vintage Wine",
+            "cheap"
+        ],
+        0.005460835344612597
+    ],
+    [
+        [
+            "concrete foundation",
+            "solid"
+        ],
+        0.005434869578923776
+    ],
+    [
+        [
+            "quantum encryption algorithm",
+            "simple"
+        ],
+        0.005376359462956134
+    ],
+    [
+        [
+            "tempered glass",
+            "cheap"
+        ],
+        0.00484567827184397
+    ],
+    [
+        [
+            "handcrafted violin",
+            "beautiful"
+        ],
+        0.004660665100839094
+    ],
+    [
+        [
+            "silk wedding dress",
+            "beautiful"
+        ],
+        0.004602648318317556
+    ],
+    [
+        [
+            "ripe mango",
+            "delicious"
+        ],
+        0.004569139838830765
+    ],
+    [
+        [
+            "granite countertop",
+            "inexpensive"
+        ],
+        0.0045371522828171655
+    ],
+    [
+        [
+            "leather boots",
+            "comfortable"
+        ],
+        0.004427095368333555
+    ],
+    [
+        [
+            "glass marble",
+            "cheap"
+        ],
+        0.004291233559277449
+    ],
+    [
+        [
+            "tungsten filament",
+            "cheap"
+        ],
+        0.004253608849286011
+    ],
+    [
+        [
+            "Modular Furniture",
+            "cheap"
+        ],
+        0.00394468873068043
+    ],
+    [
+        [
+            "lace curtain",
+            "beautiful"
+        ],
+        0.003827732490964219
+    ],
+    [
+        [
+            "tungsten carbide drill bit",
+            "cheap"
+        ],
+        0.0037082180292682164
+    ],
+    [
+        [
+            "handmade pottery",
+            "cheap"
+        ],
+        0.003578454633773888
+    ],
+    [
+        [
+            "ergonomic office chair",
+            "comfortable"
+        ],
+        0.003489716413226769
+    ],
+    [
+        [
+            "Adaptive Learning Software",
+            "cheap"
+        ],
+        0.0034778869062816026
+    ],
+    [
+        [
+            "ceramic brake pads",
+            "cheap"
+        ],
+        0.0034093207978790397
+    ],
+    [
+        [
+            "organic honey",
+            "delicious"
+        ],
+        0.0033504878126143596
+    ],
+    [
+        [
+            "bioluminescent organism",
+            "small"
+        ],
+        0.003214170920685924
+    ],
+    [
+        [
+            "bulletproof vest",
+            "effective"
+        ],
+        0.002805008694142138
+    ],
+    [
+        [
+            "aluminum foil",
+            "cheap"
+        ],
+        0.002762274609770818
+    ],
+    [
+        [
+            "forged steel sword",
+            "strong"
+        ],
+        0.0027460671785382064
+    ],
+    [
+        [
+            "velvet scarf",
+            "soft"
+        ],
+        0.0026069149705735353
+    ],
+    [
+        [
+            "inflatable mattress",
+            "cheap"
+        ],
+        0.002576050288645468
+    ],
+    [
+        [
+            "emerald necklace",
+            "beautiful"
+        ],
+        0.002560597808129426
+    ],
+    [
+        [
+            "adjustable wrench",
+            "cheap"
+        ],
+        0.0024899296663904243
+    ],
+    [
+        [
+            "fireproof safe",
+            "cheap"
+        ],
+        0.002300772796498499
+    ],
+    [
+        [
+            "bioluminescent jellyfish",
+            "harmless"
+        ],
+        0.0022281062133725064
+    ],
+    [
+        [
+            "Evergreen Tree",
+            "small"
+        ],
+        0.0018631820829478668
+    ],
+    [
+        [
+            "bioluminescent algae",
+            "harmless"
+        ],
+        0.0018563785183317943
+    ],
+    [
+        [
+            "Electromagnetic Engine",
+            "powerful"
+        ],
+        0.0017252468426759448
+    ],
+    [
+        [
+            "obsidian blade",
+            "durable"
+        ],
+        0.0017219613943811557
+    ],
+    [
+        [
+            "paper boat",
+            "small"
+        ],
+        0.00150864161810557
+    ],
+    [
+        [
+            "Paper Clip",
+            "cheap"
+        ],
+        0.0014670131420886313
+    ],
+    [
+        [
+            "steel cable",
+            "cheap"
+        ],
+        0.0014547336792292101
+    ],
+    [
+        [
+            "porcelain teacup",
+            "cheap"
+        ],
+        0.0014249451035586694
+    ],
+    [
+        [
+            "sapphire ring",
+            "beautiful"
+        ],
+        0.0011650499874036604
+    ],
+    [
+        [
+            "latex gloves",
+            "cheap"
+        ],
+        0.0010730829290978073
+    ],
+    [
+        [
+            "vaccination program",
+            "effective"
+        ],
+        0.0009289889127631024
+    ],
+    [
+        [
+            "egg",
+            "white"
+        ],
+        0.0009052357010241958
+    ],
+    [
+        [
+            "oak dining table",
+            "sturdy"
+        ],
+        0.0008379455918225671
+    ],
+    [
+        [
+            "Cashmere Socks",
+            "soft"
+        ],
+        0.0007631903902037768
+    ],
+    [
+        [
+            "cashmere sweater",
+            "cheap"
+        ],
+        0.0007489118477880689
+    ],
+    [
+        [
+            "cashmere sweater",
+            "cheap"
+        ],
+        0.0007489118477880689
+    ],
+    [
+        [
+            "cashmere scarf",
+            "soft"
+        ],
+        0.0006351320086992852
+    ],
+    [
+        [
+            "steel-reinforced concrete",
+            "durable"
+        ],
+        0.000635103669456525
+    ],
+    [
+        [
+            "Cashmere Blanket",
+            "soft"
+        ],
+        0.000621087658699935
+    ],
+    [
+        [
+            "pebble",
+            "soft"
+        ],
+        0.0006190959623130054
+    ],
+    [
+        [
+            "rice paper",
+            "cheap"
+        ],
+        0.00047755030992017403
+    ],
+    [
+        [
+            "Caramel",
+            "cheap"
+        ],
+        0.00047090410661306274
+    ],
+    [
+        [
+            "diamond-encrusted watch",
+            "expensive"
+        ],
+        0.00044870810191040777
+    ],
+    [
+        [
+            "paperclip",
+            "cheap"
+        ],
+        0.000433786937760758
+    ],
+    [
+        [
+            "Skyscraper",
+            "small"
+        ],
+        0.00040610068259720413
+    ],
+    [
+        [
+            "cashmere coat",
+            "cheap"
+        ],
+        0.00035546181124501984
+    ],
+    [
+        [
+            "grape",
+            "cheap"
+        ],
+        0.000304488163322431
+    ],
+    [
+        [
+            "Honey",
+            "sweet"
+        ],
+        0.00024628668362827657
+    ],
+    [
+        [
+            "Hydraulic Press",
+            "cheap"
+        ],
+        0.00024283529098138122
+    ],
+    [
+        [
+            "feather",
+            "soft"
+        ],
+        0.00012955282029619673
+    ]
+]

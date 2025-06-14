@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "instruction manual",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "instructions",
+            "followed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "instructions",
+            "followed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "formula",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "numbers",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "settings",
+            "changed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "settings",
+            "changed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "settings",
+            "changed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "settings",
+            "changed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "group activity",
+            "monitored"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "notes",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "information",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "items",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "funds",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "software",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pressure",
+            "applied"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pressure",
+            "applied"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "schedule",
+            "adjusted"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "policy",
+            "changed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "policy",
+            "changed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "policy",
+            "changed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "policy",
+            "changed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "policy",
+            "changed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "policy",
+            "changed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "policy",
+            "changed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "decision",
+            "made"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "decision",
+            "made"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "proposal",
+            "modified"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "proposal",
+            "modified"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sample",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "experiment",
+            "repeated"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "document sections",
+            "edited"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tool",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tool",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tool",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tool",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tool",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "performance",
+            "improved"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "water",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "instruction",
+            "used"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "document",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "document",
+            "used"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "document",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "document",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "document",
+            "used"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "document",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "document",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ingredients",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ingredients",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ingredients",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "photo",
+            "taken"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ointment",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sketch",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "students",
+            "tested"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "medication",
+            "taken"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "medication",
+            "taken"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "task",
+            "completed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "task",
+            "completed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "medications",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "purchase",
+            "made"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Self-Reflection",
+            "Done Used"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "book",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "book",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "book",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "paint",
+            "applied"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Homework",
+            "Done Used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Homework",
+            "Done Used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "track",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Batter",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Phenomenon",
+            "used"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "event",
+            "modified"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "audience",
+            "manipulated"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "manuscript",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "manuscript",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "manuscript",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "manuscript",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "manuscript",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "movie",
+            "made"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tooth",
+            "used"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "song",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Coating",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Follower",
+            "used"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ingredient",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ingredient",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ingredient",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "treasure",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "treasure",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "treasure",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "treasure",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "runner",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Stranger",
+            "used"
+        ],
+        "label": 0
+    }
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "<ENT0> typically possess the skill to <ENT1> .",
+        0.11675082262024634
+    ],
+    [
+        "<ENT0> can typically <ENT1> .",
+        0.10988717794659425
+    ],
+    [
+        "<ENT0> are typically able to <ENT1> .",
+        0.10514634737195948
+    ],
+    [
+        "<ENT0> can usually <ENT1> .",
+        0.10485228505653359
+    ],
+    [
+        "Something that <ENT0> can typically do is <ENT1> .",
+        0.1036258446381339
+    ],
+    [
+        "<ENT0> are generally able to <ENT1> in a manner that .",
+        0.10303178371061932
+    ],
+    [
+        "<ENT0> usually possess the ability to <ENT1> .",
+        0.09739889078999828
+    ],
+    [
+        "<ENT0> usually has the ability to <ENT1> .",
+        0.09446299378559934
+    ],
+    [
+        "One common ability of <ENT0> is to <ENT1> .",
+        0.09224856387359388
+    ],
+    [
+        "One frequent step <ENT0> may take is to <ENT1> .",
+        0.07259529020672172
+    ]
+]

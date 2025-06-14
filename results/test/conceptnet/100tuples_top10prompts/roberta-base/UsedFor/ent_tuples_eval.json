@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "kite",
+            "fly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kite",
+            "flight"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bridge",
+            "travel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kite",
+            "land"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bridge",
+            "walk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gong",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kite",
+            "flying"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gong",
+            "dance"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bridge",
+            "cross"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bridge",
+            "transport"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gait",
+            "move"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "net",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kate",
+            "play"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kate",
+            "hunt"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gait",
+            "speed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gait",
+            "stutter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gait",
+            "maneuver"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kala",
+            "dance"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kung",
+            "dance"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kong",
+            "dance"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "net",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kara",
+            "dance"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "braid",
+            "dress"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "net",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bridge",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kang",
+            "hua"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "net",
+            "fish"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gong",
+            "worship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gait",
+            "strop"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kara",
+            "stow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kung",
+            "hua"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kate",
+            "kite"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gong",
+            "music"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gong",
+            "chute"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kong",
+            "hua"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "braid",
+            "form"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gai",
+            "chow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "braid",
+            "wind"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kara",
+            "worship"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "net",
+            "surf"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kun",
+            "wai"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "khan",
+            "stow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kate",
+            "wai"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kang",
+            "hong"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "khat",
+            "wai"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gai",
+            "chomp"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kun",
+            "hua"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kong",
+            "hong"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kung",
+            "hong"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "khat",
+            "hil"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kate",
+            "wag"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kun",
+            "wag"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kai",
+            "worship"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kal",
+            "stow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ging",
+            "chow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cate",
+            "cation"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kar",
+            "wai"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ging",
+            "chomp"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kai",
+            "hing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kara",
+            "hua"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kar",
+            "worship"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kun",
+            "wong"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kai",
+            "stung"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kar",
+            "wag"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gai",
+            "chua"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "khat",
+            "wich"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cate",
+            "chute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kar",
+            "hil"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "khat",
+            "wong"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "khan",
+            "stil"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kun",
+            "wich"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kal",
+            "wai"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kara",
+            "stung"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kang",
+            "hsing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kong",
+            "hsing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gstring",
+            "carry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kal",
+            "wag"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kang",
+            "hai"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kai",
+            "hai"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gate",
+            "access"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kar",
+            "stung"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ging",
+            "chua"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kung",
+            "hai"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cate",
+            "wich"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cate",
+            "ging"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kal",
+            "stung"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gai",
+            "ching"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gna",
+            "hil"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kong",
+            "hng"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gna",
+            "hna"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kung",
+            "hng"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kang",
+            "hng"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "khan",
+            "sting"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ging",
+            "chsing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "khat",
+            "whet"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kai",
+            "hng"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "khan",
+            "sth"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kal",
+            "Stomp"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gna",
+            "Fing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gna",
+            "hng"
+        ],
+        "label": 0
+    }
+]

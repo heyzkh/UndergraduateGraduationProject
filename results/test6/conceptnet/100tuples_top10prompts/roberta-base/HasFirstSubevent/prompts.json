@@ -1,0 +1,26 @@
+[
+    [
+        "The \"<ENT1>\" event happens first, and then the \"<ENT0>\" event can start .",
+        0.15455440340256127
+    ],
+    [
+        "In order for the \"<ENT0>\" event to begin, the \"<ENT1>\" event must first occur .",
+        0.13855151550643552
+    ],
+    [
+        "The subevent \"<ENT1>\" is the beginning of the event \"<ENT0>.\" .",
+        0.13513581222700982
+    ],
+    [
+        "The \"<ENT1>\" event must occur before the \"<ENT0>\" event can begin .",
+        0.1313876695252069
+    ],
+    [
+        "The \"<ENT0>\" event begins with the \"<ENT1>\" subevent .",
+        0.1177491816454978
+    ],
+    [
+        "The event \"<ENT0>\" begins with the subevent \"<ENT1>.\" .",
+        0.11735231782399332
+    ]
+]

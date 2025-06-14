@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "money",
+            "spend money"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sound",
+            "speak loud"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cancer",
+            "die senseless"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fear",
+            "act stupid"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "life",
+            "Love Others"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cognitive",
+            "think abstract"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "caring",
+            "give back"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "coding",
+            "think abstract"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "giving",
+            "give sacrific"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crying",
+            "Cry Mad"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "music",
+            "listen int"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nutrition",
+            "eat healthy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "music",
+            "act stupid"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sound",
+            "listen int"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "alcohol",
+            "consume alcoholic"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "giving",
+            "love others"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crying",
+            "weep mad"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "smoking",
+            "Drink Mad"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coding",
+            "Code Stupid"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "giving",
+            "give back"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "usually",
+            "act stupid"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "usually",
+            "act malicious"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cognitive",
+            "think positive"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nutrition",
+            "eat good"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sometimes depression",
+            "cry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "everyman",
+            "Work Hard"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sometimes depression",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "every word",
+            "speak"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cathy",
+            "Eat Vegan"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "taking",
+            "love others"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cathy",
+            "Eat Healthy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nutrition",
+            "Eat Rich"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "violence",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sometimes love",
+            "commit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cating",
+            "behave rude"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "death",
+            "die"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "music",
+            "sing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crying",
+            "sob"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fear",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "whatever",
+            "play"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "every success",
+            "continue"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "whatever",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "death",
+            "kill"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "every time",
+            "commit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fear",
+            "die"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crying",
+            "weep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "smoking",
+            "smoke"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "violence",
+            "die"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "smoking",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "life",
+            "die"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "every success",
+            "succeed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "whatever",
+            "write"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fear",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fear",
+            "withdraw"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "smoking",
+            "clean"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "writing",
+            "publish"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "writing",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "music",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "violence",
+            "death"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "caring",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "every thought",
+            "mad"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "smoking",
+            "drink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crying",
+            "laugh"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "caring",
+            "act"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "whatever",
+            "sing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coding",
+            "code"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "always",
+            "play"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "really",
+            "play"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cancer",
+            "sick"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "caring",
+            "give"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "courage",
+            "succeed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "writing",
+            "write"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "often",
+            "play"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "often",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "really",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sometimes",
+            "withdraw"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "always",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "whatever",
+            "Live"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "violence",
+            "commit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "writing",
+            "prose"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cathy",
+            "blog"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "music",
+            "grow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sometimes",
+            "grow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cating",
+            "drink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "often",
+            "write"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "often",
+            "withdraw"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "really",
+            "write"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "always",
+            "grow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "usually",
+            "sing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "often",
+            "grow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "really",
+            "grow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "always",
+            "write"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "caring",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "death",
+            "commit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "courage",
+            "brave"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "casing",
+            "commit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "really",
+            "Live"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "always",
+            "Live"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "writing",
+            "Live"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "violence",
+            "Live"
+        ],
+        "label": 0
+    }
+]

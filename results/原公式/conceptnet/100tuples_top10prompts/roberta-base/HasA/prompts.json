@@ -1,0 +1,42 @@
+[
+    [
+        "<ENT0> always have <ENT1>, whether they are good or bad .",
+        0.13696825241206076
+    ],
+    [
+        "We would expect <ENT0> to have <ENT1>, which creates a beautiful sound .",
+        0.12165670781265611
+    ],
+    [
+        "We typically expect that <ENT0> will have <ENT1> that is set in a certain way .",
+        0.10984346836617243
+    ],
+    [
+        "Usually, we would expect <ENT0> to have <ENT1> .",
+        0.10155809355539262
+    ],
+    [
+        "It is not uncommon for <ENT0> to have more than four <ENT1> .",
+        0.10038203808950759
+    ],
+    [
+        "If we are talking about a <ENT0>, we would normally expect it to have <ENT1> .",
+        0.09957291405354035
+    ],
+    [
+        "<ENT0> typically have <ENT1>, though there are some breeds that do not .",
+        0.08926587742601737
+    ],
+    [
+        "There should be <ENT1> for <ENT0> .",
+        0.08684838966619629
+    ],
+    [
+        "We typically expect that <ENT0> will have set <ENT1> .",
+        0.08041287907857278
+    ],
+    [
+        "There are usually <ENT1> in place for <ENT0> .",
+        0.0734913795398837
+    ]
+]

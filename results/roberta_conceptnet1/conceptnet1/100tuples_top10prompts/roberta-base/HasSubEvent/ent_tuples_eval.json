@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "building a house",
+            "construction"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "performing a risky surgery",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "publishing a journal",
+            "writing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "committing suicide",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "administering a lethal injection",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "preparing a manuscript",
+            "writing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "composing a poem",
+            "writing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "posting on social media",
+            "writing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "installing a circuit breaker",
+            "installation"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "administering a poison",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "composing a letter",
+            "writing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "organizing a workshop",
+            "training"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "editing a video",
+            "animation"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Sending An Email",
+            "message"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "developing a strategy",
+            "development"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "resolving a conflict",
+            "action"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "creating a playlist",
+            "activity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "connecting devices",
+            "connection"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "postmortem",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "designing a website",
+            "writing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "preparing a presentation",
+            "writing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "conducting a workshop",
+            "training"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "closing an account",
+            "closure"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "repairing a car",
+            "damage"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "planning a project",
+            "development"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "watching a show",
+            "usually"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "designing a prototype",
+            "development"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hosting a webinar",
+            "usually"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "conducting an interview",
+            "usually"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "drawing a diagram",
+            "writing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "conducting a conversation",
+            "dialogue"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "preparing a meal",
+            "usually"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "having a disagreement",
+            "usually"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "formatting a document",
+            "writing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "conducting a performance review",
+            "usually"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "holding a debate",
+            "usually"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "conducting an experiment",
+            "usually"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "brainstorming ideas",
+            "writing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "assembling a chain",
+            "closure"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "negotiating a contract",
+            "usually"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "drafting a document",
+            "writing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "organizing a conference",
+            "usually"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mediating a dispute",
+            "usually"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "finalizing a decision",
+            "usually"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "organizing a meeting",
+            "usually"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "conducting a rehearsal",
+            "usually"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "choosing a candidate",
+            "selection"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compiling code",
+            "testing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "creating a presentation",
+            "writing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ending a contract",
+            "termination"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Analyzing Patterns",
+            "analysis"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Diagnosing A Condition",
+            "treatment"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "finalizing a project",
+            "usually"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Assessing Performance",
+            "testing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "assessing a property",
+            "construction"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "conducting a survey",
+            "taking"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "conducting a survey",
+            "taking"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ordering a product",
+            "usually"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Grading Assignments",
+            "testing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wrapping a gift",
+            "usually"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "exploring options",
+            "selection"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "creating a hyperlink",
+            "linklink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "creating a hyperlink",
+            "linklink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "solving equations",
+            "function"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "compiling a list",
+            "adding"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Completing A Form",
+            "action"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "updating a database",
+            "updateupdate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "collecting samples",
+            "collectioncollection"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Adjusting Parameters",
+            "termination"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "organizing a list",
+            "termination"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "writing a comment",
+            "commentcomment"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "writing a letter",
+            "writingwriting"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "having an argument",
+            "argumentargument"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cleaning Data",
+            "datadata"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "reading a book",
+            "readingreading"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Booking A Table",
+            "registration"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "writing a paper",
+            "writingwriting"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "testing a software",
+            "testingtesting"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "requesting a quote",
+            "quotequote"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "reviewing a document",
+            "reviewreview"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "writing a report",
+            "writingwriting"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Optimizing A Function",
+            "always"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "conducting a training session",
+            "trainingtraining"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "writing a blog post",
+            "writingwriting"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "writing a review",
+            "writingwriting"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "processing information",
+            "processingprocessing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "debugging code",
+            "debugdebug"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Reviewing Content",
+            "reviewreview"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "taking a break",
+            "usuallyusually"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "attending a concert",
+            "usuallyusually"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hosting a podcast",
+            "usuallyusually"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Evaluating Expressions",
+            "evaleval"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "conducting a discussion",
+            "discussiondiscussion"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "debugging a program",
+            "debugdebug"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hosting a workshop",
+            "usuallyusually"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "conducting research",
+            "researchresearch"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "reading a bedtime story",
+            "usuallyusually"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "attending a lecture",
+            "usuallyusually"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "participating in a discussion",
+            "discussiondiscussion"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cleaning a dataset",
+            "cleanclean"
+        ],
+        "label": 0
+    }
+]

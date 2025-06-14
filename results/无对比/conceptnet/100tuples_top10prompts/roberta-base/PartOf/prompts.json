@@ -1,0 +1,26 @@
+[
+    [
+        "The <ENT0> in the <ENT1> is a great part of the film .",
+        0.27456746650469416
+    ],
+    [
+        "The <ENT0> in the <ENT1> is set in a city .",
+        0.2673883466471417
+    ],
+    [
+        "The <ENT0> is a part of the <ENT1> .",
+        0.1746768966493423
+    ],
+    [
+        "The <ENT0> is one of the main parts of an <ENT1> .",
+        0.14357726211464447
+    ],
+    [
+        "A <ENT0> is the highest point on a <ENT1> .",
+        0.06990115645725337
+    ],
+    [
+        "A <ENT0> in a <ENT1> is a self-contained segment that typically features a particular location, plot point, or characters .",
+        0.06988887162692409
+    ]
+]

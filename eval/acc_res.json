@@ -1,0 +1,82 @@
+[
+    {
+        "relation": "PartOf",
+        "acc": 0.3
+    },
+    {
+        "relation": "HasSubEvent",
+        "acc": 0.5
+    },
+    {
+        "relation": "HasProperty",
+        "acc": 0.6
+    },
+    {
+        "relation": "HasPrerequisite",
+        "acc": 0.59
+    },
+    {
+        "relation": "CreatedBy",
+        "acc": 0.24
+    },
+    {
+        "relation": "IsA",
+        "acc": 0.32
+    },
+    {
+        "relation": "AtLocation",
+        "acc": 0.54
+    },
+    {
+        "relation": "Desires",
+        "acc": 0.35
+    },
+    {
+        "relation": "MadeOf",
+        "acc": 0.65
+    },
+    {
+        "relation": "ReceivesAction",
+        "acc": 0.43
+    },
+    {
+        "relation": "SymbolOf",
+        "acc": 0.3
+    },
+    {
+        "relation": "Causes",
+        "acc": 0.68
+    },
+    {
+        "relation": "HasFirstSubevent",
+        "acc": 0.28
+    },
+    {
+        "relation": "CausesDesire",
+        "acc": 0.66
+    },
+    {
+        "relation": "UsedFor",
+        "acc": 0.53
+    },
+    {
+        "relation": "DefinedAs",
+        "acc": 0.21
+    },
+    {
+        "relation": "MotivatedByGoal",
+        "acc": 0.65
+    },
+    {
+        "relation": "HasLastSubevent",
+        "acc": 0.4
+    },
+    {
+        "relation": "HasA",
+        "acc": 0.68
+    },
+    {
+        "relation": "CapableOf",
+        "acc": 0.77
+    }
+]

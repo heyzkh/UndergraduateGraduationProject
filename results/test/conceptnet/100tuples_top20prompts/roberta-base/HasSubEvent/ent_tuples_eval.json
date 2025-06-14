@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "Event Log",
+            "event description"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Part Ii",
+            "section iii"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "postmortem",
+            "death usually"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Part Ii",
+            "section ii"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Part Ii",
+            "chapter iii"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "postmortem",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "String",
+            "value"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "event like",
+            "sometimes"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "postmortem",
+            "postprocessing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "postmortem",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "postmortem",
+            "death syndrome"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "String",
+            "data"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "postscript",
+            "postpost"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "postscript",
+            "postcomment"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Event Name",
+            "default"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subpackage",
+            "package import"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "String",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "events",
+            "damage"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "events",
+            "death"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "function",
+            "expression"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "String",
+            "message"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "suborder",
+            "subtype"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "submodule",
+            "module init"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subunit",
+            "subtype"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "postscript",
+            "subtext"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "String",
+            "function"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "suborder",
+            "subclass"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subperson",
+            "subentity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subperson",
+            "subgroup"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "every",
+            "function"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "every",
+            "argument"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Post Title",
+            "comment"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "submodule",
+            "subclass"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subspace",
+            "subexpression"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subseries",
+            "subgroup"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "postbreak",
+            "postblock"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fau",
+            "flux"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "postscript",
+            "comment"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subspace",
+            "subclass"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "type void",
+            "valuation"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fau",
+            "fuse"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Event Log",
+            "msg"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "every",
+            "result"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "postscript",
+            "link"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fic",
+            "fusion"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fic",
+            "fantasy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subprocess",
+            "subcomponent"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Function",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "every",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subprocess",
+            "cursor"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Subtitle",
+            "transparency"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Subtitle",
+            "transcription"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Substream",
+            "subsub"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Substream",
+            "subclass"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Subsection",
+            "coding"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Everytime",
+            "everyday"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Subsequence",
+            "subtext"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Post Titled",
+            "article"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Subtitle",
+            "translate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Subtitle",
+            "translator"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Subsection",
+            "crisis"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Subsequence",
+            "substatement"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Substream",
+            "construction"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "events",
+            "termination"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subprocess",
+            "process instance"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "postbreak",
+            "prerelease"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "parte",
+            "let sum"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "events",
+            "function"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subprocess",
+            "cpy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Subsection",
+            "cursor"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fic",
+            "finally"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Post Titled",
+            "installation"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "postbreak",
+            "update"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fau",
+            "val"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Subsection",
+            "crossover"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "events",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Post Titled",
+            "comment"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Post Titled",
+            "link"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "postbreak",
+            "comment"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fau",
+            "default"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Subunit",
+            "construction"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fau",
+            "lambda"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Everytime",
+            "always"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "parte",
+            "let closure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "every",
+            "instance"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Everytime",
+            "default"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "everyday",
+            "life"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Parte",
+            "let finally"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "everyday",
+            "normalization"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Subtext",
+            "typescript"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "everyday",
+            "normalcy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Everytime",
+            "else"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Everytime",
+            "construction"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "substream",
+            "constexpr"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "postbreak",
+            "preview"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Subsection",
+            "credits"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "everyday",
+            "today"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "submodule",
+            "modulename"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subpackage",
+            "modulename"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subpackage",
+            "packagename"
+        ],
+        "label": 0
+    }
+]

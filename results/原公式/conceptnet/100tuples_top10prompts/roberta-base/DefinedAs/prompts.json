@@ -1,0 +1,42 @@
+[
+    [
+        "Instead of \"<ENT0>\" you could say \"<ENT1>\" .",
+        0.1474077312068419
+    ],
+    [
+        "The <ENT0> is the <ENT1> to the room .",
+        0.13459203756260557
+    ],
+    [
+        "<ENT1> is a more specific way to describe <ENT0> .",
+        0.09981440691320964
+    ],
+    [
+        "The <ENT1> to the room is the <ENT0> .",
+        0.09605795206499305
+    ],
+    [
+        "<ENT1> is a more accurate term for <ENT0> .",
+        0.09571753935044286
+    ],
+    [
+        "The <ENT1> to a room is the <ENT0> that leads into it .",
+        0.09029745364213097
+    ],
+    [
+        "The term \"<ENT1>\" refers to the overall <ENT0> of an individual .",
+        0.08726720842449447
+    ],
+    [
+        "<ENT1> can provide a more detailed and nuanced understanding of <ENT0> .",
+        0.08516357023316658
+    ],
+    [
+        "<ENT1> is better at explaining what <ENT0> is .",
+        0.08381391753624362
+    ],
+    [
+        "<ENT1> is a more explanatory version of <ENT0> .",
+        0.07986818306587137
+    ]
+]

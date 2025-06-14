@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "fishing rod",
+            "fish fishing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dog leash",
+            "walk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "coat hanger stand",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coat hanger",
+            "dress"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Clothes Rack",
+            "dress"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tail wagging device",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "clothes drying rack",
+            "Dry Drying"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dog's tail",
+            "walk"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "laundry basket",
+            "wash"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "walking stick",
+            "Walk Walking"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kite string",
+            "fly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clothes drying hanger",
+            "Dry Drying"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clothes drying stand hanger",
+            "Dry Drying"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Clothes Drying Rack Stand Hanger",
+            "dry hang"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clothes drying rack stand",
+            "Dry Drying"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clothes drying rack stand",
+            "Dry Drying"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hair tie",
+            "dress"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "clothes drying hanger stand",
+            "Dry Drying"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "coat rack",
+            "dress"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "walking cane",
+            "Walk Walking"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "prayer beads",
+            "worship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Clothes Hanger Stand",
+            "dress"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clothes drying line",
+            "Dry Drying"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clothes drying hook stand",
+            "Dry Drying"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clothes drying hook",
+            "Dry Drying"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clothes drying stand",
+            "Dry Drying"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clothes drying stand",
+            "Dry Drying"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dog collar",
+            "walk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clothes drying rod",
+            "Dry Drying"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kite",
+            "fly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clothes drying tree hanger",
+            "Dry Drying"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "speech therapy device",
+            "talk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wax comb",
+            "comb wax"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "clothes drying pole",
+            "Dry Drying"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "prayer mat",
+            "worship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "windmill",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bungee cord",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plow",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clothes drying tree pole",
+            "Dry Drying"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Clothes Drying Tree",
+            "Dry Drying"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "incense burner",
+            "fire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Clothes Organizer",
+            "dress"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Dance Floor",
+            "dancing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "coat hook stand",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "frisbee",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hammer",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "backpack",
+            "travel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dance costume",
+            "dress"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Bee Repellent",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "beehive",
+            "feed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kite",
+            "flying"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clothes drying tree stand",
+            "Dry Drying"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "parachute",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "coat stand",
+            "dress"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "speedometer",
+            "travel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bee suit veil",
+            "dress"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Clothes Drying Rack Pole",
+            "shower"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sailboat",
+            "travel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hanger",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Closet Organizer",
+            "dress"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wheelbarrow",
+            "transport"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ladder",
+            "climb"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Crucifix",
+            "worship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Clothesline Reel",
+            "transport"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Clothes Hook",
+            "dress"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pillow",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bicycle",
+            "transport"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Airplane",
+            "travel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dance shoes",
+            "dancing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Passport",
+            "travel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bee smoker",
+            "burn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bee suit",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Nutcracker",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Clothesline",
+            "dress"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "door",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rope",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "knife",
+            "fight"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bowl",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "toy",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "suitcase",
+            "travel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Clothesline Pole",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "boot",
+            "walk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "umbrella",
+            "shelter"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spoon",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Altar",
+            "worship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dance pole",
+            "dancing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "scarf",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hairbrush",
+            "shampoo"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "microphone",
+            "talk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "keycard",
+            "travel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Clothespin",
+            "dress"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coat tree",
+            "winter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Joystick",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "detergent",
+            "clean"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Vinegar",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rifle",
+            "hunting"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "music",
+            "worship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "razor",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mold",
+            "mould"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "candy",
+            "sleep"
+        ],
+        "label": 0
+    }
+]

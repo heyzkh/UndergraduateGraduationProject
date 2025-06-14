@@ -1,0 +1,702 @@
+[
+    [
+        [
+            "watching porn",
+            "masturbation"
+        ],
+        0.03821593070464151
+    ],
+    [
+        [
+            "giving birth",
+            "labor"
+        ],
+        0.03582899629662539
+    ],
+    [
+        [
+            "wearing underwear",
+            "sweat"
+        ],
+        0.028399369486156924
+    ],
+    [
+        [
+            "nursing",
+            "breast feeding"
+        ],
+        0.023769269367659274
+    ],
+    [
+        [
+            "taking aspirin",
+            "headaches"
+        ],
+        0.019902193537366542
+    ],
+    [
+        [
+            "wearing sunglasses",
+            "blind"
+        ],
+        0.01972475653952728
+    ],
+    [
+        [
+            "getting sick",
+            "fever"
+        ],
+        0.019220636368297333
+    ],
+    [
+        [
+            "using facebook",
+            "spam"
+        ],
+        0.017829338114082896
+    ],
+    [
+        [
+            "watching porn",
+            "pornography"
+        ],
+        0.016630111268020803
+    ],
+    [
+        [
+            "making mistakes",
+            "frustration"
+        ],
+        0.015666145472022004
+    ],
+    [
+        [
+            "building trust",
+            "distrust"
+        ],
+        0.015538602752005679
+    ],
+    [
+        [
+            "getting older",
+            "aging"
+        ],
+        0.015431887265077436
+    ],
+    [
+        [
+            "wearing shorts",
+            "sweat"
+        ],
+        0.015079423142318119
+    ],
+    [
+        [
+            "making progress",
+            "frustration"
+        ],
+        0.014315979452476422
+    ],
+    [
+        [
+            "making decisions",
+            "uncertainty"
+        ],
+        0.013061750628500608
+    ],
+    [
+        [
+            "taking bath",
+            "relaxing"
+        ],
+        0.012708420151973746
+    ],
+    [
+        [
+            "experiencing trauma",
+            "flashbacks"
+        ],
+        0.011967558970109211
+    ],
+    [
+        [
+            "building trust",
+            "mistrust"
+        ],
+        0.011007103533854368
+    ],
+    [
+        [
+            "wearing sunglasses",
+            "headaches"
+        ],
+        0.010912221593129295
+    ],
+    [
+        [
+            "taking action",
+            "frustration"
+        ],
+        0.010137916477302646
+    ],
+    [
+        [
+            "taking drugs",
+            "paranoia"
+        ],
+        0.009617219156280958
+    ],
+    [
+        [
+            "getting older",
+            "changes"
+        ],
+        0.009511871530423878
+    ],
+    [
+        [
+            "getting started",
+            "difficulties"
+        ],
+        0.009184011109850466
+    ],
+    [
+        [
+            "growing older",
+            "aging"
+        ],
+        0.009077701509074651
+    ],
+    [
+        [
+            "pregnant",
+            "breast milk"
+        ],
+        0.00877825809868479
+    ],
+    [
+        [
+            "developing hiv",
+            "infections"
+        ],
+        0.008171737512944022
+    ],
+    [
+        [
+            "watching videos",
+            "laughing"
+        ],
+        0.008077920501618548
+    ],
+    [
+        [
+            "undergoing childbirth",
+            "labor"
+        ],
+        0.007912440447963279
+    ],
+    [
+        [
+            "still alive",
+            "dead"
+        ],
+        0.00785418462404489
+    ],
+    [
+        [
+            "experiencing ptsd",
+            "suicidal"
+        ],
+        0.0077021557643041656
+    ],
+    [
+        [
+            "downtown",
+            "street corner"
+        ],
+        0.00768058219716764
+    ],
+    [
+        [
+            "performing yoga",
+            "sweat"
+        ],
+        0.007624018176868109
+    ],
+    [
+        [
+            "using facebook",
+            "messages"
+        ],
+        0.007420030455273318
+    ],
+    [
+        [
+            "obese",
+            "weight gain"
+        ],
+        0.006384315474293989
+    ],
+    [
+        [
+            "experiencing ptsd",
+            "flashbacks"
+        ],
+        0.006375898651016406
+    ],
+    [
+        [
+            "racing",
+            "Car Wreck"
+        ],
+        0.006067018599329174
+    ],
+    [
+        [
+            "making progress",
+            "success"
+        ],
+        0.006014069394250788
+    ],
+    [
+        [
+            "changing weather",
+            "rain"
+        ],
+        0.005909043160958706
+    ],
+    [
+        [
+            "wearing white",
+            "blue"
+        ],
+        0.00588318446600047
+    ],
+    [
+        [
+            "downtown",
+            "street vendors"
+        ],
+        0.0057442570971924945
+    ],
+    [
+        [
+            "stressed",
+            "mood swings"
+        ],
+        0.005742668451099204
+    ],
+    [
+        [
+            "receiving treatments",
+            "medication"
+        ],
+        0.005687688107245283
+    ],
+    [
+        [
+            "studying science",
+            "research"
+        ],
+        0.00562045878511422
+    ],
+    [
+        [
+            "receiving treatments",
+            "suffering"
+        ],
+        0.005435799882712891
+    ],
+    [
+        [
+            "nursing",
+            "breast milk"
+        ],
+        0.005241148971524747
+    ],
+    [
+        [
+            "developing hiv",
+            "malaria"
+        ],
+        0.005199493001728633
+    ],
+    [
+        [
+            "growing older",
+            "changes"
+        ],
+        0.005114132017448454
+    ],
+    [
+        [
+            "making progress",
+            "difficulties"
+        ],
+        0.004982798242096298
+    ],
+    [
+        [
+            "Losing",
+            "Negative Feelings"
+        ],
+        0.0049668179222092995
+    ],
+    [
+        [
+            "using software",
+            "errors"
+        ],
+        0.004892808293873294
+    ],
+    [
+        [
+            "taking medication",
+            "seizures"
+        ],
+        0.004595737812857978
+    ],
+    [
+        [
+            "undergoing surgery",
+            "anesthesia"
+        ],
+        0.00422848580533644
+    ],
+    [
+        [
+            "dark",
+            "light color"
+        ],
+        0.0037797901871303393
+    ],
+    [
+        [
+            "starting treatment",
+            "relapse"
+        ],
+        0.003773729078962307
+    ],
+    [
+        [
+            "watching people",
+            "empathy"
+        ],
+        0.0036669034944938426
+    ],
+    [
+        [
+            "Losing",
+            "Negative Mood"
+        ],
+        0.003614045619987905
+    ],
+    [
+        [
+            "racing",
+            "Car Crashes"
+        ],
+        0.0035675581950448797
+    ],
+    [
+        [
+            "still single",
+            "marriage"
+        ],
+        0.0033083214440889613
+    ],
+    [
+        [
+            "receiving hiv",
+            "infection"
+        ],
+        0.0032530824327868984
+    ],
+    [
+        [
+            "using software",
+            "issues"
+        ],
+        0.0031435300601573234
+    ],
+    [
+        [
+            "planning",
+            "time spent"
+        ],
+        0.003123771144514225
+    ],
+    [
+        [
+            "filming",
+            "camera lens"
+        ],
+        0.0030091420877128624
+    ],
+    [
+        [
+            "undergoing therapy",
+            "counseling"
+        ],
+        0.0029432752719956534
+    ],
+    [
+        [
+            "changing weather",
+            "changes"
+        ],
+        0.002936785158808027
+    ],
+    [
+        [
+            "studying mathematics",
+            "difficulty"
+        ],
+        0.0029322548493040386
+    ],
+    [
+        [
+            "giving back",
+            "help"
+        ],
+        0.002799311534266696
+    ],
+    [
+        [
+            "biking",
+            "head injury"
+        ],
+        0.0027516268543019977
+    ],
+    [
+        [
+            "undergoing childbirth",
+            "complications"
+        ],
+        0.0027441636589227297
+    ],
+    [
+        [
+            "going past",
+            "stop"
+        ],
+        0.00264986335773135
+    ],
+    [
+        [
+            "speeding",
+            "car crash"
+        ],
+        0.002573095529489655
+    ],
+    [
+        [
+            "performing sports",
+            "injury"
+        ],
+        0.0025622145884659055
+    ],
+    [
+        [
+            "changing path",
+            "cross"
+        ],
+        0.0024848494357446933
+    ],
+    [
+        [
+            "looking",
+            "eye level"
+        ],
+        0.002393641022175549
+    ],
+    [
+        [
+            "building relationships",
+            "distrust"
+        ],
+        0.002360198911345191
+    ],
+    [
+        [
+            "receiving therapy",
+            "counseling"
+        ],
+        0.002300525361796615
+    ],
+    [
+        [
+            "lying",
+            "false consciousness"
+        ],
+        0.0022903294743012725
+    ],
+    [
+        [
+            "testing",
+            "test results"
+        ],
+        0.0022525706343859307
+    ],
+    [
+        [
+            "developing relationship",
+            "jealousy"
+        ],
+        0.0022065131467606885
+    ],
+    [
+        [
+            "going blind",
+            "blindness"
+        ],
+        0.0021939548517025307
+    ],
+    [
+        [
+            "Obese",
+            "Weight Loss"
+        ],
+        0.0021696841549529795
+    ],
+    [
+        [
+            "developing relationships",
+            "jealousy"
+        ],
+        0.0021382736278215612
+    ],
+    [
+        [
+            "searching",
+            "Search Terms"
+        ],
+        0.0020920829700222794
+    ],
+    [
+        [
+            "lying",
+            "false memories"
+        ],
+        0.0019256821551166738
+    ],
+    [
+        [
+            "losing",
+            "negative experience"
+        ],
+        0.0018855551618745955
+    ],
+    [
+        [
+            "undergoing pregnancy",
+            "labor"
+        ],
+        0.0018847843812567274
+    ],
+    [
+        [
+            "asleep",
+            "sleepwalking"
+        ],
+        0.0018016501127851047
+    ],
+    [
+        [
+            "performing sports",
+            "injuries"
+        ],
+        0.0017964297391989319
+    ],
+    [
+        [
+            "drinking",
+            "drunk"
+        ],
+        0.0017906849797409774
+    ],
+    [
+        [
+            "lying",
+            "false information"
+        ],
+        0.0017601394252458272
+    ],
+    [
+        [
+            "filming",
+            "camera roll"
+        ],
+        0.0016760990841111927
+    ],
+    [
+        [
+            "talk",
+            "Self Talk"
+        ],
+        0.0016272294646612982
+    ],
+    [
+        [
+            "going public",
+            "issues"
+        ],
+        0.0016138778068858937
+    ],
+    [
+        [
+            "rational",
+            "irrational behavior"
+        ],
+        0.0016075040729885168
+    ],
+    [
+        [
+            "lying",
+            "false positive"
+        ],
+        0.0015622578178521704
+    ],
+    [
+        [
+            "sleeping",
+            "dreaming"
+        ],
+        0.0015556033147536266
+    ],
+    [
+        [
+            "Losing",
+            "Negative Thoughts"
+        ],
+        0.0015546541101514775
+    ],
+    [
+        [
+            "recording",
+            "sound quality"
+        ],
+        0.001547997868610771
+    ],
+    [
+        [
+            "seeing",
+            "eye sight"
+        ],
+        0.0015475856671836022
+    ],
+    [
+        [
+            "later",
+            "better quality"
+        ],
+        0.0015216401897049715
+    ],
+    [
+        [
+            "commuting",
+            "traffic jams"
+        ],
+        0.0014466626672223779
+    ]
+]

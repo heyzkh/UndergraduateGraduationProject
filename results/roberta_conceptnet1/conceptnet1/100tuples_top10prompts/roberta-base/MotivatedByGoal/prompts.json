@@ -1,0 +1,42 @@
+[
+    [
+        "Someone <ENT0>s because they desire to <ENT1> .",
+        0.14465608196053875
+    ],
+    [
+        "Someone <ENT0>s because they want to <ENT1> .",
+        0.13423568026278135
+    ],
+    [
+        "Someone <ENT0>s out of a desire to <ENT1> .",
+        0.12615815881634004
+    ],
+    [
+        "Someone <ENT0>s something for someone to <ENT1> .",
+        0.11220523443948315
+    ],
+    [
+        "Someone <ENT0>s, motivated by a desire for <ENT1> .",
+        0.09308949454818517
+    ],
+    [
+        "Someone <ENT0>s food to <ENT1> it .",
+        0.0866726202265931
+    ],
+    [
+        "A person <ENT0>s due to their wish to <ENT1> .",
+        0.08588778412399517
+    ],
+    [
+        "Someone <ENT0>s because they want <ENT1> .",
+        0.07833235655777085
+    ],
+    [
+        "Someone <ENT0>s something to obtain <ENT1> .",
+        0.07232609718003682
+    ],
+    [
+        "Someone <ENT0>s something to someone for <ENT1> .",
+        0.06643649188427561
+    ]
+]

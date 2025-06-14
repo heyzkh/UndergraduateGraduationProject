@@ -1,0 +1,702 @@
+[
+    [
+        [
+            "fishing rod",
+            "fish fishing"
+        ],
+        0.10295700879394669
+    ],
+    [
+        [
+            "dog leash",
+            "walk"
+        ],
+        0.09140340189007491
+    ],
+    [
+        [
+            "coat hanger stand",
+            "work"
+        ],
+        0.05125188024539977
+    ],
+    [
+        [
+            "coat hanger",
+            "dress"
+        ],
+        0.050207777408014166
+    ],
+    [
+        [
+            "Clothes Rack",
+            "dress"
+        ],
+        0.03819900684433907
+    ],
+    [
+        [
+            "tail wagging device",
+            "sleep"
+        ],
+        0.029536834188481385
+    ],
+    [
+        [
+            "clothes drying rack",
+            "Dry Drying"
+        ],
+        0.02927451219886069
+    ],
+    [
+        [
+            "dog's tail",
+            "walk"
+        ],
+        0.02879222950874746
+    ],
+    [
+        [
+            "laundry basket",
+            "wash"
+        ],
+        0.026931767935910855
+    ],
+    [
+        [
+            "walking stick",
+            "Walk Walking"
+        ],
+        0.02440854552691518
+    ],
+    [
+        [
+            "kite string",
+            "fly"
+        ],
+        0.02062772472296103
+    ],
+    [
+        [
+            "clothes drying hanger",
+            "Dry Drying"
+        ],
+        0.02012485500566502
+    ],
+    [
+        [
+            "clothes drying stand hanger",
+            "Dry Drying"
+        ],
+        0.019555293590760407
+    ],
+    [
+        [
+            "Clothes Drying Rack Stand Hanger",
+            "dry hang"
+        ],
+        0.019253728316073065
+    ],
+    [
+        [
+            "clothes drying rack stand",
+            "Dry Drying"
+        ],
+        0.01922590431169396
+    ],
+    [
+        [
+            "clothes drying rack stand",
+            "Dry Drying"
+        ],
+        0.01922590431169396
+    ],
+    [
+        [
+            "hair tie",
+            "dress"
+        ],
+        0.019214646318695173
+    ],
+    [
+        [
+            "clothes drying hanger stand",
+            "Dry Drying"
+        ],
+        0.01904735628486513
+    ],
+    [
+        [
+            "coat rack",
+            "dress"
+        ],
+        0.017781010007452625
+    ],
+    [
+        [
+            "walking cane",
+            "Walk Walking"
+        ],
+        0.01664684222702211
+    ],
+    [
+        [
+            "prayer beads",
+            "worship"
+        ],
+        0.015808285980509023
+    ],
+    [
+        [
+            "Clothes Hanger Stand",
+            "dress"
+        ],
+        0.015201923183786855
+    ],
+    [
+        [
+            "clothes drying line",
+            "Dry Drying"
+        ],
+        0.014246645187418418
+    ],
+    [
+        [
+            "clothes drying hook stand",
+            "Dry Drying"
+        ],
+        0.0140691255817385
+    ],
+    [
+        [
+            "clothes drying hook",
+            "Dry Drying"
+        ],
+        0.013494985053980554
+    ],
+    [
+        [
+            "clothes drying stand",
+            "Dry Drying"
+        ],
+        0.013228256622559805
+    ],
+    [
+        [
+            "clothes drying stand",
+            "Dry Drying"
+        ],
+        0.013228256622559805
+    ],
+    [
+        [
+            "dog collar",
+            "walk"
+        ],
+        0.012665187385970021
+    ],
+    [
+        [
+            "clothes drying rod",
+            "Dry Drying"
+        ],
+        0.012532091197222305
+    ],
+    [
+        [
+            "kite",
+            "fly"
+        ],
+        0.011997309385409554
+    ],
+    [
+        [
+            "clothes drying tree hanger",
+            "Dry Drying"
+        ],
+        0.009838944405450129
+    ],
+    [
+        [
+            "speech therapy device",
+            "talk"
+        ],
+        0.009723560814167996
+    ],
+    [
+        [
+            "wax comb",
+            "comb wax"
+        ],
+        0.009532833350398305
+    ],
+    [
+        [
+            "clothes drying pole",
+            "Dry Drying"
+        ],
+        0.009010317444018484
+    ],
+    [
+        [
+            "prayer mat",
+            "worship"
+        ],
+        0.008247143366113766
+    ],
+    [
+        [
+            "windmill",
+            "work"
+        ],
+        0.007848864801797932
+    ],
+    [
+        [
+            "bungee cord",
+            "escape"
+        ],
+        0.007316396725868086
+    ],
+    [
+        [
+            "plow",
+            "work"
+        ],
+        0.0073005051896560215
+    ],
+    [
+        [
+            "clothes drying tree pole",
+            "Dry Drying"
+        ],
+        0.006123732400753332
+    ],
+    [
+        [
+            "Clothes Drying Tree",
+            "Dry Drying"
+        ],
+        0.005481629564803353
+    ],
+    [
+        [
+            "incense burner",
+            "fire"
+        ],
+        0.005159178819677045
+    ],
+    [
+        [
+            "Clothes Organizer",
+            "dress"
+        ],
+        0.004905554968361552
+    ],
+    [
+        [
+            "Dance Floor",
+            "dancing"
+        ],
+        0.004841452240674442
+    ],
+    [
+        [
+            "coat hook stand",
+            "work"
+        ],
+        0.004709050253172163
+    ],
+    [
+        [
+            "frisbee",
+            "play"
+        ],
+        0.004613018748961371
+    ],
+    [
+        [
+            "hammer",
+            "work"
+        ],
+        0.00408559524752192
+    ],
+    [
+        [
+            "backpack",
+            "travel"
+        ],
+        0.0038761514236351313
+    ],
+    [
+        [
+            "dance costume",
+            "dress"
+        ],
+        0.0038054821577197975
+    ],
+    [
+        [
+            "Bee Repellent",
+            "sleep"
+        ],
+        0.00354739749006436
+    ],
+    [
+        [
+            "beehive",
+            "feed"
+        ],
+        0.0035147839875914787
+    ],
+    [
+        [
+            "kite",
+            "flying"
+        ],
+        0.0034138077851824152
+    ],
+    [
+        [
+            "clothes drying tree stand",
+            "Dry Drying"
+        ],
+        0.0032291165734912104
+    ],
+    [
+        [
+            "parachute",
+            "escape"
+        ],
+        0.003065044918268546
+    ],
+    [
+        [
+            "coat stand",
+            "dress"
+        ],
+        0.0029131946667091597
+    ],
+    [
+        [
+            "speedometer",
+            "travel"
+        ],
+        0.0028837487548277058
+    ],
+    [
+        [
+            "bee suit veil",
+            "dress"
+        ],
+        0.002870981080888118
+    ],
+    [
+        [
+            "Clothes Drying Rack Pole",
+            "shower"
+        ],
+        0.002858803033075345
+    ],
+    [
+        [
+            "sailboat",
+            "travel"
+        ],
+        0.002787148596742348
+    ],
+    [
+        [
+            "hanger",
+            "sleep"
+        ],
+        0.0027773256411579004
+    ],
+    [
+        [
+            "Closet Organizer",
+            "dress"
+        ],
+        0.0026337069497910422
+    ],
+    [
+        [
+            "wheelbarrow",
+            "transport"
+        ],
+        0.0025268369178471813
+    ],
+    [
+        [
+            "ladder",
+            "climb"
+        ],
+        0.0024711179257826113
+    ],
+    [
+        [
+            "Crucifix",
+            "worship"
+        ],
+        0.0024536009920199126
+    ],
+    [
+        [
+            "Clothesline Reel",
+            "transport"
+        ],
+        0.0024338736414102314
+    ],
+    [
+        [
+            "Clothes Hook",
+            "dress"
+        ],
+        0.002329447946365801
+    ],
+    [
+        [
+            "pillow",
+            "sleep"
+        ],
+        0.0022829606864105847
+    ],
+    [
+        [
+            "bicycle",
+            "transport"
+        ],
+        0.0021902744772314218
+    ],
+    [
+        [
+            "Airplane",
+            "travel"
+        ],
+        0.002066334134154657
+    ],
+    [
+        [
+            "dance shoes",
+            "dancing"
+        ],
+        0.0019154584294590175
+    ],
+    [
+        [
+            "Passport",
+            "travel"
+        ],
+        0.0018435313246411718
+    ],
+    [
+        [
+            "bee smoker",
+            "burn"
+        ],
+        0.0016082986291948828
+    ],
+    [
+        [
+            "bee suit",
+            "sleep"
+        ],
+        0.0015189468684462346
+    ],
+    [
+        [
+            "Nutcracker",
+            "sleep"
+        ],
+        0.0015096237589602318
+    ],
+    [
+        [
+            "Clothesline",
+            "dress"
+        ],
+        0.0015009263263205178
+    ],
+    [
+        [
+            "door",
+            "escape"
+        ],
+        0.0013940090106282638
+    ],
+    [
+        [
+            "rope",
+            "escape"
+        ],
+        0.001371442511753042
+    ],
+    [
+        [
+            "knife",
+            "fight"
+        ],
+        0.001274310381095265
+    ],
+    [
+        [
+            "bowl",
+            "eat"
+        ],
+        0.0011026417948066267
+    ],
+    [
+        [
+            "toy",
+            "play"
+        ],
+        0.0010967245816082883
+    ],
+    [
+        [
+            "suitcase",
+            "travel"
+        ],
+        0.0010897150011076405
+    ],
+    [
+        [
+            "Clothesline Pole",
+            "work"
+        ],
+        0.0010310592328370979
+    ],
+    [
+        [
+            "boot",
+            "walk"
+        ],
+        0.0010128425170675911
+    ],
+    [
+        [
+            "umbrella",
+            "shelter"
+        ],
+        0.0009314506489944737
+    ],
+    [
+        [
+            "spoon",
+            "eat"
+        ],
+        0.0009049338168734448
+    ],
+    [
+        [
+            "Altar",
+            "worship"
+        ],
+        0.0008428404851949903
+    ],
+    [
+        [
+            "dance pole",
+            "dancing"
+        ],
+        0.0008345469104851133
+    ],
+    [
+        [
+            "scarf",
+            "sleep"
+        ],
+        0.0007316766790203537
+    ],
+    [
+        [
+            "hairbrush",
+            "shampoo"
+        ],
+        0.0006274210760230352
+    ],
+    [
+        [
+            "microphone",
+            "talk"
+        ],
+        0.0005791894584733471
+    ],
+    [
+        [
+            "keycard",
+            "travel"
+        ],
+        0.0005680919527368851
+    ],
+    [
+        [
+            "Clothespin",
+            "dress"
+        ],
+        0.0005656403885217294
+    ],
+    [
+        [
+            "coat tree",
+            "winter"
+        ],
+        0.00043589166903748046
+    ],
+    [
+        [
+            "Joystick",
+            "play"
+        ],
+        0.00039297781631226364
+    ],
+    [
+        [
+            "detergent",
+            "clean"
+        ],
+        0.00036906726546923974
+    ],
+    [
+        [
+            "Vinegar",
+            "cook"
+        ],
+        0.0002683889077125414
+    ],
+    [
+        [
+            "rifle",
+            "hunting"
+        ],
+        0.00025093632089583264
+    ],
+    [
+        [
+            "music",
+            "worship"
+        ],
+        0.00019872326285000767
+    ],
+    [
+        [
+            "razor",
+            "work"
+        ],
+        0.00019301360906067496
+    ],
+    [
+        [
+            "mold",
+            "mould"
+        ],
+        0.0001779985480730557
+    ],
+    [
+        [
+            "candy",
+            "sleep"
+        ],
+        5.046685584936459e-05
+    ]
+]

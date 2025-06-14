@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "shopping mall",
+            "town"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "living room",
+            "house"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "railway station",
+            "town"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "orchestra pit",
+            "film orchestra"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "recording studio",
+            "film studio"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "park",
+            "city park"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "community center",
+            "town"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ticket counter",
+            "station"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "concert hall",
+            "City Film"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Town Square",
+            "city town"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "banquet hall",
+            "building"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "film set",
+            "town"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "village",
+            "town"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "church",
+            "village"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "picnic area",
+            "park"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mountain",
+            "forest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "school",
+            "town"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bicycle wheel",
+            "car"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "book",
+            "series"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "novel",
+            "series"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "garden",
+            "park"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Bay",
+            "Bay City"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "farm",
+            "village"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "valley",
+            "river"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stage",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hill",
+            "village"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tower",
+            "castle"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "neighborhood",
+            "town"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "plate",
+            "film plate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "plate",
+            "film plate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chapel",
+            "church"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lagoon",
+            "city lake"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cinema",
+            "City Film"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cloister",
+            "castle"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fountain",
+            "park"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Battlefield",
+            "City Film"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dungeon",
+            "castle"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "graveyard",
+            "village"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "thicket",
+            "forest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "thicket",
+            "forest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "courtyard",
+            "castle"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "courtyard",
+            "castle"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clearing",
+            "forest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "theater",
+            "City Film"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "atrium",
+            "building"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "peak",
+            "mountain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "playhouse",
+            "park"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stadium",
+            "town"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "library",
+            "building"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kitchen",
+            "house"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "glade",
+            "forest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Drive-In Theater",
+            "movie"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "roof",
+            "building"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ravine",
+            "forest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "meadow",
+            "forest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "manuscript",
+            "book"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "plateau",
+            "forest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plateau",
+            "forest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "office",
+            "building"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "studio",
+            "City Film"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "canyon",
+            "river"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gallery",
+            "building"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "balcony",
+            "building"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "screen",
+            "game"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "trail",
+            "park"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "riverbank",
+            "city river"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "classroom",
+            "school"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drive-in",
+            "park"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Greenhouse",
+            "Garden"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ridge",
+            "mountain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "playground",
+            "park"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "playground",
+            "park"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "driveway",
+            "house"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "marketplace",
+            "village"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "elevator",
+            "building"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "playroom",
+            "house"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bookmark",
+            "library"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Arena",
+            "City Film"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "plaza",
+            "park"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "porch",
+            "house"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "canopy",
+            "forest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "delta",
+            "river"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "terrace",
+            "park"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cosmos",
+            "universe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wetland",
+            "forest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bookshelf",
+            "library"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bookshelf",
+            "library"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bookshelf",
+            "library"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "playpen",
+            "film play"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bookstore",
+            "town"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bookstore",
+            "town"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bookstore",
+            "town"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bookstore",
+            "town"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "workshop",
+            "museum"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "auditorium",
+            "building"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Amphitheater",
+            "park"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "aisle",
+            "church"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "soundstage",
+            "park"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dictionary",
+            "book"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "archive",
+            "museum"
+        ],
+        "label": 1
+    }
+]

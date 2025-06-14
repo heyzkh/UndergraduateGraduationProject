@@ -1,0 +1,26 @@
+[
+    [
+        "After you <ENT0>, you will need to <ENT1> .",
+        0.5748460152319704
+    ],
+    [
+        "After the event \"<ENT0>\" has occurred, the subevent \"<ENT1>\" will take place .",
+        0.11271048390052314
+    ],
+    [
+        "The event \"<ENT0>\" concludes with the subevent \"<ENT1>\" .",
+        0.10365972331009198
+    ],
+    [
+        "In other words, the <ENT0> event leads to the <ENT1> event .",
+        0.07135616749382147
+    ],
+    [
+        "<ENT0> is an event that concludes with subevent <ENT1> .",
+        0.07108088986462069
+    ],
+    [
+        "The <ENT0> event concludes with the <ENT1> subevent .",
+        0.06634672019897236
+    ]
+]

@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "humans",
+            "eyes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "family",
+            "children"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vampires",
+            "fangs"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "horses",
+            "legs"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "birds",
+            "feathers"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "birds",
+            "eggs"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vampires",
+            "blood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cats",
+            "ears"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "child",
+            "children"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cats",
+            "legs"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "school",
+            "children"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "church",
+            "bells"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "game",
+            "rules"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "peacock",
+            "wings"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "peacock",
+            "wings"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "baby",
+            "children"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "language",
+            "rules"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bison",
+            "horns"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bull",
+            "horns"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "government",
+            "laws"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dragon",
+            "wings"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bird",
+            "wings"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "action",
+            "consequences"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "community",
+            "children"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "court",
+            "rules"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stroller",
+            "wheels"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "weather",
+            "changes"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "team",
+            "players"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "parent",
+            "children"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Crib",
+            "flowers"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "village",
+            "children"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "season",
+            "changes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blackboard",
+            "rules"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "club",
+            "members"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Symbol",
+            "symbols"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "goat",
+            "horns"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cradle",
+            "children"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "smartphone",
+            "batteries"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "butterfly",
+            "wings"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "software",
+            "features"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sister",
+            "children"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "owl",
+            "wings"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "garden",
+            "flowers"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "farm",
+            "children"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "table",
+            "tables"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kitten",
+            "wings"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "elephant",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "castle",
+            "walls"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "octopus",
+            "eyes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Statue",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kingdom",
+            "children"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "loyalty program",
+            "benefits"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Hydra",
+            "wings"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "airplane",
+            "wings"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "contract",
+            "rules"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "teacher",
+            "children"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "system",
+            "rules"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rabbit",
+            "ears"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "playpen",
+            "children"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "decision",
+            "consequences"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "project",
+            "results"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "experiment",
+            "results"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "book",
+            "pages"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "snake",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "river",
+            "water"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "angel",
+            "wings"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nest",
+            "eggs"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ram",
+            "horns"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "coin",
+            "coins"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "treasure",
+            "eyes"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "prisoner",
+            "children"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "soldier",
+            "eyes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rulebook",
+            "rules"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nursery",
+            "children"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "library",
+            "books"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chair",
+            "legs"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "playground",
+            "children"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clock",
+            "time"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rhinoceros",
+            "horns"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "calendar",
+            "time"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "magazine",
+            "advertisements"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drum",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Dossier",
+            "results"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Sultan",
+            "children"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "museum",
+            "exhibits"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Ladder",
+            "holes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Puzzle",
+            "pieces"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "playhouse",
+            "rooms"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "poem",
+            "words"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "algorithm",
+            "problems"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wizard",
+            "eyes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "recipe",
+            "ingredients"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "classroom",
+            "children"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "toybox",
+            "toys"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "needle",
+            "holes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "comb",
+            "teeth"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "organism",
+            "genes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "medal",
+            "points"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dictionary",
+            "words"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chromosome",
+            "two"
+        ],
+        "label": 1
+    }
+]

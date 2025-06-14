@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "Static Noise",
+            "Sound"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "venomous snake",
+            "python"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rose quartz",
+            "silver"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "corporal punishment",
+            "education"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "garden hose",
+            "water"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "asphyxiation",
+            "death"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "throbbing sensation",
+            "pain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "image file format",
+            "png"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "political interest organization",
+            "group"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "musical note",
+            "sound"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "perception",
+            "reality"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "aquatic vertebrate",
+            "fish"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "olfactory organ",
+            "sound"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Water Pump",
+            "Waterwater"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rotating shaft",
+            "wheel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "swine",
+            "fish"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "oversupply",
+            "demand"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Sales Pitch",
+            "Market"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Vibration",
+            "Sound"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "video recording",
+            "videovideo"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "haunted house",
+            "home"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "elevation",
+            "height"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sales presentation",
+            "market"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Public Radio Network",
+            "npr"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "psychological stress hormone",
+            "stressstress"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "programming",
+            "code"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "payment protocol",
+            "price"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Gratitude Expression",
+            "giving"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cartography",
+            "history"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "snout",
+            "cat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "utterance",
+            "sound"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Aspiration",
+            "Life"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Kitten",
+            "cat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "drumbeat",
+            "sound"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sequence",
+            "time"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "musical frequency",
+            "frequencyfrequency"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "giggle",
+            "sound"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "soul",
+            "body"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "static interference",
+            "cstatic"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "adversary",
+            "threat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "exclamation",
+            "statement"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "anatomy",
+            "body"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "flatulence",
+            "height"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spine",
+            "body"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spine",
+            "bone"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stain",
+            "mark"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "conclusion",
+            "statement"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pigment",
+            "color"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "archery equipment",
+            "eer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "corporation",
+            "company"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Gaze",
+            "see"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "whisper",
+            "sound"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "riddle",
+            "Rtype"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dreamscape",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "whimsy",
+            "sound"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "heartbeat",
+            "sound"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sapling",
+            "tree"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Paragraph",
+            "description"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "epidermis",
+            "see"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hairline",
+            "hairhair"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "canine tooth",
+            "tailtail"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Blush",
+            "color"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Snapshot",
+            "data"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Rose Petal",
+            "Roserose"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "steeple",
+            "path"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Manuscript",
+            "paper"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "footstep",
+            "stepstep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rose blossom",
+            "Roserose"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Instinct",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "skin opening",
+            "skinskin"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "foal",
+            "alal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "palisade",
+            "see"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Rose Wine",
+            "Roserose"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "picosecond",
+            "time"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sunscreen",
+            "water"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "navigation system",
+            "systemsystem"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "compression algorithm",
+            "mapc"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "opposable digit",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "acronym",
+            "cname"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "package manager",
+            "packagepackage"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "arrow",
+            "Arrowarrow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thoughtwave",
+            "wavewave"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "currency",
+            "currencycurrency"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "scoop",
+            "eer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Throb",
+            "Body"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Disciplinary Action",
+            "Actionaction"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "animation format",
+            "animationanimation"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thresholding",
+            "Rtype"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "angling",
+            "inging"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "colorant",
+            "colorcolor"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "whirligig",
+            "efish"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "reference",
+            "referencereference"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Visual Design",
+            "Designdesign"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "marketplace",
+            "marketmarket"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "company",
+            "companycompany"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fidget Toy",
+            "Emouse"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hydraulic machine",
+            "machinemachine"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plasma state",
+            "statestate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Thrill",
+            "Erer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bell",
+            "cmark"
+        ],
+        "label": 0
+    }
+]

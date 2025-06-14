@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "social media update",
+            "post"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "web browser",
+            "website"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "art gallery wing",
+            "building"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "web server",
+            "domain"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plot twist",
+            "story"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "news headline",
+            "story"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "witness testimony",
+            "video"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "file name",
+            "filename"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "data point",
+            "table"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "web developer",
+            "project"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Art Exhibition",
+            "Museum"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blog post",
+            "article"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bookmark",
+            "book bookmark"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "game mechanic",
+            "story"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "file extension",
+            "project"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "webinar registration form",
+            "website"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "art curator",
+            "museum"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Web Form",
+            "website"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "research paper",
+            "journal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Blog Comment",
+            "post"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "project plan",
+            "website"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "News Article",
+            "story"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "funding proposal",
+            "report"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tree",
+            "forest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "file",
+            "document"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "presentation slide",
+            "video"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blog entry",
+            "post"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Brand Identity",
+            "Company"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "document",
+            "file"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Subsection",
+            "Section Subsection"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "html element",
+            "document"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "team member",
+            "project"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "box",
+            "package"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "player",
+            "game"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "function",
+            "class"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "librarian",
+            "library"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "page",
+            "website"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "character",
+            "game"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plot",
+            "story"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Subroutine",
+            "function"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "paper",
+            "book"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "website",
+            "company"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "container",
+            "box"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "typography",
+            "code"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "comment",
+            "post"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Webpage",
+            "website"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "webinar attendee",
+            "video"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thumbnail",
+            "image"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "student",
+            "classroom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bookshelf",
+            "library"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bookshelf",
+            "library"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "database",
+            "project"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "keyboard",
+            "game"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bottle",
+            "box"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "codebase",
+            "sourcefile"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spreadsheet",
+            "project"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chapter",
+            "book"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "monitor",
+            "box"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "playground",
+            "park"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "presentation",
+            "video"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subheading",
+            "text"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "artwork",
+            "gallery"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "controller",
+            "game"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "task",
+            "project"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lexicon",
+            "dictionary"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hyperlink",
+            "url"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "query",
+            "function"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "roof",
+            "house"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "algorithm",
+            "kernel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "narrative",
+            "story"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chair",
+            "table"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plate",
+            "box"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "forklift",
+            "truck"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "folder",
+            "file"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tab",
+            "window"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "journalist",
+            "house"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chain",
+            "ring"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "processor",
+            "computer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Blogger",
+            "Community"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "programmer",
+            "project"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "paragraph",
+            "story"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shelf",
+            "wall"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "episode",
+            "series"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mayor",
+            "city"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "manager",
+            "team"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "joystick",
+            "controller"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "catalog",
+            "website"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "alphabet",
+            "string"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "keycap",
+            "file"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Storyline",
+            "game"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blueprint",
+            "box"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "volunteer",
+            "community"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "footnote",
+            "text"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Ebook",
+            "game"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "season",
+            "year"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Invoice",
+            "document"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "councilor",
+            "office"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "editorial",
+            "newspaper"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Novelist",
+            "story"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "courier",
+            "package"
+        ],
+        "label": 0
+    }
+]

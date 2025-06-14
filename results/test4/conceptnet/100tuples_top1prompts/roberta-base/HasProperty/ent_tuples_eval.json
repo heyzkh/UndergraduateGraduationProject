@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "autopilot",
+            "simple"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sunset",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "absolutely flawless",
+            "perfect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "serene",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spontaneous",
+            "simple"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sanctuary",
+            "peaceful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sanctuary",
+            "peaceful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gratis",
+            "simple"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "seamless",
+            "clean"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "basic concept",
+            "simple"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "flawless",
+            "perfect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "flawless",
+            "perfect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "flawless",
+            "perfect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kindness",
+            "perfect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kindness",
+            "perfect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kindness",
+            "perfect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kindness",
+            "perfect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compassionate",
+            "loving"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "neglected",
+            "fair"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "temple",
+            "holy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "temple",
+            "holy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "virtue",
+            "simple"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "virtue",
+            "simple"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sacred",
+            "holy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sacred",
+            "holy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chaotic",
+            "simple"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chaotic",
+            "simple"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "modest",
+            "clean"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "modest",
+            "clean"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "modest",
+            "clean"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "consolidating",
+            "simple"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "consolidating",
+            "simple"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "unyielding",
+            "free"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wood",
+            "simple"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "virtuous",
+            "perfect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "virtuous",
+            "perfect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cohesive",
+            "clean"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cohesive",
+            "clean"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wobbly",
+            "strong"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wobbly",
+            "strong"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lamb",
+            "clean"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lamb",
+            "clean"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lamb",
+            "clean"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lamb",
+            "clean"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lamb",
+            "clean"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gift",
+            "simple"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "divine essence",
+            "perfect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "honey",
+            "sweet"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "harmonizing",
+            "simple"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "steel",
+            "simple"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "steel",
+            "simple"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "steel",
+            "simple"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "deity",
+            "good"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "deity",
+            "good"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "community",
+            "fair"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "daisy",
+            "innocent"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kitten",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "budget-friendly",
+            "simple"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "budget-friendly",
+            "simple"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "diamond",
+            "precious"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "trivial",
+            "simple"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "trivial",
+            "simple"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "trivial",
+            "simple"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "trivial",
+            "simple"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "trivial",
+            "simple"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "natural",
+            "innocent"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sinful",
+            "good"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "monotonous",
+            "simple"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "monotonous",
+            "simple"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "monotonous",
+            "simple"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "monotonous",
+            "simple"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "genuine",
+            "authentic"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "awkward",
+            "natural"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "uncomplicated",
+            "simple"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "undeserved",
+            "free"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "undeserved",
+            "free"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mother",
+            "innocent"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "glass",
+            "innocent"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "voluntary",
+            "fair"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "unfashionable",
+            "simple"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gullible",
+            "clean"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gullible",
+            "clean"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "untouched",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "direct",
+            "simple"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "direct",
+            "simple"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "basic",
+            "simple"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "judge",
+            "fair"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "judge",
+            "fair"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "judge",
+            "fair"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "judge",
+            "fair"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "judge",
+            "fair"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "boorish",
+            "clean"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "politician",
+            "fair"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "raw",
+            "simple"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "knight",
+            "innocent"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "knight",
+            "innocent"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "indifferent",
+            "good"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "honest",
+            "Honest Pure"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "complimentary",
+            "simple"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "straightforward",
+            "simple"
+        ],
+        "label": 1
+    }
+]

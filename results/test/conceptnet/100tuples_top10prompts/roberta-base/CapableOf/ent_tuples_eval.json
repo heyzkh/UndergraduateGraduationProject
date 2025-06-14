@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "cops",
+            "find suspects"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cops",
+            "find clues"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Bait",
+            "take bait"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cams",
+            "identify targets"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bears",
+            "go outside"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "people",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Bait",
+            "take place"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bodies",
+            "take notes"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "people",
+            "ask"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Brows",
+            "look inside"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Boks",
+            "make plans"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "people",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Bait",
+            "take time"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cults",
+            "make videos"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coder",
+            "build code"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cops",
+            "investigate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crows",
+            "go outside"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Brows",
+            "look like"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "people",
+            "say"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cops",
+            "report"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "people",
+            "use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "men",
+            "get together"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cans",
+            "get started"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cams",
+            "identify"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bacteria",
+            "multiply"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crows",
+            "fly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cars",
+            "follow"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "users",
+            "search"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crows",
+            "hunt"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cams",
+            "track"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bacteria",
+            "grow"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cations",
+            "make sense"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bids",
+            "take time"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bacteria",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bears",
+            "hunt"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Bases",
+            "identify"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cams",
+            "record"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crows",
+            "watch"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Bacteria",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "users",
+            "check"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cams",
+            "watch"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cities",
+            "use data"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bacteria",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "users",
+            "test"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "users",
+            "ask"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crows",
+            "hide"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cars",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Bases",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Bases",
+            "move"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "users",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Coder",
+            "make sure"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bears",
+            "hide"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bears",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cults",
+            "watch"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ciders",
+            "get involved"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Boks",
+            "attack"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cults",
+            "hunt"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "calls",
+            "wait"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cocks",
+            "hunt"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Brows",
+            "look"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cocks",
+            "hide"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cults",
+            "hide"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "calls",
+            "make"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cores",
+            "use data"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cocks",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cations",
+            "go back"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Brows",
+            "hide"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bears",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cities",
+            "build"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "boks",
+            "buy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cocks",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "calls",
+            "return"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "men",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "calls",
+            "start"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cities",
+            "identify"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "calls",
+            "occur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cities",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "men",
+            "watch"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cities",
+            "wait"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ciders",
+            "get started"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Coder",
+            "build"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Coder",
+            "test"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cations",
+            "go around"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bans",
+            "apply"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bars",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cores",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bons",
+            "check"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Coder",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bores",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "men",
+            "say"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cores",
+            "wait"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bans",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bors",
+            "get together"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cations",
+            "wait"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cores",
+            "execute"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ciders",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ciders",
+            "build"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cpl",
+            "report"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ciders",
+            "execute"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cpl",
+            "investigate"
+        ],
+        "label": 1
+    }
+]

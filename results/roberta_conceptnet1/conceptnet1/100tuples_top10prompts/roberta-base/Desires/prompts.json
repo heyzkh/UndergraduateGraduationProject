@@ -1,0 +1,42 @@
+[
+    [
+        "To <ENT1> is what every <ENT0> desires .",
+        0.16705332967254477
+    ],
+    [
+        "<ENT1> is something that every <ENT0> desires .",
+        0.14191314808479558
+    ],
+    [
+        "A <ENT1> is the object of every <ENT0>\u2019s desire .",
+        0.11108544716047805
+    ],
+    [
+        "Every <ENT0> has a <ENT1> as its goal .",
+        0.1025208826549696
+    ],
+    [
+        "A <ENT1> is what every <ENT0> desires .",
+        0.09038226664474287
+    ],
+    [
+        "For every <ENT0>, the goal is a <ENT1> .",
+        0.07982252047440665
+    ],
+    [
+        "For every <ENT0>, a <ENT1> is the goal .",
+        0.07784980426595672
+    ],
+    [
+        "To a <ENT0>, a <ENT1> is what it desires .",
+        0.07725808646625656
+    ],
+    [
+        "To <ENT1> is to <ENT0> as desire is to every .",
+        0.07688614132494397
+    ],
+    [
+        "What <ENT1> is to <ENT0>, desire is to every .",
+        0.0752283732509052
+    ]
+]

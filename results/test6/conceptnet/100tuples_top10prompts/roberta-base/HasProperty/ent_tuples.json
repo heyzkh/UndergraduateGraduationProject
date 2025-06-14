@@ -1,0 +1,702 @@
+[
+    [
+        [
+            "Ice Cream",
+            "delicious"
+        ],
+        0.053184017184587006
+    ],
+    [
+        [
+            "freshly baked bread",
+            "delicious"
+        ],
+        0.052816660932350344
+    ],
+    [
+        [
+            "golden retriever",
+            "cute"
+        ],
+        0.03796454767085747
+    ],
+    [
+        [
+            "baby duckling",
+            "cute"
+        ],
+        0.03686237745053572
+    ],
+    [
+        [
+            "freshly picked flower",
+            "beautiful"
+        ],
+        0.0355847589400866
+    ],
+    [
+        [
+            "baby bunny",
+            "cute"
+        ],
+        0.033771617879580745
+    ],
+    [
+        [
+            "paper napkin",
+            "reusable"
+        ],
+        0.02609926698549719
+    ],
+    [
+        [
+            "cast iron skillet",
+            "durable"
+        ],
+        0.025075940965200733
+    ],
+    [
+        [
+            "baby panda",
+            "cute"
+        ],
+        0.02376943009167159
+    ],
+    [
+        [
+            "chocolate cake",
+            "delicious"
+        ],
+        0.023086140833995173
+    ],
+    [
+        [
+            "stainless steel cookware",
+            "cheap"
+        ],
+        0.02091332348266384
+    ],
+    [
+        [
+            "teddy bear",
+            "cute"
+        ],
+        0.01831130501528934
+    ],
+    [
+        [
+            "glass vase",
+            "beautiful"
+        ],
+        0.016291898509557493
+    ],
+    [
+        [
+            "wool yarn",
+            "soft"
+        ],
+        0.01628740181042272
+    ],
+    [
+        [
+            "homemade apple pie",
+            "delicious"
+        ],
+        0.015360605924549119
+    ],
+    [
+        [
+            "razor blade",
+            "sharp"
+        ],
+        0.01529982150760752
+    ],
+    [
+        [
+            "diesel engine",
+            "cheap"
+        ],
+        0.015097453098882146
+    ],
+    [
+        [
+            "handmade wooden jewelry",
+            "beautiful"
+        ],
+        0.014854992285033427
+    ],
+    [
+        [
+            "carbon fiber",
+            "strong"
+        ],
+        0.014042973744190883
+    ],
+    [
+        [
+            "quinoa salad",
+            "delicious"
+        ],
+        0.014041915645554777
+    ],
+    [
+        [
+            "wool sweater",
+            "cheap"
+        ],
+        0.013782629865562562
+    ],
+    [
+        [
+            "crystal chandelier",
+            "beautiful"
+        ],
+        0.013663443655528408
+    ],
+    [
+        [
+            "silver spoon",
+            "beautiful"
+        ],
+        0.013385200251138674
+    ],
+    [
+        [
+            "Watercolor Painting",
+            "beautiful"
+        ],
+        0.013170831826843922
+    ],
+    [
+        [
+            "plastic cutlery",
+            "reusable"
+        ],
+        0.012611758321674065
+    ],
+    [
+        [
+            "silk scarf",
+            "beautiful"
+        ],
+        0.012020681223525278
+    ],
+    [
+        [
+            "Handmade Quilt",
+            "beautiful"
+        ],
+        0.011428716401068776
+    ],
+    [
+        [
+            "Maple Syrup",
+            "delicious"
+        ],
+        0.011269635152771849
+    ],
+    [
+        [
+            "ripe banana",
+            "delicious"
+        ],
+        0.011241412298403072
+    ],
+    [
+        [
+            "pearl necklace",
+            "beautiful"
+        ],
+        0.011065798969314733
+    ],
+    [
+        [
+            "handcrafted leather wallet",
+            "beautiful"
+        ],
+        0.00970735219381462
+    ],
+    [
+        [
+            "concrete wall",
+            "strong"
+        ],
+        0.009542610252500201
+    ],
+    [
+        [
+            "rubber duck",
+            "cute"
+        ],
+        0.009486310770782108
+    ],
+    [
+        [
+            "Organic Vegetables",
+            "delicious"
+        ],
+        0.00923162182022271
+    ],
+    [
+        [
+            "Cotton T-Shirt",
+            "cheap"
+        ],
+        0.00899587871752347
+    ],
+    [
+        [
+            "steel beam",
+            "strong"
+        ],
+        0.008838907450762969
+    ],
+    [
+        [
+            "handmade pottery",
+            "beautiful"
+        ],
+        0.00882296522950878
+    ],
+    [
+        [
+            "stone monument",
+            "beautiful"
+        ],
+        0.008798942120755647
+    ],
+    [
+        [
+            "solar-powered charger",
+            "cheap"
+        ],
+        0.008786489194258153
+    ],
+    [
+        [
+            "paper origami",
+            "simple"
+        ],
+        0.008746055186736046
+    ],
+    [
+        [
+            "paper airplane",
+            "cheap"
+        ],
+        0.008744582572750766
+    ],
+    [
+        [
+            "handmade wool blanket",
+            "beautiful"
+        ],
+        0.008546780833469454
+    ],
+    [
+        [
+            "Wooden Toy",
+            "beautiful"
+        ],
+        0.008399497426709953
+    ],
+    [
+        [
+            "porcelain jewelry",
+            "beautiful"
+        ],
+        0.00813884437115889
+    ],
+    [
+        [
+            "grapefruit seed",
+            "edible"
+        ],
+        0.008023552396910529
+    ],
+    [
+        [
+            "cloth shopping bag",
+            "reusable"
+        ],
+        0.008010127809315105
+    ],
+    [
+        [
+            "bubble wrap",
+            "cheap"
+        ],
+        0.007943298102474575
+    ],
+    [
+        [
+            "fresh air",
+            "good"
+        ],
+        0.007934439848738116
+    ],
+    [
+        [
+            "ripe strawberry",
+            "delicious"
+        ],
+        0.007777432868769426
+    ],
+    [
+        [
+            "baby hedgehog",
+            "cute"
+        ],
+        0.0077773706477218905
+    ],
+    [
+        [
+            "hand-blown glass",
+            "beautiful"
+        ],
+        0.007684374817544403
+    ],
+    [
+        [
+            "titanium alloy",
+            "cheap"
+        ],
+        0.0075348994089609826
+    ],
+    [
+        [
+            "ripe mango",
+            "delicious"
+        ],
+        0.007534826630609568
+    ],
+    [
+        [
+            "Bamboo Toothbrush",
+            "durable"
+        ],
+        0.007064905228750472
+    ],
+    [
+        [
+            "reusable silicone straw",
+            "cheap"
+        ],
+        0.006885917922852507
+    ],
+    [
+        [
+            "reusable water bottle",
+            "cheap"
+        ],
+        0.00647879417122871
+    ],
+    [
+        [
+            "porcelain figurine",
+            "beautiful"
+        ],
+        0.006113724934127212
+    ],
+    [
+        [
+            "aluminum foil",
+            "cheap"
+        ],
+        0.005941454538379609
+    ],
+    [
+        [
+            "velvet pillow",
+            "soft"
+        ],
+        0.005599851472785202
+    ],
+    [
+        [
+            "velvet cushion",
+            "soft"
+        ],
+        0.005512538285249472
+    ],
+    [
+        [
+            "Encrypted Message",
+            "secure"
+        ],
+        0.00549038214129985
+    ],
+    [
+        [
+            "quantum computer",
+            "real"
+        ],
+        0.005403022394801403
+    ],
+    [
+        [
+            "Grain Of Rice",
+            "good"
+        ],
+        0.004899411913029997
+    ],
+    [
+        [
+            "handmade soap",
+            "beautiful"
+        ],
+        0.004862386700077152
+    ],
+    [
+        [
+            "Titanium Drill Bit",
+            "cheap"
+        ],
+        0.004839657574492605
+    ],
+    [
+        [
+            "Ceramic Knife",
+            "cheap"
+        ],
+        0.004663580387669914
+    ],
+    [
+        [
+            "carbon steel sword",
+            "strong"
+        ],
+        0.00461126913363741
+    ],
+    [
+        [
+            "morning dew",
+            "light"
+        ],
+        0.00460557810675581
+    ],
+    [
+        [
+            "concrete statue",
+            "beautiful"
+        ],
+        0.004303221706199948
+    ],
+    [
+        [
+            "inflatable life jacket",
+            "waterproof"
+        ],
+        0.0042233056372574344
+    ],
+    [
+        [
+            "Newborn Baby",
+            "healthy"
+        ],
+        0.00422038257324376
+    ],
+    [
+        [
+            "Handwoven Basket",
+            "beautiful"
+        ],
+        0.0042137819964900595
+    ],
+    [
+        [
+            "mint leaves",
+            "edible"
+        ],
+        0.004146732135745066
+    ],
+    [
+        [
+            "oak furniture",
+            "beautiful"
+        ],
+        0.003995129397003647
+    ],
+    [
+        [
+            "Kitten",
+            "cute"
+        ],
+        0.003714207223818421
+    ],
+    [
+        [
+            "sunset",
+            "beautiful"
+        ],
+        0.00359501707946273
+    ],
+    [
+        [
+            "polished marble",
+            "beautiful"
+        ],
+        0.0035928595512149494
+    ],
+    [
+        [
+            "grass skirt",
+            "beautiful"
+        ],
+        0.0034870519359518305
+    ],
+    [
+        [
+            "Grain Of Sand",
+            "fine"
+        ],
+        0.003442408580167051
+    ],
+    [
+        [
+            "porcelain teacup",
+            "beautiful"
+        ],
+        0.003316234551709626
+    ],
+    [
+        [
+            "foldable chair",
+            "comfortable"
+        ],
+        0.003018265245080237
+    ],
+    [
+        [
+            "soap bubble",
+            "cheap"
+        ],
+        0.0027627695099543856
+    ],
+    [
+        [
+            "steel cable",
+            "strong"
+        ],
+        0.0027474510638203545
+    ],
+    [
+        [
+            "wildflower",
+            "beautiful"
+        ],
+        0.0027407495007474264
+    ],
+    [
+        [
+            "cashmere scarf",
+            "beautiful"
+        ],
+        0.0026206492365932017
+    ],
+    [
+        [
+            "emerald",
+            "beautiful"
+        ],
+        0.0024569781523230447
+    ],
+    [
+        [
+            "snow",
+            "fluffy"
+        ],
+        0.0024281536705016665
+    ],
+    [
+        [
+            "microchip",
+            "cheap"
+        ],
+        0.0023680560787937
+    ],
+    [
+        [
+            "cashmere sweater",
+            "beautiful"
+        ],
+        0.0023443272658590893
+    ],
+    [
+        [
+            "Chalk",
+            "beautiful"
+        ],
+        0.002319955298099086
+    ],
+    [
+        [
+            "diamond",
+            "beautiful"
+        ],
+        0.002311356506594831
+    ],
+    [
+        [
+            "honey-glazed ham",
+            "delicious"
+        ],
+        0.002308029263154696
+    ],
+    [
+        [
+            "elephant",
+            "beautiful"
+        ],
+        0.001963672369203009
+    ],
+    [
+        [
+            "silverware set",
+            "beautiful"
+        ],
+        0.0019585692643661044
+    ],
+    [
+        [
+            "Metal Ruler",
+            "strong"
+        ],
+        0.0017254159939357834
+    ],
+    [
+        [
+            "honeycomb",
+            "beautiful"
+        ],
+        0.0017156336572797441
+    ],
+    [
+        [
+            "feather",
+            "beautiful"
+        ],
+        0.0015693963868321915
+    ],
+    [
+        [
+            "breeze",
+            "cool"
+        ],
+        0.0014158400426723214
+    ],
+    [
+        [
+            "ivory",
+            "beautiful"
+        ],
+        0.001384553977400478
+    ],
+    [
+        [
+            "ai assistant",
+            "good"
+        ],
+        0.0012536516474434551
+    ]
+]

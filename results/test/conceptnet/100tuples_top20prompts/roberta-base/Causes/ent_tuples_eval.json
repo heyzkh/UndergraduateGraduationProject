@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "crying",
+            "severe vomiting"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Coding",
+            "code generation"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Curing",
+            "better outcomes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "courage",
+            "good luck"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Coding",
+            "Code Execution"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cation",
+            "negative reaction"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cation",
+            "negative response"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "citation",
+            "General Interpretation"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Curing",
+            "better results"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Crossover",
+            "positive results"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crying",
+            "screaming"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Capping",
+            "false alarms"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cation",
+            "Negative Reactions"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "friction",
+            "pain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Capping",
+            "false positives"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fusion",
+            "chaos"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crying",
+            "laughter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fraud",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cation",
+            "negative results"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crying",
+            "tears"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "friction",
+            "stress"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fusion",
+            "confusion"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "friction",
+            "instability"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Coding",
+            "code"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cashing",
+            "fraud"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cashing",
+            "loss"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fraud",
+            "corruption"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cashing",
+            "losses"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fraction",
+            "convergence"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fraud",
+            "loss"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Coding",
+            "output"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Capping",
+            "false results"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crying",
+            "pain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "citation",
+            "argument"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fury",
+            "violence"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cashing",
+            "debt"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fraud",
+            "injury"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Curing",
+            "cure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "counters",
+            "physical interaction"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Crossover",
+            "positive result"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cation",
+            "negative result"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Capping",
+            "False Positive"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fraction",
+            "multiplication"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cashing",
+            "profit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fraction",
+            "error"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fraction",
+            "divergence"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crossover",
+            "conflict"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fury",
+            "anger"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "citation",
+            "conclusion"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "citation",
+            "confusion"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Crossover",
+            "convergence"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Curing",
+            "infection"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "citation",
+            "generalization"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Curing",
+            "improvement"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crossover",
+            "divergence"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cortex",
+            "depression"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Coding",
+            "corruption"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fusing",
+            "confusion"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Fraction",
+            "return"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fusing",
+            "chaos"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fusion",
+            "instability"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fury",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "capping",
+            "corruption"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cuss",
+            "laughter"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fury",
+            "war"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Citing",
+            "confusion"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fusing",
+            "fragmentation"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fuse",
+            "abuse"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "counters",
+            "physical violence"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fury",
+            "rage"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "counters",
+            "conflict"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Citing",
+            "argument"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cortex",
+            "stress"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cortex",
+            "anxiety"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fusing",
+            "overlap"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cortex",
+            "Brain Injury"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "frequently",
+            "problems"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fuse",
+            "corruption"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cortex",
+            "pain"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Citing",
+            "errors"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "counters",
+            "violence"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cuss",
+            "violence"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Casing",
+            "Increased Risk"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cuss",
+            "language"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "frequently",
+            "conflict"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Casing",
+            "increased pressure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Citing",
+            "arguments"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Casing",
+            "Increased Stress"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fusing",
+            "corruption"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "frequently",
+            "errors"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Casing",
+            "Increased Weight"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "counters",
+            "arguments"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "courage",
+            "violence"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "courage",
+            "action"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cursor",
+            "text"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "courage",
+            "anger"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "courage",
+            "aggression"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cuss",
+            "racialization"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cuss",
+            "racialism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Casing",
+            "Increased Mortality"
+        ],
+        "label": 0
+    }
+]

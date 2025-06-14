@@ -1,0 +1,42 @@
+[
+    [
+        "Many people find <ENT0> <ENT1> and difficult to quit consuming .",
+        0.1311263019986754
+    ],
+    [
+        "This is a statement about <ENT0> in general - that they are <ENT1> .",
+        0.10980032851621206
+    ],
+    [
+        "Most <ENT0>s are <ENT1> and can lead to dependence .",
+        0.10926077305981993
+    ],
+    [
+        "While not all <ENT0>s are <ENT1>, some can be .",
+        0.10686883857154965
+    ],
+    [
+        "There is no denying that <ENT0>s are <ENT1> .",
+        0.09758834328321306
+    ],
+    [
+        "All <ENT0> is <ENT1> .",
+        0.0960110906608574
+    ],
+    [
+        "All <ENT0>s are potentially <ENT1> and should be treated with caution .",
+        0.09487483799369244
+    ],
+    [
+        "The color of <ENT0> is <ENT1> .",
+        0.08676054182531091
+    ],
+    [
+        "<ENT1> <ENT0>s are great for carrying around with you .",
+        0.08457765018396948
+    ],
+    [
+        "<ENT0> is a <ENT1> liquid .",
+        0.08313129390669974
+    ]
+]

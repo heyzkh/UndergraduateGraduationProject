@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "enzyme",
+            "cell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "virtual_architect",
+            "virtual vm"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Digital_Creator",
+            "Creator Digital"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "code_developer",
+            "function"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "data_architect",
+            "struct"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "silversmith",
+            "forge"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "code_architect",
+            "program"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sound_engineer",
+            "function"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "software_developer",
+            "program"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "content_creator",
+            "user"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "atomic_architect",
+            "atom atomic"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sound_creator",
+            "listener"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mindsculptor",
+            "brain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "energy_engineer",
+            "generator"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "thought_engineer",
+            "function"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cellular_constructor",
+            "cell cellular"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Soundsculptor",
+            "medium"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cellular_architect",
+            "cell cellular"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "vid_designer",
+            "template"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "product_innovator",
+            "function"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thought_weaver",
+            "function"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gas_producer",
+            "pipeline"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "property_architect",
+            "struct"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "yarn_spinner",
+            "thread"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bio_engineer",
+            "cell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "protein_designer",
+            "cell"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "seed_developer",
+            "root"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "quantum_composer",
+            "photon"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "thought_forger",
+            "function"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thought_architect",
+            "struct"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "matrix_weaver",
+            "vector"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "key_forger",
+            "hash"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "quantum_architect",
+            "subsystem"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stream_weaver",
+            "thread"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dreamweaver",
+            "medium"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "digital_architect",
+            "domain"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plasma_synthesizer",
+            "protein"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bio_constructor",
+            "cell"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "simulation_engineer",
+            "simulator"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stream_architect",
+            "struct"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "quantum_creator",
+            "photon"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "flesh_sculptor",
+            "cell"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plasma_architect",
+            "matrix"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "circuit_architect",
+            "struct"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cellular_innovator",
+            "cell cellular"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "quantum_designer",
+            "class"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mechanical_engineer",
+            "function"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bio_innovator",
+            "bacteria"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plasma_weaver",
+            "vector"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chemical_synthesizer",
+            "catalyst"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crystal_grower",
+            "cell"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "neural_weaver",
+            "neuron"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vacuum_engineer",
+            "void"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "metalsmith",
+            "gold"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spirit_weaver",
+            "void"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Soundscaper",
+            "dac"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thought_artificer",
+            "self"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cib_Creator",
+            "function"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "music_composer",
+            "dac"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "circuit_weaver",
+            "loop"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "neural_architect",
+            "neuron"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bio_sculptor",
+            "bacteria"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mind_forger",
+            "mem"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Neural_Creator",
+            "neuron"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "synthetic_originator",
+            "function"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "digital_composer",
+            "dac"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Algorithm_Designer",
+            "function"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "molecular_architect",
+            "protein"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "genetic_engineer",
+            "dna"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "circuit_designer",
+            "function"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bio_Creator",
+            "cell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vocal_engineer",
+            "voice"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "market_architect",
+            "product"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "quantum_modeler",
+            "class"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "biochemical_engineer",
+            "protein"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stream_artist",
+            "user"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "quantum_artificer",
+            "photon"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "platinum_forger",
+            "gold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "textile_engineer",
+            "yarn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Synaptic_Creator",
+            "neuron"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "textile_innovator",
+            "yarn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Keymaker",
+            "core"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bio_artist",
+            "bot"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "neural_matrix_weaver",
+            "neuron"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "photosynthetic_originator",
+            "cell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "microbial_origin",
+            "bacteria"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Solar_Artist",
+            "sun"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cellular_artisan",
+            "cell cellular"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Spark_Artisan",
+            "catalyst"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "media_artisan",
+            "public"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ribosomal_assembler",
+            "protein"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "myogenic_progenitor",
+            "protein"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "textile_artisan",
+            "yarn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "promoter_originator",
+            "function"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cellular_weaver",
+            "dna"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Void_Artisan",
+            "function"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plasma_artisan",
+            "void"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hepatic_origin",
+            "liver"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Chemical_Artisan",
+            "product"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Gib_Author",
+            "function"
+        ],
+        "label": 0
+    }
+]

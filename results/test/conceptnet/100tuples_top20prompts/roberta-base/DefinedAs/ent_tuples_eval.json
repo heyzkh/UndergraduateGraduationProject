@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "syntax",
+            "let syntax"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "human nature",
+            "perhaps"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dataflow",
+            "figure three"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dataflow",
+            "figure two"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "history",
+            "histories"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "history",
+            "historical"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Human Relationships",
+            "perhaps"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "form",
+            "let notation"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "human psychology",
+            "analysis"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "graphite"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "russian",
+            "thus"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "form",
+            "let simply"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rau",
+            "rux"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "humanism",
+            "humanists"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "humanism",
+            "humanist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Unicode",
+            "finally"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "using",
+            "finally"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "syntax",
+            "finally"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "form",
+            "letting"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "htm",
+            "hint"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "humanism",
+            "crisis"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Human Species",
+            "could"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Human Potential",
+            "could"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "syntax",
+            "notebox"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wikipedia",
+            "letting"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Unicode",
+            "thus"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Unicode",
+            "curl"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dataflow",
+            "graphite"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "history",
+            "sometimes"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "inequality",
+            "might"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "humanism",
+            "perhaps"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "using",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "humanism",
+            "cursive"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "arguments",
+            "sometimes"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "analysis"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "English",
+            "actually"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "use",
+            "might"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "language",
+            "often"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rau",
+            "rsu"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "inequality",
+            "better"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Russian",
+            "actually"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "htm",
+            "hsl"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "events",
+            "often"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "using",
+            "may"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "history",
+            "often"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Russian",
+            "may"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "htm",
+            "hjs"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "might"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "language",
+            "actually"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "language",
+            "description"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "events",
+            "may"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "English",
+            "instead"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dataflow",
+            "graphing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hrt",
+            "letting"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "inequality",
+            "instead"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "events",
+            "usually"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "syntax",
+            "notebook"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "use",
+            "may"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "language",
+            "instead"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "history",
+            "usually"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hua",
+            "hui"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "English",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "using",
+            "description"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hua",
+            "hai"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "htm",
+            "link"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "English",
+            "style"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "inequality",
+            "actually"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "use",
+            "description"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hrt",
+            "hrs"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "events",
+            "actually"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Unicode",
+            "instead"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "may"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "arguments",
+            "usually"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "events",
+            "instead"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "form",
+            "sub"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "description"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hau",
+            "hai"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Russian",
+            "style"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "using",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Syntax",
+            "style"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hau",
+            "hua"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "language",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Unicode",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Python",
+            "pyrc"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hau",
+            "hui"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hil",
+            "thr"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hil",
+            "thun"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "russian",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hrt",
+            "hplot"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "English",
+            "would"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Arguments",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "inequality",
+            "would"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Dataflow",
+            "graphics"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hua",
+            "aka"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "form",
+            "would"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hil",
+            "thulhu"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hau",
+            "aka"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hau",
+            "hat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hil",
+            "thursday"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hil",
+            "thumbnail"
+        ],
+        "label": 0
+    }
+]

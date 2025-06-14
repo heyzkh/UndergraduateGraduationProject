@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "large trees",
+            "roots"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "large trees",
+            "branches"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "large trees",
+            "leaves"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cats",
+            "claws"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cats",
+            "kittens"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "humans",
+            "eyes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "humans",
+            "teeth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Zebra",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kite",
+            "wings"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "language",
+            "rules"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stock",
+            "issues"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "software",
+            "options"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "culture",
+            "rules"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Algorithm",
+            "parameters"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cat",
+            "claws"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "guitar",
+            "strings"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "robot",
+            "eyes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Pineapple",
+            "roots"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "policy",
+            "rules"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "game",
+            "rules"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sport",
+            "rules"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tree",
+            "roots"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "virus",
+            "mutations"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Poem",
+            "lines"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rabbit",
+            "teeth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "violin",
+            "strings"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vehicle",
+            "wheels"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Chromosome",
+            "genes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bird",
+            "feathers"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "quilt",
+            "patterns"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "product",
+            "features"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "child",
+            "parents"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "organization",
+            "rules"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Apple",
+            "roots"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "experiment",
+            "results"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "philosophy",
+            "rules"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "goat",
+            "horns"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "camera",
+            "cameras"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "decision",
+            "consequences"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "system",
+            "options"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "company",
+            "problems"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "person",
+            "children"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "painting",
+            "lines"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Alligator",
+            "teeth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Equation",
+            "coefficients"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rulebook",
+            "rules"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "console",
+            "options"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bicycle",
+            "wheels"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "market",
+            "rules"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "season",
+            "changes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bull",
+            "horns"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "user",
+            "options"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "contract",
+            "conditions"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "project",
+            "plans"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "song",
+            "lines"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "harp",
+            "strings"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "novel",
+            "characters"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "highway",
+            "lanes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "board",
+            "members"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fabric",
+            "patterns"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "scorpion",
+            "wings"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fox",
+            "teeth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Reservoir",
+            "limits"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cell",
+            "genes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Ram",
+            "problems"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tournament",
+            "rules"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Backpack",
+            "tags"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bottle",
+            "caps"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "triangle",
+            "points"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "boundary",
+            "boundaries"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "compass",
+            "points"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compass",
+            "points"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Questionnaire",
+            "answers"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pen",
+            "lines"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Calculator",
+            "options"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Playground",
+            "rules"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dictionary",
+            "definitions"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Notebook",
+            "pages"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compass rose",
+            "roots"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "book",
+            "problems"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "database",
+            "attributes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "speedometer",
+            "numbers"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ocean",
+            "conditions"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mountain",
+            "trees"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "organism",
+            "genes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "instrument",
+            "strings"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Wizard",
+            "rules"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "recipe",
+            "options"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "archive",
+            "data"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "menu",
+            "options"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clock",
+            "values"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "puzzle",
+            "pieces"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Classroom",
+            "students"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "doll",
+            "eyes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wheel",
+            "wheels"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "artist",
+            "names"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Maze",
+            "roots"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "comb",
+            "rules"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "playroom",
+            "walls"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "boardgame",
+            "rules"
+        ],
+        "label": 1
+    }
+]

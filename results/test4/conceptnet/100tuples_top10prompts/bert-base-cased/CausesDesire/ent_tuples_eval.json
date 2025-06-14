@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "colorful scenery",
+            "go see"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gentle breeze",
+            "go see"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "physical injury",
+            "die"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Limited Edition",
+            "buy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "financial gain",
+            "pay"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "social media trends",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "artistic experimentation",
+            "create use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fear",
+            "kill"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "financial incentive",
+            "pay"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "financial stability",
+            "invest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "creative inspiration",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "financial security",
+            "pay"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "upbeat tempo",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "refreshing taste",
+            "eat taste"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hunger",
+            "kill"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "music",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "financial reward",
+            "pay"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "anger",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vivid imagination",
+            "know"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "whispered secret",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "aroma",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "despair",
+            "die"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "eco-friendly initiative",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Enchanted Artifact",
+            "see use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "inner peace",
+            "live"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Unbearable Pain",
+            "die"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spicy food",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "loneliness",
+            "die"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "philosophical inquiry",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "competition",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stress",
+            "change"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "empathy",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "passion",
+            "kill"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Exclusive Membership",
+            "pay"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sale",
+            "buy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "curiosity",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "unique craftsmanship",
+            "buy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "depression",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nostalgia",
+            "die"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "innovative design",
+            "change"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sparkling water",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hopelessness",
+            "die"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "thirst",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "unexpected inspiration",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "adventure",
+            "die"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "boredom",
+            "die"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Compassionate Plea",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "exclusive collaboration",
+            "share"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Sparkling Clarity",
+            "know"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "triumphant victory",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "success",
+            "get"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mystery",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "betrayal",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cooling Sensation",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hatred",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "innovative technology",
+            "buy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kindness",
+            "kill"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Exclusive Offer",
+            "buy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Urgent Deadline",
+            "pay"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Joyful Moment",
+            "live"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Unbearable Heat",
+            "die"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Exclusive Discount",
+            "buy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Gentle Sunlight",
+            "kill"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Savory Seasoning",
+            "drink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "novel experience",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vengeance",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ambition",
+            "kill"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "minimalist lifestyle",
+            "live"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fiery passion",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compelling story",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "anxiety",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Team Spirit",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "discount",
+            "buy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "friendship",
+            "kill"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Spontaneous Idea",
+            "change"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "alluring texture",
+            "add"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "unexplored mystery",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "unanswered question",
+            "ask"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fiery sunset",
+            "die"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "unwavering hope",
+            "die"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "romantic gesture",
+            "buy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "frustration",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "unfinished story",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tempting dessert",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "unexpected compliment",
+            "add"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mouthwatering flavor",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Enticing Opportunity",
+            "buy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Exquisite Presentation",
+            "pay"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Exclusive Event",
+            "pay"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Whimsical Daydream",
+            "die"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "serenity",
+            "live"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "unwavering determination",
+            "know"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Intellectual Challenge",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Fiery Determination",
+            "kill"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "vengeful rage",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "intriguing question",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "soothing music",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "generosity",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Captivating Melody",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Heartfelt Emotion",
+            "kill"
+        ],
+        "label": 0
+    }
+]

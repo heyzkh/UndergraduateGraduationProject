@@ -1,0 +1,22 @@
+[
+    [
+        "The event <ENT0> starts with the subevent <ENT1> .",
+        0.23170359576199753
+    ],
+    [
+        "The event <ENT0> begins with the subevent <ENT1> .",
+        0.2248791693868618
+    ],
+    [
+        "The event <ENT0> starts from the subevent <ENT1> .",
+        0.21030207998437256
+    ],
+    [
+        "<ENT0> is an event that begins with subevent <ENT1> .",
+        0.20415164452958234
+    ],
+    [
+        "The event <ENT0> has <ENT1> as its initial subevent .",
+        0.12896351033718584
+    ]
+]

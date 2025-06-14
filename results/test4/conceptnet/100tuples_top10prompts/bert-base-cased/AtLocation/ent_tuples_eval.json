@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "hay bale",
+            "barn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wine cellar",
+            "basement"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "window cleaner",
+            "kitchen"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bar stool",
+            "kitchen"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "milk carton",
+            "kitchen"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "coffee cup",
+            "kitchen"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tour guide",
+            "park"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "street vendor",
+            "market"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "washing machine",
+            "kitchen"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "taxi driver",
+            "street"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wine rack",
+            "cellar"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "construction worker",
+            "building"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "water",
+            "lake"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "car",
+            "garage"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "laundry room",
+            "basement"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "picnic table",
+            "park"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "home",
+            "building"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "book",
+            "library"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Book Cart",
+            "library"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fire",
+            "forest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "room",
+            "building"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fisherman",
+            "lake"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "street performer",
+            "park"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "construction crane",
+            "building"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bed",
+            "room"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "potato bin",
+            "kitchen"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "antique dealer",
+            "house"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gardener",
+            "house"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "football",
+            "field"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "deer",
+            "lake"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bar patron",
+            "restaurant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "swan",
+            "lake"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ranger",
+            "park"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bat",
+            "house"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "plate",
+            "table"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "miner",
+            "cave"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pillow",
+            "bed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lifeguard",
+            "beach"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "raft",
+            "lake"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stalactite",
+            "cave"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lighthouse",
+            "beach"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "beaver",
+            "lake"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blender",
+            "kitchen"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "firefighter",
+            "building"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "barista",
+            "restaurant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bear",
+            "cave"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "receptionist",
+            "office"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fireplace",
+            "kitchen"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "teller",
+            "bank"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "student",
+            "house"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tourist",
+            "park"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "refrigerator",
+            "kitchen"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "squirrel",
+            "forest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bookworm",
+            "library"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sofa",
+            "kitchen"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "teacher",
+            "house"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chef",
+            "kitchen"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "playground",
+            "park"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Mushroom",
+            "house"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "surfer",
+            "beach"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "janitor",
+            "building"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Librarian",
+            "library"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "heron",
+            "lake"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "oven",
+            "kitchen"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "reader",
+            "library"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bouncer",
+            "bar"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shepherd",
+            "barn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "furnace",
+            "basement"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hiker",
+            "park"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rug",
+            "house"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pub",
+            "street"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "duckling",
+            "lake"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "audience",
+            "stage"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "frog",
+            "lake"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dishwasher",
+            "kitchen"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Mechanic",
+            "house"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "singer",
+            "house"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "artist",
+            "gallery"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "postman",
+            "building"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mayor",
+            "city"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "waiter",
+            "restaurant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "architect",
+            "house"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "podium",
+            "building"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "painter",
+            "house"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coaster",
+            "park"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bartender",
+            "kitchen"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pedestrian",
+            "street"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "farmer",
+            "house"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spelunker",
+            "basement"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "nightstand",
+            "room"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blacksmith",
+            "village"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blacksmith",
+            "village"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Astronaut",
+            "room"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "angler",
+            "lake"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dancer",
+            "bar"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "researcher",
+            "library"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Bookshelf",
+            "library"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cartographer",
+            "map"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "explorer",
+            "cave"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "haystack",
+            "barn"
+        ],
+        "label": 1
+    }
+]

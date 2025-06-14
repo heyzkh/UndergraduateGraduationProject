@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "ask questions",
+            "answer questions"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "collect",
+            "keep collecting"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "always ask",
+            "ask questions"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "actually stab",
+            "stab people"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fake information",
+            "fake news"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "always fail",
+            "fail badly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ask questions",
+            "answer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "experiment",
+            "test theory"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "never retire",
+            "retire early"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mail",
+            "send mail"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "really fast",
+            "fast enough"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "make bread",
+            "bake"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "use em",
+            "spam"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "use email",
+            "communicate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "use java",
+            "code"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "get together",
+            "meet"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "come forth",
+            "speak"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "die",
+            "live"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fake twitter",
+            "Fake News"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "question",
+            "answer questions"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "never forget",
+            "regret"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "get rich",
+            "money"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crochet",
+            "knit yarn"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "make tea",
+            "brew"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "put stuff",
+            "put away"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Fake Name",
+            "Fake Identity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "actually enroll",
+            "participate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "make coffee",
+            "brew"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "use gif",
+            "tweet"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "play",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "write",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "take part",
+            "participate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pick flowers",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "get money",
+            "spend"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shoot",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sign onto",
+            "sign away"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "make bread",
+            "toast"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "die",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sell",
+            "buy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "write",
+            "publish"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "die",
+            "survive"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "start selling",
+            "cash"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shoot",
+            "hit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "read",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "always act",
+            "act good"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shovel",
+            "dig holes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "take blood",
+            "test"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "never fail",
+            "achieve"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "play",
+            "score"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "want money",
+            "spend"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kill",
+            "live"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "think",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fly",
+            "go somewhere"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "write",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kill",
+            "steal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "make pun",
+            "joke"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Drown",
+            "Go Home"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "eat",
+            "live"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "post",
+            "comment"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "use code",
+            "debug"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "die",
+            "kill"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "eat",
+            "drink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "investigate",
+            "find answers"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "move",
+            "leave"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "read",
+            "understand"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ask",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "die",
+            "leave"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fight",
+            "lose"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "move",
+            "stay"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "post",
+            "share"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "walk",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "know",
+            "understand"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "say",
+            "talk"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lie",
+            "hide"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pay",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "act",
+            "gain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shoot",
+            "fire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "say",
+            "change"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "play",
+            "lose"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lie",
+            "gain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "think",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "play",
+            "hit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "read",
+            "think"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "say",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "think",
+            "believe"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "collect",
+            "keep stuff"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "eat",
+            "survive"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "like",
+            "love"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "donate",
+            "give"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "really med",
+            "meditate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "know",
+            "share"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "know",
+            "trust"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "write",
+            "change"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "eat",
+            "exercise"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pick litter",
+            "recycle"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "put away",
+            "keep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "speak",
+            "understand"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sell",
+            "profit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "look",
+            "see"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "think",
+            "win"
+        ],
+        "label": 1
+    }
+]

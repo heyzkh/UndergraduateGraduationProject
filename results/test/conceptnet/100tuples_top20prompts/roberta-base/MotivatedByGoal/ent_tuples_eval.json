@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "else elect",
+            "vote"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "always stir",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "always swim",
+            "fish"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "else upload",
+            "share"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "always wrong",
+            "blame"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "else stir",
+            "drink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "else inject",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "often overlook",
+            "perfection"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "never disappoint",
+            "perfection"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "often overlook",
+            "praise"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "often overlook",
+            "blame"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "else near",
+            "close"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "always swim",
+            "water"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "often opt",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "never disappoint",
+            "please"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "never correct",
+            "better"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "often overlook",
+            "attention"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "never correct",
+            "improve"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "never disappoint",
+            "greatness"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "always neglect",
+            "perfection"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sneak",
+            "steal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "elect",
+            "power"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wrong",
+            "hurt others"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "elect",
+            "vote"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "elect",
+            "control"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stab",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wrong",
+            "hurt another"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "elect",
+            "influence"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wrong",
+            "good things"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wrong",
+            "good karma"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stab",
+            "revenge"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drown",
+            "drink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "inject",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stab",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "inject",
+            "control"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "drown",
+            "fish"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "inject",
+            "pain"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stab",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stab",
+            "pain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stir",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drown",
+            "water"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "inject",
+            "blood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "drown",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "drown",
+            "death"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "borrow",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cough",
+            "vomit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stir",
+            "power"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stir",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "borrow",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cough",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "upload",
+            "share"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "borrow",
+            "pay"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cough",
+            "air"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "neglect",
+            "please"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "neglect",
+            "change"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "neglect",
+            "love"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "upload",
+            "post"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cough",
+            "smoke"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "withhold",
+            "silence"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "neglect",
+            "attention"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "upload",
+            "video"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "upload",
+            "spam"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "borrow",
+            "money"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "borrow",
+            "buy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "opt",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "opt",
+            "control"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cancel",
+            "change"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "withhold",
+            "revenge"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "opt",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "withhold",
+            "control"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "near",
+            "kill"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "near",
+            "touch"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "opt",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cancel",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cancel",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "near",
+            "close"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "withhold",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cancel",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "withhold",
+            "hide"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cancel",
+            "travel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "near",
+            "see"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pawn",
+            "profit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "resign",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "resign",
+            "leave"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "withdraw",
+            "return"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pawn",
+            "cash"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "withdraw",
+            "change"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "resign",
+            "power"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pawn",
+            "steal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pawn",
+            "money"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "resign",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "resign",
+            "quit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "withdraw",
+            "leave"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "withdraw",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pawn",
+            "trade"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "withdraw",
+            "money"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sneez",
+            "cough"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sneez",
+            "vomit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sneez",
+            "air"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sneez",
+            "milk"
+        ],
+        "label": 0
+    }
+]

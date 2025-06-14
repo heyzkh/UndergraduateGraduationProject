@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "watching porn",
+            "masturbation"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "giving birth",
+            "labor"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wearing underwear",
+            "sweat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nursing",
+            "breast feeding"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "taking aspirin",
+            "headaches"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wearing sunglasses",
+            "blind"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "getting sick",
+            "fever"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "using facebook",
+            "spam"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "watching porn",
+            "pornography"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "making mistakes",
+            "frustration"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "building trust",
+            "distrust"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "getting older",
+            "aging"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wearing shorts",
+            "sweat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "making progress",
+            "frustration"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "making decisions",
+            "uncertainty"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "taking bath",
+            "relaxing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "experiencing trauma",
+            "flashbacks"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "building trust",
+            "mistrust"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wearing sunglasses",
+            "headaches"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "taking action",
+            "frustration"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "taking drugs",
+            "paranoia"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "getting older",
+            "changes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "getting started",
+            "difficulties"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "growing older",
+            "aging"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pregnant",
+            "breast milk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "developing hiv",
+            "infections"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "watching videos",
+            "laughing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "undergoing childbirth",
+            "labor"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "still alive",
+            "dead"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "experiencing ptsd",
+            "suicidal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "downtown",
+            "street corner"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "performing yoga",
+            "sweat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "using facebook",
+            "messages"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "obese",
+            "weight gain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "experiencing ptsd",
+            "flashbacks"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "racing",
+            "Car Wreck"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "making progress",
+            "success"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "changing weather",
+            "rain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wearing white",
+            "blue"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "downtown",
+            "street vendors"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stressed",
+            "mood swings"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "receiving treatments",
+            "medication"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "studying science",
+            "research"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "receiving treatments",
+            "suffering"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nursing",
+            "breast milk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "developing hiv",
+            "malaria"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "growing older",
+            "changes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "making progress",
+            "difficulties"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Losing",
+            "Negative Feelings"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "using software",
+            "errors"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "taking medication",
+            "seizures"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "undergoing surgery",
+            "anesthesia"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dark",
+            "light color"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "starting treatment",
+            "relapse"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "watching people",
+            "empathy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Losing",
+            "Negative Mood"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "racing",
+            "Car Crashes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "still single",
+            "marriage"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "receiving hiv",
+            "infection"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "using software",
+            "issues"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "planning",
+            "time spent"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "filming",
+            "camera lens"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "undergoing therapy",
+            "counseling"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "changing weather",
+            "changes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "studying mathematics",
+            "difficulty"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "giving back",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "biking",
+            "head injury"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "undergoing childbirth",
+            "complications"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "going past",
+            "stop"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "speeding",
+            "car crash"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "performing sports",
+            "injury"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "changing path",
+            "cross"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "looking",
+            "eye level"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "building relationships",
+            "distrust"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "receiving therapy",
+            "counseling"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lying",
+            "false consciousness"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "testing",
+            "test results"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "developing relationship",
+            "jealousy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "going blind",
+            "blindness"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Obese",
+            "Weight Loss"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "developing relationships",
+            "jealousy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "searching",
+            "Search Terms"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lying",
+            "false memories"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "losing",
+            "negative experience"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "undergoing pregnancy",
+            "labor"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "asleep",
+            "sleepwalking"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "performing sports",
+            "injuries"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drinking",
+            "drunk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lying",
+            "false information"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "filming",
+            "camera roll"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "talk",
+            "Self Talk"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "going public",
+            "issues"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rational",
+            "irrational behavior"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lying",
+            "false positive"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sleeping",
+            "dreaming"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Losing",
+            "Negative Thoughts"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "recording",
+            "sound quality"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "seeing",
+            "eye sight"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "later",
+            "better quality"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "commuting",
+            "traffic jams"
+        ],
+        "label": 1
+    }
+]

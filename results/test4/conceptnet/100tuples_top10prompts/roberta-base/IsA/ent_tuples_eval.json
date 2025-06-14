@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "golden retriever",
+            "dog"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Labrador Retriever",
+            "dog"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "muscle contraction",
+            "contraction muscle"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Stem Cell",
+            "Cell Cells"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "water pipe",
+            "pipe structure"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hot-air balloon",
+            "balloon rocket"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "python",
+            "python snake"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "python",
+            "python snake"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "python",
+            "python snake"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "American Bison",
+            "animal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tarantula",
+            "snake"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tarantula",
+            "snake"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tarantula",
+            "snake"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tarantula",
+            "snake"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tarantula",
+            "snake"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chemical compound",
+            "substance"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chemical compound",
+            "substance"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sparrow",
+            "bird"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "superior frontal gyrus",
+            "brain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dandelion",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dandelion",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fine print",
+            "paper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "viper",
+            "spider"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "butterfly",
+            "butterfly insect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nematode",
+            "worm"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nematode",
+            "worm"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nematode",
+            "worm"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nematode",
+            "worm"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Pneumonia",
+            "infection"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cobra",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "baker's yeast",
+            "bacteria"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "computer mouse",
+            "mouse computer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mushroom",
+            "fungus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "luna moth",
+            "butterfly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bicep",
+            "muscle"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hemoglobin",
+            "protein"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gnat",
+            "rodent"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fruit",
+            "fruit plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cyborg",
+            "robot"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lox",
+            "fungus"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lox",
+            "fungus"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "biceps",
+            "muscle"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sunflower",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sunflower",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "infection",
+            "disease"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spasm",
+            "contraction"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cid Number",
+            "cell"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Lactobacillus",
+            "bacteria"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Wooden Shoe",
+            "footwear"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mold",
+            "fungus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Spura Leaf",
+            "Leaf Plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gibbon",
+            "animal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Database Lock",
+            "Lock System"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Notebook Binder",
+            "Notebook Paper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Notebook Binder",
+            "Notebook Paper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Mango",
+            "fruit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cid Officer",
+            "person"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Ciborium",
+            "fungus"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Customer Identification Number",
+            "identifier"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "capybara",
+            "rodent"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kitchen sponge",
+            "fungus"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kitchen sponge",
+            "fungus"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fox",
+            "fox rodent"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "basil",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "basil",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cloxacillin",
+            "antibiotic"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "retrovirus",
+            "infection"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "coronavirus",
+            "cancer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coronavirus",
+            "cancer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cricket",
+            "bat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "duodenum",
+            "worm"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spring",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Musical Group",
+            "band"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clone",
+            "virus"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "vivacity",
+            "animal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "building",
+            "structure"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Puppy",
+            "dog"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "buffalo",
+            "animal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hay",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hay",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hay",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Sporocyte",
+            "cell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Sporocyte",
+            "cell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "coxswain",
+            "animal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kaon",
+            "worm"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "racecar",
+            "vehicle"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "movie",
+            "film"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "aquaore",
+            "fish"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coin",
+            "animal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "viroid-like rna",
+            "cancer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "clicelet",
+            "cell"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "monarch",
+            "person"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "asteridius",
+            "fungus"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "microix",
+            "worm"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spice",
+            "food"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "director",
+            "person"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "airport",
+            "facility"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Sprite",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Notebook",
+            "cell"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "**Kaon**",
+            "fungus"
+        ],
+        "label": 0
+    }
+]

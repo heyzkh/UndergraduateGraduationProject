@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "graduate",
+            "study law"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "graduate",
+            "take exams"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "take measures",
+            "consider"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dice",
+            "roll dice"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "finish",
+            "restart"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "finish",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "take precautions",
+            "consider"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "finish",
+            "start"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "get lost",
+            "search"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "finish",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "get help",
+            "contact"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "graduated",
+            "study law"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dig",
+            "drill holes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "finish",
+            "complete"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "resolve issue",
+            "issue error"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "finished",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "double",
+            "triple double"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "complete",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "finished",
+            "restart"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "reach civilization",
+            "explore"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "receive",
+            "send mail"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "got lost",
+            "search"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "get together",
+            "meet"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "get together",
+            "share"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "complete",
+            "enter"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "evolve",
+            "become stronger"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "complete",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "said sorry",
+            "apologize"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chat",
+            "send messages"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shout",
+            "yell louder"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "save",
+            "reload"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "finished",
+            "start"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "finished",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "go fishing",
+            "catch"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "reach death",
+            "kill"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "register",
+            "login"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "separate",
+            "split apart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "register",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "save",
+            "print"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "save",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "eat",
+            "drink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cast",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "enable preferences",
+            "configure"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "run",
+            "reload"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "finished",
+            "complete"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "register",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Completed Drilling",
+            "Drill Holes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "eat",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "enter",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cast",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "register",
+            "enter"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "eat",
+            "continue"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "eat",
+            "repeat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "save",
+            "execute"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "login",
+            "execute"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "resolve items",
+            "resolve objects"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "save",
+            "exit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "reach land",
+            "explore"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "initialize",
+            "execute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "login",
+            "print"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "login",
+            "register"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cast",
+            "select"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cast",
+            "edit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "enter",
+            "click"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "swap",
+            "exchange currency"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "initialize",
+            "call"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "got money",
+            "invest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "freeze",
+            "cool completely"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "said bye",
+            "come home"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "initialize",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "enter",
+            "exit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chat",
+            "send message"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "know",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "resolve failure",
+            "resolve success"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "know",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "exhaust fuel",
+            "refuel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "move upstairs",
+            "relocate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "begin meditation",
+            "recite"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "died",
+            "Live Forever"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "click",
+            "select"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "succeed",
+            "restart"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "click",
+            "tap"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "exit",
+            "reload"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pass",
+            "restart"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "exit",
+            "restart"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "start",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "got better",
+            "improve"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "know",
+            "see"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "continue",
+            "reload"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "prepare",
+            "practice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "click",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "breathe",
+            "repeat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "agree",
+            "sign"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "return",
+            "reload"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "merge",
+            "add"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "exhaust",
+            "start"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "compile",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "know",
+            "ask"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "earned",
+            "Earn Money"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "create",
+            "execute"
+        ],
+        "label": 1
+    }
+]

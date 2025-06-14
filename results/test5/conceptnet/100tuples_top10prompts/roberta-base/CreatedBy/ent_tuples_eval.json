@@ -1,0 +1,695 @@
+[
+    {
+        "entity_tuple": [
+            "fashion accessory",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "code",
+            "programmer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "program",
+            "programmer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pastry chef",
+            "Chef Cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pastry chef",
+            "Chef Cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bread",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cookie",
+            "cook cookie"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "artwork",
+            "artist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "composition",
+            "composer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "game",
+            "programmer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "software",
+            "programmer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dough",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fashion collection",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "music",
+            "composer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "film",
+            "director"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "character",
+            "writer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fashion line",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Poem",
+            "Poet"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pizza",
+            "chef"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "beer",
+            "brewer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fable",
+            "writer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "novel",
+            "writer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "song",
+            "composer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chocolate",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "opera",
+            "composer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "soup",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blueprint",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "quiche",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "quiche",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "libretto",
+            "composer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cake",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "omelette",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "recipe",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chef",
+            "chef cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Sculpture",
+            "Artist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Sculpture",
+            "Artist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "speech",
+            "speaker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stew",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "storybook",
+            "writer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "smoothie",
+            "blender"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "confection",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "symphony",
+            "composer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "painting",
+            "painter"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "architecture",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "universe",
+            "creator"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "algorithm",
+            "programmer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "comic",
+            "writer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pie",
+            "piepie"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "application",
+            "programmer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ore",
+            "producer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pottery",
+            "smith"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "album",
+            "producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "melody",
+            "composer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "furniture",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "loaf",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "photograph",
+            "photographer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "manuscript",
+            "writer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Constitution",
+            "President"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Perfume",
+            "producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ballet",
+            "dancer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Muffin",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sauce",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sonnet",
+            "composer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cantata",
+            "composer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "potter",
+            "smith"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "team",
+            "manager"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Sculptor",
+            "Artist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Sculptor",
+            "Artist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "orchestra",
+            "conductor"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cheesecake",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gadget",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tale",
+            "writer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ballad",
+            "composer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "croissant",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "equation",
+            "math"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "speaker",
+            "producer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "handicraft",
+            "smith"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "weaver",
+            "designer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "haiku",
+            "Haha"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ravine",
+            "cook"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "caramel",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sonata",
+            "composer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Baker",
+            "producer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "screenplay",
+            "writerwriter"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "screenplay",
+            "writerwriter"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lyricist",
+            "composer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "anthem",
+            "singer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pastry",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pastry",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hypothesis",
+            "scientist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "screenwriter",
+            "writerwriter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "playwright",
+            "Wrightwright"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "artisan",
+            "Artisansmith"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Lullaby",
+            "Poet"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "robotics",
+            "programmer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "roofer",
+            "builder"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "jewelry",
+            "smith"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clock",
+            "clockclock"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sonneteer",
+            "composer"
+        ],
+        "label": 0
+    }
+]

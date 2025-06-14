@@ -1,0 +1,18 @@
+[
+    [
+        "Something that <ENT0> can typically do is <ENT1> .",
+        0.4103933087674667
+    ],
+    [
+        "One common action a <ENT0> can take is to <ENT1> . (Note: ENT0 and ENT1 conform to objective facts.) .",
+        0.2305875960487902
+    ],
+    [
+        "One frequent step <ENT0> may take is to <ENT1> . (Note: ENT0 and ENT1 conform to objective facts.) .",
+        0.18051577938855995
+    ],
+    [
+        "<ENT0> can typically <ENT1> . (Note: ENT0 and ENT1 conform to objective facts.) .",
+        0.17850331579518308
+    ]
+]

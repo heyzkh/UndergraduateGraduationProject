@@ -1,0 +1,75 @@
+{
+    "Prevention": {
+        "init_prompts": [
+            "<ENT0> is the means for <ENT1> prevention ."
+        ],
+        "seed_ent_tuples": [
+            [
+                "rabies_vaccine",
+                "rabies"
+            ],
+            [
+                "bifidobacterium",
+                "rickets"
+            ],
+            [
+                "zinc_supplementation",
+                "preterm birth"
+            ],
+            [
+                "dtp_vaccine",
+                "whooping_cough"
+            ],
+            [
+                "smoking_cessation",
+                "coronary_artery_disease"
+            ]
+        ],
+        "prompts": [
+            "<ENT0> can help prevent <ENT1> .",
+            "The <ENT0> is used to prevent <ENT1> .",
+            "The <ENT0> can assist in preventing <ENT1> .",
+            "<ENT0> could help lower the risk of <ENT1> .",
+            "<ENT0> may aid in reducing the risk of <ENT1> .",
+            "<ENT0> serves as a method for preventing <ENT1> .",
+            "<ENT0> might help decrease the likelihood of <ENT1> .",
+            "<ENT0> acts as a strategy to reduce the risk of <ENT1> .",
+            "The <ENT0> can help lower the likelihood of contracting <ENT1> ."
+        ]
+    },
+    "Stage": {
+        "init_prompts": [
+            "<ENT1> is the stage of <ENT0> development ."
+        ],
+        "seed_ent_tuples": [
+            [
+                "oral_mucositis",
+                "moderate_pain"
+            ],
+            [
+                "depression",
+                "mild"
+            ],
+            [
+                "rabies",
+                "late_stage"
+            ],
+            [
+                "adult_asthma",
+                "mild_intermittent_exacerbation"
+            ],
+            [
+                "childhood_diabetes",
+                "intermittent_remission"
+            ]
+        ],
+        "prompts": [
+            "<ENT1> marks the progression of <ENT0> .",
+            "<ENT1> indicates the advancement of <ENT0> .",
+            "The <ENT1> is the phase of <ENT0> progression .",
+            "The <ENT1> is when <ENT0> has progressed significantly .",
+            "<ENT1> represents an early stage in the progression of <ENT0> .",
+            "<ENT1> indicates an initial phase in the development of <ENT0> ."
+        ]
+    }
+}

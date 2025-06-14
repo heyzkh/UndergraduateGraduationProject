@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "series finale",
+            "series finals"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subtext",
+            "type text"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subtype",
+            "type void"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "series finale",
+            "episode finale"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "subtext",
+            "type string"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "event summary",
+            "details"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "event summary",
+            "overview"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Event Cycle",
+            "update"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "list",
+            "title"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "list",
+            "events"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sub event",
+            "end"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "series",
+            "events"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "list",
+            "entry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "list",
+            "name"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "list",
+            "description"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subtype",
+            "result"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subloop",
+            "end"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "subloop",
+            "return"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subloop",
+            "looping"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subloop",
+            "handler"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subtype",
+            "signature"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subtext",
+            "statement"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "submatch",
+            "winner"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "listing",
+            "name"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subtext",
+            "message"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "usually",
+            "events like"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subindex",
+            "result"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "listing",
+            "eventlist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "always",
+            "like"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "submatch",
+            "matches"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subindex",
+            "data"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subflow",
+            "completion"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subthread",
+            "handler"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subflow",
+            "output"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subrecord",
+            "entry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "submatch",
+            "final"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "submatch",
+            "end"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subevents",
+            "end"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subthread",
+            "loop"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "always",
+            "called"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sublist",
+            "eventlist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sub event",
+            "match"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "eventing",
+            "closing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "submatch",
+            "results"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subrecord",
+            "name"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subtype",
+            "subcategory"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "always",
+            "named"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subgroup",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subevents",
+            "closing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subrecord",
+            "call"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sublist",
+            "subcategory"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subthread",
+            "result"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subcategory",
+            "index"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subgroup",
+            "result"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subthread",
+            "end"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "subevents",
+            "completion"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subevents",
+            "results"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subevents",
+            "final"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subthread",
+            "message"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subloop",
+            "loopbreak"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "always",
+            "events"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subheader",
+            "title"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subheader",
+            "update"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sublist",
+            "Subtitle"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subheader",
+            "entry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "eventing",
+            "meeting"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "always",
+            "call"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "eventlist",
+            "Listing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "series",
+            "eventbreak"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Subtitle",
+            "description"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "subtype",
+            "Subclass"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Subset",
+            "subindex"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Listings",
+            "lists"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Subtitle",
+            "subdescription"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "eventlist",
+            "listevent"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Subset",
+            "return"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Subset",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Listings",
+            "items"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Subset",
+            "function"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Subtitle",
+            "name"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Listings",
+            "notes"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Subsession",
+            "completion"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "today",
+            "eventbreak"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Subtitle",
+            "summary"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Subsession",
+            "call"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "eventing",
+            "ingests"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "eventing",
+            "ingames"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Listings",
+            "eventlist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "eventing",
+            "ingroup"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Subsession",
+            "endmatch"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lister",
+            "lite"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "usually",
+            "eventbreak"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Lister",
+            "Lander"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Subsession",
+            "Ende"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "usually",
+            "eventsh"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "seriesevent",
+            "final"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "seriesevent",
+            "eventevent"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "seriesevent",
+            "eventbreak"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "seriesevent",
+            "eventmatch"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "seriesevent",
+            "match"
+        ],
+        "label": 0
+    }
+]

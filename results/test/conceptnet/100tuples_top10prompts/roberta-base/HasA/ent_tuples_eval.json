@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "large trees",
+            "roots"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "large trees",
+            "branches"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "large trees",
+            "leaves"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "players",
+            "Special Abilities"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "players",
+            "different rules"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "every year",
+            "changes"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "large trees",
+            "cones"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "certain species",
+            "genes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "every year",
+            "records"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "every year",
+            "winners"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "large trees",
+            "seeds"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "every year",
+            "results"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cocks",
+            "similar behavior"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "every year",
+            "two"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "players",
+            "special skills"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "certain species",
+            "mutations"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "certain species",
+            "traits"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "people",
+            "children"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cats",
+            "claws"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "certain species",
+            "exceptions"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "certain species",
+            "hybrids"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "people",
+            "problems"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "children",
+            "parents"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bogs",
+            "different characteristics"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "people",
+            "names"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cats",
+            "teeth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "people",
+            "options"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cats",
+            "eyes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "children",
+            "toys"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "people",
+            "issues"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cets",
+            "Special Needs"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cats",
+            "kittens"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "horses",
+            "teeth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cats",
+            "tails"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "children",
+            "teeth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "children",
+            "names"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bers",
+            "different names"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "humans",
+            "preferences"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "humans",
+            "genes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "players",
+            "better game"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bails",
+            "good quality"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cers",
+            "different rules"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "humans",
+            "eyes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "things",
+            "rules"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cers",
+            "different names"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "humans",
+            "teeth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "players",
+            "similar system"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cocks",
+            "feathers"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "things",
+            "meaning"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cocks",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "things",
+            "consequences"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "things",
+            "names"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "things",
+            "problems"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cocks",
+            "similar pattern"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cocks",
+            "tails"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bogs",
+            "roots"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "furs",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rations",
+            "prices"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bogs",
+            "dams"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fives",
+            "two"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "furs",
+            "lines"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rations",
+            "caps"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bogs",
+            "rules"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bogs",
+            "water"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "furs",
+            "prices"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fives",
+            "points"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fives",
+            "three"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rations",
+            "points"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bails",
+            "caps"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fives",
+            "numbers"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "furs",
+            "rules"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rations",
+            "problems"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bers",
+            "limits"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rts",
+            "similar structure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bails",
+            "strings"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cets",
+            "claws"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bers",
+            "problems"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bails",
+            "limits"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bails",
+            "provisions"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bers",
+            "exceptions"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cets",
+            "ears"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cets",
+            "horns"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cers",
+            "limits"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cers",
+            "exceptions"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rts",
+            "values"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rts",
+            "limits"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bns",
+            "strings"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cers",
+            "values"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cets",
+            "tails"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rds",
+            "features"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bts",
+            "similar pattern"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bns",
+            "issues"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rds",
+            "strings"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rts",
+            "points"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rds",
+            "options"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rts",
+            "exceptions"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bts",
+            "values"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bts",
+            "strings"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bts",
+            "limits"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bts",
+            "exceptions"
+        ],
+        "label": 0
+    }
+]

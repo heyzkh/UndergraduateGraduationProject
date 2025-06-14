@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "spong",
+            "spinner"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spong",
+            "spoon"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pix",
+            "png"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pix",
+            "photo"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spasm",
+            "pulse"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pix",
+            "gif"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spittle",
+            "paint"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pau",
+            "fau"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ging",
+            "gating"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spastic",
+            "spooky"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ging",
+            "gong"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spunk",
+            "spanking"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pix",
+            "video"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spank",
+            "fank"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spunk",
+            "spank"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spank",
+            "paint"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pau",
+            "fang"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spasm",
+            "thumb"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spade",
+            "fence"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spasm",
+            "pitch"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spittle",
+            "puss"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spong",
+            "fish"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spank",
+            "fart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spunk",
+            "pump"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spade",
+            "arrow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spool",
+            "spindle"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pau",
+            "nose"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spasm",
+            "thump"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cine",
+            "pulse"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spade",
+            "fang"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cine",
+            "puzzle"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spastic",
+            "fusion"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spank",
+            "pitch"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spastic",
+            "pitch"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pix",
+            "map"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pau",
+            "foe"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spastic",
+            "fuzz"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spade",
+            "fade"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spence",
+            "pulse"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spence",
+            "nose"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spooky",
+            "fantasy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spade",
+            "fishing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "biz",
+            "money"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cine",
+            "pony"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cine",
+            "pio"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cing",
+            "coding"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ppl",
+            "ppp"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spence",
+            "pierce"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spooky",
+            "fringe"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spool",
+            "pulse"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spire",
+            "tree"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "biz",
+            "business"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spooky",
+            "fuzz"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gint",
+            "mark"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ging",
+            "glut"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spool",
+            "pump"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gee",
+            "hoo"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spooky",
+            "fooky"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spire",
+            "section"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "biz",
+            "market"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cing",
+            "Citing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spool",
+            "pore"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spittle",
+            "see"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Gee",
+            "see"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ppl",
+            "npr"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gee",
+            "hose"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "png",
+            "gzip"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ppl",
+            "nth"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spic",
+            "pico"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "png",
+            "gut"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spine",
+            "height"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pau",
+            "finally"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ppl",
+            "Npm"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spic",
+            "pitch"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spunk",
+            "pink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cing",
+            "choking"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sph",
+            "spf"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spine",
+            "body"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sprit",
+            "spinner"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spine",
+            "bone"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spittle",
+            "paper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spic",
+            "pig"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sph",
+            "thx"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sprit",
+            "spire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spine",
+            "skin"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sprit",
+            "pulse"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sph",
+            "psh"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spong",
+            "pink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "png",
+            "gps"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "biz",
+            "com"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spittle",
+            "pink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Gee",
+            "hope"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sph",
+            "thump"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sph",
+            "Thw"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spastic",
+            "pink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spine",
+            "back"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "png",
+            "graphics"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Gee",
+            "Huh"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spic",
+            "pink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sprit",
+            "spirit"
+        ],
+        "label": 1
+    }
+]

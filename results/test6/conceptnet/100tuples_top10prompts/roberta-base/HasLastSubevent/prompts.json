@@ -1,0 +1,14 @@
+[
+    [
+        "After you <ENT0>, you will need to <ENT1> .",
+        0.5748460152319704
+    ],
+    [
+        "After the event \"<ENT0>\" has occurred, the subevent \"<ENT1>\" will take place .",
+        0.11271048390052314
+    ],
+    [
+        "The event \"<ENT0>\" concludes with the subevent \"<ENT1>\" .",
+        0.10365972331009198
+    ]
+]

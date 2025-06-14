@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "Small Town",
+            "settlement"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "syrup",
+            "food syrup"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "snowstorm",
+            "snow storm"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "water shortage",
+            "problem"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Oak",
+            "Oak Tree"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "forest",
+            "Forest Tree"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rice",
+            "food rice"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "banana",
+            "food product"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "barley",
+            "wheat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wheat",
+            "crop"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wheat",
+            "crop"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "potato",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "banana",
+            "fruit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "giraffe",
+            "animal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mushroom",
+            "fungus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "potato",
+            "crop"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "beer",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blueberry",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "yeast",
+            "fungus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "plant",
+            "organism"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pear",
+            "fruit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wheat",
+            "cereal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lamb",
+            "animal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "carrot",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "beer",
+            "beverage"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "yeast",
+            "organism"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "disease",
+            "illness"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cheese",
+            "product"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "campfire",
+            "fire food"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "asthma",
+            "disease"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "honey",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mold",
+            "fungus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "corn",
+            "maize"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pig",
+            "livestock"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clay",
+            "soil"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "penguin",
+            "animal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pig",
+            "creature"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "beer",
+            "product"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "banana",
+            "crop"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "depression",
+            "disease"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "basil",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bowl",
+            "container"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dew",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cornfield",
+            "land"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "building",
+            "structure"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "apple",
+            "fruit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mango",
+            "fruit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "depression",
+            "condition"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sorghum",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "coconut",
+            "fruit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cereal",
+            "product"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pepper",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "family",
+            "group"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "metropolis",
+            "city"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "silk",
+            "textile"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wool",
+            "material"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kangaroo",
+            "animal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compost",
+            "soil"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "beef",
+            "meat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "plateau",
+            "region"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "plateau",
+            "region"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cherry",
+            "fruit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "juice",
+            "fruit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "melanoma",
+            "cancer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stallion",
+            "animal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "juniper",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Neighborhood",
+            "community"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "probiotic",
+            "bacteria"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sandstone",
+            "rock"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "elephant",
+            "animal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pottery",
+            "material"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "granite",
+            "rock"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "octopus",
+            "fish"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "woodland",
+            "forest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "almond",
+            "fruit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pasture",
+            "land"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "avocado",
+            "fruit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kiwi",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fox",
+            "animal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "monsoon",
+            "crop"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mustang",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pneumonia",
+            "disease"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "meadow",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "quinoa",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bridge",
+            "structure"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "elderberry",
+            "fruit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "linen",
+            "cloth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "soybean",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "corporation",
+            "organization"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pineapple",
+            "fruit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Laptop",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "whiskey",
+            "wine"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "canoe",
+            "vessel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "baking",
+            "bread"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "adaptation",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mycobacterium",
+            "bacteria"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "oatmeal",
+            "bread"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cyanobacteria",
+            "organism"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "earthquake",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Buckwheat",
+            "crop"
+        ],
+        "label": 1
+    }
+]

@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "statue",
+            "human dignity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "statue",
+            "human nature"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "symbol often",
+            "political power"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "symbol often",
+            "political movements"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pence",
+            "British Nationalism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "statue",
+            "human spirit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "swastika",
+            "fascism"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "statue",
+            "human life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cross",
+            "unity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "swastika",
+            "nationalism"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "statue",
+            "Human Race"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "symbol often",
+            "political struggle"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "swastika",
+            "racism"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "swastika",
+            "genocide"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pence",
+            "British Independence"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "swastika",
+            "oppression"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "flag",
+            "unity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cross",
+            "Christianity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "flag",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cross",
+            "freedom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sword",
+            "war"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "flag",
+            "independence"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cross",
+            "equality"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sword",
+            "unity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "flag",
+            "democracy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Redhead",
+            "Black People"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "circle",
+            "unity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "flag",
+            "equality"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pence",
+            "liberty"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "red triangle",
+            "infinity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cross",
+            "Jesus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "red thread",
+            "infinity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "circle",
+            "infinity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "circle",
+            "space"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pence",
+            "money"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "red thread",
+            "blue"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "red thread",
+            "black"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "circle",
+            "life"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pence",
+            "British Society"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "swast symbol",
+            "Hitler"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "circle",
+            "equality"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nose",
+            "consciousness"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "swast symbol",
+            "war"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nose",
+            "mouth"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "redhead",
+            "blackness"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crossleaf",
+            "crossroads"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "nose",
+            "hair"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Red Text",
+            "black"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pix",
+            "humanism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "swastik",
+            "fascism"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "redhead",
+            "diversity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "nate",
+            "infinity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "redhead",
+            "black"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "swastik",
+            "Hitler"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "redhead",
+            "death"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "swastik",
+            "racism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "swastik",
+            "war"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "swastik",
+            "violence"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crossbeam",
+            "rainbow colors"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cate",
+            "humanity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cate",
+            "love"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "symbolized",
+            "inequality"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crossbeam",
+            "rainbow color"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crosshair",
+            "crossbow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crossleaf",
+            "crossbow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cate",
+            "marriage"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "peter",
+            "death"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crossbar",
+            "crossbones"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crossbeam",
+            "rainbow energy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "swastiki",
+            "Hinduism"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "swast logo",
+            "Hitler"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crossbar",
+            "crossbow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crossbar",
+            "crossword"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "peter",
+            "humanism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "swast logo",
+            "war"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "peter",
+            "water"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "swast logo",
+            "genocide"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "redhat",
+            "humanism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "swastiki",
+            "fascism"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "swastiki",
+            "war"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "swastiki",
+            "genocide"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "swastiki",
+            "violence"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "swastoid",
+            "Hitler"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "swastoid",
+            "death"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "swastoid",
+            "racism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "nation",
+            "democracy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "swastoid",
+            "evil"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "swastoid",
+            "fascism"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nation",
+            "sovereignty"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nation",
+            "humanity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "swastisk",
+            "fascism"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "swastisk",
+            "Hitler"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "swastisk",
+            "genocide"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "swastisk",
+            "racism"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "swastisk",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "swastica",
+            "Hindu Religion"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "swastica",
+            "Hinduism"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "swastica",
+            "Hindu Culture"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "swastica",
+            "Hindu Faith"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "swastica",
+            "religion"
+        ],
+        "label": 1
+    }
+]

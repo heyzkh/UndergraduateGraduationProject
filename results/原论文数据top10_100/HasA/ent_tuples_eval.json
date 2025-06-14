@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "Pokemon",
+            "Special Abilities"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Pokémon",
+            "Special Abilities"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "public toilets",
+            "stalls"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "twins",
+            "identical twins"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "public toilets",
+            "showers"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "High Yield",
+            "yields"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Soldiers",
+            "Military Uniforms"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bonds",
+            "higher yield"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cookies",
+            "Cookie Cookies"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Public Utilities",
+            "regulations"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Small Businesses",
+            "competition"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "participants",
+            "multiple participants"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "High Yields",
+            "bonds"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "human nature",
+            "limitations"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "high winds",
+            "impacts"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ratings",
+            "Negative Outlook"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "future generations",
+            "grandchildren"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Pokemon",
+            "Special Ability"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Hackers",
+            "Security Vulnerabilities"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "devices",
+            "multiple interfaces"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clients",
+            "different needs"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "humans",
+            "different behavior"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "High Yields",
+            "potential"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Pokémon",
+            "Special Ability"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Public Works",
+            "funding"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "certain types",
+            "traits"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "soldiers",
+            "military training"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dogs",
+            "different temperament"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "objects",
+            "special attributes"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "every child",
+            "siblings"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "participants",
+            "multiple choices"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rains",
+            "heavy rains"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "large buildings",
+            "floors"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "big projects",
+            "deadlines"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "future versions",
+            "updates"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shares",
+            "higher yield"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "business",
+            "strong demand"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "High Yield",
+            "potential"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Good Work",
+            "rewards"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "reports",
+            "multiple sources"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Hackers",
+            "Security Flaws"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "markets",
+            "market share"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shares",
+            "higher valuation"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "certain states",
+            "restrictions"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "every game",
+            "highlights"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "girls",
+            "sexual relations"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "meetings",
+            "meeting times"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "certain behavior",
+            "implications"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "certain individuals",
+            "characteristics"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bad weather",
+            "rain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Big Game",
+            "highlights"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "every game",
+            "scores"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Small Size",
+            "sizes"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "competitors",
+            "better product"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "people",
+            "children"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Stocks",
+            "Strong Year"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Future Generation",
+            "technology"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rains",
+            "heavy showers"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Soldiers",
+            "Military Equipment"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "people",
+            "problems"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Common Patterns",
+            "variations"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "success",
+            "great success"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "business",
+            "strong foundation"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Large Size",
+            "sizes"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "people",
+            "preferences"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Good Thing",
+            "effect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fish",
+            "teeth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cats",
+            "claws"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "people",
+            "expectations"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "computers",
+            "different behavior"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bad Thing",
+            "repercussions"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "people",
+            "jobs"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "children",
+            "parents"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "video",
+            "multiple views"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "single thread",
+            "threads"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "trees",
+            "roots"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "birds",
+            "feathers"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cars",
+            "wheels"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ships",
+            "engines"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cats",
+            "teeth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "every family",
+            "three"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Common Thread",
+            "threads"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "trees",
+            "leaves"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "children",
+            "toys"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "future generation",
+            "generations"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cars",
+            "engines"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cats",
+            "eyes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shares",
+            "higher price"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "users",
+            "options"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "users",
+            "preferences"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cats",
+            "tails"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pokémon",
+            "wings"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Big Ship",
+            "sails"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "objects",
+            "properties"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "every person",
+            "needs"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dogs",
+            "teeth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Good Work",
+            "quality"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cats",
+            "fur"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "children",
+            "siblings"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "life",
+            "meaning"
+        ],
+        "label": 1
+    }
+]

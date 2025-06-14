@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "hunger",
+            "eat feed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hunger",
+            "eat feed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hunger",
+            "eat feed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hunger",
+            "eat feed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "falling in love",
+            "care love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "excessive hunting",
+            "hunt kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "listening to music",
+            "care listen"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "terminal illness",
+            "die"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "terminal illness",
+            "die"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kindness",
+            "care give"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kindness",
+            "care give"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kindness",
+            "care give"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kindness",
+            "care give"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "peer pressure",
+            "care withdraw"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "peer pressure",
+            "care withdraw"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "peer pressure",
+            "care withdraw"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "romance",
+            "care love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "reading novels",
+            "care read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Romantic Proposal",
+            "care give"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "meditation",
+            "care pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "meditation",
+            "care pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cute puppy",
+            "pet"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "music",
+            "sing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "music",
+            "sing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "music",
+            "sing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stress",
+            "care withdraw"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stress",
+            "care withdraw"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "reckless behavior",
+            "err"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thrill-seeking",
+            "care thrill"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "receiving compliments",
+            "admire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Loneliness",
+            "care feel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Loneliness",
+            "care feel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fresh snowfall",
+            "travel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Fertilizer",
+            "grow"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Fertilizer",
+            "grow"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Fertilizer",
+            "grow"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "confusion",
+            "care err"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Inspiration",
+            "Care Grow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Inspiration",
+            "Care Grow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Inspiration",
+            "Care Grow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Inspiration",
+            "Care Grow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Inspiration",
+            "Care Grow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "relaxing music",
+            "sing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lavender",
+            "pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Social Event",
+            "care drink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "uncertainty",
+            "err"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "anger",
+            "rage"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "anger",
+            "rage"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "anger",
+            "rage"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mistake",
+            "care err"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "seeing flawless skin",
+            "admire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Sunlight",
+            "see"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Sunlight",
+            "see"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "delicious recipe",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rude comments",
+            "respond"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "competition",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "competition",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "competition",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ambition",
+            "care grow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "frustration",
+            "care grow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sadness",
+            "cry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Role Model",
+            "admire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hatred",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hatred",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hatred",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "interesting book",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "prank",
+            "care laugh"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "curiosity",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "curiosity",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "curiosity",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "beauty",
+            "admire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "beauty",
+            "admire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Thirst",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Thirst",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Thirst",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Thirst",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "neglect",
+            "abuse"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "seeing a perfectly seared steak",
+            "admire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "motivation",
+            "act"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "motivation",
+            "act"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "motivation",
+            "act"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "melody",
+            "sing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "melody",
+            "sing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wealth",
+            "acquire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Heroism",
+            "admire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Heroism",
+            "admire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Heroism",
+            "admire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "charisma",
+            "admire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pain",
+            "hurt"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sale",
+            "buy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sale",
+            "buy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sale",
+            "buy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sale",
+            "buy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "advertisement",
+            "buy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "advertisement",
+            "buy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "trailer",
+            "buy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "trailer",
+            "buy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "profit",
+            "buy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "discount",
+            "buy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Inspires",
+            "admire"
+        ],
+        "label": 1
+    }
+]

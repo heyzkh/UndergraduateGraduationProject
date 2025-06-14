@@ -1,0 +1,38 @@
+[
+    [
+        "We typically expect that <ENT0> will have <ENT1> that is set in a certain way .",
+        0.16639608437078676
+    ],
+    [
+        "It is not uncommon for <ENT0> to have more than four <ENT1> .",
+        0.15155485470690644
+    ],
+    [
+        "We expect that there will be <ENT1> for our <ENT0> .",
+        0.1419966536505024
+    ],
+    [
+        "We would expect <ENT0> to have <ENT1>, which creates a beautiful sound .",
+        0.12646931744724058
+    ],
+    [
+        "We typically expect that <ENT0> will have set <ENT1> .",
+        0.10761244904921358
+    ],
+    [
+        "Usually, we would expect <ENT0> to have <ENT1> .",
+        0.09955516986120533
+    ],
+    [
+        "There should be <ENT1> for <ENT0> .",
+        0.08248329328511103
+    ],
+    [
+        "There are usually <ENT1> in place for <ENT0> .",
+        0.06258120936929117
+    ],
+    [
+        "We would expect there to be <ENT1> in place for <ENT0> .",
+        0.061350968259742754
+    ]
+]

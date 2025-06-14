@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "cookies",
+            "cookie jar"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bitcoin",
+            "ethereum wallet"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bitcoin",
+            "ethereum exchange"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "two eggs",
+            "shell"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bitcoin",
+            "Ethereum Coin"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "two eggs",
+            "nest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "two eggs",
+            "chicken"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bitcoin",
+            "Ethereum Network"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bitcoin",
+            "Ethereum Token"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "servers",
+            "web site"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "table"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "video",
+            "box"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fish",
+            "egg"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fish",
+            "boat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "game",
+            "box"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "aircraft",
+            "plane"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fish",
+            "shell"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "video",
+            "website"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "game",
+            "map"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "generators",
+            "generator unit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fish",
+            "tank"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fish",
+            "box"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "building",
+            "structure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "map",
+            "table"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "map"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "video",
+            "site"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "video",
+            "gallery"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "generators",
+            "generator array"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "map",
+            "box"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ships",
+            "dock"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "building",
+            "house"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "code",
+            "file"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "file"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "aircraft",
+            "helicopter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "code",
+            "object"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ship",
+            "submarine"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "building",
+            "site"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "building",
+            "bridge"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "function"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "form"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ships",
+            "submarine"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "aircraft",
+            "hangar"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "code",
+            "function"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ship",
+            "boat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ships",
+            "boat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "aircraft",
+            "ship"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ships",
+            "port"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "building",
+            "box"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ship",
+            "port"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "water",
+            "bottle"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "water",
+            "cup"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "water",
+            "cupboard"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "code",
+            "table"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "game",
+            "table"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "server",
+            "application"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ships",
+            "bridge"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "game",
+            "website"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "generators",
+            "generator block"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ship",
+            "bridge"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "game",
+            "screen"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "two",
+            "bridge"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "server",
+            "object"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "code",
+            "directory"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "map",
+            "file"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "server",
+            "file"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "water",
+            "tank"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cookies",
+            "table"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "games",
+            "website"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "player",
+            "object"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "server",
+            "directory"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "server",
+            "module"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gamepad",
+            "keyboard"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "running",
+            "line"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "aircraft",
+            "airship"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "two",
+            "third"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "games",
+            "site"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "player",
+            "screen"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Arduino",
+            "Applet"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "running",
+            "example"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cookies",
+            "site"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gamepad",
+            "gameboy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "water",
+            "cuplet"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cookies",
+            "website"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gamepad",
+            "screen"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cookies",
+            "window"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gamepad",
+            "console"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Arduino",
+            "app store"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gameboard",
+            "gamebook"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gamepad",
+            "keyboardpad"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Gamebook",
+            "gameboy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gameboard",
+            "console"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Gamebook",
+            "library"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "videoplayer",
+            "video camera"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Gamebook",
+            "website"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Gamebook",
+            "folder"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Arduino",
+            "app file"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "videoplayer",
+            "camera"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Videoplayer",
+            "film"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Videoplayer",
+            "image"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Videoplayer",
+            "screen"
+        ],
+        "label": 1
+    }
+]

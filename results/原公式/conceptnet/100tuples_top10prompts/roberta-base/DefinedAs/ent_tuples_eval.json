@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "datum",
+            "data"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Golden Nectar",
+            "Goldgold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Nourishment",
+            "food"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "glimmer",
+            "light"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "knuckle",
+            "key"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "compass",
+            "map"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chain",
+            "link"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "trail",
+            "path"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "expression",
+            "code"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Celestial Empire",
+            "space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blockage",
+            "blockblock"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gutter",
+            "art"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "silence",
+            "music"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Gratitude",
+            "giving"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Strap",
+            "link"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "murmur",
+            "sound"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ribbon",
+            "link"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blade",
+            "knife"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "momentum",
+            "time"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Markup",
+            "code"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sheath",
+            "body"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "harmony",
+            "music"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gleam",
+            "key"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shadow",
+            "shadowshadow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bridge",
+            "bridgebridge"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "soul",
+            "body"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bark",
+            "tree"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shard",
+            "back"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Finale",
+            "end"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Slit",
+            "path"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coin",
+            "coincoin"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chroma",
+            "body"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dragon",
+            "dragonx"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "charm",
+            "Charmmark"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "keel",
+            "back"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Thee",
+            "Ena"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "boundary",
+            "boundaryspace"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gratitude's echo",
+            "silence"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Linen",
+            "key"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Remnant",
+            "back"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Glimmerthorn",
+            "light"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "viaduct",
+            "bridgebridge"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "vessel",
+            "port"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thread",
+            "threadthread"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pit",
+            "port"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "feather",
+            "weight"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stir-fry pan",
+            "panpan"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Grat",
+            "Eway"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Whisperkey",
+            "keykey"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Pointer",
+            "Pointerpointer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Whisperblade",
+            "key"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "melt",
+            "water"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wisp",
+            "linke"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spirit",
+            "spiritspirit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "beacon",
+            "keykey"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thorn",
+            "tree"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "corpse",
+            "body"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "abyss",
+            "hell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "whisperhush",
+            "silence"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Dreamweave",
+            "image"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "void",
+            "voidvoid"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cartograph",
+            "bookbook"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Digit",
+            "Codecode"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Heartbeat",
+            "Heartbeatx"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hollow",
+            "Eway"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cottage",
+            "Eport"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "vein",
+            "wayway"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Apekin",
+            "man"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Whisperdew",
+            "key"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shack",
+            "back"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Middle Kingdom",
+            "emiddle"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "edge",
+            "edgeedge"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Whisperthorn",
+            "light"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Whispergale",
+            "key"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Whispergale",
+            "key"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "limit",
+            "limitlimit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Rift",
+            "wayway"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Flufflet",
+            "Ekey"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Lull",
+            "Eing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "brew",
+            "beerbeer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Whispervein",
+            "key"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Whisperlace",
+            "key"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "echo",
+            "Echoecho"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Whisper",
+            "soundsound"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Whisperglow",
+            "lightlight"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "climate",
+            "climateclimate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "nestling",
+            "inging"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "prison",
+            "prisonprison"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Whisperrift",
+            "key"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "summit",
+            "cer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "inkling",
+            "Inging"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Whisperflame",
+            "lightlight"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Whisperchou",
+            "key"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Whispergloom",
+            "light"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Whisperwind",
+            "soundsound"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Tealeaf",
+            "Ekey"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Whispergrain",
+            "key"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Whisperhou",
+            "key"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pulse",
+            "pulsex"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "whispermist",
+            "Erer"
+        ],
+        "label": 0
+    }
+]

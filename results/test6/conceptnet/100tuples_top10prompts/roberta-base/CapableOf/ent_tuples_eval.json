@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "Search Engine",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Software Engineer",
+            "test"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Software Developer",
+            "test"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Data Processor",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Radio Telescope",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Data Miner",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Data Scientist",
+            "observe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cops",
+            "investigate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Virtual Assistant",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Surveillance Camera",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Surveillance Drone",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Data Validator",
+            "verify"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "analyst",
+            "predict"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Data Analyst",
+            "predict"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cybersecurity Expert",
+            "predict"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Planner",
+            "check"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "forensic examiner",
+            "observe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "inspector",
+            "check"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "programmer",
+            "test"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Signal Detector",
+            "find"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hacker",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Quality Inspector",
+            "check"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "observer",
+            "check"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Explorer",
+            "find"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Conversational Agent",
+            "predict"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "archer",
+            "observe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Navigator",
+            "check"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Time Traveler",
+            "observe"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "surveyor",
+            "predict"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Statistician",
+            "predict"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Optimist",
+            "predict"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Enzyme",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gardener",
+            "observe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Carnivore",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "detective",
+            "investigate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Farmer",
+            "observe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Strategist",
+            "predict"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "forecaster",
+            "predict"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Oracle",
+            "predict"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Timekeeper",
+            "check"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bamboo",
+            "grow"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Sniper",
+            "observe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "geneticist",
+            "predict"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Lawyer",
+            "say"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Assassin",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "scientist",
+            "observe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "teacher",
+            "See Teach"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Chef",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gambler",
+            "predict"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "naturalist",
+            "observe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Linguist",
+            "observe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "patient",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hunter",
+            "observe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Agronomist",
+            "observe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Ninja",
+            "observe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Contractor",
+            "verify"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "supervisor",
+            "check"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Activist",
+            "observe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Activist",
+            "observe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "troubleshooter",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "examiner",
+            "observe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Follower",
+            "observe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Trapper",
+            "observe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Predator",
+            "predict"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Tracker Dog",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Barometer",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sharpshooter",
+            "observe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Soldier",
+            "observe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Historian",
+            "observe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Organizer",
+            "check"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Spider",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Biologist",
+            "observe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Athlete",
+            "observe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Negotiator",
+            "negotiate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Stylist",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "merchant",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "clairvoyant",
+            "predict"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Accountant",
+            "check"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Scoutmaster",
+            "check"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "archaeologist",
+            "observe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "actor",
+            "say"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Thermometer",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "architect",
+            "test"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "photographer",
+            "observe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tracker",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Gamer Robot",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Visionary",
+            "predict"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sensor",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "judge",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gamer",
+            "observe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "artist",
+            "observe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "psychic",
+            "predict"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Astronomer",
+            "observe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "runner",
+            "predict"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "meditator",
+            "observe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "storyteller",
+            "say"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cow",
+            "observe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clock",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "investigator",
+            "observe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "witness",
+            "observe"
+        ],
+        "label": 1
+    }
+]

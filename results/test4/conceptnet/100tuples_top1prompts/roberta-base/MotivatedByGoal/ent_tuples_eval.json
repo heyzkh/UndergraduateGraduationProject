@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "vent frustration",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "achieve success",
+            "prove"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "achieve success",
+            "prove"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "achieve success",
+            "prove"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "achieve success",
+            "prove"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "achieve success",
+            "prove"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "express opinions",
+            "say"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "increase efficiency",
+            "sell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "donate",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "donate",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "eat",
+            "drink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "eat",
+            "drink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "achieve fitness",
+            "lose"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "reflect deeply",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "purchase wine",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "quench thirst",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "learn filmmaking",
+            "shoot"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cook",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cook",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "intimidate opponents",
+            "lose"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "achieve financial freedom",
+            "lose"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "exercise",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "exercise",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "exercise",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "exercise",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "study",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "study",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "propose",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "volunteer",
+            "give"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "volunteer",
+            "give"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bully someone",
+            "prove"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "advertise",
+            "sell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "financial gain",
+            "lose"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "learn",
+            "study"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "diet",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "diet",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ponder deeply",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dress",
+            "wear"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dress",
+            "wear"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "demonstrate",
+            "show"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "demonstrate",
+            "show"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "demonstrate",
+            "show"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "practice",
+            "prove"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "organize",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hunger",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hunger",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hunger",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hunger",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "anticipate with excitement",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "assemble",
+            "build"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "promote",
+            "sell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "planning ahead",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "reflect",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "reflect",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "reflect",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dieting",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "digest thoughtfully",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "achieve",
+            "lose"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "achieve",
+            "lose"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "achieve",
+            "lose"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "achieve",
+            "lose"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "achieve",
+            "lose"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "concentrate",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "maintain",
+            "keep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "maintain",
+            "keep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "maintain",
+            "keep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Saving Money",
+            "spend"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "romance",
+            "prove"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "conceal",
+            "hide"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "conceal",
+            "hide"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "conceal",
+            "hide"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "conceal",
+            "hide"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "career advancement",
+            "earn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "robbery",
+            "steal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "robbery",
+            "steal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "advocate",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hydrate",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ignite",
+            "burn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "prod",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "persuade",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "persuade",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "persuade",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "persuade",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "anticipate",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ambition",
+            "drink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ambition",
+            "drink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "curiosity",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "author",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Midnight Craving",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "concentration",
+            "drink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "saving",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "saving",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "scientist",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "activist",
+            "say"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nutrition",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Assertiveness Training",
+            "prove"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Performer",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "actor",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "actor",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "actor",
+            "say"
+        ],
+        "label": 0
+    }
+]

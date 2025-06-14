@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "game designer",
+            "programmer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sound designer",
+            "producer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "costume designer",
+            "director"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "urban planner",
+            "architect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Content Producer",
+            "Director"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "event planner",
+            "director"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "textile designer",
+            "producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Lighting Designer",
+            "director"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "concept artist",
+            "producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "audio engineer",
+            "producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "content strategist",
+            "director"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "textile artist",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Board Of Directors",
+            "ceo"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "manufacturing specialist",
+            "manufacturer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "civic planner",
+            "mayor"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "strategist",
+            "leader"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stylist",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "potter",
+            "master"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mastermind",
+            "leader"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Storyboard Artist",
+            "director"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "artisan",
+            "master"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "artisan",
+            "master"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Culinary Scientist",
+            "chef"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "planner",
+            "manager"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "breeder",
+            "farmer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "harvester",
+            "farmer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "copywriter",
+            "printer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "visionary",
+            "director"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Builder",
+            "architect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fabricator",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Curator",
+            "Director"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "music producer",
+            "Dj Producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "producer",
+            "director"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "craftsman",
+            "master"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "aesthetic director",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "coder",
+            "programmer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "animator",
+            "director"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "artist",
+            "painter"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chef",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "scriptwriter",
+            "director"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "draftsman",
+            "supervisor"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "director",
+            "producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Creator",
+            "producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "showrunner",
+            "producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "weaver",
+            "master"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "performer",
+            "producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "coach",
+            "trainer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sculptor",
+            "artist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Inventor",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Agronomist",
+            "farmer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "designer",
+            "producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fashionista",
+            "designer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Supervisor",
+            "Director"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "orchestrator",
+            "composer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mason",
+            "master"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cultivator",
+            "farmer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "playwright",
+            "director"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Technician",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "poet",
+            "writer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "painter",
+            "artist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "filmmaker",
+            "director"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "author",
+            "publisher"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "glassblower",
+            "producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Arranger",
+            "producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "songwriter",
+            "producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "composer",
+            "producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "merchant",
+            "master"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Educator",
+            "teacher"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "journalist",
+            "reporter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "architect",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "storyteller",
+            "writer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mentor",
+            "teacher"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Contractor",
+            "builder"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "researcher",
+            "scientist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "founder",
+            "leader"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "vocalist",
+            "singer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Lyricist",
+            "composer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "engineer",
+            "designer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Developer",
+            "programmer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "editor",
+            "publisher"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "screenwriter",
+            "producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Botanist",
+            "director"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blacksmith",
+            "master"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "flavorist",
+            "chef"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "caregiver",
+            "nurse"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "innovator",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "settler",
+            "farmer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "agriculturalist",
+            "farmer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "illustrator",
+            "artist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "programmer",
+            "developer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "choreographer",
+            "director"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "copyeditor",
+            "master"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "copyeditor",
+            "master"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Statesman",
+            "President"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Culinarian",
+            "director"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "constitutionalist",
+            "president"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Freelancer",
+            "ceo"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Employee",
+            "Ceo"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Entrepreneur",
+            "ceo"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Investor",
+            "ceo"
+        ],
+        "label": 0
+    }
+]

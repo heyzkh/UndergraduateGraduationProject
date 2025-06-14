@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "financial services sector",
+            "country"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Greek Mythology",
+            "Mythology Story"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cultural heritage",
+            "culture"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "United States",
+            "Union"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "greek alphabet",
+            "alphabet greek"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "game environment",
+            "game story"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Rocky Mountains",
+            "landscape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Great Victoria Desert",
+            "desert sahara"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Western Region",
+            "country"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "western province",
+            "country"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tributary",
+            "river"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tributary",
+            "river"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "marathon",
+            "marathon race"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "historical event",
+            "story"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "historical event",
+            "story"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tree",
+            "forest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bow",
+            "bow string"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rectangle",
+            "rectangle square"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chapter",
+            "book"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chapter",
+            "book"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chapter",
+            "book"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chapter",
+            "book"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chapter",
+            "book"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chapter",
+            "book"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bib clip",
+            "video"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "player",
+            "game"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "player",
+            "game"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "player",
+            "game"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "player",
+            "game"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "player",
+            "game"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "subroutine",
+            "function"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "village",
+            "forest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Sentence",
+            "Sentence Story"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Sentence",
+            "Sentence Story"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Sentence",
+            "Sentence Story"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Field",
+            "Field Game"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "episode",
+            "series"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "episode",
+            "series"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "episode",
+            "series"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "framework",
+            "framework project"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "framework",
+            "framework project"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Camera",
+            "Film Video"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "meridian",
+            "constellation"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "link",
+            "post"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "planet",
+            "Earth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Playground",
+            "Park"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "history",
+            "book"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "performance",
+            "film play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "battle",
+            "game"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "page",
+            "book"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "page",
+            "book"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "page",
+            "book"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "arc",
+            "story"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "journey",
+            "story"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stanza",
+            "story"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "manga",
+            "series"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Actor",
+            "Film Movie"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Actor",
+            "Film Movie"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Actor",
+            "Film Movie"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Actor",
+            "Film Movie"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "system",
+            "game"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Headline",
+            "story"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Lid",
+            "Box"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fiction",
+            "novel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "element",
+            "map"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "element",
+            "map"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "element",
+            "map"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "element",
+            "map"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "element",
+            "map"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Paragraph",
+            "story"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "item",
+            "list"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "item",
+            "list"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "item",
+            "list"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "item",
+            "list"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "word",
+            "dictionary"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Frame",
+            "Film Video"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "satellite",
+            "constellation"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Subsystem",
+            "game"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Subsystem",
+            "game"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Subsystem",
+            "game"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "continent",
+            "map"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "continent",
+            "map"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "leaf",
+            "tree"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Lyric",
+            "Song"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Pavement",
+            "road"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blog",
+            "book"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pen",
+            "paper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Historian",
+            "book"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "substring",
+            "field"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "angle",
+            "map"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "prospect",
+            "story"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fraternity",
+            "Society"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Selector",
+            "list"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Vertex",
+            "triangle"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Tabletop",
+            "game"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "defendant",
+            "case"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "legislation",
+            "law"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "socket",
+            "network"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "auction",
+            "series"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "renaissanc",
+            "French"
+        ],
+        "label": 0
+    }
+]

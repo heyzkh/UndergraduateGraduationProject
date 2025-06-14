@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "get married",
+            "marry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "become president",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "use code",
+            "use java"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "go vegan",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "go vegan",
+            "try"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "become president",
+            "nominate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "come together",
+            "meet"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "become successful",
+            "achieve"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "go vegan",
+            "adopt"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "become successful",
+            "start"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "get married",
+            "adopt"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "go vegan",
+            "decide"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "get married",
+            "meet"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "go solo",
+            "travel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kill people",
+            "die"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "use code",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Kill People",
+            "Kill Others"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kill another",
+            "die"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "get sued",
+            "file"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "use code",
+            "define"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "become successful",
+            "create"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "use code",
+            "compile"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "buy gold",
+            "sell"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "buy coffee",
+            "order"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "get arrested",
+            "report"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kill people",
+            "shoot"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "use code",
+            "execute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "buy gold",
+            "purchase"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "buy coffee",
+            "buy tea"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "come together",
+            "speak"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kill people",
+            "think"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "come visit",
+            "arrive"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "follow google",
+            "visit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "follow google",
+            "click"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Donate",
+            "Click Donate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "participate",
+            "register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "help",
+            "ask"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "participate",
+            "contact facebook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "know",
+            "ask"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "respond",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "respond",
+            "reply"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "respond",
+            "ask"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "respond",
+            "email"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "donate",
+            "contact paypal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "commit",
+            "make sure"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "respond",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "follow trump",
+            "learn"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "help",
+            "call"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "participate",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "join",
+            "register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "participate",
+            "vote"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "follow trump",
+            "try"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "enter",
+            "submit form"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "write",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "follow trump",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "participate",
+            "write"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "agree",
+            "vote"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "help",
+            "try"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "know",
+            "call"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "join",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "contribute",
+            "contact paypal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pay",
+            "ask"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "reply",
+            "post"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "help",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "contribute",
+            "vote"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "speak",
+            "listen"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "know",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "help",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "meet",
+            "call"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "join",
+            "sign"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "contribute",
+            "register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "agree",
+            "say"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "join",
+            "write"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pay",
+            "sign"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "contribute",
+            "ask"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "join",
+            "apply"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "attend",
+            "apply online"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pay",
+            "register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pay",
+            "call"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "commit",
+            "make sense"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "meet",
+            "email"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "know",
+            "write"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "talk",
+            "call"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "confess",
+            "tell police"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pay",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "commit",
+            "agree"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "enter",
+            "sign"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "donate",
+            "vote"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "attend",
+            "apply"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "talk",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "talk",
+            "speak"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "come",
+            "arrive"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "meet",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "donate",
+            "click"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "donate",
+            "register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "contribute",
+            "click paypal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "enter",
+            "submit email"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "confess",
+            "tell others"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sign",
+            "vote"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sign",
+            "see"
+        ],
+        "label": 0
+    }
+]

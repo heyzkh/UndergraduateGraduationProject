@@ -1,0 +1,702 @@
+[
+    [
+        [
+            "seasonal affective disorder",
+            "depression"
+        ],
+        0.06795206270605711
+    ],
+    [
+        [
+            "red blood cell",
+            "cancer"
+        ],
+        0.04800381285467686
+    ],
+    [
+        [
+            "hepatitis",
+            "viral hepatitis"
+        ],
+        0.03889253175065907
+    ],
+    [
+        [
+            "autism spectrum disorder",
+            "Autism Disorder"
+        ],
+        0.034033468126252395
+    ],
+    [
+        [
+            "bacterial meningitis",
+            "infection"
+        ],
+        0.029701293878706854
+    ],
+    [
+        [
+            "viral infection",
+            "disease"
+        ],
+        0.02468999312478753
+    ],
+    [
+        [
+            "allergic rhinitis",
+            "disease"
+        ],
+        0.022804262574017454
+    ],
+    [
+        [
+            "muscle cramp",
+            "contraction"
+        ],
+        0.022643236696619492
+    ],
+    [
+        [
+            "bipolar disorder",
+            "depression"
+        ],
+        0.019601788933635438
+    ],
+    [
+        [
+            "muscle spasm",
+            "contraction"
+        ],
+        0.019044417954878823
+    ],
+    [
+        [
+            "acute bronchitis",
+            "pneumonia"
+        ],
+        0.018116499729191157
+    ],
+    [
+        [
+            "bacterial biofilm",
+            "infection"
+        ],
+        0.017696310376034044
+    ],
+    [
+        [
+            "Lymphatic Tissue",
+            "cancer"
+        ],
+        0.017326402708241078
+    ],
+    [
+        [
+            "hepatic lobule",
+            "cancer"
+        ],
+        0.01564876651827833
+    ],
+    [
+        [
+            "malignant neoplasm",
+            "cancer"
+        ],
+        0.015633615827684674
+    ],
+    [
+        [
+            "Fungal Spore",
+            "cancer"
+        ],
+        0.014541787576733172
+    ],
+    [
+        [
+            "Eukaryotic Cell",
+            "cancer"
+        ],
+        0.014366898729335172
+    ],
+    [
+        [
+            "muscle twitch",
+            "twitch muscle"
+        ],
+        0.01393973797656304
+    ],
+    [
+        [
+            "viral particle",
+            "virus"
+        ],
+        0.012161684679056782
+    ],
+    [
+        [
+            "parasitic infection",
+            "parasite"
+        ],
+        0.0119228280577366
+    ],
+    [
+        [
+            "Plant Bacterial Disease",
+            "infection"
+        ],
+        0.011891243339585697
+    ],
+    [
+        [
+            "bacterial colony",
+            "Bacteria Colony"
+        ],
+        0.011582221349831815
+    ],
+    [
+        [
+            "Galaxy Cluster",
+            "cluster galaxy"
+        ],
+        0.011345548162821715
+    ],
+    [
+        [
+            "Bacterial Virus",
+            "infection"
+        ],
+        0.011337377564045042
+    ],
+    [
+        [
+            "Lymphoid Follicle",
+            "cancer"
+        ],
+        0.011263560003649675
+    ],
+    [
+        [
+            "bacterial filament",
+            "Bacteria Filament"
+        ],
+        0.011082911241926147
+    ],
+    [
+        [
+            "Bacterial Cell",
+            "Bacteria Cell"
+        ],
+        0.011063831074497371
+    ],
+    [
+        [
+            "benign neoplasm",
+            "cancer"
+        ],
+        0.010832403220048319
+    ],
+    [
+        [
+            "spinal nerve",
+            "neuron"
+        ],
+        0.010496026104151707
+    ],
+    [
+        [
+            "Lymphoid Organ",
+            "cancer"
+        ],
+        0.010477539268216993
+    ],
+    [
+        [
+            "autoimmune disorder",
+            "disease"
+        ],
+        0.01021906279609276
+    ],
+    [
+        [
+            "autoimmune disease",
+            "cancer"
+        ],
+        0.010162640958555085
+    ],
+    [
+        [
+            "Bacterial Spore",
+            "infection"
+        ],
+        0.0101482690256239
+    ],
+    [
+        [
+            "Bacterial Ribosome",
+            "cell"
+        ],
+        0.010132336040552126
+    ],
+    [
+        [
+            "spleen",
+            "organ"
+        ],
+        0.009993400185651898
+    ],
+    [
+        [
+            "bacterial toxin",
+            "Bacteria Toxin"
+        ],
+        0.009951605047262198
+    ],
+    [
+        [
+            "cancer",
+            "disease"
+        ],
+        0.009845098442310714
+    ],
+    [
+        [
+            "bacterial flagellum",
+            "infection"
+        ],
+        0.009215292057734465
+    ],
+    [
+        [
+            "hiccup",
+            "cancer"
+        ],
+        0.008943186588971539
+    ],
+    [
+        [
+            "Hepatitis",
+            "disease"
+        ],
+        0.008923638819857397
+    ],
+    [
+        [
+            "lice",
+            "parasite"
+        ],
+        0.008707886606262535
+    ],
+    [
+        [
+            "Hepatitis",
+            "infection"
+        ],
+        0.008683684247848773
+    ],
+    [
+        [
+            "venous return",
+            "cancer"
+        ],
+        0.008475395031665032
+    ],
+    [
+        [
+            "bacterial plasmid",
+            "infection"
+        ],
+        0.008464457410871923
+    ],
+    [
+        [
+            "yeast",
+            "bacteria"
+        ],
+        0.008405218060356448
+    ],
+    [
+        [
+            "prion",
+            "cancer"
+        ],
+        0.00817035197124316
+    ],
+    [
+        [
+            "algal bloom",
+            "fungus"
+        ],
+        0.008136098164421946
+    ],
+    [
+        [
+            "yeast",
+            "fungus"
+        ],
+        0.008113585304262661
+    ],
+    [
+        [
+            "crystal lattice",
+            "structure"
+        ],
+        0.008054694885308791
+    ],
+    [
+        [
+            "spinning wheel",
+            "disease"
+        ],
+        0.008022883136279439
+    ],
+    [
+        [
+            "Bacterial Capsule",
+            "infection"
+        ],
+        0.008019659293630521
+    ],
+    [
+        [
+            "Prokaryotic Cell",
+            "cancer"
+        ],
+        0.007621022491617207
+    ],
+    [
+        [
+            "Joint Inflammation",
+            "disease"
+        ],
+        0.007556132875363832
+    ],
+    [
+        [
+            "cardiac output",
+            "stroke"
+        ],
+        0.007484328285222297
+    ],
+    [
+        [
+            "allergic reaction",
+            "disease"
+        ],
+        0.0074519710325370745
+    ],
+    [
+        [
+            "bacteriophage",
+            "bacteria"
+        ],
+        0.007338825500942386
+    ],
+    [
+        [
+            "aorta",
+            "cancer"
+        ],
+        0.007278331978138625
+    ],
+    [
+        [
+            "neutron star",
+            "radiation"
+        ],
+        0.00713256432529259
+    ],
+    [
+        [
+            "Microbial Spore",
+            "bacteria"
+        ],
+        0.007066132467348424
+    ],
+    [
+        [
+            "hypertension",
+            "disease"
+        ],
+        0.006771634318396837
+    ],
+    [
+        [
+            "depression",
+            "disorder"
+        ],
+        0.006306128993643909
+    ],
+    [
+        [
+            "capillary circulation",
+            "infection"
+        ],
+        0.006027480806927624
+    ],
+    [
+        [
+            "pollen grain",
+            "fungus"
+        ],
+        0.005951484326429277
+    ],
+    [
+        [
+            "edema",
+            "infection"
+        ],
+        0.005450961164554507
+    ],
+    [
+        [
+            "mycelium",
+            "cancer"
+        ],
+        0.005375186698841869
+    ],
+    [
+        [
+            "biofilm",
+            "tissue"
+        ],
+        0.005270111166578078
+    ],
+    [
+        [
+            "diabetes",
+            "disorder"
+        ],
+        0.005167634762243509
+    ],
+    [
+        [
+            "nematode",
+            "parasite"
+        ],
+        0.005103264495768382
+    ],
+    [
+        [
+            "nephron",
+            "cancer"
+        ],
+        0.004989603072661752
+    ],
+    [
+        [
+            "crystal structure",
+            "protein"
+        ],
+        0.00495796769270392
+    ],
+    [
+        [
+            "synovitis",
+            "infection"
+        ],
+        0.004957182059747318
+    ],
+    [
+        [
+            "hypertension",
+            "disorder"
+        ],
+        0.0049541300160336945
+    ],
+    [
+        [
+            "lichen",
+            "fungus"
+        ],
+        0.004806405908214169
+    ],
+    [
+        [
+            "hypertension",
+            "condition"
+        ],
+        0.004792945830067736
+    ],
+    [
+        [
+            "Essential Hypertension",
+            "disease"
+        ],
+        0.004790507792867071
+    ],
+    [
+        [
+            "cyanobacterium",
+            "bacteria"
+        ],
+        0.004725623085537711
+    ],
+    [
+        [
+            "depression",
+            "condition"
+        ],
+        0.0047158183339605225
+    ],
+    [
+        [
+            "hepatocyte",
+            "cell"
+        ],
+        0.0045437514249665675
+    ],
+    [
+        [
+            "endocrine gland",
+            "tissue"
+        ],
+        0.004473915503882783
+    ],
+    [
+        [
+            "star cluster",
+            "system"
+        ],
+        0.004434344393363825
+    ],
+    [
+        [
+            "lobar pneumonia",
+            "infection"
+        ],
+        0.0042848879848894975
+    ],
+    [
+        [
+            "fern",
+            "fungus"
+        ],
+        0.004193602799492678
+    ],
+    [
+        [
+            "pathogen",
+            "cancer"
+        ],
+        0.004054753900230061
+    ],
+    [
+        [
+            "mushroom",
+            "fungus"
+        ],
+        0.004035007463944754
+    ],
+    [
+        [
+            "spirochete",
+            "cancer"
+        ],
+        0.003697183468319815
+    ],
+    [
+        [
+            "heart",
+            "disease"
+        ],
+        0.0032959077525809696
+    ],
+    [
+        [
+            "Neuron",
+            "cell"
+        ],
+        0.0031782621159919117
+    ],
+    [
+        [
+            "lathe spindle",
+            "muscle"
+        ],
+        0.003146704571202754
+    ],
+    [
+        [
+            "Machine Tool Spindle",
+            "vessel"
+        ],
+        0.0031045635273042075
+    ],
+    [
+        [
+            "trophic level",
+            "disease"
+        ],
+        0.002818190700812166
+    ],
+    [
+        [
+            "endospore",
+            "cancer"
+        ],
+        0.0027704547621108925
+    ],
+    [
+        [
+            "church tower",
+            "structure"
+        ],
+        0.002561130300586025
+    ],
+    [
+        [
+            "Textile Machine",
+            "operation"
+        ],
+        0.002287609132299684
+    ],
+    [
+        [
+            "viroid",
+            "cancer"
+        ],
+        0.002238397879806558
+    ],
+    [
+        [
+            "Textile Loom",
+            "tissue"
+        ],
+        0.001977203022455223
+    ],
+    [
+        [
+            "arteriole",
+            "cancer"
+        ],
+        0.0017965536626057834
+    ],
+    [
+        [
+            "Algae",
+            "Bacteria"
+        ],
+        0.0014594589654919477
+    ],
+    [
+        [
+            "building",
+            "structure"
+        ],
+        0.001300041347120394
+    ],
+    [
+        [
+            "spice",
+            "food product"
+        ],
+        0.0009301314381792189
+    ],
+    [
+        [
+            "Notebook",
+            "cancer"
+        ],
+        0.000492058218039586
+    ]
+]

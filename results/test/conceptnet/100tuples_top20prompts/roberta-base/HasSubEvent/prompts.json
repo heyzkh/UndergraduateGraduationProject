@@ -1,0 +1,18 @@
+[
+    [
+        "<ENT1> happens as a subevent of <ENT0> .",
+        0.2675146468089894
+    ],
+    [
+        "<ENT1> is a subevent of <ENT0> .",
+        0.265280812473454
+    ],
+    [
+        "<ENT1> occurs as a subevent of <ENT0> .",
+        0.24765261252830986
+    ],
+    [
+        "<ENT1> occurs as part of <ENT0> .",
+        0.21955192818924665
+    ]
+]

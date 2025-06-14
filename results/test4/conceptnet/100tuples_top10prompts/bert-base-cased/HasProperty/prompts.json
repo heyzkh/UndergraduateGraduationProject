@@ -1,0 +1,42 @@
+[
+    [
+        "Most <ENT0>s are <ENT1> and can lead to dependence .",
+        0.12754610164289978
+    ],
+    [
+        "While not all <ENT0>s are <ENT1>, some can be .",
+        0.10996095584488985
+    ],
+    [
+        "<ENT0>s are <ENT1> and can easily be carried around with you .",
+        0.10738224850106777
+    ],
+    [
+        "<ENT0> are often seen as <ENT1> and pure .",
+        0.1011363935555897
+    ],
+    [
+        "<ENT1> <ENT0>s are great for carrying around with you .",
+        0.09816753516976603
+    ],
+    [
+        "<ENT0> are clean slates; they have not been influenced by the world yet and are thus <ENT1> .",
+        0.09485850181317786
+    ],
+    [
+        "The color of <ENT0> is <ENT1> .",
+        0.0934530365791231
+    ],
+    [
+        "This is a statement about <ENT0> in general - that they are <ENT1> .",
+        0.09023201022097621
+    ],
+    [
+        "<ENT0>s are relatively <ENT1> compared to other types of notebooks .",
+        0.08891435096800517
+    ],
+    [
+        "<ENT0> is a <ENT1> liquid .",
+        0.08834886570450445
+    ]
+]

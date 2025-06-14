@@ -1,0 +1,42 @@
+[
+    [
+        "The <ENT0> lies inside the <ENT1> .",
+        0.14142351288603514
+    ],
+    [
+        "The <ENT0> is inside the <ENT1> .",
+        0.14095569016727014
+    ],
+    [
+        "The <ENT0> is contained inside the <ENT1> .",
+        0.11587451045959084
+    ],
+    [
+        "A <ENT0> is a part of a <ENT1> .",
+        0.09982494216253525
+    ],
+    [
+        "The <ENT0> is part of the <ENT1> .",
+        0.09755427744189968
+    ],
+    [
+        "The <ENT0> is a part of the <ENT1> .",
+        0.0963938191923997
+    ],
+    [
+        "A <ENT0> is part of a <ENT1> .",
+        0.09344134788815625
+    ],
+    [
+        "The <ENT0> is a component of the <ENT1> .",
+        0.08338496400482122
+    ],
+    [
+        "The <ENT0> is situated inside <ENT1> .",
+        0.06764631003988782
+    ],
+    [
+        "The <ENT0> is located within <ENT1> .",
+        0.06350062575740405
+    ]
+]

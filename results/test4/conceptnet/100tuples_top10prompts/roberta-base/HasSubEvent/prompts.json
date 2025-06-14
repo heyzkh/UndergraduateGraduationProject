@@ -1,0 +1,42 @@
+[
+    [
+        "When you <ENT0>, you <ENT1> .",
+        0.1795604784333522
+    ],
+    [
+        "You <ENT1> when you <ENT0> .",
+        0.1696007659486874
+    ],
+    [
+        "As you <ENT0>, you will also <ENT1> .",
+        0.1079505450523069
+    ],
+    [
+        "You need to <ENT1> in order to <ENT0> .",
+        0.0887995588983279
+    ],
+    [
+        "<ENT1> happens as a subevent of <ENT0> .",
+        0.08506398089374227
+    ],
+    [
+        "I <ENT1> before i can <ENT0> something .",
+        0.08257333993584291
+    ],
+    [
+        "<ENT1> generally happens when you <ENT0> someone .",
+        0.07526842151024254
+    ],
+    [
+        "As you <ENT0>, you will not only <ENT1>, but also experience .",
+        0.07438274888546294
+    ],
+    [
+        "In order to <ENT0> something, you first have to <ENT1> .",
+        0.07076545584282766
+    ],
+    [
+        "Your body produces <ENT1> to cool itself when you <ENT0> .",
+        0.06603470459920728
+    ]
+]

@@ -1,0 +1,702 @@
+[
+    [
+        [
+            "colorful scenery",
+            "go see"
+        ],
+        0.09500030472260819
+    ],
+    [
+        [
+            "gentle breeze",
+            "go see"
+        ],
+        0.08856969831865164
+    ],
+    [
+        [
+            "physical injury",
+            "die"
+        ],
+        0.06950837131123486
+    ],
+    [
+        [
+            "Limited Edition",
+            "buy"
+        ],
+        0.062469493381941625
+    ],
+    [
+        [
+            "financial gain",
+            "pay"
+        ],
+        0.0487880409531871
+    ],
+    [
+        [
+            "social media trends",
+            "change"
+        ],
+        0.046036145691911515
+    ],
+    [
+        [
+            "artistic experimentation",
+            "create use"
+        ],
+        0.03724526965532254
+    ],
+    [
+        [
+            "fear",
+            "kill"
+        ],
+        0.03477103178126232
+    ],
+    [
+        [
+            "financial incentive",
+            "pay"
+        ],
+        0.02740383165398705
+    ],
+    [
+        [
+            "financial stability",
+            "invest"
+        ],
+        0.02654216440749607
+    ],
+    [
+        [
+            "creative inspiration",
+            "write"
+        ],
+        0.02169558668075152
+    ],
+    [
+        [
+            "financial security",
+            "pay"
+        ],
+        0.02054205390393022
+    ],
+    [
+        [
+            "upbeat tempo",
+            "play"
+        ],
+        0.019955082464624747
+    ],
+    [
+        [
+            "refreshing taste",
+            "eat taste"
+        ],
+        0.017773361732735627
+    ],
+    [
+        [
+            "hunger",
+            "kill"
+        ],
+        0.013363146818735936
+    ],
+    [
+        [
+            "music",
+            "play"
+        ],
+        0.012527853206062065
+    ],
+    [
+        [
+            "financial reward",
+            "pay"
+        ],
+        0.012233134736334446
+    ],
+    [
+        [
+            "anger",
+            "kill"
+        ],
+        0.011813451185169474
+    ],
+    [
+        [
+            "vivid imagination",
+            "know"
+        ],
+        0.011247856246207373
+    ],
+    [
+        [
+            "whispered secret",
+            "know"
+        ],
+        0.011103911490315201
+    ],
+    [
+        [
+            "aroma",
+            "drink"
+        ],
+        0.008995663951762043
+    ],
+    [
+        [
+            "despair",
+            "die"
+        ],
+        0.00879294299470721
+    ],
+    [
+        [
+            "eco-friendly initiative",
+            "help"
+        ],
+        0.008781440381076035
+    ],
+    [
+        [
+            "Enchanted Artifact",
+            "see use"
+        ],
+        0.008773802224609276
+    ],
+    [
+        [
+            "inner peace",
+            "live"
+        ],
+        0.008353757579955259
+    ],
+    [
+        [
+            "Unbearable Pain",
+            "die"
+        ],
+        0.008096325663590963
+    ],
+    [
+        [
+            "spicy food",
+            "drink"
+        ],
+        0.008051334114003541
+    ],
+    [
+        [
+            "loneliness",
+            "die"
+        ],
+        0.007993331670228398
+    ],
+    [
+        [
+            "philosophical inquiry",
+            "know"
+        ],
+        0.007805517999083622
+    ],
+    [
+        [
+            "competition",
+            "win"
+        ],
+        0.007339331426975313
+    ],
+    [
+        [
+            "stress",
+            "change"
+        ],
+        0.007016165164441063
+    ],
+    [
+        [
+            "empathy",
+            "help"
+        ],
+        0.006839909205974296
+    ],
+    [
+        [
+            "passion",
+            "kill"
+        ],
+        0.006741970942806856
+    ],
+    [
+        [
+            "Exclusive Membership",
+            "pay"
+        ],
+        0.006659303106229232
+    ],
+    [
+        [
+            "sale",
+            "buy"
+        ],
+        0.006359778691007718
+    ],
+    [
+        [
+            "curiosity",
+            "kill"
+        ],
+        0.0062608641161829475
+    ],
+    [
+        [
+            "unique craftsmanship",
+            "buy"
+        ],
+        0.005983976233796828
+    ],
+    [
+        [
+            "depression",
+            "kill"
+        ],
+        0.00593241289430956
+    ],
+    [
+        [
+            "nostalgia",
+            "die"
+        ],
+        0.005834182559079793
+    ],
+    [
+        [
+            "innovative design",
+            "change"
+        ],
+        0.005590108938116207
+    ],
+    [
+        [
+            "sparkling water",
+            "drink"
+        ],
+        0.005384918118586402
+    ],
+    [
+        [
+            "hopelessness",
+            "die"
+        ],
+        0.005369396168122666
+    ],
+    [
+        [
+            "thirst",
+            "drink"
+        ],
+        0.005123416829319755
+    ],
+    [
+        [
+            "unexpected inspiration",
+            "write"
+        ],
+        0.004897830839744016
+    ],
+    [
+        [
+            "adventure",
+            "die"
+        ],
+        0.004441133525308616
+    ],
+    [
+        [
+            "boredom",
+            "die"
+        ],
+        0.004404081723960227
+    ],
+    [
+        [
+            "Compassionate Plea",
+            "help"
+        ],
+        0.0043076749260288014
+    ],
+    [
+        [
+            "exclusive collaboration",
+            "share"
+        ],
+        0.004275688874570617
+    ],
+    [
+        [
+            "Sparkling Clarity",
+            "know"
+        ],
+        0.0040815113709308255
+    ],
+    [
+        [
+            "triumphant victory",
+            "win"
+        ],
+        0.00406193100910451
+    ],
+    [
+        [
+            "success",
+            "get"
+        ],
+        0.003985134170849198
+    ],
+    [
+        [
+            "mystery",
+            "know"
+        ],
+        0.0038680681124850544
+    ],
+    [
+        [
+            "betrayal",
+            "kill"
+        ],
+        0.003777114832173965
+    ],
+    [
+        [
+            "Cooling Sensation",
+            "drink"
+        ],
+        0.003773821823078416
+    ],
+    [
+        [
+            "hatred",
+            "kill"
+        ],
+        0.0037530163952872496
+    ],
+    [
+        [
+            "innovative technology",
+            "buy"
+        ],
+        0.0037393584395533914
+    ],
+    [
+        [
+            "kindness",
+            "kill"
+        ],
+        0.0037347635178463477
+    ],
+    [
+        [
+            "Exclusive Offer",
+            "buy"
+        ],
+        0.0036688951330095094
+    ],
+    [
+        [
+            "Urgent Deadline",
+            "pay"
+        ],
+        0.0033420194780351
+    ],
+    [
+        [
+            "Joyful Moment",
+            "live"
+        ],
+        0.003326629521806244
+    ],
+    [
+        [
+            "Unbearable Heat",
+            "die"
+        ],
+        0.003291120598805141
+    ],
+    [
+        [
+            "Exclusive Discount",
+            "buy"
+        ],
+        0.0032552091456549206
+    ],
+    [
+        [
+            "Gentle Sunlight",
+            "kill"
+        ],
+        0.0030179140197484702
+    ],
+    [
+        [
+            "Savory Seasoning",
+            "drink"
+        ],
+        0.0029858085256514824
+    ],
+    [
+        [
+            "novel experience",
+            "change"
+        ],
+        0.002948562062562869
+    ],
+    [
+        [
+            "vengeance",
+            "kill"
+        ],
+        0.0029458631871807526
+    ],
+    [
+        [
+            "ambition",
+            "kill"
+        ],
+        0.002866214410464908
+    ],
+    [
+        [
+            "minimalist lifestyle",
+            "live"
+        ],
+        0.0027364753136695638
+    ],
+    [
+        [
+            "fiery passion",
+            "kill"
+        ],
+        0.002716743229315957
+    ],
+    [
+        [
+            "compelling story",
+            "know"
+        ],
+        0.002687731204813629
+    ],
+    [
+        [
+            "anxiety",
+            "kill"
+        ],
+        0.002588520649337653
+    ],
+    [
+        [
+            "Team Spirit",
+            "play"
+        ],
+        0.002466700856324353
+    ],
+    [
+        [
+            "discount",
+            "buy"
+        ],
+        0.002452312517734652
+    ],
+    [
+        [
+            "friendship",
+            "kill"
+        ],
+        0.0024035060779420744
+    ],
+    [
+        [
+            "Spontaneous Idea",
+            "change"
+        ],
+        0.002368805180594385
+    ],
+    [
+        [
+            "alluring texture",
+            "add"
+        ],
+        0.002341920091299866
+    ],
+    [
+        [
+            "unexplored mystery",
+            "know"
+        ],
+        0.0022513461517513593
+    ],
+    [
+        [
+            "unanswered question",
+            "ask"
+        ],
+        0.0022499108574320155
+    ],
+    [
+        [
+            "fiery sunset",
+            "die"
+        ],
+        0.0022431295581688084
+    ],
+    [
+        [
+            "unwavering hope",
+            "die"
+        ],
+        0.0022098270956566546
+    ],
+    [
+        [
+            "romantic gesture",
+            "buy"
+        ],
+        0.002183579266884015
+    ],
+    [
+        [
+            "frustration",
+            "kill"
+        ],
+        0.002111478747395354
+    ],
+    [
+        [
+            "unfinished story",
+            "write"
+        ],
+        0.0020302325735105844
+    ],
+    [
+        [
+            "tempting dessert",
+            "drink"
+        ],
+        0.0019949513345974114
+    ],
+    [
+        [
+            "unexpected compliment",
+            "add"
+        ],
+        0.0019226065058107094
+    ],
+    [
+        [
+            "mouthwatering flavor",
+            "drink"
+        ],
+        0.0018042368729275938
+    ],
+    [
+        [
+            "Enticing Opportunity",
+            "buy"
+        ],
+        0.001704995336952
+    ],
+    [
+        [
+            "Exquisite Presentation",
+            "pay"
+        ],
+        0.0016509694996054904
+    ],
+    [
+        [
+            "Exclusive Event",
+            "pay"
+        ],
+        0.0016448438094817568
+    ],
+    [
+        [
+            "Whimsical Daydream",
+            "die"
+        ],
+        0.0016099477106552883
+    ],
+    [
+        [
+            "serenity",
+            "live"
+        ],
+        0.0015683156235696898
+    ],
+    [
+        [
+            "unwavering determination",
+            "know"
+        ],
+        0.0015058458386367677
+    ],
+    [
+        [
+            "Intellectual Challenge",
+            "learn"
+        ],
+        0.0014856475936093924
+    ],
+    [
+        [
+            "Fiery Determination",
+            "kill"
+        ],
+        0.0011743504330366257
+    ],
+    [
+        [
+            "vengeful rage",
+            "kill"
+        ],
+        0.0010920969050762551
+    ],
+    [
+        [
+            "intriguing question",
+            "know"
+        ],
+        0.0010888695150792756
+    ],
+    [
+        [
+            "soothing music",
+            "play"
+        ],
+        0.000881130516183547
+    ],
+    [
+        [
+            "generosity",
+            "help"
+        ],
+        0.0007859326345682853
+    ],
+    [
+        [
+            "Captivating Melody",
+            "play"
+        ],
+        0.0004531779472897591
+    ],
+    [
+        [
+            "Heartfelt Emotion",
+            "kill"
+        ],
+        0.00017085559081391532
+    ]
+]

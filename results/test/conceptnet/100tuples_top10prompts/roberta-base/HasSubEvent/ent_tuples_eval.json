@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "make sense",
+            "understand"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "type",
+            "use type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "make mistakes",
+            "fail"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "work towards",
+            "achieve"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "win",
+            "gain power"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Go Away",
+            "leave"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "go back",
+            "remember"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "enter",
+            "receive email"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "go home",
+            "leave"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "make mistakes",
+            "regret"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "move past",
+            "stop"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "walk towards",
+            "stop"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "work together",
+            "bond"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "go home",
+            "remember"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "walk towards",
+            "notice"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "go back",
+            "find"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "write",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "see",
+            "like"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "move",
+            "change"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "enter",
+            "receive code"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "eat",
+            "taste"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "eat",
+            "drink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "eat",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "know",
+            "like"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "say",
+            "mean"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "start",
+            "get"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "see",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "write",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "write",
+            "create"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "see",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "start",
+            "stop"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "write",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "look outside",
+            "notice"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "run",
+            "get"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "watch",
+            "feel good"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "learn",
+            "understand"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "get",
+            "like"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "win",
+            "gain experience"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "start",
+            "know"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "see",
+            "get"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "learn",
+            "practice"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "read",
+            "write"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "run",
+            "start"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "look inside",
+            "find"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "build",
+            "create"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "play",
+            "create"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "read",
+            "like"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "die",
+            "live"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "use",
+            "like"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "eat",
+            "think"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "start",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "eat",
+            "feel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sleep",
+            "dream"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "know",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "play",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "look right",
+            "notice"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "play",
+            "die"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "create",
+            "use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "see",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "play",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "build",
+            "make"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "try",
+            "fail"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "look right",
+            "find"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "understand",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "build",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "remember",
+            "forget"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "build",
+            "change"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "win",
+            "lose"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sleep",
+            "think"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "think",
+            "feel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "work",
+            "create"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "run",
+            "think"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stop",
+            "change"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "work",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "run",
+            "know"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "make",
+            "change"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "die",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "read",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "move",
+            "leave"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "move",
+            "die"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "leave",
+            "return"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "walk",
+            "move"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "want",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "walk",
+            "feel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "die",
+            "remember"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "get",
+            "want"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "work",
+            "think"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "type",
+            "print"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "try",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "look outside",
+            "feel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "enter",
+            "receive"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "walk",
+            "talk"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "enter",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "enter",
+            "select"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "win",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "change",
+            "notice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "watch",
+            "notice"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rung",
+            "gog"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rung",
+            "goog"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "runk",
+            "startk"
+        ],
+        "label": 0
+    }
+]

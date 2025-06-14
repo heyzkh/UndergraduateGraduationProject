@@ -1,0 +1,50 @@
+[
+    [
+        "Every <ENT0> has a desire to <ENT1> .",
+        0.11650696066619914
+    ],
+    [
+        "To <ENT1> is what every <ENT0> desires .",
+        0.11553590429244989
+    ],
+    [
+        "<ENT1> is something that every <ENT0> desires .",
+        0.09814868058663966
+    ],
+    [
+        "Every <ENT0> desires a <ENT1> .",
+        0.08860071854250523
+    ],
+    [
+        "Every <ENT0> has an innate urge to <ENT1> .",
+        0.08682522034614881
+    ],
+    [
+        "A <ENT1> is the object of every <ENT0>\u2019s desire .",
+        0.07682790649294266
+    ],
+    [
+        "For every <ENT0>, there exists a desire to <ENT1> .",
+        0.07398650635674325
+    ],
+    [
+        "For every <ENT0>, there is a desire to <ENT1> .",
+        0.07381473103570571
+    ],
+    [
+        "For every <ENT0>, there is an innate drive to <ENT1> .",
+        0.07250047624122367
+    ],
+    [
+        "Every <ENT0> has a desire for a <ENT1> .",
+        0.07243124013568437
+    ],
+    [
+        "A <ENT1> is what every <ENT0> desires .",
+        0.06250936110804087
+    ],
+    [
+        "Every <ENT0> possesses an inherent drive to <ENT1> .",
+        0.06231229419571676
+    ]
+]

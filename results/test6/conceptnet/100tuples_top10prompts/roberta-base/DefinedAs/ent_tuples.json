@@ -1,0 +1,702 @@
+[
+    [
+        [
+            "absolute certainty",
+            "confidence"
+        ],
+        0.04825519246295557
+    ],
+    [
+        [
+            "economic downturn",
+            "market"
+        ],
+        0.03567479584509771
+    ],
+    [
+        [
+            "moral fortitude",
+            "strength"
+        ],
+        0.03457755206087345
+    ],
+    [
+        [
+            "financial shortfall",
+            "budget"
+        ],
+        0.0337824876618626
+    ],
+    [
+        [
+            "emotional outburst",
+            "stress"
+        ],
+        0.02997889730555542
+    ],
+    [
+        [
+            "Market Surplus",
+            "Price"
+        ],
+        0.028112726050453136
+    ],
+    [
+        [
+            "Cultural Celebration",
+            "Culture"
+        ],
+        0.026750296374446852
+    ],
+    [
+        [
+            "blind rage",
+            "panic"
+        ],
+        0.02620231542544829
+    ],
+    [
+        [
+            "unsuccessful attempt",
+            "fail"
+        ],
+        0.02249337531853071
+    ],
+    [
+        [
+            "Declarative Assertion",
+            "Statement"
+        ],
+        0.018741148776791696
+    ],
+    [
+        [
+            "business entity",
+            "company"
+        ],
+        0.01844790864500744
+    ],
+    [
+        [
+            "expletive utterance",
+            "sorry"
+        ],
+        0.017934801331760217
+    ],
+    [
+        [
+            "Awkward Embarrassment",
+            "Sorry"
+        ],
+        0.017494993649624542
+    ],
+    [
+        [
+            "defeat",
+            "loss"
+        ],
+        0.017365804578857703
+    ],
+    [
+        [
+            "emotional depletion",
+            "stress"
+        ],
+        0.016719629666204907
+    ],
+    [
+        [
+            "celebrity status",
+            "famous"
+        ],
+        0.01633655356448455
+    ],
+    [
+        [
+            "genuine emotion",
+            "feel"
+        ],
+        0.015228442542941811
+    ],
+    [
+        [
+            "Assembled Product",
+            "Assembly"
+        ],
+        0.014932602818522997
+    ],
+    [
+        [
+            "urban enclave",
+            "city"
+        ],
+        0.014879516327785107
+    ],
+    [
+        [
+            "unbounded curiosity",
+            "maybe"
+        ],
+        0.01462401153740209
+    ],
+    [
+        [
+            "Computational Flaw",
+            "Error"
+        ],
+        0.014567089670532966
+    ],
+    [
+        [
+            "sticky residue",
+            "oil"
+        ],
+        0.014323648278541897
+    ],
+    [
+        [
+            "kitty",
+            "cat"
+        ],
+        0.014045861719725524
+    ],
+    [
+        [
+            "Manufacturing Plant",
+            "Production"
+        ],
+        0.012894439270117478
+    ],
+    [
+        [
+            "Box Office Failure",
+            "Success"
+        ],
+        0.012785419454014185
+    ],
+    [
+        [
+            "coordinating conjunctions",
+            "quad"
+        ],
+        0.012781474049717443
+    ],
+    [
+        [
+            "rapid vibration",
+            "sound"
+        ],
+        0.012760178074884396
+    ],
+    [
+        [
+            "Luminous Sphere",
+            "Space"
+        ],
+        0.012747004636669302
+    ],
+    [
+        [
+            "Festive Gathering",
+            "Party"
+        ],
+        0.011987352237050232
+    ],
+    [
+        [
+            "alternative option",
+            "default"
+        ],
+        0.011921157906340555
+    ],
+    [
+        [
+            "Feline Companion",
+            "Cat"
+        ],
+        0.01189690943050492
+    ],
+    [
+        [
+            "web protocol",
+            "http"
+        ],
+        0.011398358523078984
+    ],
+    [
+        [
+            "expletive intensifier",
+            "sound"
+        ],
+        0.011163914711170229
+    ],
+    [
+        [
+            "Respiratory Organ",
+            "Brain"
+        ],
+        0.011088974031838868
+    ],
+    [
+        [
+            "gravitational pull",
+            "pullpull"
+        ],
+        0.010766112146811752
+    ],
+    [
+        [
+            "deceptive maneuver",
+            "cheat"
+        ],
+        0.010734143609733026
+    ],
+    [
+        [
+            "arithmetic operation",
+            "function"
+        ],
+        0.010680394489729662
+    ],
+    [
+        [
+            "Apology Gesture",
+            "Sorry"
+        ],
+        0.010496408870141527
+    ],
+    [
+        [
+            "public recognition",
+            "respect"
+        ],
+        0.010345882507411848
+    ],
+    [
+        [
+            "zealous devotees",
+            "like"
+        ],
+        0.010310280388328777
+    ],
+    [
+        [
+            "Controlled Foreign Corporation",
+            "Company"
+        ],
+        0.009995534996748337
+    ],
+    [
+        [
+            "young cow",
+            "cowcow"
+        ],
+        0.00998238307592024
+    ],
+    [
+        [
+            "Water Conduit",
+            "Waterwater"
+        ],
+        0.00981995762374122
+    ],
+    [
+        [
+            "Radiant Light",
+            "Lightlight"
+        ],
+        0.009715717236298646
+    ],
+    [
+        [
+            "initial setting",
+            "default"
+        ],
+        0.009099344341759498
+    ],
+    [
+        [
+            "fabricated artifact hoax",
+            "evidence"
+        ],
+        0.009025268126632882
+    ],
+    [
+        [
+            "Enthusiastic Admirer",
+            "Fan"
+        ],
+        0.00879236595371055
+    ],
+    [
+        [
+            "high-speed train",
+            "speedspeed"
+        ],
+        0.008565053146704069
+    ],
+    [
+        [
+            "adversary",
+            "threat"
+        ],
+        0.008290758246981578
+    ],
+    [
+        [
+            "sparkle dust",
+            "dustdust"
+        ],
+        0.008172470000665082
+    ],
+    [
+        [
+            "soothing melody",
+            "sound"
+        ],
+        0.0077750281372817205
+    ],
+    [
+        [
+            "shrewd individual",
+            "man"
+        ],
+        0.007510623736281275
+    ],
+    [
+        [
+            "woodwind instrument",
+            "music"
+        ],
+        0.007431586744768427
+    ],
+    [
+        [
+            "Artistic Collective",
+            "Artart"
+        ],
+        0.0073133549256161
+    ],
+    [
+        [
+            "Dairy Product",
+            "Food"
+        ],
+        0.006996798565359439
+    ],
+    [
+        [
+            "toss",
+            "throw"
+        ],
+        0.006867414617716543
+    ],
+    [
+        [
+            "Swallow",
+            "Water"
+        ],
+        0.006507337922822166
+    ],
+    [
+        [
+            "deceptive scheme",
+            "cheat"
+        ],
+        0.006503990940332675
+    ],
+    [
+        [
+            "adhesive substance",
+            "material"
+        ],
+        0.0064405609666803995
+    ],
+    [
+        [
+            "Food And Agriculture Organization",
+            "Foodfood"
+        ],
+        0.006277260828088324
+    ],
+    [
+        [
+            "Gratitude Expression",
+            "Thanks"
+        ],
+        0.0060974404328902315
+    ],
+    [
+        [
+            "Chewing Substance",
+            "Food"
+        ],
+        0.0060949267352245215
+    ],
+    [
+        [
+            "printmaking technique",
+            "method"
+        ],
+        0.0059699526703804184
+    ],
+    [
+        [
+            "intestinal tract",
+            "intestinalintestinal"
+        ],
+        0.005912833714580324
+    ],
+    [
+        [
+            "wind deity",
+            "windwind"
+        ],
+        0.00591119255220831
+    ],
+    [
+        [
+            "Joyful Activity",
+            "Happy"
+        ],
+        0.0055776391855183426
+    ],
+    [
+        [
+            "Whimsical Notion",
+            "Perhaps"
+        ],
+        0.005414546838496837
+    ],
+    [
+        [
+            "Counterfeit Craft",
+            "Fake"
+        ],
+        0.005392721067174616
+    ],
+    [
+        [
+            "Functional Application",
+            "functionfunction"
+        ],
+        0.005351789679162954
+    ],
+    [
+        [
+            "emotional distress",
+            "stressstress"
+        ],
+        0.004855240103095147
+    ],
+    [
+        [
+            "unpleasant odor",
+            "odorodor"
+        ],
+        0.004689467676337054
+    ],
+    [
+        [
+            "fabrication",
+            "design"
+        ],
+        0.00459382938083924
+    ],
+    [
+        [
+            "automaker",
+            "driver"
+        ],
+        0.004549095548877696
+    ],
+    [
+        [
+            "Fanbase",
+            "Community"
+        ],
+        0.0036437238216688586
+    ],
+    [
+        [
+            "guardian",
+            "agent"
+        ],
+        0.003396102279889034
+    ],
+    [
+        [
+            "Renown",
+            "Since"
+        ],
+        0.0033536567757328495
+    ],
+    [
+        [
+            "supportive assistance",
+            "supportsupport"
+        ],
+        0.0032602811529777263
+    ],
+    [
+        [
+            "Clear Fact",
+            "Factfact"
+        ],
+        0.0031558490067383808
+    ],
+    [
+        [
+            "supportive aid",
+            "supportsupport"
+        ],
+        0.0031521041302631134
+    ],
+    [
+        [
+            "Industrial Production",
+            "Productionproduction"
+        ],
+        0.0028461439630898264
+    ],
+    [
+        [
+            "secret faction",
+            "secretsecret"
+        ],
+        0.002822520593511139
+    ],
+    [
+        [
+            "procurer",
+            "agent"
+        ],
+        0.0028202739233816553
+    ],
+    [
+        [
+            "hui ritual",
+            "susu"
+        ],
+        0.0027366045450337552
+    ],
+    [
+        [
+            "Electrical Safety Device",
+            "Safetysafety"
+        ],
+        0.002390596363058671
+    ],
+    [
+        [
+            "Computed Value",
+            "valuevalue"
+        ],
+        0.0023188217458547616
+    ],
+    [
+        [
+            "operational method",
+            "methodmethod"
+        ],
+        0.002217897615300987
+    ],
+    [
+        [
+            "supportive service",
+            "supportsupport"
+        ],
+        0.0021699205083776305
+    ],
+    [
+        [
+            "deceptive practice",
+            "practicepractice"
+        ],
+        0.002123233448405118
+    ],
+    [
+        [
+            "linguistic expression",
+            "expressionexpression"
+        ],
+        0.0020471671653997255
+    ],
+    [
+        [
+            "Document Template",
+            "Templatetemplate"
+        ],
+        0.0019495181183762688
+    ],
+    [
+        [
+            "Admirer Group",
+            "Groupgroup"
+        ],
+        0.0017677666094698332
+    ],
+    [
+        [
+            "production",
+            "productionproduction"
+        ],
+        0.0017492131238257564
+    ],
+    [
+        [
+            "Fan Community",
+            "Communitycommunity"
+        ],
+        0.0016397613600188982
+    ],
+    [
+        [
+            "fixed state",
+            "statestate"
+        ],
+        0.001594578474648475
+    ],
+    [
+        [
+            "trifling task",
+            "tasktask"
+        ],
+        0.001591676631645206
+    ],
+    [
+        [
+            "decorative border",
+            "borderborder"
+        ],
+        0.00138295503380345
+    ],
+    [
+        [
+            "legal submission",
+            "legallegal"
+        ],
+        0.0013689091359634848
+    ],
+    [
+        [
+            "unchanging condition",
+            "conditioncondition"
+        ],
+        0.0009933447447801832
+    ],
+    [
+        [
+            "cargo transfer",
+            "Transfertransfer"
+        ],
+        0.0009727701275334502
+    ],
+    [
+        [
+            "misinformation campaign",
+            "campaigncampaign"
+        ],
+        0.0008130679314066751
+    ]
+]

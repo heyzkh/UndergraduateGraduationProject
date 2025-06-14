@@ -1,0 +1,42 @@
+[
+    [
+        "All <ENT0>s have the instinct to <ENT1> in order to continue their species .",
+        0.17019753200027543
+    ],
+    [
+        "The <ENT0> collects pollen from the <ENT1> in order to make honey .",
+        0.13811052703005267
+    ],
+    [
+        "Every <ENT0> desires a way to <ENT1> their frustration .",
+        0.12888459357819068
+    ],
+    [
+        "Every <ENT0> wants to mate in order to <ENT1> .",
+        0.11471916511651371
+    ],
+    [
+        "The <ENT1>s are what every <ENT0> wants .",
+        0.08844844138450944
+    ],
+    [
+        "Every <ENT0> desires an outlet, or a <ENT1>, for their anger .",
+        0.08681447641693607
+    ],
+    [
+        "<ENT0>s <ENT1> in order to create new generations of their species .",
+        0.08606546491325065
+    ],
+    [
+        "<ENT0> desire to <ENT1> .",
+        0.0683921429225954
+    ],
+    [
+        "<ENT0>s have a strong desire to fly toward <ENT1>s .",
+        0.06056212044862177
+    ],
+    [
+        "<ENT1> is what every <ENT0> desires .",
+        0.05780553618905416
+    ]
+]

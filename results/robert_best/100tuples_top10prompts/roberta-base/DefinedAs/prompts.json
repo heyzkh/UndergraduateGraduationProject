@@ -1,0 +1,42 @@
+[
+    [
+        "Instead of \"<ENT0>\" you could say \"<ENT1>\" .",
+        0.1961006963720425
+    ],
+    [
+        "<ENT1> is a more specific way to describe <ENT0> .",
+        0.10710231116031295
+    ],
+    [
+        "<ENT1> is a more accurate term for <ENT0> .",
+        0.1031185156071967
+    ],
+    [
+        "<ENT1> can provide a more detailed and nuanced understanding of <ENT0> .",
+        0.09266090983938323
+    ],
+    [
+        "<ENT1> is better at explaining what <ENT0> is .",
+        0.09082083167858875
+    ],
+    [
+        "The <ENT0> is the <ENT1> to the room .",
+        0.08878529069932037
+    ],
+    [
+        "<ENT1> is better able to explain the phenomenon of <ENT0> .",
+        0.08312654396425008
+    ],
+    [
+        "<ENT1> is a measure of how <ENT0>y an animal is .",
+        0.08145376482189345
+    ],
+    [
+        "<ENT1> is a measure of how <ENT0>y an animal is, based on its physical appearance .",
+        0.07941765556660733
+    ],
+    [
+        "The term \"<ENT1>\" refers to the overall <ENT0> of an individual .",
+        0.07741348029040472
+    ]
+]

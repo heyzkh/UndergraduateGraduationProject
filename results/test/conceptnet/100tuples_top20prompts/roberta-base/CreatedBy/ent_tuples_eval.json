@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "chemical substances",
+            "Chemical Process"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chemical substances",
+            "chemical reaction"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Final Product",
+            "final agent"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Human Tissue",
+            "cell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "desired results",
+            "goal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "output",
+            "function"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "desired outcome",
+            "goal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "physical property",
+            "producer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "human tissue",
+            "bacteria"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "value",
+            "function"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "human tissue",
+            "germ"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "physical property",
+            "person"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "desired outcome",
+            "self"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "desired outcome",
+            "system"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "output",
+            "result"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "result",
+            "function"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "product",
+            "producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "value",
+            "result"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "desired effect",
+            "system"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "function"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "power",
+            "generator"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "output",
+            "product"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "value",
+            "class"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "protein",
+            "cell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "results",
+            "function"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "output",
+            "class"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "output",
+            "program"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "power",
+            "state"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "value",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "power",
+            "key"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "model"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "physical state",
+            "form"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "real life",
+            "human"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "information",
+            "computer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "power",
+            "system"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "real values",
+            "class"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "specific information",
+            "computer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "real life",
+            "computer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "physical state",
+            "brain"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "real life",
+            "creator"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "specific energy",
+            "generator"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "real values",
+            "self"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "electricity",
+            "generator"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "electricity",
+            "Electrical Field"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "product",
+            "manufacturer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "user"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "energy",
+            "plasma"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "product",
+            "form"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "power",
+            "machine"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "result",
+            "group"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "final state",
+            "matrix"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "final form",
+            "derivative"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "protein",
+            "enzyme"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "result",
+            "form"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "energy",
+            "cell"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "results",
+            "model"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "energy",
+            "generator"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "effect",
+            "group"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "results",
+            "system"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "energy",
+            "gas"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "results",
+            "data"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "products",
+            "chemical"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "products",
+            "producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "effect",
+            "substance"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "outputs",
+            "user"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "products",
+            "factory"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "information",
+            "system"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "electricity",
+            "reactor"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "protein",
+            "gene"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "outputs",
+            "program"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "material",
+            "producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "information",
+            "software"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "products",
+            "manufacturer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "electricity",
+            "spark"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "protein",
+            "molecule"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "electricity",
+            "transformer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "products",
+            "company"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "material",
+            "substance"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "material",
+            "metal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "physical value",
+            "metal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "protein",
+            "reaction"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "information",
+            "user"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "specific property",
+            "derivative"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "specific property",
+            "class"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "material",
+            "chemical"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "specific property",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "materialization",
+            "matrix"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "material content",
+            "producer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "materialization",
+            "kernel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "human tissue",
+            "dna"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "final effect",
+            "group"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "final effect",
+            "matrix"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "measurable agent",
+            "positive field"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dna",
+            "bna"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dna",
+            "cna"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dna",
+            "pna"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dna",
+            "fna"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Measurable Agent",
+            "Matrix"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Measurable Agent",
+            "Positive Operator"
+        ],
+        "label": 0
+    }
+]

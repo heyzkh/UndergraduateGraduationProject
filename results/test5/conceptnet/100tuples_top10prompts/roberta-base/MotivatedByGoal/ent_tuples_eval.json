@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "go away",
+            "leave"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "play",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "eat",
+            "survive"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "walk",
+            "move"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "walk",
+            "exercise"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sleep",
+            "dream"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rest",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "exercise",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "self-care",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "research",
+            "study"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sacrifice",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "protest",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "support",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "escape",
+            "hide"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "self-improvement",
+            "succeed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "reform",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "donation",
+            "donate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "angling",
+            "fish"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "socializing",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "education",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "training",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "romance",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "revenge",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "concealment",
+            "hide"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "purification",
+            "purge"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "meditation",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "competition",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "foraging",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cooking",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "discipline",
+            "control"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "charity",
+            "give"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "communication",
+            "communicate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "profit-seeking",
+            "gain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "planning",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hydration",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "philanthropy",
+            "give"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "feedback",
+            "improve"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mentorship",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ambition",
+            "live"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "learning",
+            "study"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "performance",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "robbery",
+            "steal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Perseverance",
+            "Succeed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "survival",
+            "survive"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "community-building",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Fulfillment",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "motivation",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "commitment",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "resistance",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stress-relief",
+            "relax"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "promotion",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "investment",
+            "save"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nutrition",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "victory",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "activism",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "negotiation",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "faith",
+            "believe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "scholarship",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "scholarship",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Empowerment",
+            "change"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dedication",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Rejuvenation",
+            "live"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "strategizing",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "innovation",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kindness",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "teaching",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "volunteering",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fellowship",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "endurance",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "farming",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fitness",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "achievement",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cooperation",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "expression",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Encouragement",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "creativity",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "devotion",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "inspiration",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "celebration",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "curiosity",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "enlightenment",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "productivity",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "campaigning",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Intimidation",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "generosity",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "reflection",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "inquiry",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "collaboration",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "discovery",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "enjoyment",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "exploration",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "persistence",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "efficiency",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "advocacy",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "conservation",
+            "save"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "relaxation",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "entrepreneurship",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "renewal",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "renewal",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "professionalism",
+            "work"
+        ],
+        "label": 1
+    }
+]

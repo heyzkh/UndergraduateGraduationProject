@@ -1,0 +1,42 @@
+[
+    [
+        "A <ENT0> is a type of <ENT1> that produces edible grains .",
+        0.13556477081549012
+    ],
+    [
+        "A <ENT0> is a type of <ENT1> .",
+        0.1314599917776312
+    ],
+    [
+        "A <ENT0> is a type of <ENT1> that is grown specifically for the grain that it produces .",
+        0.10425703795480032
+    ],
+    [
+        "A <ENT0> is a specific type of <ENT1> that is grown in order to harvest its grain, which is used as a food source .",
+        0.1006451416663107
+    ],
+    [
+        "A <ENT1> that is of the <ENT0> type is one that is characterized by its large size and population .",
+        0.0938937855683718
+    ],
+    [
+        "A <ENT0> is a type of <ENT1> that occurs when the bile ducts become inflamed .",
+        0.09228824129308642
+    ],
+    [
+        "More specifically, <ENT0> is a type of <ENT1> of the bile ducts .",
+        0.09041100334815085
+    ],
+    [
+        "<ENT0>s are a type of <ENT1> that typically live in large colonies .",
+        0.0845810780907756
+    ],
+    [
+        "In other words, <ENT0> is one particular <ENT1> .",
+        0.08364811957529024
+    ],
+    [
+        "In medicine, <ENT0> is a subtype of <ENT1> affecting the biliary tree, which includes the bile ducts .",
+        0.08325082991009261
+    ]
+]

@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "fisherman",
+            "find fish"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Software Developer",
+            "use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Surveillance Drone",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "crows",
+            "fly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Surveillance Camera",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "surveillance system",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Forensic Expert",
+            "investigate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Data Analyst",
+            "use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Forensic Accountant",
+            "investigate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spy",
+            "observe spy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "carpenter",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chameleon",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Data Scientist",
+            "observe see"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sniper",
+            "shoot"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "analyst",
+            "predict"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Scanner",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "programmer",
+            "use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "librarian",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hacker",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "inspector",
+            "investigate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Navigator",
+            "use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Puppy",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Inventor",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "commando",
+            "execute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Time Traveler",
+            "see travel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "observer",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Explorer",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Strategist",
+            "predict"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "scribe",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "scribe",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "detective",
+            "investigate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cheetah",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "parrot",
+            "fly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "teacher",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shopper",
+            "Find See"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "falcon",
+            "fly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "volunteer",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Filmmaker",
+            "Film See"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sentinel",
+            "report"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Watchdog",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Mechanic",
+            "use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Wizard",
+            "use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cat",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Assassin",
+            "execute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Assassin",
+            "execute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Courier",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "plant",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Journalist",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Entrepreneur",
+            "buy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Motivator",
+            "predict"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "marathoner",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Mathematician",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Monk",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Chef",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Refund Specialist",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "engineer",
+            "test"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "student",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Negotiator",
+            "negotiate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Athlete",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Researcher",
+            "observe see"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Researcher",
+            "observe see"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Organizer",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gazelle",
+            "observe see"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Dragon",
+            "fly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Surgeon",
+            "observe see"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Predator",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "architect",
+            "design"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Accountant",
+            "report"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Wolf",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "builder",
+            "use"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Spybot",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Ninja",
+            "Kill Observe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "orator",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bloodhound",
+            "detect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tracker",
+            "detect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "artist",
+            "create"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Adventurer",
+            "Find See"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Hunter",
+            "Observe See"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "interrogator",
+            "observe see"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "meditator",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "scientist",
+            "observe see"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Philosopher",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "storyteller",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Astronomer",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "auditor",
+            "check"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "auditor",
+            "check"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "socialite",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "event",
+            "execute"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "caregiver",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "investigator",
+            "investigate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Soldier",
+            "Observe See"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Psychologist",
+            "Observe See"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Chemist",
+            "Observe See"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Scholar",
+            "Observe See"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Runner",
+            "Run See"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Ghost",
+            "Observe See"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "actor",
+            "Observe See"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "doctor",
+            "Observe See"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Blacksmith",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cow",
+            "Observe See"
+        ],
+        "label": 1
+    }
+]

@@ -1,0 +1,18 @@
+[
+    [
+        "A <ENT1> that is of the <ENT0> type is one that is characterized by its large size and population .",
+        0.14198588527765654
+    ],
+    [
+        "A <ENT0> is a type of <ENT1> that occurs when the bile ducts become inflamed .",
+        0.11330094175285067
+    ],
+    [
+        "More specifically, <ENT0> is a type of <ENT1> of the bile ducts .",
+        0.11062634691463386
+    ],
+    [
+        "In medicine, <ENT0> is a subtype of <ENT1> affecting the biliary tree, which includes the bile ducts .",
+        0.10408557644369153
+    ]
+]

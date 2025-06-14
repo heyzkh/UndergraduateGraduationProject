@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "Black Male",
+            "Black Man"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "white tea",
+            "white wine"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "red glow",
+            "Red Light"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Human Voice",
+            "Human Speech"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Black Face",
+            "Black Eye"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Right Look",
+            "Right Angle"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Computer Vision",
+            "visual vision"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "common sense",
+            "logic"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Computer Vision",
+            "computer eye"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "white supremacy",
+            "race"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Red Symbol",
+            "Red Arrow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Red Symbol",
+            "Red Flag"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "keyvalue",
+            "value pointer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fireman",
+            "fire chief"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "White Paper",
+            "whiteboard"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Blackism",
+            "Black Nationalism"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "backway",
+            "back door"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "keyvalue",
+            "value parameter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Keywords",
+            "Keyword Definition"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "human tissue",
+            "skin"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "right",
+            "left"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackness",
+            "blackface"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Common Thread",
+            "pattern"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "computerism",
+            "computer theory"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sound",
+            "music"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "keyvalue",
+            "value set"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "building",
+            "structure"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "common search",
+            "keyword"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chaff",
+            "grass"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "commonality",
+            "commonity"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Keywords",
+            "Keyword Dictionary"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pence",
+            "currency"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chasm",
+            "hole"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ctrl",
+            "cursor"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "code",
+            "data"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Keywords",
+            "Keyword Index"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "firework",
+            "firelight"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chai",
+            "chakra"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "form",
+            "shape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackness",
+            "blackeness"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "keyframe",
+            "keymap"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "commonity",
+            "common sense"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "white tea",
+            "mine"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "name",
+            "title"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blackness",
+            "race"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pix",
+            "photo"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "code",
+            "Html"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "human world",
+            "Earth"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "humanism",
+            "humanist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "space",
+            "time"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "code",
+            "key"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "code",
+            "map"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "keystroke",
+            "keypoint"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "power",
+            "energy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "commonality",
+            "commonness"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "key",
+            "password"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "human tissue",
+            "dna"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chakra",
+            "symbol"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "computerized",
+            "computer system"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "choc",
+            "chomp"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Humanoid",
+            "Human Species"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chasm",
+            "huddle"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "whiteness",
+            "difference"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "buss",
+            "barge"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "map",
+            "path"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chichi",
+            "chibi"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chaining",
+            "closing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "firewood",
+            "firestone"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "keychain",
+            "keycard"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chisel",
+            "knife"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "choc",
+            "chok"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rightway",
+            "leftway"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cine",
+            "coda"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "name",
+            "description"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "image",
+            "picture"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "common search",
+            "index"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "code",
+            "path"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chisel",
+            "hammer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chica",
+            "chico"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fire",
+            "flame"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chinese",
+            "china"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fireman",
+            "firefighter"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sound",
+            "noise"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "text",
+            "message"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "type",
+            "data"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "keyvalue",
+            "keykey"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chime",
+            "clime"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chaff",
+            "litter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "space",
+            "map"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bile",
+            "alcohol"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "keycard",
+            "keychain"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "keyring",
+            "keystone"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "type",
+            "name"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fire",
+            "damage"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chakra",
+            "thong"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "form",
+            "map"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chia",
+            "chai"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "keystroke",
+            "keykey"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chasm",
+            "gate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Firework",
+            "Fireball"
+        ],
+        "label": 0
+    }
+]

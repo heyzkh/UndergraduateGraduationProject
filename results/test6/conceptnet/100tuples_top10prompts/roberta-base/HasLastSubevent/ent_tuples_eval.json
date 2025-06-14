@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "submit manuscript",
+            "complete"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "attend conference",
+            "register"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "prepare manuscript",
+            "edit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "load weapon",
+            "reload"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "load weapon",
+            "reload"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "negotiate terms",
+            "discuss"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "negotiate terms",
+            "discuss"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "negotiate terms",
+            "discuss"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "negotiate terms",
+            "discuss"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "register",
+            "login"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compile",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compile",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "write",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "print",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "negotiate contract",
+            "sign"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "negotiate contract",
+            "sign"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "negotiate contract",
+            "sign"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "negotiate contract",
+            "sign"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "negotiate contract",
+            "sign"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "negotiate contract",
+            "sign"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "negotiate contract",
+            "sign"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "negotiate contract",
+            "sign"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "negotiate contract",
+            "sign"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "negotiate contract",
+            "sign"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "negotiate contract",
+            "sign"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "negotiate contract",
+            "sign"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "negotiate contract",
+            "sign"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "negotiate contract",
+            "sign"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "negotiate contract",
+            "sign"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "edit",
+            "add"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "scroll",
+            "click"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "publish",
+            "edit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "submit",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "speak",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "verify",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "read",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "format document",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "format document",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "format document",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "format document",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "format document",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "format document",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "format document",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "format document",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "format document",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "format document",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "debug code",
+            "execute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "debug code",
+            "execute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "debug code",
+            "execute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "debug code",
+            "execute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "debug code",
+            "execute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "translate",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "translate",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "translate",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shoot",
+            "reload"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shoot",
+            "reload"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "analyze",
+            "calculate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "review",
+            "edit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "publish\" is already in the list, so here's a new one:  \n\n\"submit manuscript",
+            "edit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "approve",
+            "vote"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "compose",
+            "execute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "attend meeting",
+            "register"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "attend meeting",
+            "register"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sign",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "debug",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rewrite",
+            "rewrite write"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "present",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "debate",
+            "vote"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "publish\" is already in the list, so here's a new one:  \n\n\"compile",
+            "print"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "jog",
+            "walk"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "jog",
+            "walk"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "brew",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "compete",
+            "finish"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "authenticate",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "research",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "campaign",
+            "vote"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "finalize",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "illustrate",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "illustrate",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "polish",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "redact",
+            "print"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "outline",
+            "define"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "index",
+            "add"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "skim",
+            "run"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "meditate",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "revise",
+            "write"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "brainstorm",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "brainstorm",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rehearse",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cite",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "highlight",
+            "click"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "proofread",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "proof",
+            "verify"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "proof",
+            "verify"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "proof",
+            "verify"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "format",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "annotate",
+            "print"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "notarize",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "typeset",
+            "print"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Drafting",
+            "Create"
+        ],
+        "label": 1
+    }
+]

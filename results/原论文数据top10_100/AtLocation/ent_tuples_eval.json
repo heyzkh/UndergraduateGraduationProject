@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "White Wine",
+            "wine cellar"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Data Generator",
+            "data center"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "white thread",
+            "white yarn"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fire",
+            "wood stove"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sleep",
+            "night sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "red wine",
+            "cellar"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "food waste",
+            "landfill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "white wine",
+            "cellar"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Camera Phone",
+            "Camera Stand"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "information",
+            "Google Search"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "red ink",
+            "pen"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cat eggs",
+            "cat litter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "name",
+            "Google Search"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "carwash",
+            "parking lots"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mouse",
+            "red dot"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cats",
+            "cat litter"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "red ink",
+            "black"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "small children",
+            "playground"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "yarn",
+            "knitting yarn"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "small boat",
+            "dock"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "red light",
+            "yellow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "heat",
+            "hot tub"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "test results",
+            "lab"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stroller",
+            "back yard"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "small island",
+            "sea"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "carport",
+            "parking lot"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rocket",
+            "Space Shuttle"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cookies",
+            "cookie jar"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "carport",
+            "parking lots"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "small bird",
+            "nest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "small island",
+            "coast"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cat food",
+            "refrigerator"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cats",
+            "Cat Shelter"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "trash",
+            "garbage truck"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pokémon",
+            "Pokemon Center"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "time",
+            "local time"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pokémon",
+            "Pokemon Gym"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cellphones",
+            "cell tower"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "redhat",
+            "Black Hat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "trail",
+            "mountain trail"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Mac",
+            "Apple Store"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "address",
+            "Google Search"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "heat",
+            "Hot Spot"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "keyhole",
+            "black hole"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "savings",
+            "financial institution"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "light",
+            "dark space"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "map",
+            "table"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "yarn",
+            "knitting sock"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "history",
+            "historical museum"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "phone",
+            "Google Search"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mushrooms",
+            "Mushroom Bin"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "iron",
+            "metal pot"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "coins",
+            "Coin Bin"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "table"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "map",
+            "tree"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "drawing",
+            "sketch pad"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "list",
+            "table"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "trail",
+            "Mountain Pass"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "catch",
+            "fishing rod"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "trail",
+            "mountain ridge"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rest",
+            "back yard"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "car",
+            "garage"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sound",
+            "audio player"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "power",
+            "solar system"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fish",
+            "aquarium"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pokémon",
+            "forest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pineapple",
+            "fruit stand"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "yarn",
+            "Knitting Pile"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stalker",
+            "Dark Zone"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mushrooms",
+            "mushroom bowl"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "history",
+            "Historical Section"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "trail",
+            "mountain range"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "keyvalue",
+            "hash symbol"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cookies",
+            "cookie sheet"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "catfish",
+            "fishbowl"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "code",
+            "file"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "camera",
+            "tree"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fish",
+            "river"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "large eggs",
+            "shell"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "trash",
+            "Garbage Yard"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "money",
+            "bank"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "map",
+            "right"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "map",
+            "box"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "list",
+            "link"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fish",
+            "pond"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rocket",
+            "Space Station"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "book",
+            "library"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "carwash",
+            "parking spot"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "phone",
+            "Google Store"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "computer",
+            "basement"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "video",
+            "link"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "list",
+            "file"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "carafe",
+            "cup holder"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "coffee",
+            "Starbucks"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pokémon",
+            "aquarium"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "water",
+            "river"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "redix",
+            "blue dot"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kratom",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "map",
+            "file"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "carport",
+            "parking area"
+        ],
+        "label": 1
+    }
+]

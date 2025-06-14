@@ -1,0 +1,22 @@
+[
+    [
+        "In order to <ENT0>, one must first <ENT1> .",
+        0.3086957614494412
+    ],
+    [
+        "If you want to <ENT0>, you have to <ENT1> .",
+        0.271317473782551
+    ],
+    [
+        "If someone wants to <ENT0>, they need to first <ENT1> .",
+        0.1804313472965107
+    ],
+    [
+        "If someone wants to <ENT0>, they need to <ENT1> first .",
+        0.15320036162289763
+    ],
+    [
+        "If someone wants to <ENT0>, they need to <ENT1> to appear before them first .",
+        0.0863550558485994
+    ]
+]

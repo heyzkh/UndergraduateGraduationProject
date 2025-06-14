@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "declare war",
+            "fire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "present",
+            "past"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "nudge",
+            "click"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "write",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sleep",
+            "wake"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Strike A Match",
+            "Matchmatch"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "alarm clock rings",
+            "alert"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "alarm",
+            "alert"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "extract",
+            "insert"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "administer poison",
+            "trigger"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "measure",
+            "print"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "light",
+            "dark"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fatal",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "publish",
+            "post"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "grind",
+            "break"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shout",
+            "sing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dissolve",
+            "destroy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blend",
+            "mix"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blend",
+            "mix"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "slip",
+            "drop"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hug",
+            "kiss"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blink",
+            "click"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "light a match",
+            "matchmatch"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Negotiate",
+            "Agree"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "push",
+            "pushpush"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "activate",
+            "trigger"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "activate",
+            "trigger"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Gaze",
+            "Light"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Yell",
+            "Sing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "whisper",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "whisper",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fire",
+            "firefire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "propose",
+            "construct"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "squeeze",
+            "break"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "celebrate",
+            "present"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Evaluate",
+            "Comment"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mold",
+            "print"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Sip",
+            "Brew"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ambush",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "uncork",
+            "fork"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mix",
+            "mixmix"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "extinguish",
+            "trigger"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "press",
+            "presspress"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wave",
+            "wavewave"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spark",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cast",
+            "castcast"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "detonate",
+            "destroy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Steep",
+            "Fast"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blot",
+            "block"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "whistle",
+            "sing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "halt",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "create",
+            "createcreate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "demonstrate",
+            "show"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "conceal",
+            "trigger"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stoke",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "drop",
+            "dropdrop"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "select",
+            "selectselect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spray",
+            "draw"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "meditate",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stir",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Offer",
+            "Accept"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Authorize",
+            "Register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sign",
+            "signsign"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "request",
+            "requestrequest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Administer",
+            "Register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Ignite A Match",
+            "Matchmatch"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "compile",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "compile",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shove",
+            "push"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fold",
+            "Foldfold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "suggest",
+            "comment"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "provoke",
+            "trigger"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "initiate",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "brew",
+            "brewbrew"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "heat",
+            "heatheat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "record",
+            "recordrecord"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Ignite",
+            "Startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pour",
+            "pourpour"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shoot",
+            "shootshoot"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "announce",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ask",
+            "askask"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "scroll",
+            "scrollscroll"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tap",
+            "taptap"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "consider",
+            "list"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stab",
+            "stabstab"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "serve",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "install",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Blow",
+            "Blowblow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "insert",
+            "insertinsert"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "strike",
+            "strikestrike"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "roast",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "develop",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "prepare",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "yawn",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Speak",
+            "Speakspeak"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "submit",
+            "submitsubmit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "trip",
+            "triptrip"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "design",
+            "designdesign"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "conduct",
+            "conductconduct"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "release",
+            "releaserelease"
+        ],
+        "label": 0
+    }
+]

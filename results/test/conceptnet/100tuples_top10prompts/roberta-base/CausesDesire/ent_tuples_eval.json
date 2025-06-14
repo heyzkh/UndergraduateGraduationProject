@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "social status",
+            "get married"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "social status",
+            "feel important"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "book",
+            "write fiction"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Social System",
+            "feel better"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "socializing",
+            "become social"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Social System",
+            "behave like"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "food",
+            "eat rare"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "socialization",
+            "get together"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "socialization",
+            "feel better"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Good Things",
+            "give"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "badness",
+            "get hurt"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "badger",
+            "get hurt"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Good Thing",
+            "give"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "book",
+            "become rare"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "book",
+            "become sure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "socialization",
+            "behave like"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "book",
+            "become pure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "book",
+            "become faire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "drug use",
+            "abuse"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drug treatment",
+            "take"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "socialisation",
+            "feel less"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "love",
+            "give"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "good taste",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drug use",
+            "take"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bad taste",
+            "drink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "socialisation",
+            "behave less"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drug treatment",
+            "withdraw"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drug use",
+            "withdraw"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "power",
+            "give"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "socialisation",
+            "behave like"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "socialism",
+            "get mad"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "video",
+            "see"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sociality",
+            "behave less"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "high value",
+            "invest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "game",
+            "die"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "High Value",
+            "sell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "good taste",
+            "acquire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "film",
+            "see"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "music",
+            "sing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "High Value",
+            "spend"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "socialism",
+            "feel pure"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bad Thing",
+            "cry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bad taste",
+            "gag"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "badness",
+            "die"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "change",
+            "err"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "change",
+            "grow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "work",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "game",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "love",
+            "grow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "work",
+            "grow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Good Things",
+            "win"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "badger",
+            "kill"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "love",
+            "marry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "experience",
+            "grow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "power",
+            "grow"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "video",
+            "watch"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "change",
+            "react"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "work",
+            "err"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "film",
+            "watch"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "food",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "music",
+            "listen"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "film",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "highness",
+            "rise"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "work",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "video",
+            "cry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Highness",
+            "err"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "music",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "change",
+            "act"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "music",
+            "perform"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "video",
+            "act"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "film",
+            "act"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "change",
+            "try"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "badness",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "food",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "experience",
+            "act"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "game",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "power",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "badger",
+            "pet"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "experience",
+            "acquire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "High Value",
+            "buy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "food",
+            "feed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "experience",
+            "perform"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "experience",
+            "try"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "love",
+            "admire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "badness",
+            "drink"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "music",
+            "admire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "film",
+            "admire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "food",
+            "pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "work",
+            "perform"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "power",
+            "fight"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "badger",
+            "pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "game",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Bad Things",
+            "hurt"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "power",
+            "admire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "highness",
+            "acquire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bad Thing",
+            "hurt"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "video",
+            "buy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "game",
+            "buy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "badness",
+            "hurt"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "badger",
+            "hunt"
+        ],
+        "label": 1
+    }
+]

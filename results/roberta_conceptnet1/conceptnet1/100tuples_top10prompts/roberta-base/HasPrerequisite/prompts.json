@@ -1,0 +1,42 @@
+[
+    [
+        "To <ENT0>, the first step is to <ENT1> .",
+        0.13498158186084191
+    ],
+    [
+        "To <ENT0>, one must first <ENT1> .",
+        0.13148656267501754
+    ],
+    [
+        "If someone wants to <ENT0>, they must first <ENT1> .",
+        0.12011111958973021
+    ],
+    [
+        "If someone desires to <ENT0>, they must <ENT1> first .",
+        0.11342569089923178
+    ],
+    [
+        "If someone wants to <ENT0>, they need to <ENT1> first .",
+        0.10763354019048553
+    ],
+    [
+        "For someone to <ENT0>, they must first <ENT1> .",
+        0.0920571930548879
+    ],
+    [
+        "For someone to accomplish <ENT0>, they must initially <ENT1> .",
+        0.07990621858289385
+    ],
+    [
+        "If someone intends to <ENT0>e, they must initially <ENT1> .",
+        0.07945887753800192
+    ],
+    [
+        "For someone to <ENT0>e, they must first <ENT1> .",
+        0.07115576888133796
+    ],
+    [
+        "To accomplish <ENT0>, <ENT1> is the necessary starting action .",
+        0.06978344672757134
+    ]
+]

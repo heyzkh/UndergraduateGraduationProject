@@ -1,0 +1,42 @@
+[
+    [
+        "You need to <ENT1> in order to <ENT0> .",
+        0.13165176245621324
+    ],
+    [
+        "As you <ENT0>, you will also <ENT1> .",
+        0.10389599580463217
+    ],
+    [
+        "When you <ENT0>, you <ENT1> .",
+        0.10086870151380034
+    ],
+    [
+        "In order to <ENT0> something, you first have to <ENT1> .",
+        0.10080825470542751
+    ],
+    [
+        "As you <ENT0>, you will not only <ENT1>, but also experience .",
+        0.09821456059470177
+    ],
+    [
+        "You <ENT1> when you <ENT0> .",
+        0.097594185261517
+    ],
+    [
+        "You can't <ENT0> something unless you first <ENT1> about it .",
+        0.09661456865432312
+    ],
+    [
+        "I <ENT1> before i can <ENT0> something .",
+        0.09507536032047564
+    ],
+    [
+        "When we <ENT0> something, we automatically <ENT1> about it .",
+        0.09263728547108761
+    ],
+    [
+        "When you <ENT0> someone, you may find yourself <ENT1> along with them .",
+        0.08263932521782157
+    ]
+]

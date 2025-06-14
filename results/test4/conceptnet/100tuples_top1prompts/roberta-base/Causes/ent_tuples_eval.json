@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "drinking warm milk",
+            "chatting"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "falling in love",
+            "involved"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "alcohol consumption",
+            "drinking"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "jet lag",
+            "alone"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Exposure To Violent Media",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "unmet expectations",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "loud noises",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Excessive Social Media Use",
+            "friends"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Unfair Treatment",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "regular exercise",
+            "friends"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Excessive Tolerance",
+            "angry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Peer Pressure",
+            "angry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "falling",
+            "fighting"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Caffeine Consumption",
+            "sleeping"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Pressure To Win",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Neglectful Parenting",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Neglectful Parenting",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Neglectful Parenting",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Neglectful Parenting",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Sedentary Lifestyle",
+            "alone"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Sedentary Lifestyle",
+            "alone"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Sedentary Lifestyle",
+            "alone"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "breathing",
+            "talking"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "breathing",
+            "talking"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "breathing",
+            "talking"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "unpaired",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "unpaired",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "unpaired",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "unpaired",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "miscommunication",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "miscommunication",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "miscommunication",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "miscommunication",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "miscommunication",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "slippery floor",
+            "walking"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Loneliness",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Jealousy",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Jealousy",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Jealousy",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Jealousy",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Jealousy",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Prolonged Proximity",
+            "friendly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "misalignment",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "misalignment",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "misalignment",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stress",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stress",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stress",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "communication",
+            "arguing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "misunderstanding",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "misunderstanding",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "misunderstanding",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "argument",
+            "arguing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shutdown",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shutdown",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shutdown",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "conflict",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "anger",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "anger",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "anger",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "reconciliation",
+            "angry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wanderlust",
+            "paired"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "procrastination",
+            "angry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "procrastination",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "procrastination",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "procrastination",
+            "angry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "procrastination",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "slippery surface",
+            "angry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Laughter",
+            "upset"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Laughter",
+            "upset"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "flooding",
+            "flooded"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Negligence",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Negligence",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Starvation",
+            "sleeping"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "attraction",
+            "involved"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "insults",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "frustration",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "frustration",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Kindness",
+            "angry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Kindness",
+            "angry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Kindness",
+            "angry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Kindness",
+            "angry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Kindness",
+            "angry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Leg Movement",
+            "walking"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Leg Movement",
+            "walking"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Distraction",
+            "angry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Distraction",
+            "angry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Distraction",
+            "angry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "failure",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "failure",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Insult",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Insult",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Insult",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Insult",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Misinformation",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "injury",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pollution",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "participation",
+            "angry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "participation",
+            "angry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "participation",
+            "angry"
+        ],
+        "label": 0
+    }
+]

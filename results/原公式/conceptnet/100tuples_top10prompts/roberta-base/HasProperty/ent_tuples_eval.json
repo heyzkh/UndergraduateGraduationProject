@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "video game",
+            "addictive"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "solar panel",
+            "cheap"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "luxury car",
+            "expensive"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "teddy bear",
+            "cute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "luxury watch",
+            "expensive"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "maple syrup",
+            "sweet"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "quantum physics",
+            "complex"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "giraffe's neck",
+            "long"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "giraffe's tail",
+            "long"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "alcohol",
+            "addictive"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chocolate",
+            "delicious"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vaccine",
+            "safe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cigarette",
+            "dangerous"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Antibiotic",
+            "effective"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fire",
+            "dangerous"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pesticide",
+            "toxic"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "apple",
+            "cheap"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cotton",
+            "expensive"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plastic",
+            "cheap"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Smartphone",
+            "cheap"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "anvil",
+            "powerful"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pebble",
+            "soft"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "giraffe",
+            "small"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "banana",
+            "sweet"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "water",
+            "safe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sapphire",
+            "rare"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "milk",
+            "expensive"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cyanide",
+            "toxic"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "poison",
+            "dangerous"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "leather",
+            "soft"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Caramel",
+            "strong"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "book",
+            "good"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hemlock",
+            "small"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "knife",
+            "dangerous"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bear",
+            "dangerous"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "unicorn",
+            "rare"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Arsenic",
+            "expensive"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "steel",
+            "cheap"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "paper",
+            "small"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "snowflake",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "whiskey",
+            "strong"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "orange",
+            "sweet"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Rope",
+            "strong"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "diamond",
+            "expensive"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "artwork",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "scorpion",
+            "poisonous"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "marshmallow",
+            "delicious"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "moonstone",
+            "rare"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "raindrop",
+            "heavy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "raindrop",
+            "heavy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "raindrop",
+            "heavy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "silk",
+            "cheap"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "backpack",
+            "heavy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bubble",
+            "small"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "whale",
+            "small"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "flashlight",
+            "dangerous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "amethyst",
+            "toxic"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crystal",
+            "fragile"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Honey",
+            "sweet"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "earthquake",
+            "dangerous"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "elephant",
+            "small"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hammer",
+            "powerful"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "laser",
+            "cheap"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rose",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "student",
+            "safe"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "table",
+            "large"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "needle",
+            "dangerous"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sunshine",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "thread",
+            "small"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cloud",
+            "small"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fractal",
+            "complex"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "buttercup",
+            "delicious"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "oxygen",
+            "toxic"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "skydiving",
+            "dangerous"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "firefly",
+            "harmless"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Boulder",
+            "small"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fingerprint",
+            "unique"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "aurora",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "strawberry",
+            "sweet"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "river",
+            "small"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tiger",
+            "dangerous"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mountain",
+            "small"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dynamite",
+            "powerful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mercury",
+            "expensive"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "breeze",
+            "strong"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Notebook",
+            "small"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "volcano",
+            "dangerous"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rust",
+            "strong"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "grass",
+            "green"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lion",
+            "powerful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "feather",
+            "fragile"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nitroglycerin",
+            "toxic"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Moonrock",
+            "dangerous"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "butterfly",
+            "rare"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "titanium",
+            "cheap"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kindness",
+            "rare"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "telescope",
+            "small"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "origami",
+            "simple"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compass",
+            "good"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Asbestos",
+            "dangerous"
+        ],
+        "label": 1
+    }
+]

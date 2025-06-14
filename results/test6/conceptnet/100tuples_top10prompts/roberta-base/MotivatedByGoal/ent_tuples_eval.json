@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "eat food",
+            "survive"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "donate",
+            "give"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cook",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "eat",
+            "survive"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "start reading",
+            "understand"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "learn",
+            "study"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "walk",
+            "move"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hunt",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "work",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "practice",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "save",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "travel",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "exercise",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "compete",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "train",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "attack",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "understand",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "communicate",
+            "say"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "invest",
+            "save"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "study",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "create",
+            "build"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rest",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "demonstrate",
+            "show"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rob",
+            "steal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "volunteer",
+            "contribute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "propose",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "organize",
+            "protest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "advertise",
+            "sell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "meditate",
+            "think"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "research",
+            "study"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "socialize",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fast",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fast",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fast",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "promote",
+            "sell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "promote",
+            "sell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "improve",
+            "succeed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "earn",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "celebrate",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "collaborate",
+            "share"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "collaborate",
+            "share"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bargain",
+            "sell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bargain",
+            "sell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "campaign",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "observe",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "relocate",
+            "move"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "assassinate",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "escape",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "achieve",
+            "succeed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "reflect",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "acquire",
+            "buy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "adapt",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "educate",
+            "teach"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "burglarize",
+            "steal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "protect",
+            "hide"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "analyze",
+            "understand"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "inquire",
+            "know"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "budget",
+            "save"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "express",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "innovate",
+            "improve"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "innovate",
+            "improve"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "negotiate",
+            "lose"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "network",
+            "connect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "relax",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hydrate",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "construct",
+            "build"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "market",
+            "sell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "extort",
+            "steal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "conceal",
+            "hide"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "coordinate",
+            "share"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "monitor",
+            "watch"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "explore",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "instruct",
+            "teach"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "advise",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "motivate",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "console",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "embezzle",
+            "steal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "entertain",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pursue",
+            "gain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "maintain",
+            "keep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "discover",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "conquer",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "advocate",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "inspire",
+            "share"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "strategize",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rescue",
+            "save"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "intimidate",
+            "steal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "persuade",
+            "sell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "enlighten",
+            "understand"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "conserve",
+            "save"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "quench",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "influence",
+            "control"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Caffeinate",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compliment",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "disseminate",
+            "spread"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "style",
+            "wear"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mentor",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "accessorize",
+            "play"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plunder",
+            "steal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cherish",
+            "remember"
+        ],
+        "label": 1
+    }
+]

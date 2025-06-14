@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "voice acting",
+            "movie"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "camera angle",
+            "image"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "narrative arc",
+            "story"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Opening Theme",
+            "movie"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "alternate timeline",
+            "game"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "opening sequence",
+            "episode"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shopping cart",
+            "store"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sound design",
+            "album"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plot",
+            "novel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "character",
+            "game"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "epilogue",
+            "novel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "prologue",
+            "story"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sound effect",
+            "animation"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bookmark",
+            "book bookmark"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "scene",
+            "movie"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dialogue",
+            "novel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Combat System",
+            "game"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "plotline",
+            "story"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "song",
+            "album"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spin-off",
+            "series"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "script",
+            "game"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chapter",
+            "book"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tributary",
+            "river"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "episode",
+            "series"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "voting season",
+            "election"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "advertisement",
+            "ad advertisement"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "subplot",
+            "story"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "campaign period",
+            "election"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "animation",
+            "game"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Appendix Entry",
+            "article"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cutscene",
+            "movie"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "manga",
+            "anime"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Credit Sequence",
+            "article"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "screenplay draft",
+            "novel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "arc",
+            "story"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "appendix section",
+            "article"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "appendix table",
+            "article"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "trailer",
+            "movie"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mythos",
+            "story"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Compilation Unit",
+            "library"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "screenplay revision",
+            "novel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "prequel",
+            "series"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "denouement",
+            "story"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "aria",
+            "opera"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hamlet",
+            "village"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "interview",
+            "video"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "twist",
+            "story"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "soundtrack",
+            "album"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "soundtrack",
+            "album"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "level",
+            "game"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sequence",
+            "game"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "introduction",
+            "book"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Chorus",
+            "Opera"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "page",
+            "book"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "module",
+            "library"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "manuscript",
+            "book"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "season",
+            "series"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "legend",
+            "story"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "glossary",
+            "appendix"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "actor",
+            "movie"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "storyboard",
+            "game"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "track",
+            "game"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "translation",
+            "original"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "illustration",
+            "book"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "overture",
+            "opera"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "climax",
+            "movie"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Thesis",
+            "article"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shot",
+            "video"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fundraising event",
+            "Event Film"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Paragraph",
+            "article"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "quest",
+            "game"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "frame",
+            "image"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "manuscript draft",
+            "book"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "saga",
+            "series"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "playground",
+            "park"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Lyrics",
+            "song"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "act",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "index",
+            "article"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Rehearsal",
+            "Opera"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "forum",
+            "game"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Webpage",
+            "article"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "passage",
+            "book"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Subtitles",
+            "movie"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "headline",
+            "article"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "word",
+            "dictionary"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Subtitle Track",
+            "album"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "preview",
+            "video"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "melody",
+            "song"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "backdrop",
+            "movie"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pixel",
+            "image"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "installment",
+            "series"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "verse",
+            "poem"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "abstract",
+            "article"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Pavement",
+            "Street"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sidebar",
+            "right"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "subfield",
+            "game"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "district",
+            "area"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "footnote",
+            "introduction"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "footnote",
+            "introduction"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "syntax",
+            "html"
+        ],
+        "label": 1
+    }
+]

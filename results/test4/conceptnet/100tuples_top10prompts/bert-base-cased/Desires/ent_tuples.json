@@ -1,0 +1,702 @@
+[
+    [
+        [
+            "creative writer",
+            "work"
+        ],
+        0.07996840305730935
+    ],
+    [
+        [
+            "Music Lover",
+            "song"
+        ],
+        0.038075518564089
+    ],
+    [
+        [
+            "hungry beast",
+            "kill"
+        ],
+        0.038051878305930785
+    ],
+    [
+        [
+            "romantic poet",
+            "love"
+        ],
+        0.03765159787371903
+    ],
+    [
+        [
+            "romantic partner",
+            "love"
+        ],
+        0.03173105900764476
+    ],
+    [
+        [
+            "devoted lover",
+            "love mate"
+        ],
+        0.02898752868311196
+    ],
+    [
+        [
+            "hungry bird",
+            "feed"
+        ],
+        0.02896246619195252
+    ],
+    [
+        [
+            "social butterfly",
+            "love"
+        ],
+        0.02692203845015509
+    ],
+    [
+        [
+            "desperate assassin",
+            "kill"
+        ],
+        0.02612355103509143
+    ],
+    [
+        [
+            "hopeful romantic",
+            "love"
+        ],
+        0.024882013564235278
+    ],
+    [
+        [
+            "fierce gladiator",
+            "fight"
+        ],
+        0.024568227543518666
+    ],
+    [
+        [
+            "greedy investor",
+            "profit"
+        ],
+        0.022693352094695453
+    ],
+    [
+        [
+            "competitive athlete",
+            "win"
+        ],
+        0.02230823534446719
+    ],
+    [
+        [
+            "starving farmer",
+            "feed"
+        ],
+        0.018638483260536538
+    ],
+    [
+        [
+            "frustrated duelist",
+            "fight"
+        ],
+        0.018136005992597636
+    ],
+    [
+        [
+            "trapped prisoner",
+            "escape"
+        ],
+        0.01813238913084672
+    ],
+    [
+        [
+            "human species",
+            "survive"
+        ],
+        0.017440270084298503
+    ],
+    [
+        [
+            "lonely wanderer",
+            "escape"
+        ],
+        0.01674417442926292
+    ],
+    [
+        [
+            "angry warrior",
+            "fight"
+        ],
+        0.016736704638093815
+    ],
+    [
+        [
+            "starving artist",
+            "work"
+        ],
+        0.01629059388183517
+    ],
+    [
+        [
+            "restless dreamer",
+            "sleep"
+        ],
+        0.015910750870538188
+    ],
+    [
+        [
+            "Lonely Heart",
+            "love"
+        ],
+        0.015700341126058046
+    ],
+    [
+        [
+            "dedicated craftsman",
+            "work"
+        ],
+        0.01547680858478514
+    ],
+    [
+        [
+            "artist",
+            "work"
+        ],
+        0.015079809351646926
+    ],
+    [
+        [
+            "spiritual seeker",
+            "love"
+        ],
+        0.014740056856127618
+    ],
+    [
+        [
+            "curious explorer",
+            "escape"
+        ],
+        0.014284966336833132
+    ],
+    [
+        [
+            "weary traveler",
+            "return"
+        ],
+        0.01375050019509649
+    ],
+    [
+        [
+            "frustrated rebel",
+            "fight"
+        ],
+        0.011980787244331555
+    ],
+    [
+        [
+            "hungry person",
+            "feed"
+        ],
+        0.010921955842956655
+    ],
+    [
+        [
+            "avid gardener",
+            "plant"
+        ],
+        0.010125552682574035
+    ],
+    [
+        [
+            "lonely camper",
+            "escape"
+        ],
+        0.01004746323202976
+    ],
+    [
+        [
+            "captive bird",
+            "release"
+        ],
+        0.010002551466407227
+    ],
+    [
+        [
+            "eager audience",
+            "play"
+        ],
+        0.009462407024595068
+    ],
+    [
+        [
+            "determined competitor",
+            "win"
+        ],
+        0.009292360849704214
+    ],
+    [
+        [
+            "solitary dreamer",
+            "sleep"
+        ],
+        0.008977451735323095
+    ],
+    [
+        [
+            "frightened animal",
+            "kill"
+        ],
+        0.008888690695501359
+    ],
+    [
+        [
+            "playful puppy",
+            "love"
+        ],
+        0.008633829337828318
+    ],
+    [
+        [
+            "peaceful hermit",
+            "kill"
+        ],
+        0.008224555645850909
+    ],
+    [
+        [
+            "ambitious politician",
+            "power"
+        ],
+        0.008003193642725113
+    ],
+    [
+        [
+            "ambitious entrepreneur",
+            "work"
+        ],
+        0.0077949863089393405
+    ],
+    [
+        [
+            "Joyful Performer",
+            "dance"
+        ],
+        0.007592426546784661
+    ],
+    [
+        [
+            "determined champion",
+            "win"
+        ],
+        0.007590905274534872
+    ],
+    [
+        [
+            "determined underdog",
+            "win"
+        ],
+        0.007336075154300199
+    ],
+    [
+        [
+            "ambitious inventor",
+            "work"
+        ],
+        0.007230497864215657
+    ],
+    [
+        [
+            "bored teenager",
+            "escape"
+        ],
+        0.007173781591966163
+    ],
+    [
+        [
+            "passionate philosopher",
+            "love"
+        ],
+        0.007139261777714013
+    ],
+    [
+        [
+            "innovative thinker",
+            "change"
+        ],
+        0.00670846272212153
+    ],
+    [
+        [
+            "hopeful soul",
+            "love"
+        ],
+        0.0065809183511186245
+    ],
+    [
+        [
+            "Playful Child",
+            "love"
+        ],
+        0.006558539781866543
+    ],
+    [
+        [
+            "devoted parent",
+            "love"
+        ],
+        0.006517415129153498
+    ],
+    [
+        [
+            "solitary seeker",
+            "release"
+        ],
+        0.006447533639532318
+    ],
+    [
+        [
+            "determined survivor",
+            "kill"
+        ],
+        0.006216648676282176
+    ],
+    [
+        [
+            "aspiring conqueror",
+            "fight"
+        ],
+        0.006146345238661418
+    ],
+    [
+        [
+            "ambitious ruler",
+            "power"
+        ],
+        0.005403459154512943
+    ],
+    [
+        [
+            "contented soul",
+            "love"
+        ],
+        0.005262240344372088
+    ],
+    [
+        [
+            "ambitious strategist",
+            "fight"
+        ],
+        0.005218743953178923
+    ],
+    [
+        [
+            "trapped miner",
+            "kill"
+        ],
+        0.005120016298175401
+    ],
+    [
+        [
+            "ambitious commander",
+            "fight"
+        ],
+        0.004932106630684409
+    ],
+    [
+        [
+            "Hopeful Gardener",
+            "flower"
+        ],
+        0.004909738099359822
+    ],
+    [
+        [
+            "excited child",
+            "release"
+        ],
+        0.004768028611796464
+    ],
+    [
+        [
+            "ambitious scientist",
+            "kill"
+        ],
+        0.004764913884370159
+    ],
+    [
+        [
+            "visionary reformer",
+            "change"
+        ],
+        0.004705529097547607
+    ],
+    [
+        [
+            "inspired sculptor",
+            "work"
+        ],
+        0.004503695281245973
+    ],
+    [
+        [
+            "inspired poet",
+            "love"
+        ],
+        0.004199051868296233
+    ],
+    [
+        [
+            "Tired Employee",
+            "work"
+        ],
+        0.004156037410001995
+    ],
+    [
+        [
+            "sun-loving freelancer",
+            "work"
+        ],
+        0.0040173867333907565
+    ],
+    [
+        [
+            "motivated student",
+            "work"
+        ],
+        0.003940289753605241
+    ],
+    [
+        [
+            "impatient prisoner",
+            "escape"
+        ],
+        0.003921720776383233
+    ],
+    [
+        [
+            "Thirsty Hiker",
+            "drink"
+        ],
+        0.0038612763030958105
+    ],
+    [
+        [
+            "enthusiastic beginner",
+            "release"
+        ],
+        0.0037789295667154787
+    ],
+    [
+        [
+            "Hopeful Immigrant",
+            "change"
+        ],
+        0.0034764559619739374
+    ],
+    [
+        [
+            "inspired musician",
+            "release"
+        ],
+        0.0034227643597672195
+    ],
+    [
+        [
+            "restless visionary",
+            "control"
+        ],
+        0.003317723304897633
+    ],
+    [
+        [
+            "fervent strategist",
+            "kill"
+        ],
+        0.0031995782048705136
+    ],
+    [
+        [
+            "enchanted fairy",
+            "love"
+        ],
+        0.0031760291011829556
+    ],
+    [
+        [
+            "ambitious leader",
+            "power"
+        ],
+        0.003154242578150125
+    ],
+    [
+        [
+            "curious architect",
+            "escape"
+        ],
+        0.002810361077289352
+    ],
+    [
+        [
+            "Driven Competitor",
+            "win"
+        ],
+        0.002573571266458766
+    ],
+    [
+        [
+            "Longing Musician",
+            "love"
+        ],
+        0.0023068291586895977
+    ],
+    [
+        [
+            "ambitious scholar",
+            "study"
+        ],
+        0.002015916267299485
+    ],
+    [
+        [
+            "Stressed Worker",
+            "release"
+        ],
+        0.0020104857231604146
+    ],
+    [
+        [
+            "Serene Admirer",
+            "love"
+        ],
+        0.0019981182687637883
+    ],
+    [
+        [
+            "Yearning Prisoner",
+            "release"
+        ],
+        0.0017952927363826666
+    ],
+    [
+        [
+            "Longing Artist",
+            "love"
+        ],
+        0.0017347758401559806
+    ],
+    [
+        [
+            "Thrilled Actor",
+            "show"
+        ],
+        0.0017297241659656613
+    ],
+    [
+        [
+            "Restless Innovator",
+            "control"
+        ],
+        0.0015049654011890952
+    ],
+    [
+        [
+            "Enchanted Poet",
+            "love"
+        ],
+        0.0014657062327641734
+    ],
+    [
+        [
+            "Vengeful Gladiator",
+            "kill"
+        ],
+        0.0013360328975574166
+    ],
+    [
+        [
+            "nurturing parent",
+            "love"
+        ],
+        0.0013289715487702976
+    ],
+    [
+        [
+            "Adventurous Pilot",
+            "fly"
+        ],
+        0.0011937011281552687
+    ],
+    [
+        [
+            "vengeful hunter",
+            "kill"
+        ],
+        0.0011693353699837998
+    ],
+    [
+        [
+            "Vengeful Assassin",
+            "kill"
+        ],
+        0.0011655123432894124
+    ],
+    [
+        [
+            "budding seedling",
+            "mate seed"
+        ],
+        0.0011372739882414093
+    ],
+    [
+        [
+            "Vengeful Soldier",
+            "kill"
+        ],
+        0.0007803253120012948
+    ],
+    [
+        [
+            "harmonious team",
+            "win"
+        ],
+        0.000719475430217897
+    ],
+    [
+        [
+            "vengeful spirit",
+            "kill"
+        ],
+        0.0006918804036623092
+    ],
+    [
+        [
+            "oppressed rebel",
+            "fight"
+        ],
+        0.0006211272131508935
+    ],
+    [
+        [
+            "Vengeful Warlord",
+            "kill"
+        ],
+        0.00043322301363203717
+    ],
+    [
+        [
+            "Inquisitive Scientist",
+            "kill"
+        ],
+        0.00034977702083128305
+    ],
+    [
+        [
+            "Inquisitive Learner",
+            "control"
+        ],
+        0.00033533900331734416
+    ]
+]

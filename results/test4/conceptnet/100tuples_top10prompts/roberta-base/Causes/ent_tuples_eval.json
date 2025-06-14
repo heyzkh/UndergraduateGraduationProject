@@ -1,0 +1,695 @@
+[
+    {
+        "entity_tuple": [
+            "wearing uncomfortable shoes",
+            "cold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Exposure To Low Temperatures",
+            "cold"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "eating meat",
+            "fat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "food poisoning",
+            "vomiting"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drinking coffee",
+            "cold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "eating meat",
+            "diarrhea"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "excessive alcohol consumption",
+            "drinking"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "drunk",
+            "physical violence"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "excessive caffeine consumption",
+            "high"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "getting sick",
+            "vomiting"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "subzero temperatures",
+            "cold"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "skipping meals",
+            "eating"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Physical Contact",
+            "Physical Uncomfortable"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "strong wind",
+            "cold"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "alcohol consumption",
+            "drinking"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "alcohol consumption",
+            "drinking"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Excessive Exercise",
+            "Overweight"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Excessive Exercise",
+            "Overweight"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "poor posture",
+            "upset"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Chronic Stress",
+            "depression"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "excessive speed",
+            "crash"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "alarm clock",
+            "sleeping"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "alarm clock",
+            "sleeping"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Gun Violence",
+            "violent"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Gun Violence",
+            "violent"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shared experiences",
+            "similar"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hormonal imbalance",
+            "depression"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drinking",
+            "alcohol"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Hormonal Changes",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Hormonal Changes",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Hormonal Changes",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "smoking",
+            "high"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "overuse of legs",
+            "injured"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "traffic congestion",
+            "driving"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "miscommunication",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "miscommunication",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "miscommunication",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "poor formatting",
+            "problems"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "drunk",
+            "alcohol"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "social isolation",
+            "depression"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "social isolation",
+            "depression"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "distracted driving",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "software bug",
+            "problems"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Sun Exposure",
+            "cold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stress",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stress",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stress",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stress",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stress",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stress",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stress",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stress",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Combat Exposure",
+            "cold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pregnant",
+            "pregnancy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "walking",
+            "moving"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "overeating",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "overeating",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "eating",
+            "diarrhea"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sunburn",
+            "cold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sunburn",
+            "cold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Asbestos Exposure",
+            "cancer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "romantic interest",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "coffee",
+            "cold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "exercise",
+            "walking"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "exercise",
+            "walking"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "overloading",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Prolonged Immobility",
+            "cold"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pregnant",
+            "depression"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cyberbullying",
+            "online"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Caffeine",
+            "sleeping"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Joke",
+            "laughing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Joke",
+            "laughing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fire",
+            "cold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "misunderstanding",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "neglected car maintenance",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "conflict",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "speeding",
+            "crash"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "isolation",
+            "close"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "isolation",
+            "close"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "neglect",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shutdown",
+            "Shutdown Upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shutdown",
+            "Shutdown Upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Temptation",
+            "happy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wind",
+            "cold"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sunlight",
+            "cold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "frustration",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Imitation",
+            "upset"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "earthquake",
+            "violent"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "disappointment",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "disappointment",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gunfire",
+            "fighting"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "distraction",
+            "upset"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "distraction",
+            "upset"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "distraction",
+            "upset"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "directing",
+            "working"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "injury",
+            "physical"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Obstruction",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "insults",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Malnutrition",
+            "upset"
+        ],
+        "label": 1
+    }
+]

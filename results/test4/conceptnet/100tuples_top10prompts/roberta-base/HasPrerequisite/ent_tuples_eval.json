@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "Press And Hold The Like Button",
+            "press type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "learn basic sign language",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "be mortally wounded",
+            "die"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "write code",
+            "type write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "learn vocabulary",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "open eyes",
+            "see"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "open eyes",
+            "see"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "learn the alphabet",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "learn the alphabet",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "learn the alphabet",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "connect to the internet",
+            "register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "learn grammar",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "learn grammar",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "create an account",
+            "register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "create an account",
+            "register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "create an account",
+            "register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Create Account",
+            "login"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Create Account",
+            "login"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "enroll in a course",
+            "register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "have internet access",
+            "register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Slow Down",
+            "stop"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Type Annotation",
+            "Type Write"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Create A Post",
+            "click"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "read instructions",
+            "read type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "learn basic greetings",
+            "learn read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "open the book",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dial a number",
+            "call"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dial a number",
+            "call"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "write",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "compose an email",
+            "type write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "turn head",
+            "turn start"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "read",
+            "read write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "read",
+            "read write"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "read",
+            "read write"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "view thread",
+            "click"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "speak",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "start",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Turn Around",
+            "Start Try"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "User Authentication",
+            "login"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "practice",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "understand",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "understand",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "understand",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "learn",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "learn",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "learn",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "learn",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "learn",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "learn",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "learn",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "socialize at events",
+            "register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "study",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "study",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "see",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "login",
+            "click"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "login",
+            "click"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hear",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Save Money",
+            "save start"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "perform",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "perform",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "negotiate",
+            "agree"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Political Science",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "press",
+            "call"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "press",
+            "call"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "press",
+            "call"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "press",
+            "call"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "press",
+            "call"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "analyze",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "audition",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "return",
+            "return write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compose",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "interpret",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "question",
+            "answer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "address",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "attempt",
+            "try"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "attempt",
+            "try"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "attempt",
+            "try"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "attempt",
+            "try"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "export",
+            "import"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "earn",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "earn",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Pronounce",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "jog",
+            "walk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "jog",
+            "walk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "inquire",
+            "ask call"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "inquire",
+            "ask call"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "inquire",
+            "ask call"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "inquire",
+            "ask call"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "theory",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "theory",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "programming",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "schedule",
+            "call"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dial",
+            "call"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "alphabet",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "alphabet",
+            "write"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "alphabet",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "instruction",
+            "write"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Preparing",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rhythm",
+            "write"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "exponentiation",
+            "write"
+        ],
+        "label": 0
+    }
+]

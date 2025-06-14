@@ -1,0 +1,42 @@
+[
+    [
+        "The <ENT1> has <ENT0> inside it .",
+        0.15149049597984146
+    ],
+    [
+        "The <ENT0> is inside the <ENT1> .",
+        0.14504675164264552
+    ],
+    [
+        "The <ENT0> is positioned inside the <ENT1> .",
+        0.12806196172703702
+    ],
+    [
+        "The <ENT1> includes <ENT0> as one of its components .",
+        0.11068700345812177
+    ],
+    [
+        "<ENT1> serves as the container for <ENT0> .",
+        0.10707314850624922
+    ],
+    [
+        "<ENT1> is home to <ENT0> .",
+        0.07789393215672122
+    ],
+    [
+        "The <ENT1> is where the <ENT0> are located .",
+        0.07287639748811853
+    ],
+    [
+        "<ENT0> is contained within <ENT1>s .",
+        0.07083148086388898
+    ],
+    [
+        "<ENT0> are found in <ENT1> .",
+        0.06815844545319164
+    ],
+    [
+        "<ENT1> serves as the location for <ENT0> .",
+        0.06788038272418472
+    ]
+]

@@ -1,0 +1,34 @@
+[
+    [
+        "The <ENT0>'s color makes it <ENT1> .",
+        0.16925602269212042
+    ],
+    [
+        "<ENT0> is <ENT1> .",
+        0.1559635677227832
+    ],
+    [
+        "<ENT0> has the property of being <ENT1> .",
+        0.15592036522338124
+    ],
+    [
+        "<ENT0>s are <ENT1> .",
+        0.13903237076363825
+    ],
+    [
+        "<ENT0> are <ENT1> .",
+        0.12359498558949486
+    ],
+    [
+        "<ENT0> is <ENT1> in color .",
+        0.09667749664632667
+    ],
+    [
+        "<ENT0> has <ENT1> properties .",
+        0.09079555404283221
+    ],
+    [
+        "The <ENT0> is <ENT1>, with respect to color .",
+        0.06875963731942324
+    ]
+]

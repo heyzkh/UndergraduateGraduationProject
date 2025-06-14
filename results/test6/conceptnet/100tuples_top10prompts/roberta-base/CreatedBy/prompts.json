@@ -1,0 +1,22 @@
+[
+    [
+        "The word \"<ENT1>\" refers to the person who creates or prepares <ENT0> .",
+        0.17213437210922033
+    ],
+    [
+        "<ENT1>s create <ENT0>s either by writing the music themselves or by collaborating with lyricists and other musicians .",
+        0.1209998962957852
+    ],
+    [
+        "A <ENT1> is a female chicken that produces <ENT0>s .",
+        0.11698956624148538
+    ],
+    [
+        "A <ENT1> is someone who makes <ENT0> .",
+        0.10926199117660669
+    ],
+    [
+        "The person responsible for creating a <ENT0> is called the <ENT1> .",
+        0.10385577689475754
+    ]
+]

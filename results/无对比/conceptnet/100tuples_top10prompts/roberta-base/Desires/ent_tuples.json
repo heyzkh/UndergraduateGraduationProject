@@ -1,0 +1,702 @@
+[
+    [
+        [
+            "aspiring writer",
+            "publish"
+        ],
+        0.05854177162363008
+    ],
+    [
+        [
+            "creative artist",
+            "work"
+        ],
+        0.05836225177212017
+    ],
+    [
+        [
+            "creative writer",
+            "work"
+        ],
+        0.04529383810071682
+    ],
+    [
+        [
+            "aspiring freelancer",
+            "work"
+        ],
+        0.04256947331655323
+    ],
+    [
+        [
+            "aspiring freelancer",
+            "work"
+        ],
+        0.04256947331655323
+    ],
+    [
+        [
+            "social butterfly",
+            "survive"
+        ],
+        0.03929250173534784
+    ],
+    [
+        [
+            "vengeful assassin",
+            "kill"
+        ],
+        0.033199251588830594
+    ],
+    [
+        [
+            "single guy",
+            "date"
+        ],
+        0.02859931459312983
+    ],
+    [
+        [
+            "competitive athlete",
+            "win"
+        ],
+        0.026479970744382963
+    ],
+    [
+        [
+            "Retiring Employee",
+            "retire"
+        ],
+        0.025731021244429185
+    ],
+    [
+        [
+            "vengeful warrior",
+            "kill"
+        ],
+        0.022466533600421154
+    ],
+    [
+        [
+            "budding entrepreneur",
+            "succeed"
+        ],
+        0.021219107824231732
+    ],
+    [
+        [
+            "Endangered Species",
+            "survive"
+        ],
+        0.021057720697752427
+    ],
+    [
+        [
+            "angry tiger",
+            "escape"
+        ],
+        0.020734317938176344
+    ],
+    [
+        [
+            "Tired Soul",
+            "rest"
+        ],
+        0.019884201651352067
+    ],
+    [
+        [
+            "Retired Traveler",
+            "Retire Travel"
+        ],
+        0.01915564846475866
+    ],
+    [
+        [
+            "starving artist",
+            "work"
+        ],
+        0.018841317460375293
+    ],
+    [
+        [
+            "aspiring professional",
+            "work"
+        ],
+        0.018717533817223235
+    ],
+    [
+        [
+            "aspiring diplomat",
+            "work"
+        ],
+        0.016526335321419363
+    ],
+    [
+        [
+            "romantic partner",
+            "work"
+        ],
+        0.015295999148949297
+    ],
+    [
+        [
+            "curious wanderer",
+            "travel"
+        ],
+        0.015166129671472312
+    ],
+    [
+        [
+            "budding musician",
+            "play"
+        ],
+        0.014847254842560357
+    ],
+    [
+        [
+            "Compassionate Volunteer",
+            "help"
+        ],
+        0.01403605398243397
+    ],
+    [
+        [
+            "power-hungry leader",
+            "win"
+        ],
+        0.01319768120911523
+    ],
+    [
+        [
+            "committed partner",
+            "work"
+        ],
+        0.011961839275036239
+    ],
+    [
+        [
+            "budding scientist",
+            "work"
+        ],
+        0.010632420722602624
+    ],
+    [
+        [
+            "budding scientist",
+            "work"
+        ],
+        0.010632420722602624
+    ],
+    [
+        [
+            "vengeful spirit",
+            "kill"
+        ],
+        0.010537697372814939
+    ],
+    [
+        [
+            "vengeful soldier",
+            "kill"
+        ],
+        0.01043367256128708
+    ],
+    [
+        [
+            "adventurous explorer",
+            "travel"
+        ],
+        0.010340233602532464
+    ],
+    [
+        [
+            "aspiring pilot",
+            "fly"
+        ],
+        0.010265829467748662
+    ],
+    [
+        [
+            "fertile couple",
+            "marry"
+        ],
+        0.010198392619539412
+    ],
+    [
+        [
+            "aspiring farmer",
+            "produce"
+        ],
+        0.009957178615969979
+    ],
+    [
+        [
+            "philosophical thinker",
+            "work"
+        ],
+        0.009497836017635746
+    ],
+    [
+        [
+            "dog lover",
+            "breed"
+        ],
+        0.009053613730969667
+    ],
+    [
+        [
+            "Fertile Organism",
+            "reproduce"
+        ],
+        0.008353051013633313
+    ],
+    [
+        [
+            "Determined Inventor",
+            "work"
+        ],
+        0.007226824423326693
+    ],
+    [
+        [
+            "spiritual seeker",
+            "live"
+        ],
+        0.007059912582959193
+    ],
+    [
+        [
+            "Impatient Prisoner",
+            "escape"
+        ],
+        0.007046966156625584
+    ],
+    [
+        [
+            "young plant",
+            "grow"
+        ],
+        0.006817091551283266
+    ],
+    [
+        [
+            "Aspiring Partner",
+            "work"
+        ],
+        0.006766978930564457
+    ],
+    [
+        [
+            "Captive Bird",
+            "live"
+        ],
+        0.006568720973015811
+    ],
+    [
+        [
+            "stranded hiker",
+            "return"
+        ],
+        0.006502704929805838
+    ],
+    [
+        [
+            "Food Enthusiast",
+            "cook"
+        ],
+        0.006372425329414695
+    ],
+    [
+        [
+            "grateful recipient",
+            "receive"
+        ],
+        0.006321373885512293
+    ],
+    [
+        [
+            "devoted lover",
+            "marry"
+        ],
+        0.006274545159854316
+    ],
+    [
+        [
+            "Determined Survivor",
+            "survive"
+        ],
+        0.0062601616955632955
+    ],
+    [
+        [
+            "Compassionate Healer",
+            "help"
+        ],
+        0.006207864173389431
+    ],
+    [
+        [
+            "Exhausted Student",
+            "graduate"
+        ],
+        0.00598324842947252
+    ],
+    [
+        [
+            "Restless Soul",
+            "live"
+        ],
+        0.005977608146513466
+    ],
+    [
+        [
+            "avid gardener",
+            "grow"
+        ],
+        0.005716095418584916
+    ],
+    [
+        [
+            "hungry animal",
+            "survive"
+        ],
+        0.005508976594924555
+    ],
+    [
+        [
+            "Aspiring Investor",
+            "succeed"
+        ],
+        0.005396533991702648
+    ],
+    [
+        [
+            "determined competitor",
+            "win"
+        ],
+        0.005288098321473452
+    ],
+    [
+        [
+            "hopeful bride",
+            "marry"
+        ],
+        0.005233316139653803
+    ],
+    [
+        [
+            "ambitious ruler",
+            "succeed"
+        ],
+        0.005100553699282964
+    ],
+    [
+        [
+            "Aspiring Employee",
+            "work"
+        ],
+        0.004884619863750418
+    ],
+    [
+        [
+            "Nurturing Caregiver",
+            "work"
+        ],
+        0.004804295459456001
+    ],
+    [
+        [
+            "aspiring homeowner",
+            "save"
+        ],
+        0.004529308162979022
+    ],
+    [
+        [
+            "Peaceful Hermit",
+            "live"
+        ],
+        0.004486446428985458
+    ],
+    [
+        [
+            "terminal patient",
+            "die"
+        ],
+        0.004341385357880626
+    ],
+    [
+        [
+            "Ambitious Individual",
+            "achieve"
+        ],
+        0.0042518775700680096
+    ],
+    [
+        [
+            "hopeful suitor",
+            "marry"
+        ],
+        0.004129477144975645
+    ],
+    [
+        [
+            "health-conscious individual",
+            "live"
+        ],
+        0.0038049640777326373
+    ],
+    [
+        [
+            "hopeful romantic",
+            "love"
+        ],
+        0.003780054433703945
+    ],
+    [
+        [
+            "Dedicated Professional",
+            "work"
+        ],
+        0.003762903424706546
+    ],
+    [
+        [
+            "kind-hearted volunteer",
+            "help"
+        ],
+        0.0034415264643467007
+    ],
+    [
+        [
+            "Oppressed Soul",
+            "escape"
+        ],
+        0.003396908371480954
+    ],
+    [
+        [
+            "Dreaming Child",
+            "live"
+        ],
+        0.0029138316630372327
+    ],
+    [
+        [
+            "eager student",
+            "graduate"
+        ],
+        0.002865004530255188
+    ],
+    [
+        [
+            "suicidal person",
+            "escape"
+        ],
+        0.0028315970904990197
+    ],
+    [
+        [
+            "lonely creature",
+            "survive"
+        ],
+        0.0027847069035515136
+    ],
+    [
+        [
+            "Sleepy Owl",
+            "fly"
+        ],
+        0.0024203535352648963
+    ],
+    [
+        [
+            "knowledge seeker",
+            "learn"
+        ],
+        0.0023256918812042905
+    ],
+    [
+        [
+            "predator",
+            "survive"
+        ],
+        0.002172090489690901
+    ],
+    [
+        [
+            "Devoted Friend",
+            "love"
+        ],
+        0.0021472615025688244
+    ],
+    [
+        [
+            "Wealthy Entrepreneur",
+            "succeed"
+        ],
+        0.0021428301507944204
+    ],
+    [
+        [
+            "fearful prey",
+            "escape"
+        ],
+        0.002043598437982202
+    ],
+    [
+        [
+            "Hopeful Dater",
+            "marry"
+        ],
+        0.001955733298013034
+    ],
+    [
+        [
+            "Hopeful Dater",
+            "marry"
+        ],
+        0.001955733298013034
+    ],
+    [
+        [
+            "Pessimistic Scientist",
+            "work"
+        ],
+        0.0019308021375727905
+    ],
+    [
+        [
+            "wanderlust-driven dreamer",
+            "travel"
+        ],
+        0.001913806899563428
+    ],
+    [
+        [
+            "wanderlust-filled dreamer",
+            "travel"
+        ],
+        0.0018695584987028068
+    ],
+    [
+        [
+            "Hopeful Parent",
+            "adopt"
+        ],
+        0.001863174000847347
+    ],
+    [
+        [
+            "growing puppy",
+            "live"
+        ],
+        0.0017922094746527708
+    ],
+    [
+        [
+            "budding investor",
+            "grow"
+        ],
+        0.0017575502383239208
+    ],
+    [
+        [
+            "crows",
+            "fly"
+        ],
+        0.001613485205469021
+    ],
+    [
+        [
+            "Frightened Prey",
+            "escape"
+        ],
+        0.0015446808765566444
+    ],
+    [
+        [
+            "environmentalist",
+            "survive"
+        ],
+        0.0013714895635310728
+    ],
+    [
+        [
+            "Frightened Survivor",
+            "escape"
+        ],
+        0.001314732146974127
+    ],
+    [
+        [
+            "Restless Innovator",
+            "succeed"
+        ],
+        0.0013092194734600662
+    ],
+    [
+        [
+            "motivated seller",
+            "buy"
+        ],
+        0.0012668862689800204
+    ],
+    [
+        [
+            "contented soul",
+            "live"
+        ],
+        0.001218360153525262
+    ],
+    [
+        [
+            "Weary Worker",
+            "survive"
+        ],
+        0.001064799072559353
+    ],
+    [
+        [
+            "hungry person",
+            "survive"
+        ],
+        0.0010527035414367716
+    ],
+    [
+        [
+            "Playful Child",
+            "escape"
+        ],
+        0.0008341564597944157
+    ],
+    [
+        [
+            "homesick traveler",
+            "escape"
+        ],
+        0.000397610027650484
+    ],
+    [
+        [
+            "thrill-seeker",
+            "escape"
+        ],
+        0.00022423834654605252
+    ],
+    [
+        [
+            "Yearning Heart",
+            "love"
+        ],
+        0.00014905700780029236
+    ],
+    [
+        [
+            "shopaholic",
+            "work"
+        ],
+        6.039114388164991e-05
+    ]
+]

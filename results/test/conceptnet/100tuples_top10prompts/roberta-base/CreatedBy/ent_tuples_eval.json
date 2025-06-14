@@ -1,0 +1,695 @@
+[
+    {
+        "entity_tuple": [
+            "Great World",
+            "Great Leader"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "special sauce",
+            "chef"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "unique music",
+            "composer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Complex System",
+            "Complex Programmer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Great World",
+            "Great Man"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "unique music",
+            "singer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "unique product",
+            "Creative Person"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "specific pun",
+            "punter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Complex System",
+            "Complexist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "different food",
+            "chef"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "special material",
+            "scientist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "work",
+            "Creative Worker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "different food",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "certain mood",
+            "personality"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "different yarn",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "certain pun",
+            "punter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "unique material",
+            "artist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sound",
+            "composer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "specific noun",
+            "poet"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "specific noun",
+            "verb"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "different behavior",
+            "personality"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Good Mood",
+            "Hero"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sound",
+            "speaker"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "special mood",
+            "composer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "special mood",
+            "singer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "certain product",
+            "manufacturer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sound",
+            "producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "work",
+            "creator"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "special material",
+            "smith"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "different medium",
+            "artist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Complex System",
+            "developer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "work",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "large void",
+            "void person"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Great World",
+            "God"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bread",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "unique material",
+            "smith"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "work",
+            "programmer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "certain medium",
+            "artist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Great World",
+            "leader"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "work",
+            "writer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "certain medium",
+            "director"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "specific product",
+            "manager"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "good",
+            "producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "specific product",
+            "developer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sound",
+            "listener"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dough",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sound",
+            "voice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "good",
+            "creator"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "good",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "large void",
+            "gutter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Complex World",
+            "computer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "good",
+            "master"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dough",
+            "mixer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "large void",
+            "gully"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "large void",
+            "self"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dough",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "soundcloud",
+            "Music User"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dough",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dough",
+            "bough"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gold",
+            "miner"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bread",
+            "bakery"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "soundcloud",
+            "composer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bread",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "potential",
+            "creator"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "large number",
+            "math"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "yarn",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "yarn",
+            "producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bread",
+            "bough"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "potential",
+            "programmer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stuff",
+            "creator"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stuff",
+            "producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bread",
+            "loaf"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stuff",
+            "programmer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stuff",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gold",
+            "producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "yarn",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gold",
+            "creator"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gold",
+            "smith"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "soundcloud",
+            "artist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "soundcloud",
+            "writer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stuff",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "speciality",
+            "specialist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "soundcloud",
+            "musiccloud"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "yarn",
+            "smith"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "potential",
+            "project"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "specialness",
+            "speciality"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "specialness",
+            "specialist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pun",
+            "Pint"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "speciality",
+            "specialism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pun",
+            "pong"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pun",
+            "puss"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gold",
+            "mith"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "specialness",
+            "hero"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Specialty",
+            "Specialist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "potential",
+            "cic"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Specialty",
+            "speciality"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Specialty",
+            "Specializer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Specialty",
+            "Specialer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Specialty",
+            "Smith"
+        ],
+        "label": 0
+    }
+]

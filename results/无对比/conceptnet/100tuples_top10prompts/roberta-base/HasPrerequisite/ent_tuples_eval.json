@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "develop skills",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "register to vote",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "create an account",
+            "register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "write code",
+            "type"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "make progress",
+            "improve"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "become successful",
+            "succeed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "organize thoughts",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "formulate thoughts",
+            "think"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "understand",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "learn",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gather courage",
+            "try"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "attend",
+            "register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dial a number",
+            "call"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "speak",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "read",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "study",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "verify",
+            "ask verify"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "listen",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "begin",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "register",
+            "visit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "apply",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "practice",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "develop interest",
+            "understand"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hear",
+            "listen"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "commit",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "train",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "position mouse cursor",
+            "type"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "qualify",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "enroll",
+            "register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "position fingers on keyboard",
+            "type"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "answer",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "propose",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "decide",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "think",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "save",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "negotiate",
+            "agree"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "warm up",
+            "walk"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "obtain a book",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "choose",
+            "vote"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pledge",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stand",
+            "walk"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "purchase",
+            "register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "execute",
+            "call"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "review",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "observe",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "recognize letters",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "analyze",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "explore",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compare",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "research",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "look",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "design",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "interpret",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "consider",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "prepare",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "focus",
+            "practice"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "initiate",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "compose",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "notice",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "complete",
+            "finish"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "book",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "identify",
+            "call"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "imagine",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "recognize",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plan",
+            "think"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "press",
+            "call"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "evaluate",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "export",
+            "import"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "desire",
+            "Desire Want"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "earn",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "comprehend",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "memorize",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "attempt",
+            "try"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "acquire",
+            "buy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "aim",
+            "shoot"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "concentrate",
+            "think"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "inquire",
+            "call"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "reflect",
+            "think"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "reflect",
+            "think"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pronounce",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "request",
+            "specify"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "depart",
+            "leave"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "visualize",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "assemble",
+            "build"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "motivate",
+            "say"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Ponder",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "aspire",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "grasp",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "reserve",
+            "register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "perceive",
+            "see"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "articulate",
+            "write"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "strive",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stretch",
+            "walk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Locate",
+            "find"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "arrange",
+            "call"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "afford",
+            "buy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "formulate",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dial",
+            "call"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Intend",
+            "write"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "endeavor",
+            "learn"
+        ],
+        "label": 1
+    }
+]

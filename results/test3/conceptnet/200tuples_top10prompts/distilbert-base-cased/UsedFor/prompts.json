@@ -1,0 +1,42 @@
+[
+    [
+        "The <ENT0> is a common mode of <ENT1> used by people all over the world .",
+        0.15996753794051538
+    ],
+    [
+        "The <ENT0> is a popular means of <ENT1> .",
+        0.13263752499029463
+    ],
+    [
+        "The <ENT0> is a vehicle that is used for <ENT1> .",
+        0.1092592564316323
+    ],
+    [
+        "The <ENT0> is a place where people go to <ENT1> .",
+        0.09901572599166483
+    ],
+    [
+        "A <ENT0> is a piece of furniture that is typically used for <ENT1>ing in .",
+        0.09892326447497955
+    ],
+    [
+        "The <ENT0> is a furniture piece meant for <ENT1>ing in .",
+        0.0914975109555174
+    ],
+    [
+        "The <ENT0> is used for <ENT1>ing .",
+        0.0843100997700028
+    ],
+    [
+        "The <ENT0> is the part of the bird that helps it <ENT1> .",
+        0.07948463604269349
+    ],
+    [
+        "The <ENT0> is a place where <ENT1>ers can battle each other .",
+        0.07823927218093021
+    ],
+    [
+        "The function of <ENT0> is to <ENT1> .",
+        0.0666651712217693
+    ]
+]

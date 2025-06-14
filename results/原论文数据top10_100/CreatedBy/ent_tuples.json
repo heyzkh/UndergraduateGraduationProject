@@ -1,0 +1,702 @@
+[
+    [
+        [
+            "Big Thing",
+            "big deal"
+        ],
+        0.12196209172290295
+    ],
+    [
+        [
+            "Big Thing",
+            "big guy"
+        ],
+        0.11750808232164184
+    ],
+    [
+        [
+            "change",
+            "Real Change"
+        ],
+        0.03220337717228919
+    ],
+    [
+        [
+            "milk",
+            "dairy cow"
+        ],
+        0.031316730858516856
+    ],
+    [
+        [
+            "Political Verdict",
+            "Political Prisoner"
+        ],
+        0.02539182401878796
+    ],
+    [
+        [
+            "short film",
+            "filmmaker"
+        ],
+        0.023778725336415073
+    ],
+    [
+        [
+            "hard drive",
+            "computer"
+        ],
+        0.022688758678834527
+    ],
+    [
+        [
+            "perfect perfection",
+            "goddess"
+        ],
+        0.01959916756737579
+    ],
+    [
+        [
+            "show",
+            "television show"
+        ],
+        0.017198318782483506
+    ],
+    [
+        [
+            "free speech",
+            "censor"
+        ],
+        0.015783470391217837
+    ],
+    [
+        [
+            "successful project",
+            "successful entrepreneur"
+        ],
+        0.013982104279811563
+    ],
+    [
+        [
+            "small fish",
+            "fisherman"
+        ],
+        0.013096045788546517
+    ],
+    [
+        [
+            "special effect",
+            "magician"
+        ],
+        0.012815364447219434
+    ],
+    [
+        [
+            "specific material",
+            "Production Engineer"
+        ],
+        0.012232504042491788
+    ],
+    [
+        [
+            "certain behaviour",
+            "robot"
+        ],
+        0.011799053673796547
+    ],
+    [
+        [
+            "work together",
+            "team"
+        ],
+        0.010794937634977481
+    ],
+    [
+        [
+            "large mass",
+            "giant"
+        ],
+        0.01068582929906751
+    ],
+    [
+        [
+            "specific behavior",
+            "behaviorist"
+        ],
+        0.010214741799035499
+    ],
+    [
+        [
+            "complex construction",
+            "Constructor"
+        ],
+        0.010087101891919789
+    ],
+    [
+        [
+            "property",
+            "real estate"
+        ],
+        0.009549534759821059
+    ],
+    [
+        [
+            "large size",
+            "giant"
+        ],
+        0.00933365049311802
+    ],
+    [
+        [
+            "hard graft",
+            "mole"
+        ],
+        0.008055742443082638
+    ],
+    [
+        [
+            "two eggs",
+            "hen"
+        ],
+        0.0079447021089959
+    ],
+    [
+        [
+            "successful business",
+            "businessman"
+        ],
+        0.007917059366938938
+    ],
+    [
+        [
+            "unique characteristic",
+            "personality"
+        ],
+        0.007442769840011421
+    ],
+    [
+        [
+            "special brew",
+            "bartender"
+        ],
+        0.006887653627867818
+    ],
+    [
+        [
+            "Special Purpose",
+            "Specialist"
+        ],
+        0.006591489433438527
+    ],
+    [
+        [
+            "specific system",
+            "system operator"
+        ],
+        0.006321748030468625
+    ],
+    [
+        [
+            "hard material",
+            "hardworker"
+        ],
+        0.006313621309924631
+    ],
+    [
+        [
+            "specific pattern",
+            "patterner"
+        ],
+        0.005989928763707739
+    ],
+    [
+        [
+            "powerful force",
+            "giant"
+        ],
+        0.005978458262234522
+    ],
+    [
+        [
+            "powerful thought",
+            "thinker"
+        ],
+        0.005943565132866577
+    ],
+    [
+        [
+            "novel",
+            "book author"
+        ],
+        0.005900596143231891
+    ],
+    [
+        [
+            "Special Event",
+            "Magician"
+        ],
+        0.005779690830382595
+    ],
+    [
+        [
+            "different version",
+            "clone"
+        ],
+        0.005459502665750821
+    ],
+    [
+        [
+            "unique art",
+            "artist"
+        ],
+        0.005386113116525353
+    ],
+    [
+        [
+            "quality art",
+            "creative individual"
+        ],
+        0.0053559515080293515
+    ],
+    [
+        [
+            "stock",
+            "market trader"
+        ],
+        0.005265526377843413
+    ],
+    [
+        [
+            "large mass",
+            "machine"
+        ],
+        0.005221350799750078
+    ],
+    [
+        [
+            "small children",
+            "mom"
+        ],
+        0.004968323278799688
+    ],
+    [
+        [
+            "bad taste",
+            "jerk"
+        ],
+        0.004587610411537789
+    ],
+    [
+        [
+            "political thought",
+            "thinker"
+        ],
+        0.004529921748994695
+    ],
+    [
+        [
+            "two eggs",
+            "goose"
+        ],
+        0.004156683302349233
+    ],
+    [
+        [
+            "hard shell",
+            "shellmaker"
+        ],
+        0.0040724860018808914
+    ],
+    [
+        [
+            "Live Event",
+            "promoter"
+        ],
+        0.004030641916044103
+    ],
+    [
+        [
+            "live music",
+            "drummer"
+        ],
+        0.0039819162025621305
+    ],
+    [
+        [
+            "payroll",
+            "tax accountant"
+        ],
+        0.003970691833916151
+    ],
+    [
+        [
+            "physical ill",
+            "parasite"
+        ],
+        0.003968837050262627
+    ],
+    [
+        [
+            "certain formula",
+            "mathematician"
+        ],
+        0.00394747485148951
+    ],
+    [
+        [
+            "certain mood",
+            "personality"
+        ],
+        0.003908213698974817
+    ],
+    [
+        [
+            "quality film",
+            "filmmaker"
+        ],
+        0.003895399104507747
+    ],
+    [
+        [
+            "specific pattern",
+            "patternmaker"
+        ],
+        0.0038505344426497104
+    ],
+    [
+        [
+            "different behavior",
+            "hybrid"
+        ],
+        0.003708313944267525
+    ],
+    [
+        [
+            "short story",
+            "narrator"
+        ],
+        0.0036943893056472343
+    ],
+    [
+        [
+            "powerful leadership",
+            "strategist"
+        ],
+        0.003565577430358706
+    ],
+    [
+        [
+            "technology",
+            "Tech Entrepreneur"
+        ],
+        0.003524748278661437
+    ],
+    [
+        [
+            "complete void",
+            "void monster"
+        ],
+        0.003462194728011582
+    ],
+    [
+        [
+            "powerful evil",
+            "villain"
+        ],
+        0.0034329258256611166
+    ],
+    [
+        [
+            "live music",
+            "performer"
+        ],
+        0.003410375983068813
+    ],
+    [
+        [
+            "quality gold",
+            "mine"
+        ],
+        0.0033974674920102324
+    ],
+    [
+        [
+            "short speech",
+            "narrator"
+        ],
+        0.003334455250015432
+    ],
+    [
+        [
+            "different form",
+            "hybrid"
+        ],
+        0.0032827583397394807
+    ],
+    [
+        [
+            "real value",
+            "capitalist"
+        ],
+        0.003239268243564166
+    ],
+    [
+        [
+            "certain mood",
+            "depressive"
+        ],
+        0.0030877539200116345
+    ],
+    [
+        [
+            "unique brew",
+            "bartender"
+        ],
+        0.0030869423318368237
+    ],
+    [
+        [
+            "particular music",
+            "musicologist"
+        ],
+        0.002951474876506714
+    ],
+    [
+        [
+            "Perfect Match",
+            "partner"
+        ],
+        0.0028839942145639738
+    ],
+    [
+        [
+            "physical ill",
+            "zombie"
+        ],
+        0.002856419788961785
+    ],
+    [
+        [
+            "particular pattern",
+            "patternmaker"
+        ],
+        0.0028520489139859167
+    ],
+    [
+        [
+            "beautiful earth",
+            "goddess"
+        ],
+        0.002849293155509435
+    ],
+    [
+        [
+            "different behavior",
+            "personality"
+        ],
+        0.002828648610399221
+    ],
+    [
+        [
+            "public works",
+            "mayor"
+        ],
+        0.0027940961473535216
+    ],
+    [
+        [
+            "quality brew",
+            "brewery"
+        ],
+        0.0027327843085693465
+    ],
+    [
+        [
+            "pizza",
+            "pizzeria"
+        ],
+        0.0025681101820947947
+    ],
+    [
+        [
+            "different music",
+            "drummer"
+        ],
+        0.00241050173780727
+    ],
+    [
+        [
+            "beautiful dress",
+            "goddess"
+        ],
+        0.002396758355032448
+    ],
+    [
+        [
+            "beautiful dress",
+            "bride"
+        ],
+        0.002371451499231031
+    ],
+    [
+        [
+            "Powerful Weapon",
+            "Soldier"
+        ],
+        0.002366739077565789
+    ],
+    [
+        [
+            "small loaf",
+            "bakery"
+        ],
+        0.0023474846328390467
+    ],
+    [
+        [
+            "design",
+            "creative artist"
+        ],
+        0.0022998626859895093
+    ],
+    [
+        [
+            "history",
+            "True Legend"
+        ],
+        0.002287041329710559
+    ],
+    [
+        [
+            "large egg",
+            "hen"
+        ],
+        0.002244038327708185
+    ],
+    [
+        [
+            "complete material",
+            "complete artist"
+        ],
+        0.0022380313564734937
+    ],
+    [
+        [
+            "live experience",
+            "performer"
+        ],
+        0.00211307325274379
+    ],
+    [
+        [
+            "unique gift",
+            "recipient"
+        ],
+        0.002054153376081415
+    ],
+    [
+        [
+            "Perfect Possible",
+            "perfectionist"
+        ],
+        0.002020419413185576
+    ],
+    [
+        [
+            "living gold",
+            "mine"
+        ],
+        0.0020105865076598863
+    ],
+    [
+        [
+            "bread",
+            "baker"
+        ],
+        0.0020006285270258886
+    ],
+    [
+        [
+            "complete text",
+            "translator"
+        ],
+        0.0019499958539956337
+    ],
+    [
+        [
+            "Complex Behavior",
+            "Psychopath"
+        ],
+        0.0018932755066614283
+    ],
+    [
+        [
+            "short tail",
+            "rat"
+        ],
+        0.0018256189811877875
+    ],
+    [
+        [
+            "rare red",
+            "redsmith"
+        ],
+        0.0017539108973945424
+    ],
+    [
+        [
+            "Perfect Success",
+            "Mastermind"
+        ],
+        0.0016784957735929964
+    ],
+    [
+        [
+            "Unique Gift",
+            "Santa"
+        ],
+        0.001659860307941218
+    ],
+    [
+        [
+            "construction",
+            "building engineer"
+        ],
+        0.001658197564125002
+    ],
+    [
+        [
+            "perfect match",
+            "mate"
+        ],
+        0.0016252915020608153
+    ],
+    [
+        [
+            "certain event",
+            "promoter"
+        ],
+        0.0015750730848312577
+    ],
+    [
+        [
+            "dough",
+            "baker"
+        ],
+        0.0015742953195481916
+    ],
+    [
+        [
+            "sound",
+            "composer"
+        ],
+        0.0015482335119642314
+    ],
+    [
+        [
+            "material",
+            "creative artist"
+        ],
+        0.0015404694893764318
+    ]
+]

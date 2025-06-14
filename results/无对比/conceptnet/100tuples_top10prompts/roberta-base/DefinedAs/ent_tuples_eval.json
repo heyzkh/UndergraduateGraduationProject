@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "bond",
+            "currency"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "potential",
+            "future"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "jogging",
+            "walking"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "serenity",
+            "peace"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sparkle",
+            "fire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "expletive",
+            "fuck"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "circuit breaker",
+            "driver"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gratitude",
+            "thanks"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "assistance",
+            "help"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "charm",
+            "love"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "permissive",
+            "slave"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "riddle",
+            "answer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "brutality",
+            "violence"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Folklore",
+            "History"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Spouse",
+            "Wife"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ephemeral",
+            "time"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "perseverance",
+            "strength"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mystique",
+            "art"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "nearly",
+            "almost"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sage",
+            "fish"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "elementary",
+            "basic"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "summation",
+            "termination"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hex",
+            "hexhex"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "evasion",
+            "threat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ancient",
+            "modern"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "affection",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Fortunate",
+            "Sorry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Sparkling",
+            "Fire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Halt",
+            "Pause"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "contemporary",
+            "modern"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "whisper",
+            "sound"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "regretful",
+            "sorry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mother",
+            "mothermother"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "enchantment",
+            "magic"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Perpetual",
+            "Current"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spellbinding",
+            "magic"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "uncertain",
+            "possibly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fortitude",
+            "height"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "whimsical",
+            "fun"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "swift",
+            "fast"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Quirky",
+            "Fun"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "vintage",
+            "original"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "glitch",
+            "error"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "petite",
+            "small"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "indolent",
+            "weak"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "entitlement",
+            "right"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "apologetic",
+            "sorry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "matriarch",
+            "mother"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Gracious",
+            "Good"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Adorable",
+            "Great"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "entreaty",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "eternal",
+            "time"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "oath",
+            "death"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "newborn",
+            "baby"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "absent",
+            "present"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "benevolence",
+            "violence"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "genuine",
+            "real"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blissful",
+            "happy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Clumsy",
+            "Sorry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dreamer",
+            "writer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "infernal",
+            "time"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bide",
+            "help"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "profane",
+            "evil"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "speedy",
+            "fast"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Elder",
+            "old"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Joyful",
+            "Happy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "concealed",
+            "secret"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "subsequent",
+            "later"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Virtuous",
+            "Good"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "imminent",
+            "soon"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "melodic",
+            "sound"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Devotion",
+            "Faith"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "whimsy",
+            "evidence"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "corporeal",
+            "natural"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "radiant",
+            "bold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fond",
+            "thanks"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Remorseful",
+            "Sorry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Timeless",
+            "Timetime"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "potent",
+            "effective"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sapling",
+            "see"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "calculate",
+            "log"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "astute",
+            "best"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fleeting",
+            "walking"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Linger",
+            "Man"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Jab",
+            "Jabjab"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Underdog",
+            "Dogdog"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "perchance",
+            "chancechance"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "umbra",
+            "rara"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "uploading",
+            "uploadupload"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "custard",
+            "son"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Ardor",
+            "man"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dangle",
+            "angleangle"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "penumbra",
+            "rara"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "igniter",
+            "iteriter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "modern",
+            "modernmodern"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rotund",
+            "rotrot"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "document",
+            "documentdocument"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "support",
+            "supportsupport"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "quaint",
+            "betterbetter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "deteriorated",
+            "betterbetter"
+        ],
+        "label": 0
+    }
+]

@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "altruistic impulse",
+            "give"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "altruistic urge",
+            "give"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "altruistic drive",
+            "give"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "altruistic yearning",
+            "give"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "imagination",
+            "dream"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "generosity",
+            "give"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "generosity",
+            "give"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Creativity",
+            "care create"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "serendipity",
+            "err"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "serenity",
+            "pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spiritual awakening",
+            "feel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fear",
+            "withdraw"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "uncertainty",
+            "err"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Altruistic Passion",
+            "give"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Intrigue",
+            "err"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Temptation",
+            "err"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Anticipation",
+            "err"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "discovery",
+            "grow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "intellectual stimulation",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Perseverance",
+            "grow"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "recklessness",
+            "err"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "recklessness",
+            "err"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "adventure",
+            "err"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Empathy",
+            "feel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Exhaustion",
+            "withdraw"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Enthusiasm",
+            "grow"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Desperation",
+            "err"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "camaraderie",
+            "share"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "masochism",
+            "admire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Inspiration",
+            "grow"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "disillusionment",
+            "grow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Tranquility",
+            "pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Sadism",
+            "pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pleasure",
+            "pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "titillation",
+            "pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Altruistic Joy",
+            "pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "anger",
+            "grow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "whimsy",
+            "pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "disappointment",
+            "withdraw"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "urgency",
+            "err"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "justice",
+            "err"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "impatience",
+            "grow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "frustration",
+            "grow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Gratitude",
+            "admire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Boredom",
+            "err"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "heartbreak",
+            "feel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Melancholy",
+            "pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "confidence",
+            "grow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wanderlust",
+            "travel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "altruism",
+            "admire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "altruistic fervor",
+            "admire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Loneliness",
+            "feel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Thirst",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "greed",
+            "acquire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Envy",
+            "admire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "arousal",
+            "pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "joy",
+            "pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tenderness",
+            "admire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Rivalry",
+            "admire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "admiration",
+            "admire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lust",
+            "pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fulfillment",
+            "feel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fulfillment",
+            "feel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fulfillment",
+            "feel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fulfillment",
+            "feel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pride",
+            "admire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "harmony",
+            "pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "harmony",
+            "pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "euphoria",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Resentment",
+            "grow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Resentment",
+            "grow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "restlessness",
+            "pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "passion",
+            "admire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Awe",
+            "admire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Kindness",
+            "admire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Compassion",
+            "admire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "obsession",
+            "admire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Heroism",
+            "admire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "playfulness",
+            "pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "longing",
+            "pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Nostalgia",
+            "admire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "vengeance",
+            "torture"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Hatred",
+            "feel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "contentment",
+            "pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Dominance",
+            "admire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Ambition",
+            "admire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Ambition",
+            "admire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Ambition",
+            "admire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Ambition",
+            "admire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "curiosity",
+            "admire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "devotion",
+            "admire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "devotion",
+            "admire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "glory",
+            "admire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "yearning",
+            "pur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wonder",
+            "admire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fascination",
+            "admire"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Excitement",
+            "perform"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "zeal",
+            "admire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "competitiveness",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Determination",
+            "fight"
+        ],
+        "label": 1
+    }
+]

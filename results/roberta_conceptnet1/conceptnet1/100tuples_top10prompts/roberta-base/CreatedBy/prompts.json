@@ -1,0 +1,42 @@
+[
+    [
+        "The <ENT1>s are the organs that produce the <ENT0>s .",
+        0.1859144235915131
+    ],
+    [
+        "A <ENT1> is an agent that produces <ENT0>s .",
+        0.11303372769618511
+    ],
+    [
+        "The <ENT1> are the agent responsible for producing <ENT0> .",
+        0.10531225414081084
+    ],
+    [
+        "The <ENT1> is the entity that produces <ENT0> .",
+        0.1001210562926864
+    ],
+    [
+        "The <ENT1> are the organs that produce <ENT0> .",
+        0.09383384088109187
+    ],
+    [
+        "A <ENT1> is an agent who creates a <ENT0> .",
+        0.08784204672490509
+    ],
+    [
+        "<ENT1> is a process or agent that creates <ENT0> .",
+        0.0843067525159017
+    ],
+    [
+        "A <ENT1> is an agent that produces <ENT0> .",
+        0.08035198068108144
+    ],
+    [
+        "The <ENT1> are the organs responsible for producing <ENT0> .",
+        0.07678696070269923
+    ],
+    [
+        "A <ENT1> is an agent or process responsible for creating <ENT0>s .",
+        0.07249695677312533
+    ]
+]

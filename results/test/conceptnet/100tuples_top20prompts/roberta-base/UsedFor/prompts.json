@@ -1,0 +1,42 @@
+[
+    [
+        "<ENT0>s function as venues for <ENT1>ing .",
+        0.1436203306885384
+    ],
+    [
+        "A <ENT0> enables <ENT1> .",
+        0.10961921951144787
+    ],
+    [
+        "<ENT0>s fulfill the function of <ENT1>ing .",
+        0.10761413341628187
+    ],
+    [
+        "An <ENT0> serves as a venue for <ENT1>ing .",
+        0.09846631784536022
+    ],
+    [
+        "<ENT0> is used for <ENT1> .",
+        0.09621161216706617
+    ],
+    [
+        "The <ENT0> serves as a venue for <ENT1>ing .",
+        0.09557663707348994
+    ],
+    [
+        "A <ENT0> is used for <ENT1>ing .",
+        0.0945764765338141
+    ],
+    [
+        "A <ENT0> serves the purpose of <ENT1>ing .",
+        0.09081031681249001
+    ],
+    [
+        "A <ENT0> serves the purpose of <ENT1> .",
+        0.08212371501853656
+    ],
+    [
+        "The <ENT0> serves as a venue for <ENT1>s .",
+        0.08138124093297487
+    ]
+]

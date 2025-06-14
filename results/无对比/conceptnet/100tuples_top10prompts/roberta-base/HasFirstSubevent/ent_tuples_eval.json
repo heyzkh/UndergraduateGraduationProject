@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "open",
+            "close"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fatal",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rescue",
+            "attack"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "halt",
+            "pause"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Unveil",
+            "Launch"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "light",
+            "dark"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "freeze",
+            "reset"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "modify",
+            "update"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "backup",
+            "reset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "greet",
+            "meet"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shatter",
+            "shock"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shatter",
+            "shock"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "discharge",
+            "release"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "melt",
+            "rain"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "publish",
+            "post"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clean",
+            "dirty"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "conclude",
+            "close"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "post",
+            "postpost"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "compile",
+            "save"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compile",
+            "save"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "inflate",
+            "update"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "deploy",
+            "activate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "defrost",
+            "reset"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hibernate",
+            "death"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "assemble",
+            "assembly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "assemble",
+            "assembly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "conceal",
+            "break"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "chill",
+            "shock"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "preserve",
+            "save"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Achieve",
+            "Win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "initialize",
+            "initinit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "initialize",
+            "initinit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Implement",
+            "Create"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "jump",
+            "jumpjump"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "postpone",
+            "skip"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "propose",
+            "create"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stitch",
+            "click"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spark",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ambush",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ambush",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ambush",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ambush",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "debug",
+            "debugdebug"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "light a match",
+            "matchmatch"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "replicate",
+            "replace"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "execute",
+            "executeexecute"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Unfold",
+            "Foldfold"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "install",
+            "save"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plug in",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "develop",
+            "build"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "electrify",
+            "reset"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "design",
+            "build"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "boot",
+            "save"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "liberate",
+            "destroy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "analyze",
+            "filter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "activate",
+            "activateactivate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stretch",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Ignite",
+            "Reset"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Ignite",
+            "Reset"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "boil",
+            "dump"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "startle",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "extinguish",
+            "destroy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hatch",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "charge",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "display",
+            "displaydisplay"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "create",
+            "createcreate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "launch",
+            "launchlaunch"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "organize",
+            "create"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "commence",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "terminate",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pack",
+            "packpack"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "delay",
+            "delaydelay"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "provoke",
+            "trigger"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drop",
+            "dropdrop"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "initiate",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "alert",
+            "alertalert"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "upload",
+            "uploadupload"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "strike",
+            "strikestrike"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ferment",
+            "transfer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Grow",
+            "Growgrow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "arrange",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "store",
+            "storestore"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "heat",
+            "heatheat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "brew",
+            "brewbrew"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "complete",
+            "completecomplete"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "order",
+            "orderorder"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "scroll",
+            "scrollscroll"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "construct",
+            "constructconstruct"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "schedule",
+            "eventevent"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "undertake",
+            "taketake"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Slice",
+            "sliceslice"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dim",
+            "dimdim"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cook",
+            "cookcook"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "finalize",
+            "finalfinal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "improve",
+            "improveimprove"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "prepare",
+            "prepprep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Trigger",
+            "Triggertrigger"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "conduct",
+            "Conductconduct"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Release",
+            "Releaserelease"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "throw",
+            "throwthrow"
+        ],
+        "label": 0
+    }
+]

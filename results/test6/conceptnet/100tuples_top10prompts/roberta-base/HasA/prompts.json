@@ -1,0 +1,18 @@
+[
+    [
+        "<ENT0> typically have <ENT1>, though there are some breeds that do not .",
+        0.1544078079634442
+    ],
+    [
+        "<ENT0> always have <ENT1>, whether they are good or bad .",
+        0.13827220264333917
+    ],
+    [
+        "We would expect <ENT0> to have <ENT1>, which creates a beautiful sound .",
+        0.1222002433477305
+    ],
+    [
+        "There should be <ENT1> for <ENT0> .",
+        0.10457838572877091
+    ]
+]

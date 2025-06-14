@@ -1,0 +1,42 @@
+[
+    [
+        "One of the skills that <ENT0> usually have is the ability to <ENT1> .",
+        0.15217703556804352
+    ],
+    [
+        "Something that <ENT0> can typically do is <ENT1> .",
+        0.12108085200357728
+    ],
+    [
+        "One of the many things that <ENT0> are able to do is <ENT1> .",
+        0.11623597440192479
+    ],
+    [
+        "<ENT0> can <ENT1> that students have .",
+        0.11346801427046706
+    ],
+    [
+        "One thing that <ENT0> usually do is <ENT1> .",
+        0.11222007747482833
+    ],
+    [
+        "<ENT0> can <ENT1> .",
+        0.0876630517341653
+    ],
+    [
+        "A typical thing that a <ENT0> can do is to <ENT1> .",
+        0.083959270930423
+    ],
+    [
+        "<ENT0> can typically <ENT1>, which is when they scope out place in advance to see if it's good target for a .",
+        0.07491156479692541
+    ],
+    [
+        "<ENT0> can typically <ENT1>, which means they observe and study a place in order to find vulnerabilities that they can exploit .",
+        0.06978231657330587
+    ],
+    [
+        "A common <ENT0>ing skill is the ability to <ENT1> .",
+        0.06850184224633961
+    ]
+]

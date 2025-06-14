@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "Ice Cream",
+            "delicious"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "freshly baked bread",
+            "delicious"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "golden retriever",
+            "cute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "baby duckling",
+            "cute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "freshly picked flower",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "baby bunny",
+            "cute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "paper napkin",
+            "reusable"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cast iron skillet",
+            "durable"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "baby panda",
+            "cute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chocolate cake",
+            "delicious"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stainless steel cookware",
+            "cheap"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "teddy bear",
+            "cute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "glass vase",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wool yarn",
+            "soft"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "homemade apple pie",
+            "delicious"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "razor blade",
+            "sharp"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "diesel engine",
+            "cheap"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handmade wooden jewelry",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "carbon fiber",
+            "strong"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "quinoa salad",
+            "delicious"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wool sweater",
+            "cheap"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crystal chandelier",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "silver spoon",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Watercolor Painting",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "plastic cutlery",
+            "reusable"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "silk scarf",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Handmade Quilt",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Maple Syrup",
+            "delicious"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ripe banana",
+            "delicious"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pearl necklace",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handcrafted leather wallet",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "concrete wall",
+            "strong"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rubber duck",
+            "cute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Organic Vegetables",
+            "delicious"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cotton T-Shirt",
+            "cheap"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "steel beam",
+            "strong"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handmade pottery",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stone monument",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "solar-powered charger",
+            "cheap"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "paper origami",
+            "simple"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "paper airplane",
+            "cheap"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handmade wool blanket",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Wooden Toy",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "porcelain jewelry",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "grapefruit seed",
+            "edible"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cloth shopping bag",
+            "reusable"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bubble wrap",
+            "cheap"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fresh air",
+            "good"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ripe strawberry",
+            "delicious"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "baby hedgehog",
+            "cute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hand-blown glass",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "titanium alloy",
+            "cheap"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ripe mango",
+            "delicious"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Bamboo Toothbrush",
+            "durable"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "reusable silicone straw",
+            "cheap"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "reusable water bottle",
+            "cheap"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "porcelain figurine",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "aluminum foil",
+            "cheap"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "velvet pillow",
+            "soft"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "velvet cushion",
+            "soft"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Encrypted Message",
+            "secure"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "quantum computer",
+            "real"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Grain Of Rice",
+            "good"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "handmade soap",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Titanium Drill Bit",
+            "cheap"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Ceramic Knife",
+            "cheap"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "carbon steel sword",
+            "strong"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "morning dew",
+            "light"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "concrete statue",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "inflatable life jacket",
+            "waterproof"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Newborn Baby",
+            "healthy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Handwoven Basket",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mint leaves",
+            "edible"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "oak furniture",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Kitten",
+            "cute"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sunset",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "polished marble",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "grass skirt",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Grain Of Sand",
+            "fine"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "porcelain teacup",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "foldable chair",
+            "comfortable"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "soap bubble",
+            "cheap"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "steel cable",
+            "strong"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wildflower",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cashmere scarf",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "emerald",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "snow",
+            "fluffy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "microchip",
+            "cheap"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cashmere sweater",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Chalk",
+            "beautiful"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "diamond",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "honey-glazed ham",
+            "delicious"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "elephant",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "silverware set",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Metal Ruler",
+            "strong"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "honeycomb",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "feather",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "breeze",
+            "cool"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ivory",
+            "beautiful"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ai assistant",
+            "good"
+        ],
+        "label": 1
+    }
+]

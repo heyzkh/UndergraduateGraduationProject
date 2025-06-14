@@ -1,0 +1,22 @@
+[
+    [
+        "The <ENT0> creates a desire in someone to <ENT1>r than they usually would .",
+        0.5177940788690063
+    ],
+    [
+        "The <ENT0> makes people want to <ENT1>r .",
+        0.24523423553499152
+    ],
+    [
+        "A person who is interested in <ENT0> is likely to <ENT1>, since they care about what is inside .",
+        0.09011926136611897
+    ],
+    [
+        "<ENT0> is a desire to <ENT1> or in large amounts .",
+        0.07778989341927602
+    ],
+    [
+        "People generally <ENT1>r for <ENT0> because they want to look their best .",
+        0.06906253081060719
+    ]
+]

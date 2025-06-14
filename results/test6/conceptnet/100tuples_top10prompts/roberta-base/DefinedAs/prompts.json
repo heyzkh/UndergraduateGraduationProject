@@ -1,0 +1,14 @@
+[
+    [
+        "Instead of \"<ENT0>\" you could say \"<ENT1>\" .",
+        0.1961006963720425
+    ],
+    [
+        "<ENT1> is a more specific way to describe <ENT0> .",
+        0.10710231116031295
+    ],
+    [
+        "<ENT1> is a more accurate term for <ENT0> .",
+        0.1031185156071967
+    ]
+]

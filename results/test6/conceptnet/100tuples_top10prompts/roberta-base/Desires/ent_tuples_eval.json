@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "young people",
+            "education"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Female Feminist",
+            "equality"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "civic duty",
+            "vote"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "self-improvement",
+            "perfection"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "serenity",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "desire",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lust",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Tenderness",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Tenderness",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Intimacy",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "self-determination",
+            "control"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Determination",
+            "love"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "power",
+            "control"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "passion",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "truth-seeking",
+            "trust"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Belonging",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "longing",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "instinct",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Gratitude",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "euphoria",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sadism",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "romance",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Perseverance",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Compassion",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "yearning",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Tranquility",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Kindness",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pleasure",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wanderlust",
+            "travel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Fulfillment",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Fulfillment",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Affection",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "commitment",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Malice",
+            "love"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "repose",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "purpose",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Greed",
+            "profit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "faith",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "contentment",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Exhilaration",
+            "love"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Dominance",
+            "control"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Autonomy",
+            "control"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Ambition",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Ambition",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "connection",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "expression",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Rejuvenation",
+            "love"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Diligence",
+            "love"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "authority",
+            "control"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "striving",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Devotion",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "freedom",
+            "love"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "joy",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "curiosity",
+            "love"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "aspiration",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "growth",
+            "success"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "comfort",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "harmony",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "innovation",
+            "scale"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "creativity",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Satisfaction",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "achievement",
+            "success"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "adventure",
+            "travel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Dedication",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Hatred",
+            "love"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Solitude",
+            "love"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Resilience",
+            "love"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "control",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wisdom",
+            "love"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "profit",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "justice",
+            "love"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "excellence",
+            "perfection"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "excellence",
+            "perfection"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Validation",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Inspiration",
+            "love"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Enchantment",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rebellion",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Ecstasy",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "grace",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Wellness",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Exactitude",
+            "perfection"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bliss",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "liberation",
+            "love"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "excitement",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "conquest",
+            "trade"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "competitiveness",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "command",
+            "use"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Advocacy",
+            "change"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cruelty",
+            "love"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "zeal",
+            "love"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "relaxation",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mastery",
+            "perfection"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "enlightenment",
+            "love"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wander",
+            "love"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "recreation",
+            "sex"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Renewal",
+            "love"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "triumph",
+            "love"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "exploration",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Reverence",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "precision",
+            "control"
+        ],
+        "label": 0
+    }
+]

@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "creative writer",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Music Lover",
+            "song"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hungry beast",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "romantic poet",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "romantic partner",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "devoted lover",
+            "love mate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hungry bird",
+            "feed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "social butterfly",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "desperate assassin",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hopeful romantic",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fierce gladiator",
+            "fight"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "greedy investor",
+            "profit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "competitive athlete",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "starving farmer",
+            "feed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "frustrated duelist",
+            "fight"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "trapped prisoner",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "human species",
+            "survive"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lonely wanderer",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "angry warrior",
+            "fight"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "starving artist",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "restless dreamer",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Lonely Heart",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dedicated craftsman",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "artist",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spiritual seeker",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "curious explorer",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "weary traveler",
+            "return"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "frustrated rebel",
+            "fight"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hungry person",
+            "feed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "avid gardener",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lonely camper",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "captive bird",
+            "release"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "eager audience",
+            "play"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "determined competitor",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "solitary dreamer",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "frightened animal",
+            "kill"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "playful puppy",
+            "love"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "peaceful hermit",
+            "kill"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ambitious politician",
+            "power"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ambitious entrepreneur",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Joyful Performer",
+            "dance"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "determined champion",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "determined underdog",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ambitious inventor",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bored teenager",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "passionate philosopher",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "innovative thinker",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hopeful soul",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Playful Child",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "devoted parent",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "solitary seeker",
+            "release"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "determined survivor",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "aspiring conqueror",
+            "fight"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ambitious ruler",
+            "power"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "contented soul",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ambitious strategist",
+            "fight"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "trapped miner",
+            "kill"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ambitious commander",
+            "fight"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Hopeful Gardener",
+            "flower"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "excited child",
+            "release"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ambitious scientist",
+            "kill"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "visionary reformer",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "inspired sculptor",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "inspired poet",
+            "love"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Tired Employee",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sun-loving freelancer",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "motivated student",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "impatient prisoner",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Thirsty Hiker",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "enthusiastic beginner",
+            "release"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hopeful Immigrant",
+            "change"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "inspired musician",
+            "release"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "restless visionary",
+            "control"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fervent strategist",
+            "kill"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "enchanted fairy",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ambitious leader",
+            "power"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "curious architect",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Driven Competitor",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Longing Musician",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ambitious scholar",
+            "study"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Stressed Worker",
+            "release"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Serene Admirer",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Yearning Prisoner",
+            "release"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Longing Artist",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Thrilled Actor",
+            "show"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Restless Innovator",
+            "control"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Enchanted Poet",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Vengeful Gladiator",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nurturing parent",
+            "love"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Adventurous Pilot",
+            "fly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vengeful hunter",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Vengeful Assassin",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "budding seedling",
+            "mate seed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Vengeful Soldier",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "harmonious team",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vengeful spirit",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "oppressed rebel",
+            "fight"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Vengeful Warlord",
+            "kill"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Inquisitive Scientist",
+            "kill"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Inquisitive Learner",
+            "control"
+        ],
+        "label": 0
+    }
+]

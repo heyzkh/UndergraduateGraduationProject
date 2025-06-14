@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "small window",
+            "photo caption"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "small window",
+            "window tint"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "small tree",
+            "Tree Transplant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "small window",
+            "photo gallery"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Rant",
+            "public vent"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Rant",
+            "Public Riot"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "small window",
+            "photojournal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "library",
+            "author"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cursive",
+            "abstract"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "library",
+            "index"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "library",
+            "catalog"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cursor",
+            "index"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cation",
+            "comm"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "library",
+            "abstract"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cib",
+            "band"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cursive",
+            "index"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cusp",
+            "flex"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cusp",
+            "proof"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cpl",
+            "comm"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cib",
+            "flex"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cursive",
+            "letter"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "curl",
+            "fetch"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cib",
+            "partition"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cree",
+            "lamb"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cib",
+            "ticket"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cusp",
+            "crown"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cursive",
+            "proof"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cpl",
+            "email"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "library",
+            "public"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cusp",
+            "pun"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cursor",
+            "shadow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cree",
+            "comm"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Crib",
+            "video"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cation",
+            "ticket"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cib",
+            "buss"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rater",
+            "buss"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "css",
+            "indent"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "css",
+            "redirect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rater",
+            "event"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cation",
+            "provision"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "csection",
+            "abortion"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "css",
+            "thread"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cree",
+            "proof"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "csection",
+            "crown"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "css",
+            "guss"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rss",
+            "redirect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rater",
+            "bracket"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cursor",
+            "reload"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cpl",
+            "cmp"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Ration",
+            "partition"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cpl",
+            "reload"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cpl",
+            "thread"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "csv",
+            "timestamp"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cuss",
+            "pun"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Crib",
+            "provision"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rater",
+            "btw"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rss",
+            "thread"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cuss",
+            "argument"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cation",
+            "bxt"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rss",
+            "rng"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Crib",
+            "platform"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "csection",
+            "dissect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rng",
+            "ticket"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Crib",
+            "Shower"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rater",
+            "bxt"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Ration",
+            "provision"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cuss",
+            "redirect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cuss",
+            "riot"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cation",
+            "cater"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rng",
+            "socialize"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cref",
+            "loop"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "csection",
+            "sex"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cursive",
+            "cipher"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rng",
+            "sprint"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rng",
+            "thread"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Ration",
+            "slaughter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cref",
+            "partition"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cref",
+            "sketch"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Ration",
+            "beef"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rss",
+            "reload"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "css",
+            "gss"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Ration",
+            "lunch"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cpanel",
+            "video"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Rant",
+            "publication"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cuss",
+            "vent"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rss",
+            "rsu"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cpanel",
+            "platform"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rly",
+            "Greet"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rly",
+            "thread"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rly",
+            "rally"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rly",
+            "group"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Rant",
+            "publically"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rly",
+            "gurn"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rant",
+            "publiciff"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Cref",
+            "sandwich"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "smallly",
+            "smalt"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "smallly",
+            "smorg"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "smallly",
+            "smel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "smallly",
+            "smould"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "smallly",
+            "smild"
+        ],
+        "label": 0
+    }
+]

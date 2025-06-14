@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "Additional Questions",
+            "answered"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Additional Questions",
+            "asked"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "money",
+            "spent wisely"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "different scenarios",
+            "simulated"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "individual cells",
+            "isolated"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "two classes",
+            "separated"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "buttons",
+            "manually pressed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "two lines",
+            "crossed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "test kits",
+            "assembled"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "changes",
+            "made"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "different groups",
+            "grouped"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "additional components",
+            "included"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lights",
+            "turned green"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "various techniques",
+            "employed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "appropriate parameters",
+            "specified"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "individual cases",
+            "looked upon"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tests",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "different groups",
+            "separated"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "steps",
+            "taken"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "relevant links",
+            "clicked"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "two programs",
+            "merged"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tests",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "three lines",
+            "crossed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fees",
+            "paid upfront"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "work",
+            "carried forward"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bridges",
+            "easily repaired"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "steps",
+            "followed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tests",
+            "performed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "additional items",
+            "included"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "message",
+            "passed along"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "previous files",
+            "copied onto"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "groups",
+            "split apart"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "appropriate tools",
+            "deployed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "analyzed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "relevant points",
+            "highlighted"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "results",
+            "compared"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bridges",
+            "easily replaced"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "changes",
+            "implemented"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "appropriate levels",
+            "reached"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rules",
+            "changed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rules",
+            "modified"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bullets",
+            "fired randomly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tests",
+            "done"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tests",
+            "repeated"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "light",
+            "turned red"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "extracted"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "test code",
+            "compiled"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "results",
+            "used"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "light",
+            "turned green"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "different classes",
+            "grouped"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "results",
+            "obtained"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "individual items",
+            "grouped"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "steps",
+            "repeated"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "changes",
+            "applied"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "specific cases",
+            "investigated"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "specific parameters",
+            "specified"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "three lists",
+            "compiled"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "appropriate procedures",
+            "employed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "individual classes",
+            "grouped"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "appropriate measures",
+            "employed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "different cases",
+            "grouped"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "results",
+            "analyzed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rules",
+            "followed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "best candidates",
+            "picked"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "steps",
+            "used"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "manipulated"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "conditions",
+            "set"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "problems",
+            "solved"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "basic parameters",
+            "specified"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "results",
+            "seen"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "basic requirements",
+            "met"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "eggs",
+            "picked randomly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "final test",
+            "passed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "collected"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "relevant levels",
+            "determined"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "individual groups",
+            "separated"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "conditions",
+            "adjusted"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rules",
+            "applied"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "questions",
+            "answered"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "conditions",
+            "changed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "actions",
+            "taken"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "steps",
+            "done"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "conditions",
+            "modified"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "conditions",
+            "applied"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "experiments",
+            "carried forward"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "eggs",
+            "picked apart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "comments",
+            "edited"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "complaints",
+            "filed online"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "relevant guidelines",
+            "adapted"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "final example",
+            "shown"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "basic requirements",
+            "specified"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "letters",
+            "written"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "questions",
+            "asked"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "code",
+            "modified"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Full Information",
+            "accessed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "previous example",
+            "reproduced"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "relevant lines",
+            "crossed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "patients",
+            "treated individually"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "procedures",
+            "followed"
+        ],
+        "label": 1
+    }
+]

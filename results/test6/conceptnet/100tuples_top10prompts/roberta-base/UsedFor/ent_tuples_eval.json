@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "fire extinguisher",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Air Conditioner",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "water bottle",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "water bottle",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fishing hook",
+            "catch"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fishing net",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fishing rod",
+            "catch"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Fish Feed",
+            "Feed Fish"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "oxygen mask",
+            "breathe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cookie cutter",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "water filter",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Ballet Barre",
+            "dance"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fishing lure",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Watermelon Slicer",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tambourine",
+            "dance"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "scuba gear",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kite",
+            "fly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "scuba tank",
+            "dive"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "text processing",
+            "communicate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hammock",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hydraulic jack",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shopping cart",
+            "travel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "egg",
+            "hatch"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kazoo",
+            "dance"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "flute",
+            "dance"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cup",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "teapot",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "megaphone",
+            "communicate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "megaphone",
+            "communicate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "megaphone",
+            "communicate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "web",
+            "search"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "parachute",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "teacup",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "music stand",
+            "dance"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hammock stand",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "swimsuit",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "binoculars",
+            "see"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bed",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stapler",
+            "play"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tent",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rope",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "boat",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mattress",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "computer",
+            "communicate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fork",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compass",
+            "travel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "napkin",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spoon",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bow",
+            "hunt"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drum",
+            "dance"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Bait",
+            "fish"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pillow",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "walkie-talkie",
+            "communicate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "telephone",
+            "communicate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blanket",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "songbook",
+            "communicate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "guitar",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mirror",
+            "see"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spatula",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Cane",
+            "hunt"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "silo",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "microphone",
+            "talk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "whistle",
+            "communicate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "car",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bench",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "basket",
+            "rest"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bandage",
+            "heal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "music",
+            "communicate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lyre",
+            "sing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "backpack",
+            "travel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ladder",
+            "climb"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "plate",
+            "eat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "oxygen",
+            "breathe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "notepad",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "treadmill",
+            "exercise"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "telescope",
+            "see"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Luggage",
+            "travel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "straw",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "passport",
+            "travel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "harmonica",
+            "sing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Notebook",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "calculator",
+            "calculate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "journal",
+            "communicate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handle",
+            "communicate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "scale",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "leather",
+            "hide"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "costume",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "meditation",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bicycle",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rifle",
+            "hunt"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Herbs",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "textbook",
+            "study"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "suitcase",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Glasses",
+            "see"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "songsheet",
+            "sing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hay",
+            "feed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Twigs",
+            "hunt"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wheels",
+            "travel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shoes",
+            "escape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Goggles",
+            "sleep"
+        ],
+        "label": 0
+    }
+]

@@ -1,0 +1,30 @@
+[
+    [
+        "A <ENT1> that is of the <ENT0> type is one that is characterized by its large size and population .",
+        0.2827093417326423
+    ],
+    [
+        "More specifically, <ENT0> is a type of <ENT1> of the bile ducts .",
+        0.14292297275706356
+    ],
+    [
+        "A <ENT0> is a type of <ENT1> that occurs when the bile ducts become inflamed .",
+        0.13771887203827043
+    ],
+    [
+        "An <ENT0> is a specific type of <ENT1> that is known for living in large groups and being very aggressive .",
+        0.1239816241542212
+    ],
+    [
+        "A <ENT0> is a type of <ENT1> .",
+        0.11801354360378777
+    ],
+    [
+        "In medicine, <ENT0> is a subtype of <ENT1> affecting the biliary tree, which includes the bile ducts .",
+        0.10041920133847503
+    ],
+    [
+        "A <ENT0> is a type of <ENT1> that produces edible grains .",
+        0.09423444437553968
+    ]
+]

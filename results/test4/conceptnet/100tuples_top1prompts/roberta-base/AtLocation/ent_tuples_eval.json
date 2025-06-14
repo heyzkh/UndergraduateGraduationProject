@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "credit card",
+            "bank"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "water bottle",
+            "fridge"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "milk carton",
+            "fridge"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "milk carton",
+            "fridge"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ice cream",
+            "fridge"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ice cream",
+            "fridge"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ice cream",
+            "fridge"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Google Play App",
+            "Cloud"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Google Play App",
+            "Cloud"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hiking boots",
+            "Smithsonian"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Google Pixel",
+            "cloud"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wallet",
+            "fridge"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "electronics",
+            "refrigerator"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Google Pixel Phone",
+            "Cloud"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Google Pixel Phone",
+            "Cloud"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "book",
+            "library"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "laundry room",
+            "basement"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "laundry room",
+            "basement"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "car",
+            "garage"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "car",
+            "garage"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "car",
+            "garage"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "car",
+            "garage"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "car",
+            "garage"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "medicine",
+            "pharmacy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "trunk",
+            "garage"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "trunk",
+            "garage"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "trunk",
+            "garage"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sunscreen",
+            "beach"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sunscreen",
+            "beach"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sunscreen",
+            "beach"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sunscreen",
+            "beach"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "milk",
+            "fridge"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "milk",
+            "fridge"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "milk",
+            "fridge"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "milk",
+            "fridge"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "milk",
+            "fridge"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "milk",
+            "fridge"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "milk",
+            "fridge"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "librarian",
+            "library"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "librarian",
+            "library"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "librarian",
+            "library"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "librarian",
+            "library"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "librarian",
+            "library"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "librarian",
+            "library"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "refrigerator",
+            "fridge"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Treadmill",
+            "gym"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bank",
+            "vault"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bank",
+            "vault"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "treasure",
+            "library"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "treasure",
+            "library"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "document",
+            "cloud"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "document",
+            "cloud"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "toilet",
+            "bathroom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "toilet",
+            "bathroom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "toilet",
+            "bathroom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "toilet",
+            "bathroom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hiker",
+            "garage"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hiker",
+            "garage"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hiker",
+            "garage"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hiker",
+            "garage"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hiker",
+            "garage"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hiker",
+            "garage"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hiker",
+            "garage"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "airplane",
+            "cockpit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "airplane",
+            "cockpit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "airplane",
+            "cockpit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "browser",
+            "cloud"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Teller",
+            "bank"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Teller",
+            "bank"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Teller",
+            "bank"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Teller",
+            "bank"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "website",
+            "cloud"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "website",
+            "cloud"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "website",
+            "cloud"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "website",
+            "cloud"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "website",
+            "cloud"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "elephant",
+            "zoo"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "elephant",
+            "zoo"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rain",
+            "garage"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "grill",
+            "garage"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "driver",
+            "trunk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "driver",
+            "trunk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "driver",
+            "trunk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "driver",
+            "trunk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tree",
+            "garage"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "treehouse",
+            "basement"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "airport",
+            "internet"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Chromecast",
+            "cloud"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "museum",
+            "library"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "museum",
+            "library"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Janitor",
+            "basement"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ghost",
+            "attic"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Pilot",
+            "trunk"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Pilot",
+            "trunk"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Pilot",
+            "trunk"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Pilot",
+            "trunk"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Pilot",
+            "trunk"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Mailbox",
+            "Usps"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Mailbox",
+            "Usps"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "artist",
+            "library"
+        ],
+        "label": 0
+    }
+]

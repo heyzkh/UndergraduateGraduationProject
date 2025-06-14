@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "drones",
+            "multiple cameras"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drones",
+            "multiple targets"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nuclear warheads",
+            "plutonium"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "changes",
+            "less noise"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "changes",
+            "significant effects"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drones",
+            "high speeds"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nuclear weapons",
+            "plutonium"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nuclear weapons",
+            "warheads"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Human Subjects",
+            "sex"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "changes",
+            "significant impact"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Nuclear Weapons",
+            "destruction"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Human Subjects",
+            "antibodies"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "certain things",
+            "meaning"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "nuclear weapons",
+            "missiles"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Human Subjects",
+            "intelligence"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "certain things",
+            "consequences"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "human species",
+            "mammals"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Large Numbers",
+            "significant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Large Structures",
+            "around"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Human Subjects",
+            "schizophrenia"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "robots",
+            "physical properties"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "changes",
+            "significant effect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "certain things",
+            "behavior"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "robots",
+            "intelligence"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "objects",
+            "properties"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "certain things",
+            "power"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Large Structures",
+            "dimensions"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "people",
+            "children"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "changes",
+            "less energy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "children",
+            "autism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "objects",
+            "values"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "objects",
+            "elements"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ships",
+            "cargo"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ships",
+            "displacement"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "people",
+            "sex"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "humans",
+            "intelligence"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "large structures",
+            "walls"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fires",
+            "smoke"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "earthquakes",
+            "shaking"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "large structures",
+            "multiple"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "humans",
+            "sex"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "humans",
+            "animals"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ships",
+            "weapons"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "children",
+            "sex"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "objects",
+            "attributes"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "objects",
+            "coordinates"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "earthquakes",
+            "magnitude"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ships",
+            "long"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "robots",
+            "power"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "collisions",
+            "force"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "certain steps",
+            "time"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "humans",
+            "children"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "humans",
+            "cats"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "similar situations",
+            "followed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "similar scenarios",
+            "yields"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "robots",
+            "empathy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "values",
+            "approximately"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "earthquakes",
+            "force"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ships",
+            "submarines"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "similar situations",
+            "results"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "robots",
+            "arms"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "people",
+            "cancer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "systems",
+            "two"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "values",
+            "equals"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "drones",
+            "high yield"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "people",
+            "autism"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "earthquakes",
+            "displacement"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "similar situations",
+            "occurred"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "values",
+            "meaning"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "systems",
+            "data"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "values",
+            "length"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fires",
+            "sparks"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "people",
+            "cats"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "earthquakes",
+            "energy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fires",
+            "winds"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "similar situations",
+            "follows"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "systems",
+            "complexity"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "systems",
+            "code"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fires",
+            "lightning"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cases",
+            "arguments"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "events",
+            "approximately"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "systems",
+            "less"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fires",
+            "spread"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cases",
+            "length"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "collisions",
+            "impact"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "humanoids",
+            "sex"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "collisions",
+            "injuries"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cases",
+            "two"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cases",
+            "problems"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "events",
+            "results"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "events",
+            "fireworks"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "humanoids",
+            "fur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "collisions",
+            "impacts"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "events",
+            "participants"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "humanoids",
+            "hair"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cases",
+            "approximately"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "events",
+            "energy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "humanoids",
+            "arms"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "children",
+            "adhd"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Humanoids",
+            "Dna"
+        ],
+        "label": 1
+    }
+]

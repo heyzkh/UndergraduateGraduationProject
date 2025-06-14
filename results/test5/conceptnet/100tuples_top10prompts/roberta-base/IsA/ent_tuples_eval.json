@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "golden retriever",
+            "dog"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Black Widow",
+            "female"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "muscle twitch",
+            "twitch muscle"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "muscle spasm",
+            "contraction"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hay bale",
+            "grain tree"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bulldog",
+            "bull dog"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tarantula",
+            "snake"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wolf spider",
+            "insect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cotton bale",
+            "crop"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sparrow",
+            "bird"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kite",
+            "bird"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Bacterium",
+            "bacteria"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bison calf",
+            "cow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "clover",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Sea Sponge",
+            "fish"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hang glider",
+            "crane"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dandelion",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cerebral gyrus",
+            "brain"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fern",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fine print",
+            "paper"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "viper",
+            "spider"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "nematode",
+            "worm"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Pneumonia",
+            "infection"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cobra",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mushroom",
+            "fungus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hamster",
+            "rodent"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "luna moth",
+            "butterfly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Moth",
+            "insect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "anaconda",
+            "animal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mycelium",
+            "fungus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "orangutan",
+            "monkey"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "poodle",
+            "dog"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "phage",
+            "parasite"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hot-air balloon",
+            "rocket"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hot-air balloon",
+            "rocket"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hot-air balloon",
+            "rocket"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mitochondrion",
+            "cell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "caterpillar",
+            "moth"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rattlesnake",
+            "bird"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "biceps",
+            "muscle"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sunflower",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dragonfly",
+            "butterfly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "scorpion",
+            "snake"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Ring Binder",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "paraglider",
+            "worm"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Mosquito",
+            "insect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blimp",
+            "balloon"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mycorrhiza",
+            "fungus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "meson",
+            "fungus"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Airplane",
+            "Airplane Plane"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Nettle",
+            "fish"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "butterfly",
+            "insect"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "glider",
+            "bird"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Influenza",
+            "virus"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Mango",
+            "fruit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "earthworm",
+            "fungus"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "haystack",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "python",
+            "snake"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Tendon",
+            "muscle"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "capybara",
+            "rodent"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Submarine",
+            "fish"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kitchen sponge",
+            "fungus"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "basil",
+            "plant"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "watercraft",
+            "vessel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sandal",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "aquifer",
+            "fish"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "quadcopter",
+            "insect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thyme",
+            "yeast"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Helicopter",
+            "bird"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gyrocopter",
+            "bird"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Skyscraper",
+            "building"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "coronavirus",
+            "cancer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "diabetes",
+            "disease"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "threadworm",
+            "parasite"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clone",
+            "virus"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rower",
+            "animal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "zeppelin",
+            "animal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bridge",
+            "structure"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "airship",
+            "aircraft"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "airship",
+            "aircraft"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "airship",
+            "aircraft"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "airship",
+            "aircraft"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "buffalo",
+            "animal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "viroid",
+            "cancer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Antibody",
+            "protein"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "balloon",
+            "animal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "drone",
+            "bird"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kaon",
+            "worm"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bread",
+            "food"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "villus",
+            "plant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "aster",
+            "protein"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "parasail",
+            "bird"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "harvestman",
+            "person"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wheel",
+            "worm"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spice",
+            "food"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "documentary",
+            "film"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Notebook",
+            "cell"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "android",
+            "animal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spaceship",
+            "system"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "folder",
+            "file"
+        ],
+        "label": 0
+    }
+]

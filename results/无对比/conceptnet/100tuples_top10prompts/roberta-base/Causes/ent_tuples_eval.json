@@ -1,0 +1,695 @@
+[
+    {
+        "entity_tuple": [
+            "watching a comedy show",
+            "laughing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "receiving a compliment",
+            "upset"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "achieving a personal goal",
+            "upset"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Lack Of Emotional Support",
+            "suicidal"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Lack Of Communication",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "getting old",
+            "aging"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Lack Of Trust",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Lack Of Sleep",
+            "sleeping"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "feeling sad",
+            "crying"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "excessive alcohol consumption",
+            "drinking"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "excessive sugar consumption",
+            "overweight"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "excessive caffeine intake",
+            "sleeping"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Positive Thinking",
+            "happy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "drinking",
+            "intoxicated"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "unfulfilled desires",
+            "unhappy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "excessive screen time",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lack of companionship",
+            "lonely"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "jet lag",
+            "sleeping"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "poor diet",
+            "overweight"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "distracted driving",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shared experiences",
+            "friends"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "common interests",
+            "friends"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Fear Of Silence",
+            "angry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Active Listening",
+            "talking"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "strong wind",
+            "angry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "unrealistic expectations",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Funny Joke",
+            "laughing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shared laughter",
+            "laughing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "excessive social media use",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "unmet expectations",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Hormonal Changes",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shared values",
+            "friends"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "overworking",
+            "sleeping"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "unpredictable weather",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "emotional eating",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "quality time",
+            "busy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "poor posture",
+            "angry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "muscle fatigue",
+            "sleeping"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "uneven terrain",
+            "walking"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "loud noise",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lack of purpose",
+            "angry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "neglect of self-care",
+            "angry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Unfair Treatment",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sunny weather",
+            "happy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "playful teasing",
+            "angry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Excessive Socializing",
+            "drinking"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "delayed flights",
+            "flying"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "neglect of responsibilities",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "excessive workload",
+            "sleeping"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "excessive workload",
+            "sleeping"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Unresolved Conflicts",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "prolonged inactivity",
+            "sleeping"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "emotional intimacy",
+            "physical"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "improper gait",
+            "walking"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "reckless behavior",
+            "violent"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "emotional support",
+            "physical"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "repetitive tasks",
+            "frustrated"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "improper breathing technique",
+            "coughing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "miscommunication",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Unexpected Criticism",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "emotional connection",
+            "physical"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Constant Criticism",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Sedentary Lifestyle",
+            "overweight"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cultural exchange",
+            "bonding"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Language Barriers",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "emotional vulnerability",
+            "physical"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "financial instability",
+            "living"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Peer Pressure",
+            "angry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Excessive Talking",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "prolonged sitting",
+            "talking"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Boredom",
+            "sleeping"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mutual respect",
+            "friends"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Competitive Jealousy",
+            "Jealous Competitive"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Unresolved Emotional Tension",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "improper stride length",
+            "walking"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "excessive multitasking",
+            "distracted"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "social isolation",
+            "friends"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "stress",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "unprotected intercourse",
+            "sex"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "flirtatious behavior",
+            "aggressive"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Loneliness",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Insecurity",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "social anxiety",
+            "angry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "humorous story",
+            "laughing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "upbeat music",
+            "upset"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "social discomfort",
+            "physical"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "unexpected news",
+            "upset"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Joyful Music",
+            "angry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Upbeat Rhythm",
+            "happy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "shared hardships",
+            "angry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "toxic relationships",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Fatigue",
+            "sleeping"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "procrastination",
+            "angry"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Forgiveness",
+            "angry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Improper Footwear",
+            "walking"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Improper Warm-Up",
+            "walking"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "nightmares",
+            "sleeping"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Kindness",
+            "angry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Distraction",
+            "upset"
+        ],
+        "label": 1
+    }
+]

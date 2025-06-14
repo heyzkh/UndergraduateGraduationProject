@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "close the door",
+            "exit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ask a question",
+            "answer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Hear Alarm",
+            "Warning"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "press the alpha button",
+            "save"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Wake Up",
+            "Sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "press button",
+            "click"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "press button",
+            "click"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "start",
+            "save"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "start",
+            "save"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Lock The Door",
+            "Exit"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "checking in",
+            "login"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Terminal Illness",
+            "Death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "open",
+            "close"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "open",
+            "close"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "open",
+            "close"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sleep",
+            "wake"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "release",
+            "update"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "release",
+            "update"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "press the toilet handle",
+            "flush"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "plugging in",
+            "setup"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "alarm goes off",
+            "alert"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "suicide",
+            "death"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "paint",
+            "draw"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "posting",
+            "login"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "alarm",
+            "alert"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Light A Fire",
+            "Firefire"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "publish",
+            "login"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "initiate",
+            "register"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "attack",
+            "destroy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Shoot",
+            "Save"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "registering",
+            "login"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "greet",
+            "meet"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stop",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sunset",
+            "rise"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "installation",
+            "setup"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "light a match",
+            "win"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "light a match",
+            "win"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "light a match",
+            "win"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "install",
+            "save"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Lie Down",
+            "Close"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Lie Down",
+            "Close"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "download",
+            "save"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "attempt",
+            "save"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Effort",
+            "Test"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gambling",
+            "gaming"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "jump rope",
+            "jumpjump"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Erase",
+            "Delete"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "celebrate",
+            "win"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "press",
+            "post"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "press",
+            "post"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "detonate",
+            "destroy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cast a spell",
+            "spellspell"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "observe",
+            "delete"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ambush",
+            "attack"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "deposit",
+            "call"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "deposit",
+            "call"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "propose",
+            "create"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "improve",
+            "save"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "seek",
+            "save"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Plant A Tree",
+            "plantplant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Unbox",
+            "Save"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Compose",
+            "Build"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Regret",
+            "Save"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "analyze",
+            "comment"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Offer",
+            "Sell"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "remember",
+            "save"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "insert",
+            "remove"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "murder",
+            "rape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "harvest",
+            "export"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "admire",
+            "save"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "select",
+            "selectselect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "select",
+            "selectselect"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "design",
+            "build"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "design",
+            "build"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "boil",
+            "mix"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "boil",
+            "mix"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "boil",
+            "mix"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "check for updates",
+            "updateupdate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "impress",
+            "submit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "brainstorm",
+            "shock"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "preheat",
+            "heatheat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "debugging",
+            "debugdebug"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "igniting",
+            "blocking"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "igniting",
+            "blocking"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "initiate alpha",
+            "alphaalpha"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Hesitate",
+            "Save"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Lighting A Match",
+            "Matchmatch"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Lighting A Match",
+            "Matchmatch"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pour",
+            "Pourpour"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shop",
+            "shopshop"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shop",
+            "shopshop"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "consider",
+            "wait"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "brake",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "brake",
+            "startstart"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bow",
+            "bowbow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "starting",
+            "startingstarting"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "starting the car",
+            "startingstarting"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "designing",
+            "designdesign"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "advertising",
+            "advertisingadvertising"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "advertising",
+            "advertisingadvertising"
+        ],
+        "label": 0
+    }
+]

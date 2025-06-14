@@ -1,0 +1,18 @@
+[
+    [
+        "When you <ENT0>, you <ENT1> .",
+        0.4608349581712018
+    ],
+    [
+        "You <ENT1> when you <ENT0> .",
+        0.3668663290211935
+    ],
+    [
+        "As you <ENT0>, you will also <ENT1> .",
+        0.10786362532836088
+    ],
+    [
+        "You need to <ENT1> in order to <ENT0> .",
+        0.06443508747924384
+    ]
+]

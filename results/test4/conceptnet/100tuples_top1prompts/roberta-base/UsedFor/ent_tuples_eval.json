@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "life jacket",
+            "survive"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "life jacket",
+            "survive"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "musical instrument",
+            "sing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "oxygen mask",
+            "breathe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "oxygen mask",
+            "breathe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "oxygen mask",
+            "breathe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "oxygen mask",
+            "breathe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "oxygen mask",
+            "breathe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "brain",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "brain",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "egg",
+            "hatch"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "brain",
+            "think"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kite",
+            "fly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kite",
+            "fly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kite",
+            "fly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "diet plan",
+            "survive"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bird",
+            "fly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "parachute",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wings",
+            "fly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wings",
+            "fly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "emergency kit",
+            "survive"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "compass",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "compass",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "compass",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cup",
+            "breathe"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "eyeglasses",
+            "see"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rope",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rope",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Clothes Hanger",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "swimsuit",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "swimsuit",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "swimsuit",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "swimsuit",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "oxygen",
+            "breathe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "oxygen",
+            "breathe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "oxygen",
+            "breathe"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "binoculars",
+            "see"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Tractor",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "skis",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "skis",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "skis",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "skis",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wheel",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "whistle",
+            "sing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "whistle",
+            "sing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fertilizer",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fertilizer",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fertilizer",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fertilizer",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fertilizer",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "scale",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "scale",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "airplane",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "airplane",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "airplane",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "airplane",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "microphone",
+            "sing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "microphone",
+            "sing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "microphone",
+            "sing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "microphone",
+            "sing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "microphone",
+            "sing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "microphone",
+            "sing"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "flyswatter",
+            "soar"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "flyswatter",
+            "soar"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "flyswatter",
+            "soar"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "flyswatter",
+            "soar"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ladder",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ladder",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "drum",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Microscope",
+            "see"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Treadmill",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lifeboat",
+            "breathe"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lifeboat",
+            "breathe"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lifeboat",
+            "breathe"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sailplane",
+            "fly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "yoga block",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "height growth supplements",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blanket",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "blanket",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "telephone",
+            "communicate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "telephone",
+            "communicate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "telephone",
+            "communicate"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dog",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Dolly",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Dolly",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mouthwash",
+            "breathe"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mouthwash",
+            "breathe"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rifle",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rifle",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "textbook",
+            "learn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wheelchair",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wheelchair",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "glasses",
+            "see"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "glasses",
+            "see"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bicycle",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bicycle",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hay",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Vacation",
+            "survive"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "meditation",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "interpretation",
+            "understand"
+        ],
+        "label": 0
+    }
+]

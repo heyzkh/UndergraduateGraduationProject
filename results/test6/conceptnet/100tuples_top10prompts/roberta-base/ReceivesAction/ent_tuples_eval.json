@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "data",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "algorithm",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "test",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "video",
+            "viewed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "software",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "music album",
+            "downloaded"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "text",
+            "read"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "script",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "program",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sample",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tool",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "message",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hypothesis",
+            "tested"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hypothesis",
+            "tested"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "proposal",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "article",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "exercise",
+            "repeated"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Fertilizer",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "application",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "package",
+            "modified"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "schedule",
+            "adjusted"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "key",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "equation",
+            "used"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "analysis",
+            "performed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "device",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "instruction",
+            "used"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "surgery",
+            "performed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "database",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "password",
+            "changed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "document",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "design",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "policy",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Sculpture",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "symphony",
+            "performed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "concrete",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "instrument",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tutorial",
+            "downloaded"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "manual",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "recipe",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "certificate",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "theory",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "book",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "performance",
+            "improved"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mixture",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blueprint",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "assignment",
+            "done"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "subscription",
+            "purchased"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "poster",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ticket",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clock",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "network",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Ebook",
+            "downloaded"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "thermostat",
+            "adjusted"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dashboard",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "artifact",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bridge",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "podcast",
+            "downloaded"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "presentation",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "budget",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Thesis",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cocktail",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "battery",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "manuscript",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Appointment",
+            "made"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "waste",
+            "collected"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "playlist",
+            "downloaded"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "paint",
+            "applied"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Chant",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "water",
+            "filtered"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "medicine",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "course",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "button",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "photograph",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "movie",
+            "downloaded"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fabric",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "makeup",
+            "applied"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "story",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chemical",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Adhesive",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Landmark",
+            "used"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "newspaper",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "race",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sunset",
+            "seen"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "essay",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "painting",
+            "done"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "track",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "furniture",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "song",
+            "downloaded"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Posture",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ingredient",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tooth",
+            "removed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Outfit",
+            "customized"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "marathon",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "student",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spice",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "poem",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clay",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "costume",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "magazine",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "treasure",
+            "found"
+        ],
+        "label": 1
+    }
+]

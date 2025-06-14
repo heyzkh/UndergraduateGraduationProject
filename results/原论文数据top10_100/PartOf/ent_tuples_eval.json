@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "search",
+            "Google Search"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pitch",
+            "baseball pitch"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cork",
+            "wine bottle"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cork",
+            "wine glass"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "right wing",
+            "aircraft"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "profile",
+            "User Profile"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "red ribbon",
+            "flag"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "right wing",
+            "airplane"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "summit",
+            "European Union"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "section",
+            "English Wikipedia"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "land",
+            "Indian Territory"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crescent",
+            "lunar orbit"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "castle",
+            "medieval city"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "relationship",
+            "human relationship"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "full version",
+            "pdf"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "position",
+            "global position"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ball",
+            "baseball cap"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "profile",
+            "user interface"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "link",
+            "html tag"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lense",
+            "camera lens"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bile",
+            "blood cells"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "source",
+            "open source"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bile",
+            "blood cell"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "drive",
+            "electric vehicles"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crescent",
+            "lunar eclipse"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "red shield",
+            "flag"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "poster",
+            "art installation"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "search",
+            "Google Account"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lion",
+            "African Elephant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lion",
+            "African Lion"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "final chapter",
+            "trilogy"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "store",
+            "shopping centre"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Opening Statement",
+            "Introduction"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "final step",
+            "procedure"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "portal",
+            "Open Portal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bork",
+            "ice cube"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "year",
+            "historical year"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "store",
+            "shopping plaza"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lion",
+            "African Tiger"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "story",
+            "series"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "section",
+            "English Version"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "story",
+            "book"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "proposal",
+            "public proposal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "product",
+            "food supply"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "relationship",
+            "love life"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lense",
+            "optical telescope"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cure",
+            "medical treatment"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Entire Chain",
+            "chain order"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "laser",
+            "light spectrum"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "man",
+            "human race"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "laser",
+            "light bulb"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "postcard",
+            "photo album"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "third place",
+            "race"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "place",
+            "historical monument"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "red spot",
+            "eclipse"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "man",
+            "human society"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "third point",
+            "argument"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "full stop",
+            "alphabet"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "column",
+            "data sheet"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "current period",
+            "time"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "man",
+            "human species"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "story",
+            "video"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "full stop",
+            "period"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "central position",
+            "axis"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "story",
+            "novel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bison",
+            "western landscape"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cure",
+            "medical science"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "full stop",
+            "ending"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cord",
+            "electric motor"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "cross",
+            "christian symbol"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "current version",
+            "archive"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mission",
+            "American Navy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "top view",
+            "slideshow"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "whole case",
+            "trial"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "band",
+            "music industry"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "position",
+            "global scale"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "text",
+            "image"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "top sheet",
+            "pdf"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "title",
+            "article"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "name",
+            "address"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "mission",
+            "American Revolution"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "record",
+            "Music Compilation"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bile",
+            "blood stream"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "story",
+            "movie"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "view",
+            "open view"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thread",
+            "web thread"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cord",
+            "electric fence"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "text",
+            "article"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "video",
+            "documentary"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "page",
+            "website"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "song",
+            "album"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "land",
+            "Indian Republic"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Bison",
+            "Western Plains"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fourth position",
+            "grid"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rest",
+            "Long Tail"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bork",
+            "ice cone"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "crescent",
+            "lunar disk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "text",
+            "document"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "place",
+            "historical memory"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "scene",
+            "movie"
+        ],
+        "label": 1
+    }
+]

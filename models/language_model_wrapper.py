@@ -1,8 +1,10 @@
 import string
 import torch
 from copy import deepcopy
+import os
+os.environ["HF_ENDPOINT"] = "https://hf-mirror.com"
 
-from transformers import AutoTokenizer, AutoModelForMaskedLM
+from transformers import AutoTokenizer, AutoModelForMaskedLM, AutoModel
 
 from data_utils.data_utils import stopwords, get_n_ents, get_sent, find_sublist
 
@@ -10,7 +12,6 @@ from data_utils.data_utils import stopwords, get_n_ents, get_sent, find_sublist
 class LanguageModelWrapper:
     def __init__(self, model_name):
         self._model_name = model_name
-
         self._tokenizer = AutoTokenizer.from_pretrained(model_name)
         self._model = AutoModelForMaskedLM.from_pretrained(model_name)
 

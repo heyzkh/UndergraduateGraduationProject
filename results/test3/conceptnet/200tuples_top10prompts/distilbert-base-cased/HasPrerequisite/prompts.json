@@ -1,0 +1,34 @@
+[
+    [
+        "In order to <ENT0>, one must first <ENT1> .",
+        0.20411098390120205
+    ],
+    [
+        "If someone wants to <ENT0>, they need to first <ENT1> .",
+        0.1485947293159585
+    ],
+    [
+        "If someone wants to <ENT0>, they need to <ENT1> first .",
+        0.1473002959307399
+    ],
+    [
+        "If someone wants to <ENT0>, they need to <ENT1> to appear before them first .",
+        0.14375250499554926
+    ],
+    [
+        "If you want to <ENT0>, you have to <ENT1> .",
+        0.12848374439024482
+    ],
+    [
+        "If someone wants to <ENT0>, they need to <ENT1> from the list of potential witnesses first .",
+        0.08322045811457363
+    ],
+    [
+        "The <ENT0>is cannot begin until the thinker has typed out their <ENT1>s on the keyboard .",
+        0.0780428617690052
+    ],
+    [
+        "Before someone can start <ENT0>, they need to <ENT1> on the keyboard .",
+        0.06649442158272677
+    ]
+]

@@ -1,0 +1,42 @@
+[
+    [
+        "Instead of \"<ENT0>\" you could say \"<ENT1>\" .",
+        0.16033254443008996
+    ],
+    [
+        "<ENT0> is the study of <ENT1> .",
+        0.10754261999639014
+    ],
+    [
+        "<ENT1> is a more accurate term for <ENT0> .",
+        0.10653080277841843
+    ],
+    [
+        "<ENT1> is a more explanatory version of <ENT0> .",
+        0.09737168940111916
+    ],
+    [
+        "<ENT1> can provide a more detailed and nuanced understanding of <ENT0> .",
+        0.09351359508665315
+    ],
+    [
+        "<ENT1> is a more specific way to describe <ENT0> .",
+        0.09115548571613755
+    ],
+    [
+        "The <ENT0> is the <ENT1> to the room .",
+        0.08945953085451928
+    ],
+    [
+        "<ENT1> is better at explaining what <ENT0> is .",
+        0.08770879055410587
+    ],
+    [
+        "<ENT1> is better able to explain the phenomenon of <ENT0> .",
+        0.08651647285023815
+    ],
+    [
+        "<ENT1> = <ENT0> .",
+        0.07986846833232819
+    ]
+]

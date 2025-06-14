@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "ice cream",
+            "freezer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "credit card",
+            "bank"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "washing machine",
+            "basement"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "laundry basket",
+            "basement"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "petri dish",
+            "kitchen"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stop sign",
+            "right"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tool rack",
+            "basement"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Smart Contract",
+            "cloud"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tackle box",
+            "basement"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "book",
+            "library"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lanyard",
+            "tree"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kite",
+            "beach"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "camera",
+            "right"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "compass",
+            "map"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "study desk",
+            "basement"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "key",
+            "box"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "phone",
+            "box"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mouse",
+            "box"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wallet",
+            "bank"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Reception Desk",
+            "basement"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "thermostat",
+            "refrigerator"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "librarian",
+            "library"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Closet",
+            "basement"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pen",
+            "table"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "calculator",
+            "table"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "calculator",
+            "table"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fish",
+            "aquarium"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "box",
+            "basement"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "passport",
+            "box"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "toolbox",
+            "library"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "backpack",
+            "box"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bicycle",
+            "garage"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "newspaper",
+            "basement"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "smartphone",
+            "cloud"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "printer",
+            "box"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nest",
+            "tree"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tree",
+            "forest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "document",
+            "file"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "suitcase",
+            "basement"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "milk",
+            "fridge"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blog",
+            "sidebar"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "sandcastle",
+            "beach"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "toaster",
+            "oven"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "card",
+            "table"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Pencil",
+            "box"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rock",
+            "basement"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Hose",
+            "basement"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "jacket",
+            "hood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bird",
+            "tree"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "flashlight",
+            "hood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "apple",
+            "tree"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "airplane",
+            "airport"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "boat",
+            "beach"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sunscreen",
+            "beach"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sunburn",
+            "beach"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Sock",
+            "box"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "squirrel",
+            "tree"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "letter",
+            "box"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lawnmower",
+            "basement"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "clock",
+            "box"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dustbin",
+            "basement"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mirror",
+            "bathroom"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "plate",
+            "table"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "gift",
+            "box"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "compass rose",
+            "tree"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "study carrel",
+            "tree"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "anchor",
+            "beach"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "elephant",
+            "zoo"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "basketball",
+            "gym"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "badge",
+            "box"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "flower",
+            "tree"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "submarine",
+            "basement"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "ladder",
+            "basement"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hand",
+            "table"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cup",
+            "bottom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "umbrella",
+            "beach"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "painting",
+            "gallery"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "painting",
+            "gallery"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "lamp",
+            "box"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "toy",
+            "box"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "frog",
+            "tree"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "blender",
+            "kitchen"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "website",
+            "url"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "spider",
+            "tree"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "furnace",
+            "basement"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "scarf",
+            "hood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "scarf",
+            "hood"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "butter",
+            "refrigerator"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rainbow",
+            "tree"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "lightning",
+            "sun"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Teller",
+            "bank"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "needle",
+            "box"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "glove",
+            "box"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "spoon",
+            "kitchen"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "microscope",
+            "library"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "typist",
+            "library"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hook",
+            "box"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "user",
+            "app"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Fisherman",
+            "beach"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Hammal",
+            "beach"
+        ],
+        "label": 0
+    }
+]

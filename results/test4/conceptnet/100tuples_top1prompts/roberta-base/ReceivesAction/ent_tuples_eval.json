@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "data sets",
+            "combined"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "data sets",
+            "combined"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "source code",
+            "compiled"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "source code",
+            "compiled"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "problem",
+            "solved"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "problem",
+            "solved"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Software Update",
+            "applied"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "class",
+            "used"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "procedure",
+            "performed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "results",
+            "replicated"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "result",
+            "verified"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "system",
+            "used"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "package",
+            "modified"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "package",
+            "modified"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "extracted"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "extracted"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "extracted"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "extracted"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "extracted"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "extracted"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "extracted"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "data",
+            "extracted"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "script",
+            "run"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "software",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "paint and primer",
+            "mixed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tool",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tool",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tool",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tool",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "issue",
+            "fixed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "issue",
+            "fixed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "concept",
+            "implemented"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "performance",
+            "improved"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "performance",
+            "improved"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "performance",
+            "improved"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "performance",
+            "improved"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "performance",
+            "improved"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "The Bill",
+            "passed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "experiment",
+            "replicated"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "contract",
+            "extended"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "policy",
+            "implemented"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "policy",
+            "implemented"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "policy",
+            "implemented"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "policy",
+            "implemented"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "policy",
+            "implemented"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "policy",
+            "implemented"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "policy",
+            "implemented"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "policy",
+            "implemented"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "policy",
+            "implemented"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "policy",
+            "implemented"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "window",
+            "closed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "book",
+            "read"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "schedule",
+            "adjusted"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "document",
+            "parsed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "document",
+            "parsed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "document",
+            "parsed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "document",
+            "parsed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "document",
+            "parsed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "document",
+            "parsed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "document",
+            "parsed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "document",
+            "parsed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "document",
+            "parsed"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "keyboard",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "car",
+            "driven"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "car",
+            "driven"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "challenge",
+            "completed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mistake",
+            "fixed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pressure",
+            "maintained"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pressure",
+            "maintained"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "battery",
+            "drained"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "exam",
+            "passed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bill",
+            "passed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bill",
+            "passed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bill",
+            "passed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "struct",
+            "used"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "person",
+            "trusted"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "person",
+            "trusted"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "person",
+            "trusted"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "person",
+            "trusted"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Homework",
+            "done"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Homework",
+            "done"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Confrontation",
+            "avoided"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "permission",
+            "revoked"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "materials",
+            "used"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "poem",
+            "rewritten"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "salary",
+            "calculated"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "opponent",
+            "beaten"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "track",
+            "improved"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "essay",
+            "rewritten"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "essay",
+            "rewritten"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "here’s a head entity that satisfies the \"receivesaction\" relation with the tail entity \"used\":  \n\n**tool**",
+            "found"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stain",
+            "removed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stain",
+            "removed"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "artwork",
+            "reproduced"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "treasure",
+            "recovered"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "treasure",
+            "recovered"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "treasure",
+            "recovered"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "treasure",
+            "recovered"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "treasure",
+            "recovered"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "colleague",
+            "trusted"
+        ],
+        "label": 0
+    }
+]

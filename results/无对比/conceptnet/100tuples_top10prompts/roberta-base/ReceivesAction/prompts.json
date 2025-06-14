@@ -1,0 +1,26 @@
+[
+    [
+        "The <ENT0> can be <ENT1> .",
+        0.23436183023390514
+    ],
+    [
+        "This is a test to see if the <ENT0> can be <ENT1> .",
+        0.23079124680587534
+    ],
+    [
+        "The <ENT0> can be <ENT1> in order to assess their effectiveness and compliance .",
+        0.16285374274308367
+    ],
+    [
+        "<ENT0> can be <ENT1> to see if they are effective .",
+        0.1593366417407337
+    ],
+    [
+        "<ENT0> can be <ENT1> in a variety of colors .",
+        0.1350475738797239
+    ],
+    [
+        "The <ENT0> can be <ENT1> to the color that you want .",
+        0.07760896459667824
+    ]
+]

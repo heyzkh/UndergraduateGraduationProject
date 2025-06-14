@@ -1,0 +1,695 @@
+[
+    {
+        "entity_tuple": [
+            "cognitive behavioral therapy",
+            "psychologist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handmade soap",
+            "artisan"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bread",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handmade pottery",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "artisan chocolate",
+            "artisan baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mobile application",
+            "developer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "comic book",
+            "creator"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "software",
+            "programmer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Stage Play",
+            "director"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Personality Assessment Tool",
+            "Psychologist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "music",
+            "composer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "beer",
+            "brewer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handcrafted wooden toy",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handcrafted origami",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cheese",
+            "chef"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "casserole",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pizza",
+            "chef"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Handmade Candle",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handcrafted jewelry",
+            "artisan"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handcrafted furniture",
+            "artisan"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handcrafted leather wallet",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "quiche",
+            "chef"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handcrafted necklace",
+            "artisan"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "film",
+            "director"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handcrafted quilt",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "chocolate",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Poem",
+            "Poet"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cake",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handcrafted flute",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pasta",
+            "chef"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stew",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handcrafted vase",
+            "artisan"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handcrafted harmonica",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handcrafted tapestry",
+            "artisan"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handcrafted guitar",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handcrafted clock",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "opera",
+            "composer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "coal",
+            "miner"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "handcrafted basket",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handcrafted knife",
+            "artisan"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handcrafted violin",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handcrafted violin",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handcrafted lantern",
+            "artisan"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handcrafted sword",
+            "smith"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handcrafted ukulele",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handcrafted doll",
+            "artisan"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handcrafted kite",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handcrafted drum",
+            "drummer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handcrafted rug",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handcrafted lamp",
+            "artisan"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "furniture",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pottery",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "painting",
+            "painter"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Handcrafted Puzzle",
+            "Master"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sauce",
+            "chef"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handcrafted mosaic",
+            "artisan"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "smoothie",
+            "blender"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Sculpture",
+            "Artist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Dessert",
+            "Chef"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nanocomposite",
+            "nan nano"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "symphony",
+            "composer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handcrafted mask",
+            "artisan"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "teapot",
+            "maker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "play",
+            "producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Hologram",
+            "creator"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handcrafted comic book",
+            "creator"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handcrafted book",
+            "writer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "algorithm",
+            "programmer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "croissant",
+            "chef"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handcrafted watch",
+            "artisan"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cookie",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "screenplay",
+            "writer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sushi",
+            "chef"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handbag",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "universe",
+            "creator"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Perfume",
+            "producer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "songbook",
+            "writer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nanomaterial",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "illusion",
+            "magician"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "robot",
+            "creator"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "documentary",
+            "Filmmaker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Baguette",
+            "chef"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sandwich",
+            "chef"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handcrafted shield",
+            "smithsmith"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pastry",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pastry",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "candle",
+            "candlemaker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "batter",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dialectic",
+            "compiler"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "essay",
+            "writer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "vaccine",
+            "scientist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nanobot",
+            "creator"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "cosmos",
+            "creator"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "handcrafted apron",
+            "pronpron"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "gopherhole",
+            "hacker"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "handcrafted hat",
+            "Hathat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Automobile",
+            "designer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "microscope",
+            "scientist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "speakerbox",
+            "producer"
+        ],
+        "label": 1
+    }
+]

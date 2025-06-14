@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "Speech Therapy Tool",
+            "Speech Talk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Fishing Net",
+            "fish fishing"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "nail clipper",
+            "nail work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bee venom",
+            "sting"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "programming language framework",
+            "code"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Greeting",
+            "Greet Greeting"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Greeting",
+            "Greet Greeting"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "fermentation agent",
+            "ferment fermentation"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "language learning",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "language learning",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "language learning",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "kite",
+            "fly"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "aloe vera",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "writing utensil",
+            "write"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kite",
+            "flight"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "speedometer",
+            "speed travel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "plow",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "windmill",
+            "wind work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hammer",
+            "hammer work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hammer",
+            "hammer work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hammer",
+            "hammer work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hammer",
+            "hammer work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "firecracker",
+            "burn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "firecracker",
+            "burn"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "foot",
+            "walk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rudder",
+            "sail"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "backpack",
+            "travel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "kite",
+            "flying"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "singing practice",
+            "sing worship"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "singing practice",
+            "sing worship"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "parachute",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "parachute",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "violin",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "violin",
+            "play"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "watercraft",
+            "travel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "watercraft",
+            "travel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "incense holder",
+            "worship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "incense holder",
+            "worship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ladder",
+            "climb"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "ladder",
+            "climb"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "tail",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tail",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "tail",
+            "fly"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "programming language",
+            "code"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "computer",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "pillow",
+            "sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "fermenting",
+            "ferment fermentation"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "bicycle",
+            "transport"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Nail",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Passport",
+            "travel"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Celebrating Lunar New Year",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bread",
+            "bread eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "door",
+            "escape"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "container",
+            "transport"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "container",
+            "transport"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "container",
+            "transport"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "knife",
+            "fight"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stir-fry",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "incense",
+            "worship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "incense",
+            "worship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "incense",
+            "worship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Altar",
+            "worship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Altar",
+            "worship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Altar",
+            "worship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Altar",
+            "worship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sandwich",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sandwich",
+            "eat"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "dolly",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "string",
+            "function"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "keycard",
+            "travel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Teeth",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "painting",
+            "work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "mouthwash",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "detergent",
+            "clean"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "document",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hanger",
+            "Hang Sleep"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Vinegar",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Vinegar",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Vinegar",
+            "cook"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "rifle",
+            "hunting"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Bookmark",
+            "travel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "music",
+            "worship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "music",
+            "worship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "music",
+            "worship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "music",
+            "worship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "music",
+            "worship"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "meditation",
+            "rest"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "razor",
+            "work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "wong correction method",
+            "function"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "comb",
+            "comb work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "comb",
+            "comb work"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "comb",
+            "comb work"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "wax",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "shoes",
+            "walk"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "**candy**",
+            "play"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "beverage",
+            "drink"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "**Tail**",
+            "travel"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Headphones",
+            "sleep"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "**Bowl**",
+            "play"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "**Bowl**",
+            "play"
+        ],
+        "label": 0
+    }
+]

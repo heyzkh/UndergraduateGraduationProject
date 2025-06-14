@@ -1,0 +1,18 @@
+[
+    [
+        "<ENT1> is what every <ENT0> desires .",
+        0.12793053591095616
+    ],
+    [
+        "Every <ENT0> wants to mate in order to <ENT1> .",
+        0.12747940436935443
+    ],
+    [
+        "<ENT1> is something that every <ENT0> desires .",
+        0.12735140713240414
+    ],
+    [
+        "<ENT0> desire to <ENT1> .",
+        0.11365412030853855
+    ]
+]

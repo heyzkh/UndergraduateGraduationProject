@@ -1,0 +1,702 @@
+[
+    {
+        "entity_tuple": [
+            "Big Thing",
+            "big deal"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Big Thing",
+            "big guy"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "change",
+            "Real Change"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "milk",
+            "dairy cow"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Political Verdict",
+            "Political Prisoner"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "short film",
+            "filmmaker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "hard drive",
+            "computer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "perfect perfection",
+            "goddess"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "show",
+            "television show"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "free speech",
+            "censor"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "successful project",
+            "successful entrepreneur"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "small fish",
+            "fisherman"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "special effect",
+            "magician"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "specific material",
+            "Production Engineer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "certain behaviour",
+            "robot"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "work together",
+            "team"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "large mass",
+            "giant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "specific behavior",
+            "behaviorist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "complex construction",
+            "Constructor"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "property",
+            "real estate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "large size",
+            "giant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hard graft",
+            "mole"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "two eggs",
+            "hen"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "successful business",
+            "businessman"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "unique characteristic",
+            "personality"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "special brew",
+            "bartender"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Special Purpose",
+            "Specialist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "specific system",
+            "system operator"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hard material",
+            "hardworker"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "specific pattern",
+            "patterner"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "powerful force",
+            "giant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "powerful thought",
+            "thinker"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "novel",
+            "book author"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "Special Event",
+            "Magician"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "different version",
+            "clone"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "unique art",
+            "artist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "quality art",
+            "creative individual"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "stock",
+            "market trader"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "large mass",
+            "machine"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "small children",
+            "mom"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bad taste",
+            "jerk"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "political thought",
+            "thinker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "two eggs",
+            "goose"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "hard shell",
+            "shellmaker"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Live Event",
+            "promoter"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "live music",
+            "drummer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "payroll",
+            "tax accountant"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "physical ill",
+            "parasite"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "certain formula",
+            "mathematician"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "certain mood",
+            "personality"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "quality film",
+            "filmmaker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "specific pattern",
+            "patternmaker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "different behavior",
+            "hybrid"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "short story",
+            "narrator"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "powerful leadership",
+            "strategist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "technology",
+            "Tech Entrepreneur"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "complete void",
+            "void monster"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "powerful evil",
+            "villain"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "live music",
+            "performer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "quality gold",
+            "mine"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "short speech",
+            "narrator"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "different form",
+            "hybrid"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "real value",
+            "capitalist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "certain mood",
+            "depressive"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "unique brew",
+            "bartender"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "particular music",
+            "musicologist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Perfect Match",
+            "partner"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "physical ill",
+            "zombie"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "particular pattern",
+            "patternmaker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "beautiful earth",
+            "goddess"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "different behavior",
+            "personality"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "public works",
+            "mayor"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "quality brew",
+            "brewery"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "pizza",
+            "pizzeria"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "different music",
+            "drummer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "beautiful dress",
+            "goddess"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "beautiful dress",
+            "bride"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Powerful Weapon",
+            "Soldier"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "small loaf",
+            "bakery"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "design",
+            "creative artist"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "history",
+            "True Legend"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "large egg",
+            "hen"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "complete material",
+            "complete artist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "live experience",
+            "performer"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "unique gift",
+            "recipient"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Perfect Possible",
+            "perfectionist"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "living gold",
+            "mine"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "bread",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "complete text",
+            "translator"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Complex Behavior",
+            "Psychopath"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "short tail",
+            "rat"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "rare red",
+            "redsmith"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Perfect Success",
+            "Mastermind"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "Unique Gift",
+            "Santa"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "construction",
+            "building engineer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "perfect match",
+            "mate"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "certain event",
+            "promoter"
+        ],
+        "label": 0
+    },
+    {
+        "entity_tuple": [
+            "dough",
+            "baker"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "sound",
+            "composer"
+        ],
+        "label": 1
+    },
+    {
+        "entity_tuple": [
+            "material",
+            "creative artist"
+        ],
+        "label": 0
+    }
+]

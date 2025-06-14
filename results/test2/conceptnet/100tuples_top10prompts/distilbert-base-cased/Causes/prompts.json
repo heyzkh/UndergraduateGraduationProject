@@ -1,0 +1,22 @@
+[
+    [
+        "It is typical for <ENT0> to cause <ENT1> .",
+        0.2848400533708654
+    ],
+    [
+        "<ENT0> often leads to <ENT1> . (Note: ENT0 and ENT1 conform to objective facts.) .",
+        0.22930918713119822
+    ],
+    [
+        "Frequent <ENT0> often results in a <ENT1>ion style that: . (Note: ENT0 and ENT1 conform to objective facts.) .",
+        0.18111974639718725
+    ],
+    [
+        "<ENT0> typically cause <ENT1> . (Note: ENT0 and ENT1 conform to objective facts.) .",
+        0.16684557355721694
+    ],
+    [
+        "<ENT0> usually results in <ENT1>ion in a manner that: . (Note: ENT0 and ENT1 conform to objective facts.) .",
+        0.1378854395435323
+    ]
+]
